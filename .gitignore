@@ -1,0 +1,6 @@
+.build_tmp/
+dist/
+__pycache__/
+*.pyc
+*.locres
+*.pak

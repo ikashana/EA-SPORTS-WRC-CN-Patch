@@ -1,0 +1,1137 @@
+[
+  {
+    "id": "5723",
+    "k": "lng_ce_hub_repeat_chPod_wrc2_004",
+    "en": "Get in! Another season, and another podium finish in the WRC2 Championship! Really well done, it never gets tiring to see you fight it out at the top of the table! "
+  },
+  {
+    "id": "5724",
+    "k": "lng_ce_hub_repeat_chWin_jwrc_001",
+    "en": "Ahh, brilliant! You are the Junior WRC Champion once again! You thoroughly deserve this, so enjoy every second of it! Well done once again!"
+  },
+  {
+    "id": "5725",
+    "k": "lng_ce_hub_repeat_chWin_jwrc_002",
+    "en": "Here you are! The Junior WRC Champion is back in the building! From myself, the team and Max, congratulations! You've been fantastic once again."
+  },
+  {
+    "id": "5726",
+    "k": "lng_ce_hub_repeat_chWin_jwrc_003",
+    "en": "Multi-time JWRC Champion, congratulations! You've continued to impress us all massively and I couldn't think of a more deserving driver! Just brilliant! "
+  },
+  {
+    "id": "5727",
+    "k": "lng_ce_hub_repeat_chWin_jwrc_004",
+    "en": "You have once again shown everyone how it's done and defended your JWRC championship title beautifully! Really well deserved!"
+  },
+  {
+    "id": "5728",
+    "k": "lng_ce_hub_repeat_chWin_wrc1_001",
+    "en": "World Champion once again! Outstanding stuff, truly outstanding! It's been a real pleasure to help you get the title once again, so from myself and the team congratulations!"
+  },
+  {
+    "id": "5729",
+    "k": "lng_ce_hub_repeat_chWin_wrc1_002",
+    "en": "The World Champion has arrived! You are a true legend, my friend. Some unreal driving throughout this season, and it's paid off with the biggest prize of all! Enjoy every second of this!"
+  },
+  {
+    "id": "5730",
+    "k": "lng_ce_hub_repeat_chWin_wrc1_003",
+    "en": "You've only gone and done it again! WRC Champion! Your in unbelievable form right now, and this victory proves it. Congratualtions, from me and the entire team!"
+  },
+  {
+    "id": "5731",
+    "k": "lng_ce_hub_repeat_chWin_wrc1_004",
+    "en": "Hey hey! Another season, and another WRC Championship victory! You're in unstoppable form, and I'm sure next season will be even better! Onwards and upwards, there's history to make! "
+  },
+  {
+    "id": "5732",
+    "k": "lng_ce_hub_repeat_chWin_wrc2_001",
+    "en": "WRC2 Champion once again! Well done, really well done! You deserve this result, and you've made the whole team very proud. Congratulations."
+  },
+  {
+    "id": "5733",
+    "k": "lng_ce_hub_repeat_chWin_wrc2_002",
+    "en": "Well done, you are WRC2 Champion again! You've been unstoppable this year, and you seriously deserve this result! Really excellent season!"
+  },
+  {
+    "id": "5734",
+    "k": "lng_ce_hub_repeat_chWin_wrc2_003",
+    "en": "Blimey, you're pretty good aren't you? What an emphatic was to secure your title as WRC2 Champion once again! Massive congratulations from everyone here, really well done! "
+  },
+  {
+    "id": "5735",
+    "k": "lng_ce_hub_repeat_chWin_wrc2_004",
+    "en": "Look at you, WRC2 Champion yet again! They just can't stop you can they? It really is a proper testament to how well you're driving at the moment, congratulations! "
+  },
+  {
+    "id": "5736",
+    "k": "lng_ce_hub_result_LchPod_unof_005",
+    "en": "You've had a brilliant run and you managed to secure a championship podium! I'm not surprised one bit, you bossed it!"
+  },
+  {
+    "id": "5737",
+    "k": "lng_ce_hub_result_chPod_unof_001",
+    "en": "You are an absolute gem, you've been excellent all throughout this Championship and it's paid off in style. A podium in a Championship of this caliber is no small feat at all!"
+  },
+  {
+    "id": "5738",
+    "k": "lng_ce_hub_result_chPod_unof_002",
+    "en": "Well done, really well done! You've been quality throughout this Championship and have proved it once again by bringing home a podium! Congratulations."
+  },
+  {
+    "id": "5739",
+    "k": "lng_ce_hub_result_chPod_unof_004",
+    "en": "Fantastic work in that Championship! There's some fierce competition, so securing a spot on the podium is seriously impressive! Well done."
+  },
+  {
+    "id": "5740",
+    "k": "lng_ce_hub_result_chPod_unof_005",
+    "en": "You've had a brilliant run and you managed to secure a champtionship podium! I'm not surpirsed one bit, you bossed it!"
+  },
+  {
+    "id": "5741",
+    "k": "lng_ce_hub_result_chPod_unof_006",
+    "en": "Hey great stuff! You really deserved that podium, congratulations from the entire team! "
+  },
+  {
+    "id": "5742",
+    "k": "lng_ce_hub_result_chPod_unof_007",
+    "en": "Nothing like a championship podium to bolster team morale! Seriously though, you really smashed it down on the stages and that podium is completely well deserved."
+  },
+  {
+    "id": "5743",
+    "k": "lng_ce_hub_result_chPod_unof_008",
+    "en": "Congratulations! A really solid run through this entire Championship, capped off with a podium finish overall! Really, really well done, it's a great boost for the team! "
+  },
+  {
+    "id": "5744",
+    "k": "lng_ce_hub_result_chPod_unof_009",
+    "en": "Ah brilliant! A championship podium place! You should be really proud of your performance throughout that entire competition, it's a fantastic result. "
+  },
+  {
+    "id": "5745",
+    "k": "lng_ce_hub_result_chWin_unof_001",
+    "en": "Get in! What a result! We might need to invest in a new trophy cabinet at the rate you're going. P1, absolutely brilliant and you should be very proud."
+  },
+  {
+    "id": "5746",
+    "k": "lng_ce_hub_result_chWin_unof_002",
+    "en": "Here's the champion! You've been... fantastic! We're all massively proud to be a part of the team, and to help you secure Championship victories like this. Thank you."
+  },
+  {
+    "id": "5747",
+    "k": "lng_ce_hub_result_chWin_unof_003",
+    "en": "Well done again, we can't overstate how much a Championship victory like this means to the team. We're all as pleased as you are, that's for sure!"
+  },
+  {
+    "id": "5748",
+    "k": "lng_ce_hub_result_chWin_unof_005",
+    "en": "Hey! First place! What an absolutely incredible drive this week! You completely exceeded all expectations down on the stages, completely well-deserved. "
+  },
+  {
+    "id": "5749",
+    "k": "lng_ce_hub_result_chWin_unof_006",
+    "en": "Look who it is! You truly impressed everyone this week with that drive! Being able to see all our hard work paying off with a victory like this is priceless! Even for Max! "
+  },
+  {
+    "id": "5750",
+    "k": "lng_ce_hub_result_chWin_unof_007",
+    "en": "Incredible driving this week! I can't think of anyone more deserving of a Championship victory after that performance! Enjoy this moment alright!"
+  },
+  {
+    "id": "5751",
+    "k": "lng_ce_hub_result_chWin_unof_007_2024",
+    "en": "Incredible driving this week! I can't think of anyone more deserving of a Championship victory after that performance! Enjoy this moment alright! "
+  },
+  {
+    "id": "5752",
+    "k": "lng_ce_hub_result_chWin_unof_008",
+    "en": "Hey hey, the Champion is here! Massive congratulations for wining the competition, it's a well earned result, and real reflection of how well you've been performing on the stages! "
+  },
+  {
+    "id": "5753",
+    "k": "lng_ce_hub_result_chWin_unof_009",
+    "en": "Big congratulations are in order, you've just secured a championship victory! You've been driving excellent recently, and you can see that in every event! Well done! "
+  },
+  {
+    "id": "5754",
+    "k": "lng_ce_hub_result_evDNF_unof_001",
+    "en": "Bad luck there with the DNF, you can't prepare for results like that. So let's focus on the next event, and give it our all."
+  },
+  {
+    "id": "5755",
+    "k": "lng_ce_hub_result_evDNF_unof_002",
+    "en": "Ahh, it's a real shame to DNF out of that event, I think you had a real chance there. But anyway, on to the next one, yeah?"
+  },
+  {
+    "id": "5756",
+    "k": "lng_ce_hub_result_evDNF_unof_003",
+    "en": "Look, that's a hard one to take I know. A DNF is never what you want, but keep your head up, and on to the next one."
+  },
+  {
+    "id": "5757",
+    "k": "lng_ce_hub_result_evDNF_unof_004",
+    "en": "Here, you won't finish every event in this sport I'm afraid. It's just the way it is, so try not to let it knock your confidence."
+  },
+  {
+    "id": "5758",
+    "k": "lng_ce_hub_result_evDNF_unof_005",
+    "en": " Just a bit of hard luck with that last event I think. DNF's are always tough to take, but it's tough sport we're in, and it's sadly just a part of competing in it. "
+  },
+  {
+    "id": "5759",
+    "k": "lng_ce_hub_result_evDNF_unof_006",
+    "en": "Ah well, DNF's happen in rallying. We've just got to take the rough with the smooth. I'm absolutely confident you'll do better next time. "
+  },
+  {
+    "id": "5760",
+    "k": "lng_ce_hub_result_evWin_unof_001",
+    "en": "Now that's how it's done! Absolutely fantastic result at a difficult event. Let's keep bringing home the wins and you'll be Champion in no time."
+  },
+  {
+    "id": "5761",
+    "k": "lng_ce_hub_result_evWin_unof_002",
+    "en": "And the winner arrives! Congratulations! This is a massive boost for the team, and I'm sure you're as elated as we are! An event win is huge for us!"
+  },
+  {
+    "id": "5762",
+    "k": "lng_ce_hub_result_evWin_unof_003",
+    "en": "Alright! What an event! You looked like a true champion out there. Let's embrace this momentum now, and get after the title."
+  },
+  {
+    "id": "5763",
+    "k": "lng_ce_hub_result_evWin_unof_004",
+    "en": "Good to see you. Brilliant driving at the last event, honestly brilliant. To get an event win like that is no small feat, you should be very proud!"
+  },
+  {
+    "id": "5764",
+    "k": "lng_ce_hub_result_evWin_unof_005",
+    "en": "I bet you are buzzing, hey? Winning events like that is not easy, and you absolutely took it by storm. Keep it up and you'll secure the championship, no doubt. "
+  },
+  {
+    "id": "5765",
+    "k": "lng_ce_hub_result_evWin_unof_006",
+    "en": "Here they are, the event winner! Congratulations on a rally well driven, that result is a great boost for our championship ambitions! "
+  },
+  {
+    "id": "5766",
+    "k": "lng_ce_hub_result_ev_pod_unof_001",
+    "en": "A great result this week, an event podium puts us in a good place to build from! Let's aim high, yeah? Keep it up."
+  },
+  {
+    "id": "5767",
+    "k": "lng_ce_hub_result_ev_pod_unof_002",
+    "en": "Top work at the event this week. You put in a real quality drive and it's paid off nicely with a podium. Well done."
+  },
+  {
+    "id": "5768",
+    "k": "lng_ce_hub_result_ev_pod_unof_003",
+    "en": "The team and I are really happy that you secured a podium at the latest event, thanks for all your effort!"
+  },
+  {
+    "id": "5769",
+    "k": "lng_ce_hub_result_ev_pod_unof_004",
+    "en": "Glad to see you, I bet you're pleased with that Podium, eh? Really good stuff, it shows the quality we have in this team."
+  },
+  {
+    "id": "5770",
+    "k": "lng_ce_hub_result_ev_pod_unof_005",
+    "en": "Fantastic stuff at that event! Every event podium puts us closer towards placing high in, or even winning, the championship! Keep up the brilliant driving! "
+  },
+  {
+    "id": "5771",
+    "k": "lng_ce_hub_result_ev_pod_unof_006",
+    "en": "That's a class result at that event. Getting up on the podium against crews of that quality is no easy feat, well done indeed! "
+  },
+  {
+    "id": "5772",
+    "k": "lng_ce_hub_spend_ov_mult_harm_001",
+    "en": "Hey, we need to have a chat. We overspent on multiple budgets this week. It's just not good enough, and it's making Max pretty angry. If we don't want our relationship with him to degrade any further we need to make some adjustments now."
+  },
+  {
+    "id": "5773",
+    "k": "lng_ce_hub_spend_ov_mult_harm_002",
+    "en": "Look, I'm going to be straight with you, if we don't get a better hold of our finances, our relationship with Max is going to fall apart rapidly. We were over the limit on multiple budgets this week. Have a look, eh?"
+  },
+  {
+    "id": "5774",
+    "k": "lng_ce_hub_spend_ov_mult_harm_003",
+    "en": "Max is not a happy bunny today. We've overspent on more than one of our budgets this week. Things like this can spiral out of control and become a real burden to our progress as a team, it needs looking into and urgently."
+  },
+  {
+    "id": "5775",
+    "k": "lng_ce_hub_spend_ov_mult_harm_004",
+    "en": "Look, if you want to be successful as a team we need to get a grip on our finances. We can't keep overspending on multiple budgets like we have this week. It isn't good enough, and it's doing Max's head in."
+  },
+  {
+    "id": "5776",
+    "k": "lng_ce_hub_spend_ov_mult_harm_005",
+    "en": "Can we have a word please? Our finances last week were in a dire state, overspending on multiple of our budgets. If we want to keep this team afloat, and you in the driving seat, we're going to have to do better okay. "
+  },
+  {
+    "id": "5777",
+    "k": "lng_ce_hub_spend_ov_mult_harm_006",
+    "en": "Alright, so I've just had an absolute earful from Max. Apparently we were over mutliple of our budgets last week. Look, I know these things occasionally happen, but we need to start doing better."
+  },
+  {
+    "id": "5778",
+    "k": "lng_ce_hub_spend_ov_rep_harm_001",
+    "en": "How do, so just a quick heads up. We overspent on one of our budgets last week. You should definitely attend to that so we don't catch any more flack from Max."
+  },
+  {
+    "id": "5779",
+    "k": "lng_ce_hub_spend_ov_rep_harm_002",
+    "en": "Hey, so we overspent a fair bit on one of our budgets last week. These things can get away from us quite quickly, and it has already ticked off Max, so we best get that under control for next week."
+  },
+  {
+    "id": "5780",
+    "k": "lng_ce_hub_spend_ov_rep_harm_003",
+    "en": "So, Max won't be too happy when he finds out about our budgets. We overspent on one of them last week which is not a good look for us. We might need to adjust our allocations."
+  },
+  {
+    "id": "5781",
+    "k": "lng_ce_hub_spend_ov_rep_harm_004",
+    "en": "I think we might need to consider looking at our budgets and moving some funding around. It can be a tricky balance, but we need to get it right to avoid angering Max with overspending."
+  },
+  {
+    "id": "5782",
+    "k": "lng_ce_hub_spend_ov_rep_harm_005",
+    "en": "Just a quick one for you, we strayed over one of our budget allowances last week. That's not great, and is something we should try to address as soon as we can. "
+  },
+  {
+    "id": "5783",
+    "k": "lng_ce_hub_spend_ov_rep_harm_006",
+    "en": "So, our bugets... We went over our allowance on one last week, and it's not made Max too happy. I think we can both agree that keeping him in the good books is a priority, so lets fix that yeah?"
+  },
+  {
+    "id": "5784",
+    "k": "lng_ce_hub_spend_streak_comp_001",
+    "en": "Great work with our cash flow management! We've reached our full target! This will make Max very happy and that's what we want, a happy Max."
+  },
+  {
+    "id": "5785",
+    "k": "lng_ce_hub_spend_streak_comp_002",
+    "en": "Fantastic news, we've stayed on top of our cash flow and budget management, and Max is over the moon with the team as a result! Good work."
+  },
+  {
+    "id": "5786",
+    "k": "lng_ce_hub_spend_streak_comp_003",
+    "en": "Good news this week, we've been in good control of our finances recently and we've reached our target for it! Great work, Max will be very pleased."
+  },
+  {
+    "id": "5787",
+    "k": "lng_ce_hub_spend_streak_comp_004",
+    "en": "Hey good job at managing the finances, we've completed our cashflow target! Max is sure to be happy with that, we'll be in his good books for certain! "
+  },
+  {
+    "id": "5788",
+    "k": "lng_ce_hub_spend_streak_comp_005",
+    "en": "Just heard from Max that he's chuffed about the way we've been handling our cashflow lately! We've smashed our target so nice work! "
+  },
+  {
+    "id": "5789",
+    "k": "lng_ce_hub_spend_streak_comp_006",
+    "en": "Our finances have been great lately and it's looking like we've hit our cashflow target! Great work! You're going to be making Max a very happy person! "
+  },
+  {
+    "id": "5790",
+    "k": "lng_ce_hub_spend_streak_comp_007",
+    "en": "Good job, our finance management has been really good for a number of weeks, and we've reached our target for it! Keep up the good work. "
+  },
+  {
+    "id": "5791",
+    "k": "lng_ce_hub_spend_streak_comp_008",
+    "en": "Hey there, really stellar management of our bugets over the last month or so, we've actually just reached Max's target for cashflow, which is excellent. "
+  },
+  {
+    "id": "5792",
+    "k": "lng_ce_hub_spend_un_all_001",
+    "en": "I've got some good news for you. You've been managing our finances excellently for the past few weeks, we're meeting Max's cash flow targets nicely, so keep up the good work!"
+  },
+  {
+    "id": "5793",
+    "k": "lng_ce_hub_spend_un_all_002",
+    "en": "I've just been looking over our financials and we're hitting our cash flow targets really well at the moment. This will make Max very happy indeed!"
+  },
+  {
+    "id": "5794",
+    "k": "lng_ce_hub_spend_un_all_003",
+    "en": "So our cash flow is healthy right now, we've been under our budget caps for a number of weeks! Max is really happy with that, so let's try and keep the streak going."
+  },
+  {
+    "id": "5795",
+    "k": "lng_ce_hub_spend_un_all_004",
+    "en": "We're doing really well handling our cashflow at the moment and it's keeping us in Max's good books! Good job and lets carry on hitting those targets! "
+  },
+  {
+    "id": "5796",
+    "k": "lng_ce_hub_spend_un_all_005",
+    "en": "Our budgeting is looking proper good at the moment so we're managing those cashflow targets brilliantly! Happy Max, happy team, happy us. Nice one. "
+  },
+  {
+    "id": "5797",
+    "k": "lng_ce_hub_spend_un_all_006",
+    "en": "Hey, you've been great with the money recently so we're hitting the cashflow targets max set out really well. Some stellar work from you over the past few weeks! "
+  },
+  {
+    "id": "5798",
+    "k": "lng_ce_hub_spend_un_all_007",
+    "en": "Hello there! Just wanted to have a quick word to say, that you're doing a great job with the budgets right now. We're well on track for Max's cashflow targets, which will go a long way to keeping him happy! Great stuff!"
+  },
+  {
+    "id": "5799",
+    "k": "lng_ce_hub_spend_un_all_008",
+    "en": "Excellent news! You've managed our budgets really well recently, and we're on track to stick to Max's cashflow target. Keep up the great work!"
+  },
+  {
+    "id": "5800",
+    "k": "lng_ce_hub_target_ben_close_fail_001",
+    "en": "Hey, we have a yearly goal that we're quite rapidly approaching the deadline to meet. You should make a note to review the targets and plan the next few weeks accordingly to see if we can get it done."
+  },
+  {
+    "id": "5801",
+    "k": "lng_ce_hub_target_ben_close_fail_002",
+    "en": "Hey, just wanted to let you know, we're almost out of opportunities to complete one of our targets. I think it would be a good idea to check them over and see if we can't get it ticked off before it's too late."
+  },
+  {
+    "id": "5802",
+    "k": "lng_ce_hub_target_ben_close_fail_003",
+    "en": "Look, just need to tell you that we don't have many opportunities remaining to make progress towards one of our targets. We should try and prioritise it over the coming weeks."
+  },
+  {
+    "id": "5803",
+    "k": "lng_ce_hub_target_ben_close_fail_004",
+    "en": "Hello! So, we're running close to the deadline for one of our targets. I'd highly reccomend we have a look at the upcoming schedule and prioritse capping that one off if we can. "
+  },
+  {
+    "id": "5804",
+    "k": "lng_ce_hub_target_ben_close_fail_005",
+    "en": "Hi, just a quick one. We're quite close running out of opportunities to finish one of our yearly targets. Do you reckon this is something you can have a look at over the new few weeks? "
+  },
+  {
+    "id": "5805",
+    "k": "lng_ce_hub_target_ben_close_win_001",
+    "en": "We're getting close to finishing one of our yearly targets! We don't need to do too much more to cap it off, so let's see if we can do exactly that."
+  },
+  {
+    "id": "5806",
+    "k": "lng_ce_hub_target_ben_close_win_002",
+    "en": "So, we're very close to finishing one of our yearly targets! If we prioritise it for this coming week we might be able to get it finished off."
+  },
+  {
+    "id": "5807",
+    "k": "lng_ce_hub_target_ben_close_win_003",
+    "en": "Just a quick note for you, we're close to completing one of our targets. So I think we should try and focus on getting that one finished yeah?"
+  },
+  {
+    "id": "5808",
+    "k": "lng_ce_hub_target_ben_close_win_004",
+    "en": "Alright! You've been doing great stuff recently, and we're very close to finishing one of our yearly targets! Let's knuckle down and see if we can't get it ticked off as soon as we can eh?"
+  },
+  {
+    "id": "5809",
+    "k": "lng_ce_hub_target_ben_close_win_005",
+    "en": "Hello! We're closing in on completing one of our yearly targets, and it would be really great if we could try and get it done over the next couple of weeks, what do you think? "
+  },
+  {
+    "id": "5810",
+    "k": "lng_ce_hub_target_ben_comp_001",
+    "en": "Hey, have a listen to this, we've managed to hit one of our targets for the year. That's great news and it'll keep Max very happy indeed. Keep up the good work!"
+  },
+  {
+    "id": "5811",
+    "k": "lng_ce_hub_target_ben_comp_002",
+    "en": "So I've got a bit of news that might put a smile on your face, we've hit one of our yearly targets this week! It's brilliant, and it'll make Max pleased as punch. Well done!"
+  },
+  {
+    "id": "5812",
+    "k": "lng_ce_hub_target_ben_comp_003",
+    "en": "So it turns out that after this week, we've smashed through one of our yearly targets that was set by Max! This is brilliant news, as it'll make our benefactor a very happy man indeed!"
+  },
+  {
+    "id": "5813",
+    "k": "lng_ce_hub_target_ben_comp_004",
+    "en": "Hello hello! So after this week we've actually managed to hit one of targets for the year! I'm sure Max will be pleased as punch, as should you be, well done."
+  },
+  {
+    "id": "5814",
+    "k": "lng_ce_hub_target_ben_comp_005",
+    "en": "Hey! A good week that one eh? Capping off one of our yearly targets must've felt pretty good right? Well, Max is certainly very pleased, so keep it up yeah. "
+  },
+  {
+    "id": "5815",
+    "k": "lng_ce_hub_target_ben_fail_001",
+    "en": "Hey, bad news, I'm afraid. We've missed out on our opportunity to complete one of our targets for the year. It's a real shame, so let's make sure to prioritise the ones we have left, yeah?"
+  },
+  {
+    "id": "5816",
+    "k": "lng_ce_hub_target_ben_fail_002",
+    "en": "Ahh, so bit of a shame really, but following this week, we've missed all opportunities to complete one of our yearly targets. Max won't be too pleased, so let's try and hit the ones we have left."
+  },
+  {
+    "id": "5817",
+    "k": "lng_ce_hub_target_ben_fail_003",
+    "en": "Alright, so unfortunately we've missed all our opportunities to complete one of our yearly targets. To keep Max happy, we should make sure we try and tackle the ones we have remaining."
+  },
+  {
+    "id": "5818",
+    "k": "lng_ce_hub_target_ben_fail_004",
+    "en": "Hey there, so bit of a shame, but we've sadly missed all oppunities to met the conditions of one of our targets from Max. Not great I know, but hey, all we can do it is try and complete the ones we have left. "
+  },
+  {
+    "id": "5819",
+    "k": "lng_ce_hub_target_ben_fail_005",
+    "en": "Alright then, it looks as though we've fallen short of meeting the criteria for one of targets for the year. This is a bit of a shame as it might hamper our relationship with Max, but, we move onwards and upwards eh? "
+  },
+  {
+    "id": "5820",
+    "k": "lng_ce_hub_target_ben_none_001",
+    "en": "So we haven't made any progress towards any of our targets in the last couple of weeks. I know there's a lot on your plate, but we should definitely look to get cracking on these and keep Max happy."
+  },
+  {
+    "id": "5821",
+    "k": "lng_ce_hub_target_ben_none_002",
+    "en": "We're beginning to fall behind on some of our targets, as we haven't progressed in any of them for a while. I know there's a lot to think about, but you should try and give them some consideration."
+  },
+  {
+    "id": "5822",
+    "k": "lng_ce_hub_target_ben_none_003",
+    "en": "Hey, so just need to mention that we haven't progressed in any of our targets for quite a while. They're one of the easiest ways to keep Max happy, so we should definitely try and get to them soon."
+  },
+  {
+    "id": "5823",
+    "k": "lng_ce_hub_target_ben_none_004",
+    "en": "So it's been a number of weeks now and we haven't made any progress towards our targets. I really think we should aim to try to tackle some of them in the coming weeks. "
+  },
+  {
+    "id": "5824",
+    "k": "lng_ce_hub_target_ben_none_005",
+    "en": "Hello! So good news, we've made some great progress towards our targets! Let's carry on working on them to close them off."
+  },
+  {
+    "id": "5825",
+    "k": "lng_ce_hub_target_ben_prog_001",
+    "en": "We made some great progress towards our targets this week which is brilliant. We should try and make sure to cap them off so that we can stay in favour with Max"
+  },
+  {
+    "id": "5826",
+    "k": "lng_ce_hub_target_ben_prog_002",
+    "en": "Good news this week, we made progress towards one of our yearly targets. We should keep trying to tick them off so we can keep Max happy and possibly secure more funding."
+  },
+  {
+    "id": "5827",
+    "k": "lng_ce_hub_target_ben_prog_004",
+    "en": "Right, we're making some tidy progress towards our targets this week, especially in this last week. Let's try and prioritise them and get them ticked off the list, yeah?"
+  },
+  {
+    "id": "5828",
+    "k": "lng_ce_hub_target_ben_prog_006",
+    "en": "So looking at the reports, we've made some great progress towards our targets recentlty, If we can keep it up and go ahead and wrap up our yearly targets, I'm sure Max will contemplate some extra funding. "
+  },
+  {
+    "id": "5829",
+    "k": "lng_ce_hub_target_ben_prog_007",
+    "en": "We've made some good progress towards our yearly targets this week, if we stay on track we'll get them closed off sooner rather than later. We do that, we can chat to Max about next years funding and hopefully secure a bigger budget."
+  },
+  {
+    "id": "5830",
+    "k": "lng_ce_hub_target_ben_prog_008",
+    "en": "Hey there, good week I think! Nice bit of progress towards our targets, something I'm sure Max will be pleased with. "
+  },
+  {
+    "id": "5831",
+    "k": "lng_ce_hub_target_ben_prog_009",
+    "en": "Great work this week with progressing through one our targets. Getting them ticked off is sure to make Max very happy."
+  },
+  {
+    "id": "5832",
+    "k": "lng_ce_hub_target_res_team_001",
+    "en": "You've been doing such an amazing job throughout this season that we've already met all our targets for the year! This means we can focus our efforts on improving the team around you."
+  },
+  {
+    "id": "5833",
+    "k": "lng_ce_hub_target_res_team_002",
+    "en": "Get a load of this, we've been doing such brilliant work, that we've reached all our targets from Max already! We can just spend the rest of the budget improving the team and chasing down results!"
+  },
+  {
+    "id": "5834",
+    "k": "lng_ce_hub_target_res_team_004",
+    "en": "Get in! I've just realised, we've met all our yearly targets from the benefactor! That'll put us firmly in his good books, and it frees up our time to improve the team and go after championships!"
+  },
+  {
+    "id": "5835",
+    "k": "lng_ce_hub_target_res_team_005",
+    "en": "Hey, congratulations! We've managed to meet all our yearly targets already! I'll tell you now that will have made Max very happy, and certianly improves our prospects for next season! "
+  },
+  {
+    "id": "5836",
+    "k": "lng_ce_hub_target_res_team_006",
+    "en": "Great news! You've just managed to cap off all our yearly targets! That's a proper good effort, and will have made Max pleased as punch, good work!  "
+  },
+  {
+    "id": "5837",
+    "k": "lng_ce_hub_trialEv_fail_001",
+    "en": "Hey, a real shame about the Trial Event, but these things don't always pay off. Chin up though, at least it wasn't a Championship event, eh?"
+  },
+  {
+    "id": "5838",
+    "k": "lng_ce_hub_trialEv_fail_002",
+    "en": "So I know it's disappointing that the Trial Event didn't quite go our way. But at the very least, you got some good practice in on that surface, and have learnt some valuable lessons I'm sure."
+  },
+  {
+    "id": "5839",
+    "k": "lng_ce_hub_trialEv_fail_003",
+    "en": "Ah alright! Just wanted to say that although we didn't meet our own expectations for that Trial Event, it was still a good experience for you, it's always worth taking a risk on these things."
+  },
+  {
+    "id": "5840",
+    "k": "lng_ce_hub_trialEv_fail_004",
+    "en": "Ah well that trial event could've gone better couldn't it? Never mind though, we keep moving forwads, and we'll refocus and lead a proper assault on the next event. "
+  },
+  {
+    "id": "5841",
+    "k": "lng_ce_hub_trialEv_fail_005",
+    "en": "Damn shame about the trial event, but hey, these things happen? Let's just be glad you're back in one piece, and lets set our minds to the next event yeah?"
+  },
+  {
+    "id": "5842",
+    "k": "lng_ce_hub_trialEv_win_001",
+    "en": "Great work at that Trial Event. You certainly impressed the sponsors with your performance, and now they are keen to give us access to some of their more exclusive products."
+  },
+  {
+    "id": "5843",
+    "k": "lng_ce_hub_trialEv_win_002",
+    "en": "Quality stuff at that Trial Event! It's paid off nicely I reckon, you got some good stage time in, and you caught the eye of the sponsors enough to give us access to some of their better vehicle parts."
+  },
+  {
+    "id": "5844",
+    "k": "lng_ce_hub_trialEv_win_003",
+    "en": "Just wanted to say, really great driving in that Trial Event. I've just got off the phone with the event sponsors and they're going to give us priority access to some of their premium parts!"
+  },
+  {
+    "id": "5845",
+    "k": "lng_ce_hub_trialEv_win_004",
+    "en": "Wonderful performance at the Trial event. Looks like it went off without a hitch, and the sponsors that were there were suitably impressed! If we wanted to, we should be able to purchase some more exclusive car parts now, which is ace. "
+  },
+  {
+    "id": "5846",
+    "k": "lng_ce_hub_trialEv_win_005",
+    "en": "Excellent drive at the Trial event. You managed to impress the sponsors that were there, and they've agreed to sell us some of their higher end products. Good result that. "
+  },
+  {
+    "id": "5847",
+    "k": "lng_ce_hub_week1_001",
+    "en": "Right! How are ya feeling about your first week? Hopefully you're all settled in and finding everything okay. Onto the next! "
+  },
+  {
+    "id": "5848",
+    "k": "lng_ce_hub_week1_002",
+    "en": "First week: Done! Now, for the rest of the season! "
+  },
+  {
+    "id": "5849",
+    "k": "lng_ce_hub_week1_003",
+    "en": "Good job getting through your first week! Getting used to it all can be difficult but I reckon you'll be alright! "
+  },
+  {
+    "id": "5850",
+    "k": "lng_ce_hub_week23_001",
+    "en": "Just checking in with you, we're about halfway through the season give or take. Stay focussed on those goals and we'll get there! "
+  },
+  {
+    "id": "5851",
+    "k": "lng_ce_hub_week23_002",
+    "en": "Right about halfway through this season so just checking in with you to say, keep it up, we'll get there. "
+  },
+  {
+    "id": "5852",
+    "k": "lng_ce_hub_week23_003",
+    "en": "You've been hard at work these past few weeks so just popping in to say good job, and keep it up. "
+  },
+  {
+    "id": "5853",
+    "k": "lng_ce_hub_week46_001",
+    "en": "Right! Now the season's coming to a close I just wanted to say, good job, you really gave it your all. Now let's end the season on a high! "
+  },
+  {
+    "id": "5854",
+    "k": "lng_ce_hub_week46_002",
+    "en": "Nearing the end of the year and the team and I just wanted to say, well done. It's been challenging but that's what makes it fun right?! "
+  },
+  {
+    "id": "5855",
+    "k": "lng_ce_hub_week46_003",
+    "en": "Hey, well done this year. We put in the work and  had some proper fun. Now let's finish the year with a bang! Not literally. "
+  },
+  {
+    "id": "5856",
+    "k": "lng_ce_int_ftue_brand_001",
+    "en": "Alright, I hope you've got some good ideas for team names, as now we've got the championship level sorted, we need to go through some paperwork regarding the team and its branding. You have a load of options you can choose from, and you'll be able to change this at any time throughout the season."
+  },
+  {
+    "id": "5857",
+    "k": "lng_ce_int_ftue_eng_001",
+    "en": "Alright, welcome to HQ. As for me, I'm your chief engineer. I'll be responsible for raising your game, I'll be helping you with running the team, telling you what you're doing right, as well as rapping your knuckles when you get things wrong. So, let's get through some admin before we go any further."
+  },
+  {
+    "id": "5858",
+    "k": "lng_ce_int_ftue_eng_002",
+    "en": "Alright, welcome to HQ, make yourself comfortable. This is your new home, it's where you'll take care of the business away from the stages."
+  },
+  {
+    "id": "5859",
+    "k": "lng_ce_int_ftue_eng_003",
+    "en": "Anyway, I don't know about you but I'm ready to get started, a new team is always an exciting opportunity,  especially with a driver of your calibre at the helm, but first we do just need to get through a wee bit of admin."
+  },
+  {
+    "id": "5860",
+    "k": "lng_ce_int_ftue_eng_004",
+    "en": "So, the boss sends his regards, he's disappointed he can't be here to show you around, but that's what I'm here for. Now I should tell you, Max is going to be your lifeline in this sport, he's got an incredible sense for rally, and has very, very deep pockets, from which he likes to dispense opportunities to exciting prospects such as yourself. Keep him in the good books, and we'll go a long way together."
+  },
+  {
+    "id": "5861",
+    "k": "lng_ce_int_ftue_eng_005",
+    "en": "Here is the contract for this year, if you'd just like to review it and sign at the bottom that would be grand."
+  },
+  {
+    "id": "5862",
+    "k": "lng_ce_int_ftue_hub_001",
+    "en": "Alright then! I think that test went very well indeed. You took to that car like a duck to water. Well, I guess it's time to get properly started then, eh? There's a few things we need to get sorted before we can enter you into your first event. I just need you to cast your eyes over our financials, as well as just make sure you're happy with the staff I've hired. Once that's sorted, we can get you underway properly, exciting, eh? Alright, I'll catch you later then."
+  },
+  {
+    "id": "5863",
+    "k": "lng_ce_int_ftue_hub_001_2024",
+    "en": "Well! You took to that car like a duck to water. So, there's a few things we need to get sorted before we can enter you into your first event. I just need you to cast your eyes over our financials and targets. Once that's sorted, we can get you underway properly, exciting, eh?"
+  },
+  {
+    "id": "5864",
+    "k": "lng_ce_int_ftue_tier_001",
+    "en": "Well, we're glad you've agreed to join the team! We just need to figure out what tier of competition we're going to enter you into. This will affect the vehicle you'll be driving, the amount of official WRC events you'll compete in, and how much funding we'll have access to. So, you can work your way up from Junior WRC, or if you'd prefer, you can go straight in at the top in the WRC."
+  },
+  {
+    "id": "5865",
+    "k": "lng_ce_int_ftue_veh_001",
+    "en": "Max has given us a few different options. We can choose from for your first car, and we can even spec our own if you'd like? Take a look at what's available. Let me know what you decide, then we can get it sent out for the pre-season test."
+  },
+  {
+    "id": "5866",
+    "k": "lng_ce_int_ftue_veh_001_2024",
+    "en": "Max has given us a few different options we can choose from for your first car, and we can even spec our own, if you'd like? Take a look at what's available, let me know what you decide, then we can get it sent out for the pre-season test."
+  },
+  {
+    "id": "5867",
+    "k": "lng_ce_int_ftue_video_001",
+    "en": "So, you want to be the World Rally Champion, eh? It isn't an easy thing to do as a privateer, not by a long chalk, but you've got potential, and my boss,  thinks you might just be the one to take this team to the top. It's not going to be easy mind, in addition to putting those fancy driving skills to good use, you'll also have to help me with running our little outfit - managerial stuff, budgets and the like. It might sound like a lot, but we really do believe you've got what it takes, and in this sport you have to work hard to beat the best. So what do you say? Ready to get out into the big leagues, eh?"
+  },
+  {
+    "id": "5868",
+    "k": "lng_ce_int_ftue_video_001_Line01",
+    "en": "So, you want to be the World Rally Champion, eh?"
+  },
+  {
+    "id": "5869",
+    "k": "lng_ce_int_ftue_video_001_Line02",
+    "en": "It isn't an easy thing to do as a privateer, not by a long chalk, but you've got potential, and my boss,  thinks you might just be the one to take this team to the top."
+  },
+  {
+    "id": "5870",
+    "k": "lng_ce_int_ftue_video_001_Line03",
+    "en": "It's not going to be easy mind, in addition to putting those fancy driving skills to good use, you'll also have to help me with running our little outfit - managerial stuff, budgets and the like. It might sound like a lot, but we really do believe you've got what it takes, and in this sport you have to work hard to beat the best. So what do you say? Ready to get out into the big leagues, eh?"
+  },
+  {
+    "id": "5871",
+    "k": "lng_ce_sp_cond_drytoWet_001",
+    "en": "So, rain is on the way, if it's alright with you I'd like to chuck on some wet tyres, alright?"
+  },
+  {
+    "id": "5872",
+    "k": "lng_ce_sp_cond_drytoWet_002",
+    "en": "It's about to get a bit wet out there on the stages, we should probably get ahead of it, and put some wet tyres onto the car now."
+  },
+  {
+    "id": "5873",
+    "k": "lng_ce_sp_cond_drytoWet_003",
+    "en": "The heavens look fit to open, so I think a set of wets may be best going forward. Let us know if you want us to put them on."
+  },
+  {
+    "id": "5874",
+    "k": "lng_ce_sp_cond_wetToDry_001",
+    "en": "Good news, the rain is going to clear pretty soon, so if you want some fresh rubber, now is probably a good time."
+  },
+  {
+    "id": "5875",
+    "k": "lng_ce_sp_cond_wetToDry_002",
+    "en": "The forecasts are looking like it's going to dry up in the next loop. I think we ought to get a fresh set of tyres on the car, alright?"
+  },
+  {
+    "id": "5876",
+    "k": "lng_ce_sp_cond_wetToDry_003",
+    "en": "It looks as though the rain is going to clear soon. So, I reckon we get some dries onto your car, and see if you can't push the pace."
+  },
+  {
+    "id": "5877",
+    "k": "lng_ce_sp_cond_wetToDry_003",
+    "en": "So, rain is on the way, if it's alright with you I'd like to chuck on some wet tires, alright?"
+  },
+  {
+    "id": "5878",
+    "k": "lng_ce_sp_firstWin_jwrc_001",
+    "en": "Absolutely brilliant driving in that last loop of stages! You've managed to bag your first ever stage win at this level! Congratulations!"
+  },
+  {
+    "id": "5879",
+    "k": "lng_ce_sp_firstWin_wrc1_003",
+    "en": "Unbelievable driving, the times you're setting are absolutely scorching! You are officially a WRC stage winner! You should be immensely proud."
+  },
+  {
+    "id": "5880",
+    "k": "lng_ce_sp_firstWin_wrc2_002",
+    "en": "Alright, we've got some time to fix up some snags you might have picked up, just let the crew know what you want them to focus on though ok?"
+  },
+  {
+    "id": "5881",
+    "k": "lng_ce_sp_firstWin_wrc2_002",
+    "en": "You were on fire those last few stages! And congratulations are in order as you've also got your first WRC2 stage win!"
+  },
+  {
+    "id": "5882",
+    "k": "lng_ce_sp_gen_WRC_event_001",
+    "en": "There ain't nothing like the buzz of a proper official WRC event! This is where all our hard work pays off so keep a cool head, focus and aim for the top! I know you've got it in you. "
+  },
+  {
+    "id": "5883",
+    "k": "lng_ce_sp_gen_WRC_event_002",
+    "en": "Right! Looking around we've got some serious competition and everyone will be especially hungry to place high at this WRC event. I reckon we've got more than a chance to make a splash here, so, lets get cracking! "
+  },
+  {
+    "id": "5884",
+    "k": "lng_ce_sp_gen_WRC_event_003",
+    "en": "Hope you're ready for this WRC event, I know I am! There's a lot to play for today and personally I reckon we've got more than a good shot at this one. "
+  },
+  {
+    "id": "5885",
+    "k": "lng_ce_sp_gen_charity_001",
+    "en": "Nice little Charity event then! Not too much pressure on this one, just have fun. Although I reckon if we place well here, Max will be more than happy! So let's go for it! "
+  },
+  {
+    "id": "5886",
+    "k": "lng_ce_sp_gen_charity_002",
+    "en": "Alright! A nice chilled one ahead of us but I reckon we'll impress the boss if we give a good performance today. So give it a good shot and enjoy yourself. "
+  },
+  {
+    "id": "5887",
+    "k": "lng_ce_sp_gen_charity_003",
+    "en": "Right! I reckon if you get a good position at this Charity event, you'll be in the good books with Max. So do what you can, but don't stress too hard, it is just a bit of fun after all. "
+  },
+  {
+    "id": "5888",
+    "k": "lng_ce_sp_gen_hosp_001",
+    "en": "Alright then! Nothing like a Manufacturer's event to make some good impressions! I know Max will be happy if we do well here so let's aim for a good place and we'll have a happy boss. "
+  },
+  {
+    "id": "5889",
+    "k": "lng_ce_sp_gen_hosp_002",
+    "en": "Right, we'll have a few eyes on us here so getting a nice position to finish on will probably be a good idea. Let's have some fun with it, eh? "
+  },
+  {
+    "id": "5890",
+    "k": "lng_ce_sp_gen_hosp_003",
+    "en": "This Manufacturer's event should be a bit of fun! Still though if we get a cracking position here, Max is sure to be happy. Let's get out there and turn some heads."
+  },
+  {
+    "id": "5891",
+    "k": "lng_ce_sp_gen_invi_001",
+    "en": "Right, this invitational looks like it's shaping up to be a good time! I need you to concentrate though, achieving a good place here will give us a nice little budget boost, okay? "
+  },
+  {
+    "id": "5892",
+    "k": "lng_ce_sp_gen_invi_002",
+    "en": "You've only got a small window of chance at this Invitational to secure a great place. Do that and we'll get a nice budget boost to use for the rest of the season, alright?  Good luck!"
+  },
+  {
+    "id": "5893",
+    "k": "lng_ce_sp_gen_invi_003",
+    "en": "Alright, then! If we get a nice position at this Invitational we'll secure a lovely little budget increase to use for the remainder of the season. So, let's get set up, shall we? "
+  },
+  {
+    "id": "5894",
+    "k": "lng_ce_sp_gen_noCon_001",
+    "en": "Looks like you're going well out there, if there are any setup changes you want to make just let us know."
+  },
+  {
+    "id": "5895",
+    "k": "lng_ce_sp_gen_noCon_002",
+    "en": "You're hitting a solid rhythm so far, and the car looks okay, but if there are any setup changes you want us to make, just shout."
+  },
+  {
+    "id": "5896",
+    "k": "lng_ce_sp_gen_noCon_003",
+    "en": "Alright, so the car looks to be in good nick, but if you want a little tweak here or there, let us know."
+  },
+  {
+    "id": "5897",
+    "k": "lng_ce_sp_gen_noCon_004",
+    "en": "OK, we can't see too much damage on the car right now, but if you want a set-up change, now's the time to say."
+  },
+  {
+    "id": "5898",
+    "k": "lng_ce_sp_gen_regrally_event_001",
+    "en": "Alright! Bit of Regularity Rally for you! Just concentrate on controlling your speed for each section and you'll be all good. "
+  },
+  {
+    "id": "5899",
+    "k": "lng_ce_sp_gen_regrally_event_002",
+    "en": "Regularity Rally is all about control, if you just concentrate on your speed and your target time, you'll have this in the bag. Nice one!"
+  },
+  {
+    "id": "5900",
+    "k": "lng_ce_sp_gen_regrally_event_003",
+    "en": "Right, I know your immediate instinct is to go full steam ahead when you're down on the stage but for Reg Rally, you need to watch your pace, think about your timing and stay in the sweet spot of speed. You've got this. "
+  },
+  {
+    "id": "5901",
+    "k": "lng_ce_sp_gen_trial_001",
+    "en": "I've been looking forward to this Part Manufacturer Trial! Should be a good bit of fun with a nice little prize waiting for us at the end of the rally! "
+  },
+  {
+    "id": "5902",
+    "k": "lng_ce_sp_gen_trial_002",
+    "en": "Right! Not much pressure here at this Manufacturer Trial event! Though, we do well, and I'm sure there'll be a nice little upgrade for us alright? "
+  },
+  {
+    "id": "5903",
+    "k": "lng_ce_sp_gen_trial_003",
+    "en": "Okay! Are you ready to tackle this Manufacturer Part Trial? There'll be something in it for us at the end if we get a good position I reckon, so let's aim for it and see what we can do."
+  },
+  {
+    "id": "5904",
+    "k": "lng_ce_sp_gen_unof_event_001",
+    "en": "I've got a good feeling about this event. The car's all ready for you to make whatever setup changes you want then we'll get it down on the track alright? Nice one."
+  },
+  {
+    "id": "5905",
+    "k": "lng_ce_sp_gen_unof_event_002",
+    "en": "Okay you ready to get set up? This event is looking to be a good one, if you want, we can look at any car changes before you get down there, just let us know. "
+  },
+  {
+    "id": "5906",
+    "k": "lng_ce_sp_gen_unof_event_003",
+    "en": "Hey! You looking forward to this one? Everything's all ready for whatever changes you wanna make, if you're all set, let's get going! "
+  },
+  {
+    "id": "5907",
+    "k": "lng_ce_sp_locRev_cer_001",
+    "en": "Here we are then, the Central Europe Rally! Lovely fast Asphalt all the way through this one, so lets make sure we get the cars setup dialed in during shakedown."
+  },
+  {
+    "id": "5908",
+    "k": "lng_ce_sp_locRev_cer_002",
+    "en": "Alright, time for the Central Europe Rally! As a lot of this rally runs through either dense forest, or small villages, you're gonna have to focus on your line. Coming off here would be disasterous."
+  },
+  {
+    "id": "5909",
+    "k": "lng_ce_sp_locRev_cer_003",
+    "en": "Looking forward to the Central Europe Rally?  I know I am!  It's mostly a grippy asphalt affair here, so make sure you get set up for just that."
+  },
+  {
+    "id": "5910",
+    "k": "lng_ce_sp_locRev_cer_004",
+    "en": "So, the Central Europe Rally then!  This can feel like a very walled in rally, with roads cutting through the forest, and buildings worryingly close to the asphalt, you're gonna need to keep a cool head!"
+  },
+  {
+    "id": "5911",
+    "k": "lng_ce_sp_locRev_cer_005",
+    "en": "Well here we go then, the Central Europe Rally!  I think you'll do well here, though it's going to be one where focus, and control are more crucial than ever."
+  },
+  {
+    "id": "5912",
+    "k": "lng_ce_sp_locRev_chi_001",
+    "en": "Hello, hope you're feeling fired up for this one. With lots of altitude changes, Rally Chile Bio Bío is certainly going to test both us and the car."
+  },
+  {
+    "id": "5913",
+    "k": "lng_ce_sp_locRev_chi_001_2024",
+    "en": "Hello, hope you're feeling fired up for this one. With lots of altitude changes, Rally Chile Bio Bío  is certainly going to test both us and the car."
+  },
+  {
+    "id": "5914",
+    "k": "lng_ce_sp_locRev_chi_002",
+    "en": "Hey! Good to see you, and it's great to be here in Rally Chile Bio Bío. There's some crackin' views out there... just try not let them distract you from spotting your braking points."
+  },
+  {
+    "id": "5915",
+    "k": "lng_ce_sp_locRev_chi_003",
+    "en": "Rally Chile Bio Bío, lots of elevation here. You'll have to be mindful of how your braking will change going up or downhill. But I'm sure you'll be alright."
+  },
+  {
+    "id": "5916",
+    "k": "lng_ce_sp_locRev_chi_004",
+    "en": "Well, here we are, Rally Chile Bio Bío. Gravel surface, with lots of tightening corners, so just be wary of your speed on entry, yeh? I'm sure you'll smash it."
+  },
+  {
+    "id": "5917",
+    "k": "lng_ce_sp_locRev_chi_005",
+    "en": "Welcome to Rally Chile Bio Bío. This is one of the highest events in the calendar, and the elevation changes are massive, which makes for an interesting technical challenge. Enjoy!"
+  },
+  {
+    "id": "5918",
+    "k": "lng_ce_sp_locRev_cor_001",
+    "en": "Good to be here in Rally Mediterraneo, isn't it? Fast asphalt, tight roads, and steep drops, what's not to love, eh? Let's get at it."
+  },
+  {
+    "id": "5919",
+    "k": "lng_ce_sp_locRev_cor_002",
+    "en": "Hey, welcome to Rally Mediterraneo! It's fast and technical asphalt here, so try not to end up in one of the ravines, eh? I'm sure you'll do great."
+  },
+  {
+    "id": "5920",
+    "k": "lng_ce_sp_locRev_cor_003",
+    "en": "Bonjour, hope you're excited for some tight and winding roads here at Rally Mediterraneo. The sections through the village can gain you a lot of time, but be careful, they can be sketchy."
+  },
+  {
+    "id": "5921",
+    "k": "lng_ce_sp_locRev_cor_004",
+    "en": "How do! Can't wait to get started here. Rally Mediterraneo is an exhilarating event, you're always driving on the edge, often literally. So let's get stuck in, shall we?"
+  },
+  {
+    "id": "5922",
+    "k": "lng_ce_sp_locRev_cor_005",
+    "en": "Good to see you! Hope you're raring to go, as it's a fun, but challenging event here in Rally Mediterraneo. Lots of fast, tight sections, with pretty treacherous drops alongside."
+  },
+  {
+    "id": "5923",
+    "k": "lng_ce_sp_locRev_cro_001",
+    "en": "Ahh, Rally Croatia, very fast asphalt. It can be a ton of fun here, but it can also be very treacherous when it gets wet. You'll enjoy this one, I think."
+  },
+  {
+    "id": "5924",
+    "k": "lng_ce_sp_locRev_cro_002",
+    "en": "Hey, ready for the challenge of Rally Croatia? It's a very quick asphalt surface here, so just watch your entry speed into corners. Don't want you heading off into the trees!"
+  },
+  {
+    "id": "5925",
+    "k": "lng_ce_sp_locRev_cro_003",
+    "en": "Y'alright! You'll need to be really switched on for this one, I reckon. Rally Croatia can be a very low grip surface, so, nice and smooth on the pedals."
+  },
+  {
+    "id": "5926",
+    "k": "lng_ce_sp_locRev_cro_004",
+    "en": "Hey, welcome to Rally Croatia. A fantastic event this, some lovely, twisty, asphalt stages that head up into the mountains - just brilliant. Let's crack on then, shall we?"
+  },
+  {
+    "id": "5927",
+    "k": "lng_ce_sp_locRev_cro_005",
+    "en": "Good to see you. Rally Croatia should be a decent event for us, I think. It's got some lovely fast asphalt, and some proper tricky corners. Right up your alley."
+  },
+  {
+    "id": "5928",
+    "k": "lng_ce_sp_locRev_est_001",
+    "en": "Welcome to Rally Estonia! I love it here, very fast and jumpy. Just don't take too much out of the corners, you might lose a wheel."
+  },
+  {
+    "id": "5929",
+    "k": "lng_ce_sp_locRev_est_002",
+    "en": "Good to see you, Rally Estonia should be a fun one. Now listen, you'll need to give it everything from the off, because it's fast, so you'll have to keep up."
+  },
+  {
+    "id": "5930",
+    "k": "lng_ce_sp_locRev_est_003",
+    "en": "Hey, ready to tackle Rally Estonia? There's some quality stages here, it's speedy, a bit sandy, oh and some massive artificial jumps for good measure!"
+  },
+  {
+    "id": "5931",
+    "k": "lng_ce_sp_locRev_est_004",
+    "en": "Great to be in Rally Estonia, right? This is a fun one, though we'll want to stiffen the springs to keep you from bottoming out after those big jumps."
+  },
+  {
+    "id": "5932",
+    "k": "lng_ce_sp_locRev_est_005",
+    "en": "Ahh, Rally Estonia, it's great to be back. I think this will be a really strong event for you, just keep your rhythm and when you hear \"don't cut\", do not cut!"
+  },
+  {
+    "id": "5933",
+    "k": "lng_ce_sp_locRev_fin_001",
+    "en": "Alright! Welcome to Secto Rally Finland. I can't wait to see what you can do here. This is an absolute roller-coaster, you'll be up and over huge jumps and blind crests all day."
+  },
+  {
+    "id": "5934",
+    "k": "lng_ce_sp_locRev_fin_002",
+    "en": "Hey! Good to see you, Secto Rally Finland is a corker of an event! Little word of advice though, positioning is everything here, get it right and you'll be winning, get it wrong and you're into one of the lakes!"
+  },
+  {
+    "id": "5935",
+    "k": "lng_ce_sp_locRev_fin_003",
+    "en": "Ahh Secto Rally Finland , ridiculously fast Secto Rally Finland . I think the best advice I can give you here... is to know where your limits are, it'll be tempting to push, but a crash here will undoubtedly be a big one."
+  },
+  {
+    "id": "5936",
+    "k": "lng_ce_sp_locRev_fin_004",
+    "en": "Got to love Secto Rally Finland , right? This is probably the fastest you'll go all year, so stay focused at all times, yeah? The speed can rip control away from you in an instant."
+  },
+  {
+    "id": "5937",
+    "k": "lng_ce_sp_locRev_fin_005",
+    "en": "Here we are then, you've got to love a Finnish rally. Try and enjoy this one, because there aren't many places as fast as here."
+  },
+  {
+    "id": "5938",
+    "k": "lng_ce_sp_locRev_gre_001",
+    "en": "Ahh an absolute classic this, the EKO Acropolis Rally Greece! We're going to be tested here that's for sure, it's very warm, it's very technical, and it's very very rough on the car."
+  },
+  {
+    "id": "5939",
+    "k": "lng_ce_sp_locRev_gre_002",
+    "en": "Hey, you prepared for the rough and tumble of EKO Acropolis Rally Greece? It's a tough technical one here, but I'm sure you'll cope. Just have to keep it controlled."
+  },
+  {
+    "id": "5940",
+    "k": "lng_ce_sp_locRev_gre_003",
+    "en": "I hope you're mentally ready for this one, you'll probably be fine, but it's worth knowing that EKO Acropolis Rally Greece is one of the most technical challenges we'll come across."
+  },
+  {
+    "id": "5941",
+    "k": "lng_ce_sp_locRev_gre_004",
+    "en": "Alright, so rallying in EKO Acropolis Rally Greece is notoriously difficult, it's a very abrasive surface and you can get a puncture without trying, so bear that in mind."
+  },
+  {
+    "id": "5942",
+    "k": "lng_ce_sp_locRev_gre_005",
+    "en": "Hey, welcome to the Rally of the Gods! Aptly named I think, as you might need a bit of divine intervention to get through in one piece."
+  },
+  {
+    "id": "5943",
+    "k": "lng_ce_sp_locRev_ind_001",
+    "en": "Ay up! Bit of a change of scenery this, isn't it! I'm sure you'll do great, but something to bear in mind with Rally Pacifico, stay wary on the straights, the sharp turns at the end of them can really sneak up on you."
+  },
+  {
+    "id": "5944",
+    "k": "lng_ce_sp_locRev_ind_002",
+    "en": "It's not every week you get to rally somewhere as tropical as this, is it? Rally Pacifico should be fun for you, it's a sandy, and often muddy surface that can be quick one minute and technical the next."
+  },
+  {
+    "id": "5945",
+    "k": "lng_ce_sp_locRev_ind_003",
+    "en": "There's quite a few things that might catch you out here at Rally Pacifico, you'll be flying down the road one minute, and squeezing through a narrow bridge the next."
+  },
+  {
+    "id": "5946",
+    "k": "lng_ce_sp_locRev_ind_004",
+    "en": "Alright, here we are then, Rally Pacifico! I didn't get to race here too much myself, but it's a great rally location. Who wouldn't love flying down jungle lined roads, eh?"
+  },
+  {
+    "id": "5947",
+    "k": "lng_ce_sp_locRev_ind_005",
+    "en": "Welcome to Rally Pacifico, my friend. If you can keep your rhythm through the technical sections that link the straights, you'll have no problem here, I don't think."
+  },
+  {
+    "id": "5948",
+    "k": "lng_ce_sp_locRev_jap_001",
+    "en": "Alright! Welcome to FORUM8 Rally Japan. It's a great event this, loads of twisty asphalt mountain roads, rhythm is everything here. Let's get stuck in."
+  },
+  {
+    "id": "5949",
+    "k": "lng_ce_sp_locRev_jap_002",
+    "en": "FORUM8 Rally Japan it is this week! A really tricky asphalt rally this one, a good mix of flat out pace, and technical sections to keep you switched on."
+  }
+]

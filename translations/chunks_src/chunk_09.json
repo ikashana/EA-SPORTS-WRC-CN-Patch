@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "3737",
+    "k": "lng_vr_headset_pico_4",
+    "en": "Pico 4"
+  },
+  {
+    "id": "3738",
+    "k": "lng_vr_headset_pico_other",
+    "en": "Pico Other"
+  },
+  {
+    "id": "3739",
+    "k": "lng_vr_headset_pimax_crystal",
+    "en": "Pimax Crystal"
+  },
+  {
+    "id": "3740",
+    "k": "lng_vr_headset_usage_dialog_body",
+    "en": "Please tell us which VR headset you're using at the moment."
+  },
+  {
+    "id": "3741",
+    "k": "lng_vr_headset_usage_dialog_selector_title",
+    "en": "VR Headset"
+  },
+  {
+    "id": "3742",
+    "k": "lng_vr_headset_usage_dialog_title",
+    "en": "VR HARDWARE POLL"
+  },
+  {
+    "id": "3743",
+    "k": "lng_vr_headset_valve_index",
+    "en": "Valve Index"
+  },
+  {
+    "id": "3744",
+    "k": "lng_vr_mode_do_you_want_to_enable_body",
+    "en": "Would you like to play the game using a VR headset? For health warnings related to the use of VR mode, please see ea.com/legal."
+  },
+  {
+    "id": "3745",
+    "k": "lng_vr_mode_do_you_want_to_enable_title",
+    "en": "ENABLE VR?"
+  },
+  {
+    "id": "3746",
+    "k": "lng_vr_take_a_break_body",
+    "en": "After using VR for a while it's a good idea to take a short break (15 minutes) before continuing. Please also read and follow all warnings and instructions provided with the headset. Stop use if you experience any discomfort or health reactions."
+  },
+  {
+    "id": "3747",
+    "k": "lng_vr_take_a_break_title",
+    "en": "CONSIDER TAKING A BREAK"
+  },
+  {
+    "id": "3748",
+    "k": "lng_weekly_cost_info_value",
+    "en": "Weekly Cost"
+  },
+  {
+    "id": "3749",
+    "k": "lng_weight_transfer_braking_name",
+    "en": "LEFT FOOT BRAKING"
+  },
+  {
+    "id": "3750",
+    "k": "lng_weight_transfer_throttle_name",
+    "en": "OFF THROTTLE OVERSTEER"
+  },
+  {
+    "id": "3751",
+    "k": "lng_workshopvalue_budget",
+    "en": "Budget"
+  },
+  {
+    "id": "3752",
+    "k": "lng_workshopvalue_premium",
+    "en": "Premium"
+  },
+  {
+    "id": "3753",
+    "k": "lng_wrc_one_championship_name",
+    "en": "FIA WRC Championship "
+  },
+  {
+    "id": "3754",
+    "k": "lng_wrc_two_championship_name",
+    "en": "FIA WRC2 Championship"
+  },
+  {
+    "id": "3755",
+    "k": "lng_xinput_pad",
+    "en": "Xbox Controller"
+  },
+  {
+    "id": "3756",
+    "k": "lng_xinput_pad_x360",
+    "en": "Xbox 360 Controller"
+  },
+  {
+    "id": "3757",
+    "k": "lng_xinput_pad_xone",
+    "en": "Xbox One Controller"
+  },
+  {
+    "id": "3758",
+    "k": "lng_xinput_wheel",
+    "en": "Xinput Wheel"
+  },
+  {
+    "id": "3759",
+    "k": "lng_zero_restart_remaning_error_body",
+    "en": "You have used all available restarts for this event."
+  },
+  {
+    "id": "3760",
+    "k": "lng_zero_restart_remaning_error_title",
+    "en": "RESTART UNAVAILABLE"
+  },
+  {
+    "id": "3761",
+    "k": "lng_zero_shakedown_remaning_error_body",
+    "en": "You have used all available shakedowns for this event."
+  },
+  {
+    "id": "3762",
+    "k": "lng_zero_shakedown_remaning_error_title",
+    "en": "Shakedown Unavailable"
+  },
+  {
+    "id": "3763",
+    "k": "rally_croatia_announcement_body",
+    "en": "Hello Drivers,<cf><cf>This weekend marks the start of the 4th event of the 2024 WRC season, Croatia Rally!<cf>Test out the twisting and technical asphalt stages yourself by competing for top positions in Time Trial, racing as your favourite WRC drivers in Championship, or by dueling it out with your friends in Quick Play Multiplayer, <cf><cf>You can also test your skills against 5 brand new Moments coming soon, all inspired by the weekend's action, and take part in the Official WRC Club for a chance to get 3 months of Rally.tv, where you can watch the real-world event live this weekend.<cf><cf>We hope to see you out on the stages of Croatia Rally!"
+  },
+  {
+    "id": "3764",
+    "k": "rally_croatia_announcement_title",
+    "en": "WRC Croatia Rally!"
+  },
+  {
+    "id": "3765",
+    "k": "rally_italia_annouce_body",
+    "en": "Hello Drivers,<cf><cf>This weekend marks the start of the 6th event of the 2024 WRC season, Rally Italia Sardegnal!<cf><cf>Try out the narrow and rugged gravel stages inspired by this iconic WRC event for yourself in-game!<cf>You can compete for top positions in Time Trial, race as your favourite WRC drivers in Championship, or duel it out with your friends in Quick Play Multiplayer and Clubs, <cf><cf>We hope to see you out on the stages of Rally Italia Sardegnal"
+  },
+  {
+    "id": "3766",
+    "k": "rally_italia_annouce_title",
+    "en": "WRC Rally Italia Sardegna!"
+  },
+  {
+    "id": "3767",
+    "k": "rally_kenya_announcement_body",
+    "en": "Hello Drivers,<cf><cf>This weekend marks the start of the 3rd event of the 2024 WRC season, Safari Rally Kenya!<cf>Try out the rugged and abrasive gravel stages for yourself by competing for top positions in Time Trial, racing as your favourite WRC drivers in Championship, or by dueling it out with your friends in Quick Play Multiplayer, <cf><cf>You can also test your skills against 5 brand new Moments released next week, all inspired by the weekend's action in Africa, and take part in the Official WRC Club for a chance to get 3 months of Rally.tv, where you can watch the real-world event live this weekend.<cf><cf>We hope to see you out on the stages of Safari Rally Kenya!"
+  },
+  {
+    "id": "3768",
+    "k": "rally_kenya_announcement_title",
+    "en": "WRC Safari Rally Kenya!"
+  },
+  {
+    "id": "3769",
+    "k": "rally_pass_6_extended_body",
+    "en": "Hello rally drivers,<cf><cf>Rally Pass Season 6 is being extended. This will not only offer players more time to complete the current season and earn rewards, but it will also give us more time to craft something new for players to come in the future.<cf><cf>Rally Pass will continue to be supported by Moments each week, as well as live Moments documenting the WRC season as it unfolds.<cf><cf>Thank you for your patience, and keep your eyes open for future announcements on what we have coming next.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "3770",
+    "k": "rally_pass_6_extended_title",
+    "en": "Rally Pass Season 6 Extended"
+  },
+  {
+    "id": "3771",
+    "k": "rally_portugal_announce_body",
+    "en": "Hello Drivers,<cf><cf>This weekend marks the start of the 5th event of the 2024 WRC season, Vodafone Rally de Portugal!<cf><cf>Try out the tough and technical gravel stages inspired by this classic WRC event for yourself in-game!<cf>You can compete for top positions in Time Trial, race as your favourite WRC drivers in Championship, or duel it out with your friends in Quick Play Multiplayer or Clubs, <cf><cf>We hope to see you out on the stages of Vodafone Rally de Portugal!"
+  },
+  {
+    "id": "3772",
+    "k": "rally_portugal_announce_body",
+    "en": "Hello Drivers,<cf><cf>This weekend marks the start of the 5th event of the 2024 WRC season, Vodafone Rally de Portugal!<cf><cf>Try out the tough and technical gravel stages inspired by this classic WRC event for yourself in-game!<cf>You can compete for top positions in Time Trial, race as your favourite WRC drivers in Championship, or even duel it out with your friends in Quick Play Multiplayer or Clubs, <cf><cf>We hope to see you out on the stages of Vodafone Rally de Portugal!"
+  },
+  {
+    "id": "3773",
+    "k": "rally_portugal_announce_title",
+    "en": "WRC Vodafone Rally de Portugal!"
+  },
+  {
+    "id": "3774",
+    "k": "rally_sweden_announcement_body",
+    "en": "Hello Drivers,<cf><cf>This weekend marks the start of the 2nd event of the 2024 WRC season, Rally Sweden!<cf>Try out the ferociously fast snow-laden stages for yourself by competing for top positions in Time Trial, racing as your favourite WRC drivers in Championship, or dueling it out with your friends in Quick Play Multiplayer.<cf>You can also take part in the Official WRC Club's virtual Rally Sweden event for a chance to get 3 months of Rally.tv, where you can watch the real-world event live this weekend.<cf><cf>Furthermore we wanted to let you know that we have listened to your feedback and have made some changes to the Rally Pass XP system, reducing the overall time to completion, to make it more accessible for all players.<cf><cf>We hope to see you out on the stages of Rally Sweden!"
+  },
+  {
+    "id": "3775",
+    "k": "rally_sweden_announcement_title",
+    "en": "WRC Rally Sweden!"
+  },
+  {
+    "id": "3776",
+    "k": "server_downtime_body",
+    "en": "Hello Drivers,<cf>EA Sports WRC will be receiving routine server maintenance on the 20th February 2024.<cf>The servers will be inaccessible from 09:00 UTC with an expected downtime of 1 hour.<cf>Thank you for your patience."
+  },
+  {
+    "id": "3777",
+    "k": "server_downtime_title",
+    "en": "Routine Server Maintenance 20/02/24"
+  },
+  {
+    "id": "3778",
+    "k": "survery_announcment_body",
+    "en": "Hello drivers,<cf>Your feedback is incredibly valuable to us as we continue to improve upon EA SPORTS WRC.<cf>We would like to hear from you directly via a short survey about your experiences with the game.<cf>The survey can be accessed from the QR code on-screen or the following link: [URL Link]<cf><cf>Thank you for your support and happy racing!"
+  },
+  {
+    "id": "3779",
+    "k": "survery_announcment_title",
+    "en": "Player Feedback Survey"
+  },
+  {
+    "id": "3780",
+    "k": "lng_br_mp_locRev_cond_clr_001",
+    "en": "A look at the weather now, and clear skies are forecast for the majority of this event weekend. I'm sure many of the crews here will be looking to take full advantage of the nice clean running that should provide."
+  },
+  {
+    "id": "3781",
+    "k": "lng_br_mp_locRev_cond_clr_002",
+    "en": "If we have a quick glance at the conditions for the event now. It looks like we should be in for clear skies throughout, which should make for a fast and fun rally, for both the drivers and the spectators! "
+  },
+  {
+    "id": "3782",
+    "k": "lng_br_mp_locRev_cond_clr_002_rally",
+    "en": "If we have a quick glance at the conditions for the event now. It looks like we should be in for clear skies throughout, which should make for a fast and fun event, for both the drivers and the spectators! "
+  },
+  {
+    "id": "3783",
+    "k": "lng_br_mp_locRev_cond_clr_003",
+    "en": "Well, I don't think we'll have many complaints about the weather from the crews this weekend, it looks to be sunny and clear throughout the event. Let’s hope that the pairings can match the clear skies with some clean runs."
+  },
+  {
+    "id": "3784",
+    "k": "lng_br_mp_locRev_cond_clr_004",
+    "en": "If we have a look at the weather forecast for this event, we can see little to be gloomy about. We should have clear and sunny skies throughout much of the rally."
+  },
+  {
+    "id": "3785",
+    "k": "lng_br_mp_locRev_cond_clr_004_rally",
+    "en": "If we have a look at the weather forecast for this event, we can see little to be gloomy about. We should have clear and sunny skies throughout much of the event."
+  },
+  {
+    "id": "3786",
+    "k": "lng_br_mp_locRev_cond_clr_005",
+    "en": "It looks like the weather will be playing into some of the crews’ hands here this week, as the skies look clear and the chances of adverse weather very low. If the teams can capitalise with some clean runs through the stages, there could be big rewards."
+  },
+  {
+    "id": "3787",
+    "k": "lng_br_mp_locRev_cond_clr_006",
+    "en": "So, if we look upwards today, we can see that it’s one of those lovely clear days that many of the crews here will have been hoping for. Clean skies like this give the crews at least one less thing to worry about during this event."
+  },
+  {
+    "id": "3788",
+    "k": "lng_br_mp_locRev_cond_diff_001",
+    "en": "We've just had a look at the weather reports and the conditions couldn't be more different here than at the previous round of this Championship. As a result, the crews will have to draw on their full reserves of adaptability in order to have a successful event here."
+  },
+  {
+    "id": "3789",
+    "k": "lng_br_mp_locRev_cond_diff_002",
+    "en": "So, to the weather for this weekend. The crews will have to be fully switched on for this event as the conditions are very different to last time out. Hopefully the teams will have prepared accordingly, and no one will get too badly caught out."
+  },
+  {
+    "id": "3790",
+    "k": "lng_br_mp_locRev_cond_diff_003",
+    "en": "Before proceedings begin let’s cast an eye over what the weather has in store for our crews for this event. The conditions appear to be vastly different to the last edition of this Championship, that may well play into the favour of a few of the teams here today."
+  },
+  {
+    "id": "3791",
+    "k": "lng_br_mp_locRev_cond_diff_004",
+    "en": "And now a quick glance at the conditions for this event. We should be in for an interesting one by the looks of things, as the conditions are completely different to the previous round. That may catch a few teams out."
+  },
+  {
+    "id": "3792",
+    "k": "lng_br_mp_locRev_cond_mix_001",
+    "en": "Well, if we look at the forecast, the drivers will need to draw on their full reserves of adaptability for this event, as it looks like the weather conditions will be changing quite a bit throughout this rally."
+  },
+  {
+    "id": "3793",
+    "k": "lng_br_mp_locRev_cond_mix_002",
+    "en": "Adaptability and determination will be the name of the game for this event, as the weather conditions look to be very changeable throughout the course of the competition here this week."
+  },
+  {
+    "id": "3794",
+    "k": "lng_br_mp_locRev_cond_mix_003",
+    "en": "It looks as though tire choice will be tricky this week, as the weather conditions don't look like they'll be terribly consistent this time out."
+  },
+  {
+    "id": "3795",
+    "k": "lng_br_mp_locRev_cond_mix_003",
+    "en": "It looks as though tyre choice will be tricky this week, as the weather conditions don't look like they'll be terribly consistent this time out."
+  },
+  {
+    "id": "3796",
+    "k": "lng_br_mp_locRev_cond_mix_004",
+    "en": "I don't think any one team can be fully confident of their strategy going into this event as conditions look to be unstable."
+  },
+  {
+    "id": "3797",
+    "k": "lng_br_mp_locRev_cond_mix_005",
+    "en": "Tough, unpredictable conditions look to be on the cards for this event, with crews relying as much on a driver’s adaptability as they are on choosing the right set up."
+  },
+  {
+    "id": "3798",
+    "k": "lng_br_mp_locRev_cond_over_001",
+    "en": "So, the weather then. Although it looks to be overcast and cloudy throughout the weekend here, many of the drivers will still have a sunny disposition as they get to race in this fantastic location."
+  },
+  {
+    "id": "3799",
+    "k": "lng_br_mp_locRev_cond_over_002",
+    "en": "Now we'll have a quick look at the weather for the event. The forecast is showing that although dry, we'll have an overcast and cloudy event this week, which could potentially create some flat light conditions for the crews."
+  },
+  {
+    "id": "3800",
+    "k": "lng_br_mp_locRev_cond_over_002_2024",
+    "en": "Now we'll have a quick look at the weather for the event. The forecast is showing that we'll have an overcast and cloudy event this week, which could potentially create some flat light conditions for the crews."
+  },
+  {
+    "id": "3801",
+    "k": "lng_br_mp_locRev_cond_over_003",
+    "en": "The weather looks like it won't cause any significant issues for the drivers, with manageable and predictable conditions ahead, allowing them to focus on the stages before them."
+  },
+  {
+    "id": "3802",
+    "k": "lng_br_mp_locRev_cond_over_004",
+    "en": "A look to the skies tells us all we need to know for the stage ahead, overcast with a slight breeze in the air. This means \"game on\" for our crews to stick to their strategies and find good pace on the stage before them."
+  },
+  {
+    "id": "3803",
+    "k": "lng_br_mp_locRev_cond_over_005",
+    "en": "It's grey clouds above, but weather reports suggest it will stay dry, so we can expect our crews to be able to concentrate on pure pace, as they will not be fighting the elements."
+  },
+  {
+    "id": "3804",
+    "k": "lng_br_mp_locRev_cond_over_005_2024",
+    "en": "It's grey clouds above, but reports suggest adverse weather will hold off for now. We can expect our crews to be able to concentrate on pure pace as they will not be fighting the elements."
+  },
+  {
+    "id": "3805",
+    "k": "lng_br_mp_locRev_cond_over_006",
+    "en": "As predicted by the weather reports, the conditions are overcast, but that's the extent of it. The stage surface should stay dry, allowing crews to be brave and push themselves to the limit."
+  },
+  {
+    "id": "3806",
+    "k": "lng_br_mp_locRev_cond_over_006_2024",
+    "en": "As predicted by the weather reports, the conditions for the rally are mostly overcast and grey. Visibility should be fine for the most part, and allow our crews to push themselves to the limit. "
+  },
+  {
+    "id": "3807",
+    "k": "lng_br_mp_locRev_cond_rain_001",
+    "en": "So, the weather then, as you can see, the rain is coming in thick and fast, and its forecast to continue throughout the event. That may make things a bit trickier for the crews, as grip on this surface may be hard to find."
+  },
+  {
+    "id": "3808",
+    "k": "lng_br_mp_locRev_cond_rain_001_2024",
+    "en": "So, the weather then, looking at the forecasts it seems rain may be a defining factor for this rally. The wet weather may make things a bit trickier for the crews, as grip on this surface could be hard to find."
+  },
+  {
+    "id": "3809",
+    "k": "lng_br_mp_locRev_cond_rain_002",
+    "en": "If we have a look at the forecast for this event, we can see that the crews may have their work cut out for them this week - as it is forecast to be a predominantly wet rally. Whoever can manage the reduced level of grip the best will surely prevail here then."
+  },
+  {
+    "id": "3810",
+    "k": "lng_br_mp_locRev_cond_rain_003",
+    "en": "It's sure to be a rally of surprises this weekend as the rain is due to keep coming throughout the entire event. That could create some upsets as bravery in conditions like these can be very rewarding, or incredibly punishing."
+  },
+  {
+    "id": "3811",
+    "k": "lng_br_mp_locRev_cond_rain_003_2024",
+    "en": "It's sure to be a rally of surprises this weekend as the rain is due to fall throughout the event. That could create some upsets, as bravery in conditions like these can be very rewarding, or incredibly punishing."
+  },
+  {
+    "id": "3812",
+    "k": "lng_br_mp_locRev_cond_rain_004",
+    "en": "Well, it may be grip and pace are at a premium for this rally. The conditions are due to be very damp throughout this week’s excitement, and I'm sure all of the crews here for this event will be very aware of that fact."
+  },
+  {
+    "id": "3813",
+    "k": "lng_br_mp_locRev_cond_rain_004_rally",
+    "en": "Well, it may be grip and pace are at a premium for this event. The conditions are due to be very damp throughout this week’s excitement, and I'm sure all of the crews here for this event will be very aware of that fact."
+  },
+  {
+    "id": "3814",
+    "k": "lng_br_mp_locRev_cond_rain_005",
+    "en": "The rain comes down, and it just won't stop, is the message that has been echoing throughout the service area, as the crews brace themselves to battle the elements."
+  },
+  {
+    "id": "3815",
+    "k": "lng_br_mp_locRev_cond_rain_005_2024",
+    "en": "The rain is due to come down, and be a constand presence throughout this rally, and that's the message that has been echoing throughout the service area, as the crews brace themselves to battle the elements."
+  },
+  {
+    "id": "3816",
+    "k": "lng_br_mp_locRev_cond_rain_006",
+    "en": "Lashings and lashings of rain, with a forecast that suggests we will not be putting our umbrellas away any time soon. So, dangerously tricky conditions then for our crews, hoping to master the wet surfaces."
+  },
+  {
+    "id": "3817",
+    "k": "lng_br_mp_locRev_cond_rain_006_2024",
+    "en": "The reports are suggesting this will be an event characterised by lashings and lashings of rain, wth spectators not able to put their umbrellas away any time soon. It presents problematic conditions then for our crews, who will have to aim to master the wet surfaces."
+  },
+  {
+    "id": "3818",
+    "k": "lng_br_mp_locRev_cond_same_001",
+    "en": "So, the conditions then, well this week looks to be very similar to the previous round in this Championship which may well play into the strength of a few of the crews here today. At the very least they should be nicely acclimatised following on from last time out."
+  },
+  {
+    "id": "3819",
+    "k": "lng_br_mp_locRev_cond_same_002",
+    "en": "A quick look at the conditions then, and it looks like this weekend the weather will be much the same as it was last time out in this Championship. That should lighten the load a little for some of the crews out there, as they will have gotten some good practice in during the last event."
+  },
+  {
+    "id": "3820",
+    "k": "lng_br_mp_locRev_cond_same_003",
+    "en": "Why don't we have a look at the conditions for the event then. As you can see the crews should be nicely warmed up and prepared for this rally, as the conditions are very similar to what they were racing in only one event ago. Despite that the crews will still need to be switched on, as anything can happen."
+  },
+  {
+    "id": "3821",
+    "k": "lng_br_mp_locRev_cond_same_004",
+    "en": "Before we get underway, we should probably have a look at what the weather has in store for the crews this weekend. It will be familiar territory for a lot of these teams it seems, as the conditions are very similar to what we experienced in the last edition of this Championship."
+  },
+  {
+    "id": "3822",
+    "k": "lng_br_mp_locRev_cond_snow_001",
+    "en": "Well, if we have a look at the weather, we can see that visibility may be a problem this weekend, as you can see through our screens, the snow is falling at quite some rate and will continue to do so for some time."
+  },
+  {
+    "id": "3823",
+    "k": "lng_br_mp_locRev_cond_snow_001_2024",
+    "en": "Well, if we have a look at the weather, we can see that visibility may be a problem this weekend. Snow is due to be falling at quite some rate and will continue to do so for most of the rally."
+  },
+  {
+    "id": "3824",
+    "k": "lng_br_mp_locRev_cond_snow_002",
+    "en": "As we know these are very demanding stages here, and they are sure to get even more demanding for the crews as the forecast is predicting quite heavy snow throughout the majority of this event."
+  },
+  {
+    "id": "3825",
+    "k": "lng_br_mp_locRev_cond_snow_003",
+    "en": "There is plenty of snow on the ground here at the moment, and there's no signs that the snow will stop falling any time soon. Snowfall and showers are forecast throughout this event, which will certainly create some challenging conditions for the crews."
+  },
+  {
+    "id": "3826",
+    "k": "lng_br_mp_locRev_cond_snow_003_2024",
+    "en": "Looking at the weather for the rally now, and there is snowfall and showers forecast throughout this event. That'll certainly generate both challenging conditions for the crews, and some exciting rallying for our viewers."
+  },
+  {
+    "id": "3827",
+    "k": "lng_br_mp_locRev_cond_snow_004",
+    "en": "A little look at the weather forecast now, and the crews will be in for a snowy time here today. Snowfall is due throughout the entire event, and although it’s fairly expected at this time of year, it may still catch some crews out."
+  },
+  {
+    "id": "3828",
+    "k": "lng_br_mp_locRev_cond_snow_004_2024",
+    "en": "A little look at the weather forecast now, and the crews will be in for a snowy time here today. Snowfall is due for the majority of the event, and it may catch some crews out with reduced visibilty."
+  },
+  {
+    "id": "3829",
+    "k": "lng_br_mp_locRev_evnt_unof_cha_001",
+    "en": "Hello and welcome to what should be a fascinating Charity event, "
+  },
+  {
+    "id": "3830",
+    "k": "lng_br_mp_locRev_evnt_unof_cha_002",
+    "en": "Hello everyone and thanks for joining us here today at this Charity Event, "
+  },
+  {
+    "id": "3831",
+    "k": "lng_br_mp_locRev_evnt_unof_cha_003",
+    "en": "Welcome all and thanks for tuning in today for this Charity Event, "
+  },
+  {
+    "id": "3832",
+    "k": "lng_br_mp_locRev_evnt_unof_cha_004",
+    "en": "Hello there and welcome to this wonderful Charity event, "
+  },
+  {
+    "id": "3833",
+    "k": "lng_br_mp_locRev_evnt_unof_hos_001",
+    "en": "Hello and welcome to this one off Trial event, "
+  },
+  {
+    "id": "3834",
+    "k": "lng_br_mp_locRev_evnt_unof_hos_002",
+    "en": "Greetings everybody, thanks for tuning in. We are just about to get underway for this special Trial event, "
+  },
+  {
+    "id": "3835",
+    "k": "lng_br_mp_locRev_evnt_unof_hos_003",
+    "en": "Hello! We are back and with what should be a fantastic Trial event, "
+  },
+  {
+    "id": "3836",
+    "k": "lng_br_mp_locRev_evnt_unof_hos_004",
+    "en": "Good day to you all, and cheers for joining us. We should see some exciting scenes here today for this Trial event, "
+  },
+  {
+    "id": "3837",
+    "k": "lng_br_mp_locRev_evnt_unof_inv_001",
+    "en": "Hello and welcome to this exciting Invitational event, "
+  },
+  {
+    "id": "3838",
+    "k": "lng_br_mp_locRev_evnt_unof_inv_002",
+    "en": "A warm welcome to everybody tuning in to this Invitational Event, "
+  },
+  {
+    "id": "3839",
+    "k": "lng_br_mp_locRev_evnt_unof_inv_003",
+    "en": "Hello all, and thanks for joining us here today, for an intriguing Invitational Event,"
+  },
+  {
+    "id": "3840",
+    "k": "lng_br_mp_locRev_evnt_unof_inv_004",
+    "en": "Hi there and welcome, we are back with an Invitational Event for you now, "
+  },
+  {
+    "id": "3841",
+    "k": "lng_br_mp_locRev_evnt_unof_man_001",
+    "en": "Hello and welcome to this special Manufacturers Hospitality event, "
+  },
+  {
+    "id": "3842",
+    "k": "lng_br_mp_locRev_evnt_unof_man_002",
+    "en": "A warm welcome and thank you for joining us here today for a Manufacturers Hospitality Event, "
+  },
+  {
+    "id": "3843",
+    "k": "lng_br_mp_locRev_evnt_unof_man_003",
+    "en": "Hello all! We should be in for an exciting rally here today for this Manufacturers Hospitality Event, "
+  },
+  {
+    "id": "3844",
+    "k": "lng_br_mp_locRev_evnt_unof_man_004",
+    "en": "Welcome back, we are here for what should be an exciting Manufacturers Hospitality Event, "
+  },
+  {
+    "id": "3845",
+    "k": "lng_br_mp_locRev_evnt_unof_reg_001",
+    "en": "Hello and welcome everyone to this Regularity Rally event where precision is everything,"
+  },
+  {
+    "id": "3846",
+    "k": "lng_br_mp_locRev_evnt_unof_reg_002",
+    "en": "Welcome to everyone today at this exciting Regularity Rally event,"
+  },
+  {
+    "id": "3847",
+    "k": "lng_br_mp_locRev_evnt_unof_reg_003",
+    "en": "Hi everyone and welcome to what I'm sure will turn out to be a truly thrilling Regularity Rally event,"
+  },
+  {
+    "id": "3848",
+    "k": "lng_br_mp_locRev_evnt_unof_reg_004",
+    "en": "A huge welcome to everyone here today at this Regularity Rally event, "
+  },
+  {
+    "id": "3849",
+    "k": "lng_br_mp_locRev_evnt_unof_reg_005",
+    "en": "Hello all and a very warm welcome to this Regularity Rally event, "
+  },
+  {
+    "id": "3850",
+    "k": "lng_br_mp_locRev_loc_Cer_wrc_001",
+    "en": "Here we are at the newest event on our calendar, the exhilerating Central Europe Rally! Our crews will be pitting themselves against many kilometers of technical asphalt as they fight to be the one to climb up onto that coveted top step. "
+  },
+  {
+    "id": "3851",
+    "k": "lng_br_mp_locRev_loc_Cer_wrc_002",
+    "en": "You join us here at the Central Europe Rally. An asphalt run through some of the most picturesque countryside on the continent. A sharp eye, quick reactions, and nerves of steel will be required from the crews in order to succeed on these twisting country roads. "
+  },
+  {
+    "id": "3852",
+    "k": "lng_br_mp_locRev_loc_Cer_wrc_003",
+    "en": "We have a fantastic event in store for us here at the Central Europe Rally! The spectators are in for a treat at this event as the teams aim to light up the countryside with the sounds of roaring engines and world class driving. "
+  },
+  {
+    "id": "3853",
+    "k": "lng_br_mp_locRev_loc_Cer_wrc_004",
+    "en": "Well here we are at a very special event, the Central Europe Rally. It's a young event here, but one that is sure to provide a bucketload of box office thrills and excitement, as the crews push their vehicles to the limit on these tree lined asphalt roads. "
+  },
+  {
+    "id": "3854",
+    "k": "lng_br_mp_locRev_loc_Cer_wrc_005",
+    "en": "It's almost time for the Central Europe Rally to get underway. Long, twisting, stretches of asphalt, nestled within the forests and fields, are all that stands between our crews and a shot at glory. This event is sure to be full of surprises, and packed with excitement."
+  },
+  {
+    "id": "3855",
+    "k": "lng_br_mp_locRev_loc_Chi_hist_001",
+    "en": "We are here at Rally Andes, a location that brings to our crews dramatic elevation changes over the course of a stage, with long uphill sections that will keep the engine roaring in a low gear to breakneck downhill runs."
+  },
+  {
+    "id": "3856",
+    "k": "lng_br_mp_locRev_loc_Chi_hist_002",
+    "en": "Here we are at Rally Andes, with lush dense forests that conceal much of the stage, the same environment also hides many of the corners, meaning our crews will have to be extra alert to the pace notes."
+  },
+  {
+    "id": "3857",
+    "k": "lng_br_mp_locRev_loc_Chi_hist_003",
+    "en": "It's time for Rally Andes, and a Rally that puts our driver’s confidence on the loose gravel surface to the test. Those that find their traction and rhythm early will have the advantage here."
+  },
+  {
+    "id": "3858",
+    "k": "lng_br_mp_locRev_loc_Chi_hist_004",
+    "en": "A great event ahead of us here at Rally Andes, with its gravel roads that weave through dense forests adding a near constant reminder to our crews, that they need to hug that racing line."
+  },
+  {
+    "id": "3859",
+    "k": "lng_br_mp_locRev_loc_Chi_hist_005",
+    "en": "Our teams have made the journey to Rally Andes to compete at this highly anticipated event, with its technical winding roads, extreme elevations changes, this location offers a thrilling spectacle."
+  },
+  {
+    "id": "3860",
+    "k": "lng_br_mp_locRev_loc_Chi_wrc_001",
+    "en": "We are here at Rally Chile Bio Bío, a location that brings to our crews dramatic elevation changes over the course of a stage, with long uphill sections that will keep the engine roaring in a low gear to breakneck downhill runs."
+  },
+  {
+    "id": "3861",
+    "k": "lng_br_mp_locRev_loc_Chi_wrc_002",
+    "en": "Here we are at Rally Chile Bio Bío, with lush dense forests that conceal much of the stage, the same environment also hides many of the corners, meaning our crews will have to be extra alert to the pace notes."
+  },
+  {
+    "id": "3862",
+    "k": "lng_br_mp_locRev_loc_Chi_wrc_003",
+    "en": "It's time for Rally Chile Bio Bío, and a Rally that puts our driver’s confidence on the loose gravel surface to the test. Those that can find their traction and rhythm early will have the advantage here."
+  },
+  {
+    "id": "3863",
+    "k": "lng_br_mp_locRev_loc_Chi_wrc_004",
+    "en": "A great event ahead of us here at Rally Chile Bio Bío, with its gravel roads that weave through dense forests adding a near constant reminder to our crews, that they need to hug that racing line."
+  },
+  {
+    "id": "3864",
+    "k": "lng_br_mp_locRev_loc_Chi_wrc_005",
+    "en": "Our teams have made the journey to Rally Chile Bio Bío to compete at this highly anticipated event, with its technical winding roads, extreme elevations changes, this location offers a thrilling spectacle."
+  },
+  {
+    "id": "3865",
+    "k": "lng_br_mp_locRev_loc_Cor_hist_001",
+    "en": "We're here this week for a rollercoaster on asphalt, at the viciously tight and twisty Rally Mediterraneo. The crews will be racing along these narrow stages in a matter of moments, with everything to play for, and plenty of points to be scored."
+  },
+  {
+    "id": "3866",
+    "k": "lng_br_mp_locRev_loc_Cor_hist_002",
+    "en": "It’s that time of year where our WRC competitors fit some asphalt rubber and take to the narrow mountain roads of the formidable Rally Mediterraneo. These stages wind themselves up into tight mountain villages, and are sure to create a truly thrilling event."
+  },
+  {
+    "id": "3867",
+    "k": "lng_br_mp_locRev_loc_Cor_hist_003",
+    "en": "Well here we have it, a true asphalt challenge for these WRC competitors, the Rally Mediterraneo. It's often known as the Ten Thousand Turns Rally, the crews will be pushed to their limits, to get around each one of the twists and turns in the fastest way possible. "
+  },
+  {
+    "id": "3868",
+    "k": "lng_br_mp_locRev_loc_Cor_hist_004",
+    "en": "This week’s action is taking place here at the Rally Mediterraneo. It's a true testament to the skill of the crews here this week, that they can tackle these often terrifying mountain stages, with such speed and ferocity. We should be in for a fantastic display."
+  },
+  {
+    "id": "3869",
+    "k": "lng_br_mp_locRev_loc_Cor_hist_005",
+    "en": "Here we are then, we are awaiting some thrilling action along these asphalt draped mountains that make up the Rally Mediterraneo. It’s an exhilarating event here, as perilous drops lay in wait along the edges of almost every stage. Let's see how the crews tackle it."
+  },
+  {
+    "id": "3870",
+    "k": "lng_br_mp_locRev_loc_Cor_wrc_001",
+    "en": "We're here this week for a rollercoaster on asphalt, at the viciously tight and twisty Tour de Corse. The crews will be racing along these narrow stages in a matter of moments, with everything to play for, and plenty of points to be scored."
+  },
+  {
+    "id": "3871",
+    "k": "lng_br_mp_locRev_loc_Cor_wrc_002",
+    "en": "It’s that time of year where our WRC competitors fit some asphalt rubber and take to the narrow mountain roads of the formidable Tour de Corse. These stages wind themselves up into tight mountain villages, and are sure to create a truly thrilling event."
+  },
+  {
+    "id": "3872",
+    "k": "lng_br_mp_locRev_loc_Cor_wrc_003",
+    "en": "Well here we have it, a true asphalt challenge for these WRC competitors, the Tour de Corse. It's often known as the Rally of Ten Thousand Turns, the crews will be pushed to their limits, to get around each one of the twists and turns in the fastest way possible. "
+  },
+  {
+    "id": "3873",
+    "k": "lng_br_mp_locRev_loc_Cor_wrc_004",
+    "en": "This week’s action is taking place here at the Tour de Corse. It's a true testament to the skill of the crews here this week, that they can tackle these often terrifying mountain stages, with such speed and ferocity. We should be in for a fantastic display."
+  },
+  {
+    "id": "3874",
+    "k": "lng_br_mp_locRev_loc_Cor_wrc_005",
+    "en": "Here we are then, we are awaiting some thrilling action along these asphalt draped mountains that make up the Tour de Corse. It’s an exhilarating event here, as perilous drops lay in wait along the edges of almost every stage. Let's see how the crews tackle it."
+  },
+  {
+    "id": "3875",
+    "k": "lng_br_mp_locRev_loc_Cro_wrc_001",
+    "en": "Thank you for joining us here today for the wonderful combination of stunning scenery and treacherous asphalt that will be the backdrop for this thrilling edition of the Championship - Rally Croatia."
+  },
+  {
+    "id": "3876",
+    "k": "lng_br_mp_locRev_loc_Cro_wrc_002",
+    "en": "The atmosphere in the service park is electric, as the teams and crews are performing their last preparations, and readying their cars, before taking on the challenge of Rally Croatia."
+  },
+  {
+    "id": "3877",
+    "k": "lng_br_mp_locRev_loc_Cro_wrc_003",
+    "en": "It's almost time to get Rally Croatia underway. The crews are going through their final preparations, and there’s a sense that whoever is the most accurate through the many crests and jumps here, will come out on top!"
+  },
+  {
+    "id": "3878",
+    "k": "lng_br_mp_locRev_loc_Cro_wrc_004",
+    "en": "We're here at Rally Croatia, ready for more awe-inspiring asphalt action. The teams are almost ready to take to the stages, and soon enough the countryside of Croatia will be coming alive with the sounds of the WRC."
+  },
+  {
+    "id": "3879",
+    "k": "lng_br_mp_locRev_loc_Cro_wrc_005",
+    "en": "It's Rally Croatia for this edition of the WRC. An exhilarating event of fast flowing and deceptively tricky asphalt roads. Driver and co-driver need to be completely in sync here, as blind crests and tightening corners will challenge even the very best."
+  },
+  {
+    "id": "3880",
+    "k": "lng_br_mp_locRev_loc_Est_wrc_001",
+    "en": "It's the wonderful gravel surface and fluid stages of Rally Estonia in this edition of the Championship. The crews and cars will be especially tested over huge mountainous jumps that are along the course."
+  },
+  {
+    "id": "3881",
+    "k": "lng_br_mp_locRev_loc_Est_wrc_002",
+    "en": "You join us as our teams prepare to take on Rally Estonia. Full of twisting lines through the countryside’s heavy gravel tracks, you can expect plenty of pace, and plenty of action."
+  },
+  {
+    "id": "3882",
+    "k": "lng_br_mp_locRev_loc_Est_wrc_003",
+    "en": "Here we are for the first round of Rally Estonia. A very exciting location for rally, and always draws massive crowds looking to see the cars take off over the huge jumps."
+  },
+  {
+    "id": "3883",
+    "k": "lng_br_mp_locRev_loc_Est_wrc_004",
+    "en": "Rally Estonia is known for its high speed aerial action, with our drivers having to manage those leaps of faith with a confident landing, they are potentially race ending if misjudged."
+  },
+  {
+    "id": "3884",
+    "k": "lng_br_mp_locRev_loc_Est_wrc_005",
+    "en": "It's great to be here for Rally Estonia, a fan favourite of course, with its high speeds sending the gravel surface high into the air, leaving a familiar trail of dust to settle before the next team unsettle it once more."
+  },
+  {
+    "id": "3885",
+    "k": "lng_br_mp_locRev_loc_Fin_gen_001",
+    "en": "We're here for Rally Finland, the gravel Grand Prix, where the crews will be hitting the fastest speeds on the calendar in their attempts to set the quickest times in this forested rally wonderland."
+  },
+  {
+    "id": "3886",
+    "k": "lng_br_mp_locRev_loc_Fin_gen_002",
+    "en": "Rally Finland, the gravel rollercoaster, an event that draws huge crowds to line the spectator routes, hoping to see our brave drivers take this legendary location head on."
+  },
+  {
+    "id": "3887",
+    "k": "lng_br_mp_locRev_loc_Fin_gen_003",
+    "en": "It's great to be here at Rally Finland, a full speed run through this beautiful location, taking in some dramatic views as our teams try to tame these legendary stages."
+  },
+  {
+    "id": "3888",
+    "k": "lng_br_mp_locRev_loc_Fin_gen_004",
+    "en": "Here we are at Rally Finland, a fast yet challenging location. Drivers will need to have full faith in their pacenotes, as car position will often be the difference between making it over a jump and round the following corner, or taking an unplanned trip through the local forest."
+  },
+  {
+    "id": "3889",
+    "k": "lng_br_mp_locRev_loc_Fin_gen_005",
+    "en": "Tall dramatic woodland looming in the distance, an abundance of gravel, and the roar of distant engines echoing throughout the stages, it's of course Rally Finland!"
+  },
+  {
+    "id": "3890",
+    "k": "lng_br_mp_locRev_loc_Fin_wrc_001",
+    "en": "We're here for the Secto Rally Finland, the Grand Prix on Gravel, where the crews will be hitting the fastest speeds on the calendar in their attempts to set the quickest times in this forested rally wonderland."
+  },
+  {
+    "id": "3891",
+    "k": "lng_br_mp_locRev_loc_Fin_wrc_002",
+    "en": "Secto Rally Finland, the gravel rollercoaster, an event that draws huge crowds to line the spectator routes, hoping to see our brave drivers take this legendary location head on."
+  },
+  {
+    "id": "3892",
+    "k": "lng_br_mp_locRev_loc_Fin_wrc_003",
+    "en": "It's great to be here at the Secto Rally Finland, a full speed run through this beautiful location, taking in some dramatic views as our teams try to tame these legendary stages."
+  },
+  {
+    "id": "3893",
+    "k": "lng_br_mp_locRev_loc_Fin_wrc_004",
+    "en": "Here we are at Secto Rally Finland, a fast yet challenging location. Drivers will need to have full faith in their pace notes, as car position will often be the difference between making it over a jump and round the following corner, or taking an unplanned trip through the local forest."
+  },
+  {
+    "id": "3894",
+    "k": "lng_br_mp_locRev_loc_Fin_wrc_005",
+    "en": "Tall dramatic woodland looming in the distance, an abundance of gravel, and the roar of distant engines echoing throughout the stages, it's of course the Secto Rally Finland!"
+  },
+  {
+    "id": "3895",
+    "k": "lng_br_mp_locRev_loc_Gre_gen_001",
+    "en": "It's that time of year where the WRC crews attempt to take on the gods themselves, as we wait for the start of Rally Greece. A bruising event of extremely abrasive stages is all that stands between our crews and a shot at glory."
+  },
+  {
+    "id": "3896",
+    "k": "lng_br_mp_locRev_loc_Gre_gen_002",
+    "en": "Legend and mythology are thick in the air here, as the team are slowly preparing themselves to take on Rally Greece. A win here is always something special, and any crew that achieves it, will be propelling themselves into the history of this classic event."
+  },
+  {
+    "id": "3897",
+    "k": "lng_br_mp_locRev_loc_Gre_gen_003",
+    "en": "Here we are for Rally Greece, an often cruel event with it's tire shredding rocky surface, our drivers will find it tough to reach top speeds here such is the extremely technical nature of this event. Slow and steady might just win this race."
+  },
+  {
+    "id": "3898",
+    "k": "lng_br_mp_locRev_loc_Gre_gen_003",
+    "en": "Here we are for Rally Greece, an often cruel event with it's tyre shredding rocky surface, our drivers will find it tough to reach top speeds here such is the extremely technical nature of this event. Slow and steady might just win this race."
+  },
+  {
+    "id": "3899",
+    "k": "lng_br_mp_locRev_loc_Gre_gen_004",
+    "en": "Fans of epic vistas will be presented with a feast for the eyes as we are here for Rally Greece. Our drivers will need to put all of that aside though, as the prize for even a moment's distraction could be an early DNF."
+  },
+  {
+    "id": "3900",
+    "k": "lng_br_mp_locRev_loc_Gre_gen_005",
+    "en": "And it's time for Rally Greece, a location dominated by imposing scenery, but our teams will give as good as they get with the sounds of these furious engines echoing through the landscape."
+  },
+  {
+    "id": "3901",
+    "k": "lng_br_mp_locRev_loc_Gre_wrc_001",
+    "en": "It's that time of year where the WRC crews attempt to take on the gods themselves, as we await the start of the EKO Acropolis Rally Greece. A bruising event of extremely abrasive stages is all that stands between our crews and a shot at glory."
+  },
+  {
+    "id": "3902",
+    "k": "lng_br_mp_locRev_loc_Gre_wrc_002",
+    "en": "Legend and mythology are thick in the air here, as the teams are slowly preparing themselves to take on the EKO Acropolis Rally Greece. A win here is always something special, and any crew that achieves it, will be propelling themselves into the history of this classic event."
+  },
+  {
+    "id": "3903",
+    "k": "lng_br_mp_locRev_loc_Gre_wrc_003",
+    "en": "Here we are for the EKO Acropolis Rally Greece, an often cruel event with it's tire shredding rocky surface, our drivers will find it tough to reach top speeds here such is the extremely technical nature of this event. Slow and steady might just win this race."
+  },
+  {
+    "id": "3904",
+    "k": "lng_br_mp_locRev_loc_Gre_wrc_003",
+    "en": "Here we are for the EKO Acropolis Rally Greece, an often cruel event with it's tyre shredding rocky surface, our drivers will find it tough to reach top speeds here such is the extremely technical nature of this event. Slow and steady might just win this race."
+  },
+  {
+    "id": "3905",
+    "k": "lng_br_mp_locRev_loc_Gre_wrc_004",
+    "en": "Fans of epic vistas will be presented with a feast for the eyes as we are here for the EKO Acropolis Rally Greece. Our drivers will need to put all of that aside though, as the prize for even a moments distraction could be an early DNF."
+  },
+  {
+    "id": "3906",
+    "k": "lng_br_mp_locRev_loc_Gre_wrc_005",
+    "en": "And it's time for the EKO Acropolis Rally Greece, a location dominated by imposing scenery, but our teams will give as good as they get with the sounds of these furious engines echoing through the landscape."
+  },
+  {
+    "id": "3907",
+    "k": "lng_br_mp_locRev_loc_Ind_wrc_001",
+    "en": "Here we are for Rally Indonesia, characterised by its muddy surfaces and long high speed straights to provide a potent mix of thrills, and technicality. Our crews will be eager to show that they are up for the challenge."
+  },
+  {
+    "id": "3908",
+    "k": "lng_br_mp_locRev_loc_Ind_wrc_002",
+    "en": "You join us for Rally Indonesia. This exotic location sees dirt and gravel tracks cut through lush dense palm trees, with elevation changes that provide a thrilling challenge for our teams to conquer."
+  },
+  {
+    "id": "3909",
+    "k": "lng_br_mp_locRev_loc_Ind_wrc_003",
+    "en": "It's time for Rally Indonesia, nestled within dense greenery, these fast dirt and gravel roads are made more difficult with obstacles, like chicanes, and narrow bridges. With each obstacle having the potential to rob our crews of valuable time."
+  },
+  {
+    "id": "3910",
+    "k": "lng_br_mp_locRev_loc_Ind_wrc_004",
+    "en": "We are ready for what is set to be a thrilling event here at Rally Indonesia. With super long high speed straights for our teams to attack, though they must be fully alert as the dense foliage can often hide blind corners."
+  },
+  {
+    "id": "3911",
+    "k": "lng_br_mp_locRev_loc_Ind_wrc_005",
+    "en": "Rally Indonesia certainly has all the ingredients for a memorable and thrilling event, though it is as treacherous as it is beautiful, with high speed runs into jumps and blind corners, our teams will need to remain focused throughout."
+  },
+  {
+    "id": "3912",
+    "k": "lng_br_mp_locRev_loc_Jap_gen_001",
+    "en": "We are here at Rally Japan, a high speed run that twists through the mountains and turns through the farmland and villages of this stunning country."
+  },
+  {
+    "id": "3913",
+    "k": "lng_br_mp_locRev_loc_Jap_gen_002",
+    "en": "Here we are getting ready for the high speed thrills of Rally Japan, notorious for its snaking mountain runs and high speed asphalt rallying, this will be a thrilling event."
+  },
+  {
+    "id": "3914",
+    "k": "lng_br_mp_locRev_loc_Jap_gen_003",
+    "en": "It's time for Rally Japan, a mostly asphalt event, allowing our teams to feel the sheer speed of this location. Finding a good rhythm here is crucial as the corners are delivered thick and fast."
+  },
+  {
+    "id": "3915",
+    "k": "lng_br_mp_locRev_loc_Jap_gen_004",
+    "en": "Rally Japan will test our crew’s ability to find pace and rhythm from the get-go, with plenty of unique features and one of the more extreme changes in altitude on the calendar."
+  },
+  {
+    "id": "3916",
+    "k": "lng_br_mp_locRev_loc_Jap_gen_005",
+    "en": "Greetings from Rally Japan, and a slightly different one than Rally fans have come to expect from this location, now opting for the traction of asphalt rather than the gravel surfaces of previous incarnations."
+  },
+  {
+    "id": "3917",
+    "k": "lng_br_mp_locRev_loc_Jap_wrc_001",
+    "en": "We are here at the FORUM8 Rally Japan, a high speed run that twists through the mountains and turns through the farmland and villages of this stunning country."
+  },
+  {
+    "id": "3918",
+    "k": "lng_br_mp_locRev_loc_Jap_wrc_002",
+    "en": "Here we are getting ready for the high speed thrills of FORUM8 Rally Japan, notorious for its snaking mountain runs and high speed asphalt rallying, this will be a thrilling event."
+  },
+  {
+    "id": "3919",
+    "k": "lng_br_mp_locRev_loc_Jap_wrc_003",
+    "en": "It's time for the FORUM8 Rally Japan, a mostly asphalt event, allowing our teams to feel the sheer speed of this location. Finding a good rhythm here is crucial as the corners are delivered thick and fast."
+  },
+  {
+    "id": "3920",
+    "k": "lng_br_mp_locRev_loc_Jap_wrc_004",
+    "en": "FORUM8 Rally Japan will test our crew’s ability to find pace and rhythm from the get-go, with plenty of unique features and one of the more extreme changes in altitude on the calendar."
+  },
+  {
+    "id": "3921",
+    "k": "lng_br_mp_locRev_loc_Jap_wrc_005",
+    "en": "Greetings from the FORUM8 Rally Japan, and a slightly different one than Rally fans have come to expect from this location, now opting for the traction of asphalt rather than the loose gravel surfaces of previous incarnations."
+  },
+  {
+    "id": "3922",
+    "k": "lng_br_mp_locRev_loc_Ken_wrc_001",
+    "en": "It's that time of year for us to embrace the greatest adventure on the WRC Calendar, the wonderful Safari Rally Kenya. So Jambo, karibu, and hello to everyone tuning in, let's get the action started."
+  },
+  {
+    "id": "3923",
+    "k": "lng_br_mp_locRev_loc_Ken_wrc_002",
+    "en": "We are here for the daunting challenge that is the Safari Rally Kenya. Looks can be misleading here, as this stunning location will have our crews fighting for survival."
+  },
+  {
+    "id": "3924",
+    "k": "lng_br_mp_locRev_loc_Ken_wrc_003",
+    "en": "It's great to be back at Safari Rally Kenya. A country as beautiful as its stages are diverse and challenging. Much of the road surface is rocky, with a covering of fine sand, which will throw up huge dust trails as our competitors roar through the wilderness. "
+  },
+  {
+    "id": "3925",
+    "k": "lng_br_mp_locRev_loc_Ken_wrc_004",
+    "en": "We are ready and set for Safari Rally Kenya, with its deceptive dusty surfaces leading to rougher, bumpy sections, this location is known to test a cars longevity."
+  },
+  {
+    "id": "3926",
+    "k": "lng_br_mp_locRev_loc_Ken_wrc_005",
+    "en": "And we are here at Safari Rally Kenya, three words that will strike fear into even the most seasoned professional, such is the challenge of not only the stage layout but also the harsh natural environment itself."
+  },
+  {
+    "id": "3927",
+    "k": "lng_br_mp_locRev_loc_Lat_gen_wrc_001",
+    "en": "We are here at the musical heart of Lativa, Liepaja, for Rally Lativa! For the only Baltic event on the calendar, we can expect some truly beautiful stages that can be driven at excruciating speeds."
+  },
+  {
+    "id": "3928",
+    "k": "lng_br_mp_locRev_loc_Lat_gen_wrc_002",
+    "en": "We're here in the City of Wind, Liepaja, for the beautiful Rally Latvia! Our drivers will be battling it out through some fast, flat out sections alongside gravel-laden forests and vast open meadows. "
+  },
+  {
+    "id": "3929",
+    "k": "lng_br_mp_locRev_loc_Lat_gen_wrc_003",
+    "en": "Our drivers will truly be putting their cars to the test here at Rally Latvia! With fast corners littered around the stages, the drivers will really have to utitlise that laser focus or their rally could be ruined at the hands of a road-side ditch."
+  },
+  {
+    "id": "3930",
+    "k": "lng_br_mp_locRev_loc_Lat_gen_wrc_004",
+    "en": "Rally Latvia! Along the Baltic coast, our drivers will be speeding through lush forests and tackling wide open tracks through meadowed farmlands. "
+  },
+  {
+    "id": "3931",
+    "k": "lng_br_mp_locRev_loc_Lat_gen_wrc_005",
+    "en": "You are joining us here in breezy Liepaja for today's event, Rally Latvia! The wind is sure to blow the sound of roaring engines through the beautiful, green countryside here. "
+  },
+  {
+    "id": "3932",
+    "k": "lng_br_mp_locRev_loc_Lat_wrc_001",
+    "en": "We are here at the musical heart of Lativa, Liepaja, for Tet Rally Lativa! For the only Baltic event on the calendar, we can expect some truly beautiful stages that can be driven at excruciating speeds."
+  },
+  {
+    "id": "3933",
+    "k": "lng_br_mp_locRev_loc_Lat_wrc_002",
+    "en": "We're here in the City of Wind, Liepaja, for the beautiful Tet Rally Latvia! Our drivers will be battling it out through some fast, flat out sections alongside gravel-laden forests and vast open meadows. "
+  },
+  {
+    "id": "3934",
+    "k": "lng_br_mp_locRev_loc_Lat_wrc_003",
+    "en": "Our drivers will truly be putting their cars to the test here at Tet Rally Latvia! With fast corners littered around the stages, the drivers will really have to utitlise that laser focus or their rally could be ruined at the hands of a road-side ditch."
+  },
+  {
+    "id": "3935",
+    "k": "lng_br_mp_locRev_loc_Lat_wrc_004",
+    "en": "Tet Rally Latvia! Along the Baltic coast, our drivers will be speeding through lush forests and tackling wide open tracks through meadowed farmlands. "
+  },
+  {
+    "id": "3936",
+    "k": "lng_br_mp_locRev_loc_Lat_wrc_005",
+    "en": "You are joining us here in breezy Liepaja for today's event, Tet Rally Latvia! The wind is sure to blow the sound of roaring engines through the beautiful, green countryside here. "
+  },
+  {
+    "id": "3937",
+    "k": "lng_br_mp_locRev_loc_Mex_hist_001",
+    "en": "You join us here for Rally Cordillera, a location that our teams will need to be as tough as the flora that, against all odds, manages to survive in these mostly dry, arid conditions."
+  },
+  {
+    "id": "3938",
+    "k": "lng_br_mp_locRev_loc_Mex_hist_002",
+    "en": "Here at Rally Cordillera our teams will find themselves stuck between a rock wall and a sheer drop as they navigate these harsh gravel roads while hunting for any time advantage they can."
+  },
+  {
+    "id": "3939",
+    "k": "lng_br_mp_locRev_loc_Mex_hist_003",
+    "en": "Here we are at Rally Cordillera. All is calm now, but the dust is about to be unsettled by our crews as they take to the stages, looking to navigate technical town sections, and tricky junctions that will keep both driver and Co-driver on their toes throughout."
+  },
+  {
+    "id": "3940",
+    "k": "lng_br_mp_locRev_loc_Mex_hist_004",
+    "en": "Rally Cordillera delivers a high altitude, and at times high speed charge to the finish for our crews, with undulating elevation changes along these roads that are often carved into the side of a hill, there's plenty of natural and man made obstacles to overcome here."
+  },
+  {
+    "id": "3941",
+    "k": "lng_br_mp_locRev_loc_Mex_hist_005",
+    "en": "Rally Cordillera is a real test for our teams in the competition. With high speed jumps into sudden hairpins, and unforgiving roads with ditches that love to grab the inside tire, these crews must be on full alert from the get go."
+  },
+  {
+    "id": "3942",
+    "k": "lng_br_mp_locRev_loc_Mex_hist_005",
+    "en": "Rally Cordillera is a real test for our teams in the competition. With high speed jumps into sudden hairpins, and unforgiving roads with ditches that love to grab the inside tyre, these crews must be on full alert from the get go."
+  },
+  {
+    "id": "3943",
+    "k": "lng_br_mp_locRev_loc_Mex_wrc_001",
+    "en": "You join us here for Guanajuato Rally México, a location that our teams will need to be as tough as the flora that, against all odds, manages to survive in these mostly dry, arid conditions."
+  }
+]

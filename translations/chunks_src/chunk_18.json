@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "6860",
+    "k": "lng_location_description_portugal",
+    "en": "Long fast and flowing rally through the idyllic and vibrant countryside"
+  },
+  {
+    "id": "6861",
+    "k": "lng_location_description_sardinia",
+    "en": "A difficult rally with winding gravel roads navigating the warm coastal regions"
+  },
+  {
+    "id": "6862",
+    "k": "lng_location_description_spain",
+    "en": "Blisteringly fast asphalt rally through the countryside of España"
+  },
+  {
+    "id": "6863",
+    "k": "lng_location_description_sweden",
+    "en": "Spruce trees, snow banks, and icy straights make up this iconic snow rally"
+  },
+  {
+    "id": "6864",
+    "k": "lng_location_name",
+    "en": "Location Name"
+  },
+  {
+    "id": "6865",
+    "k": "lng_location_name_chile",
+    "en": "RALLY CHILE BIO BÍO"
+  },
+  {
+    "id": "6866",
+    "k": "lng_location_name_corsica",
+    "en": "RALLY MEDITERRANEO"
+  },
+  {
+    "id": "6867",
+    "k": "lng_location_name_croatia",
+    "en": "CROATIA RALLY"
+  },
+  {
+    "id": "6868",
+    "k": "lng_location_name_czech_republic",
+    "en": "CENTRAL EUROPE RALLY"
+  },
+  {
+    "id": "6869",
+    "k": "lng_location_name_estonia",
+    "en": "RALLY ESTONIA"
+  },
+  {
+    "id": "6870",
+    "k": "lng_location_name_finland",
+    "en": "SECTO RALLY FINLAND"
+  },
+  {
+    "id": "6871",
+    "k": "lng_location_name_greece",
+    "en": "EKO ACROPOLIS RALLY GREECE"
+  },
+  {
+    "id": "6872",
+    "k": "lng_location_name_indonesia",
+    "en": "AGON BY AOC RALLY PACIFICO"
+  },
+  {
+    "id": "6873",
+    "k": "lng_location_name_japan",
+    "en": "FORUM8 RALLY JAPAN"
+  },
+  {
+    "id": "6874",
+    "k": "lng_location_name_kenya",
+    "en": "SAFARI RALLY KENYA"
+  },
+  {
+    "id": "6875",
+    "k": "lng_location_name_latvia",
+    "en": "TET RALLY LATVIA"
+  },
+  {
+    "id": "6876",
+    "k": "lng_location_name_mexico",
+    "en": "GUANAJUATO RALLY MÉXICO"
+  },
+  {
+    "id": "6877",
+    "k": "lng_location_name_monte_carlo",
+    "en": "RALLYE MONTE-CARLO"
+  },
+  {
+    "id": "6878",
+    "k": "lng_location_name_new_zealand",
+    "en": "FANATEC RALLY OCEANIA"
+  },
+  {
+    "id": "6879",
+    "k": "lng_location_name_norway",
+    "en": "RALLY SCANDIA"
+  },
+  {
+    "id": "6880",
+    "k": "lng_location_name_poland",
+    "en": "ORLEN 80TH RALLY POLAND"
+  },
+  {
+    "id": "6881",
+    "k": "lng_location_name_portugal",
+    "en": "VODAFONE RALLY DE PORTUGAL"
+  },
+  {
+    "id": "6882",
+    "k": "lng_location_name_sardinia",
+    "en": "RALLY ITALIA SARDEGNA"
+  },
+  {
+    "id": "6883",
+    "k": "lng_location_name_spain",
+    "en": "RALLY IBERIA"
+  },
+  {
+    "id": "6884",
+    "k": "lng_location_name_sweden",
+    "en": "RALLY SWEDEN"
+  },
+  {
+    "id": "6885",
+    "k": "lng_location_select_season_selector_label",
+    "en": "Season"
+  },
+  {
+    "id": "6886",
+    "k": "lng_rally_pass_buy_premium",
+    "en": "Buy VIP"
+  },
+  {
+    "id": "6887",
+    "k": "lng_rally_pass_connecting_to_server",
+    "en": "Connecting to server"
+  },
+  {
+    "id": "6888",
+    "k": "lng_rally_pass_eaplay",
+    "en": "EA Play"
+  },
+  {
+    "id": "6889",
+    "k": "lng_rally_pass_ends",
+    "en": "Season ends in:"
+  },
+  {
+    "id": "6890",
+    "k": "lng_rally_pass_free",
+    "en": "FREE"
+  },
+  {
+    "id": "6891",
+    "k": "lng_rally_pass_level",
+    "en": "Level"
+  },
+  {
+    "id": "6892",
+    "k": "lng_rally_pass_new_item_available",
+    "en": "New Item Available"
+  },
+  {
+    "id": "6893",
+    "k": "lng_rally_pass_next_rewards",
+    "en": "Next rewards: "
+  },
+  {
+    "id": "6894",
+    "k": "lng_rally_pass_premium_active",
+    "en": "VIP Active"
+  },
+  {
+    "id": "6895",
+    "k": "lng_rally_pass_premium_inactive",
+    "en": "VIP Inactive"
+  },
+  {
+    "id": "6896",
+    "k": "lng_rally_pass_time_remaining",
+    "en": "{0}D {1}H {2}M {3}S"
+  },
+  {
+    "id": "6897",
+    "k": "lng_rally_pass_unlock_level",
+    "en": "Unlock Level:"
+  },
+  {
+    "id": "6898",
+    "k": "lng_rally_pass_vip",
+    "en": "Requires VIP"
+  },
+  {
+    "id": "6899",
+    "k": "lng_rally_profile_average_finish",
+    "en": "Average Finish"
+  },
+  {
+    "id": "6900",
+    "k": "lng_rally_profile_championship",
+    "en": "Championships"
+  },
+  {
+    "id": "6901",
+    "k": "lng_rally_profile_completed",
+    "en": "Completed"
+  },
+  {
+    "id": "6902",
+    "k": "lng_rally_profile_distance_driven",
+    "en": "Distance Driven"
+  },
+  {
+    "id": "6903",
+    "k": "lng_rally_profile_distance_travelled",
+    "en": "Distance Travelled"
+  },
+  {
+    "id": "6904",
+    "k": "lng_rally_profile_download_failed_body",
+    "en": "There has been an error in obtaining the Rally Passport data. Please try again later."
+  },
+  {
+    "id": "6905",
+    "k": "lng_rally_profile_events",
+    "en": "Events"
+  },
+  {
+    "id": "6906",
+    "k": "lng_rally_profile_friend_times_beaten",
+    "en": "Friends' Times Beaten"
+  },
+  {
+    "id": "6907",
+    "k": "lng_rally_profile_is_private_body",
+    "en": "The Rally Passport you are trying to view is not available."
+  },
+  {
+    "id": "6908",
+    "k": "lng_rally_profile_most_played_class",
+    "en": "Most Played Class"
+  },
+  {
+    "id": "6909",
+    "k": "lng_rally_profile_most_played_vehicle",
+    "en": "Most Played Vehicle"
+  },
+  {
+    "id": "6910",
+    "k": "lng_rally_profile_most_used_car",
+    "en": "Most Used Car"
+  },
+  {
+    "id": "6911",
+    "k": "lng_rally_profile_most_used_driver",
+    "en": "Most Used Licensed Driver"
+  },
+  {
+    "id": "6912",
+    "k": "lng_rally_profile_most_used_team",
+    "en": "Most Used Team"
+  },
+  {
+    "id": "6913",
+    "k": "lng_rally_profile_most_visited_location",
+    "en": "Most Visited Location"
+  },
+  {
+    "id": "6914",
+    "k": "lng_rally_profile_number_of_terminals",
+    "en": "Number of Terminals"
+  },
+  {
+    "id": "6915",
+    "k": "lng_rally_profile_personal_bests_beaten",
+    "en": "Personal Bests Beaten"
+  },
+  {
+    "id": "6916",
+    "k": "lng_rally_profile_podium",
+    "en": "Podium"
+  },
+  {
+    "id": "6917",
+    "k": "lng_rally_profile_scenarios_attempted",
+    "en": "Moments Attempted"
+  },
+  {
+    "id": "6918",
+    "k": "lng_rally_profile_scenarios_completed",
+    "en": "Moments Completed"
+  },
+  {
+    "id": "6919",
+    "k": "lng_rally_profile_seasons_completed",
+    "en": "Seasons Completed"
+  },
+  {
+    "id": "6920",
+    "k": "lng_rally_profile_stages",
+    "en": "Stages"
+  },
+  {
+    "id": "6921",
+    "k": "lng_rally_profile_started",
+    "en": "Started"
+  },
+  {
+    "id": "6922",
+    "k": "lng_rally_profile_tab_career",
+    "en": "CAREER"
+  },
+  {
+    "id": "6923",
+    "k": "lng_rally_profile_tab_multiplayer",
+    "en": "MULTIPLAYER"
+  },
+  {
+    "id": "6924",
+    "k": "lng_rally_profile_tab_scenarios",
+    "en": "MOMENTS"
+  },
+  {
+    "id": "6925",
+    "k": "lng_rally_profile_tab_solo",
+    "en": "SOLO"
+  },
+  {
+    "id": "6926",
+    "k": "lng_rally_profile_tab_timetrial",
+    "en": "TIME TRIAL"
+  },
+  {
+    "id": "6927",
+    "k": "lng_rally_profile_target_time_beaten",
+    "en": "Target Time Beaten"
+  },
+  {
+    "id": "6928",
+    "k": "lng_rally_profile_wins",
+    "en": "Wins"
+  },
+  {
+    "id": "6929",
+    "k": "lng_rally_school_lesson_advanced",
+    "en": "Advanced"
+  },
+  {
+    "id": "6930",
+    "k": "lng_rally_school_lesson_basic",
+    "en": "Basic"
+  },
+  {
+    "id": "6931",
+    "k": "lng_rally_school_lesson_timed_stage",
+    "en": "Timed Stage"
+  },
+  {
+    "id": "6932",
+    "k": "lng_stage_complete",
+    "en": "STAGE COMPLETE"
+  },
+  {
+    "id": "6933",
+    "k": "lng_stage_count",
+    "en": "STAGE {0}"
+  },
+  {
+    "id": "6934",
+    "k": "lng_stage_final_leg",
+    "en": "FINAL LEG"
+  },
+  {
+    "id": "6935",
+    "k": "lng_stage_name",
+    "en": "Stage Name"
+  },
+  {
+    "id": "6936",
+    "k": "lng_stage_notes_corner_cut",
+    "en": "Corner cut."
+  },
+  {
+    "id": "6937",
+    "k": "lng_stage_notes_jump_start",
+    "en": "Jumped the start."
+  },
+  {
+    "id": "6938",
+    "k": "lng_stage_notes_too_fast",
+    "en": "Too fast on stage."
+  },
+  {
+    "id": "6939",
+    "k": "lng_stage_notes_too_slow",
+    "en": "Too slow on stage."
+  },
+  {
+    "id": "6940",
+    "k": "lng_stage_notes_tyre_repair",
+    "en": "Stopped to repair tire."
+  },
+  {
+    "id": "6941",
+    "k": "lng_stage_notes_tyre_repair",
+    "en": "Stopped to repair tyre."
+  },
+  {
+    "id": "6942",
+    "k": "lng_stage_obstacles_name",
+    "en": "STAGE OBSTACLES"
+  },
+  {
+    "id": "6943",
+    "k": "lng_stage_of_stage_count",
+    "en": "STAGE {0} OF {1}"
+  },
+  {
+    "id": "6944",
+    "k": "lng_stage_outro_personal_best_success",
+    "en": "NEW PERSONAL BEST"
+  },
+  {
+    "id": "6945",
+    "k": "lng_stage_outro_rally_school_evaluation",
+    "en": "Rally School - Evaluation"
+  },
+  {
+    "id": "6946",
+    "k": "lng_stage_outro_rally_school_fail",
+    "en": "FAIL"
+  },
+  {
+    "id": "6947",
+    "k": "lng_stage_outro_rally_school_pass",
+    "en": "SUCCESS"
+  },
+  {
+    "id": "6948",
+    "k": "lng_stage_outro_target_time",
+    "en": "Target Time"
+  },
+  {
+    "id": "6949",
+    "k": "lng_stage_primary_leg",
+    "en": "PRIMARY LEG"
+  },
+  {
+    "id": "6950",
+    "k": "lng_stage_result",
+    "en": "Stage Result"
+  },
+  {
+    "id": "6951",
+    "k": "lng_stage_select_condition_selector_label",
+    "en": "Conditions"
+  },
+  {
+    "id": "6952",
+    "k": "lng_stage_select_entitlement_required",
+    "en": "Missing Entitlement"
+  },
+  {
+    "id": "6953",
+    "k": "lng_stage_select_title",
+    "en": "STAGE SELECT"
+  },
+  {
+    "id": "6954",
+    "k": "lng_track_surface",
+    "en": "Track Surface"
+  },
+  {
+    "id": "6955",
+    "k": "lng_track_surface_condition_name_drying",
+    "en": "Drying"
+  },
+  {
+    "id": "6956",
+    "k": "lng_track_surface_condition_name_flooded",
+    "en": "Flooded"
+  },
+  {
+    "id": "6957",
+    "k": "lng_track_surface_condition_name_light",
+    "en": "Light"
+  },
+  {
+    "id": "6958",
+    "k": "lng_track_surface_condition_name_wet",
+    "en": "Wet"
+  },
+  {
+    "id": "6959",
+    "k": "lng_track_surface_material_name_concrete",
+    "en": "Concrete"
+  },
+  {
+    "id": "6960",
+    "k": "lng_track_surface_material_name_gravel",
+    "en": "Gravel"
+  },
+  {
+    "id": "6961",
+    "k": "lng_track_surface_material_name_heavy_gravel",
+    "en": "Heavy Gravel"
+  },
+  {
+    "id": "6962",
+    "k": "lng_track_surface_material_name_ice",
+    "en": "Ice"
+  },
+  {
+    "id": "6963",
+    "k": "lng_track_surface_material_name_medium_gravel",
+    "en": "Medium Gravel"
+  },
+  {
+    "id": "6964",
+    "k": "lng_track_surface_material_name_tarmac",
+    "en": "Asphalt"
+  },
+  {
+    "id": "6965",
+    "k": "lng_track_surface_name_dry",
+    "en": "Dry"
+  },
+  {
+    "id": "6966",
+    "k": "lng_weather_and_surface_name_clear_damp",
+    "en": "Clear (Wet)"
+  },
+  {
+    "id": "6967",
+    "k": "lng_weather_and_surface_name_clear_dry",
+    "en": "Clear (Dry)"
+  },
+  {
+    "id": "6968",
+    "k": "lng_weather_and_surface_name_clear_ice",
+    "en": "Clear (Ice)"
+  },
+  {
+    "id": "6969",
+    "k": "lng_weather_and_surface_name_clear_snow_wet",
+    "en": "Clear (Snow)"
+  },
+  {
+    "id": "6970",
+    "k": "lng_weather_and_surface_name_cloudy_dry",
+    "en": "Cloudy (Dry)"
+  },
+  {
+    "id": "6971",
+    "k": "lng_weather_and_surface_name_cloudy_ice",
+    "en": "Cloudy (Ice)"
+  },
+  {
+    "id": "6972",
+    "k": "lng_weather_and_surface_name_cloudy_snow",
+    "en": "Cloudy (Snow)"
+  },
+  {
+    "id": "6973",
+    "k": "lng_weather_and_surface_name_cloudy_wet",
+    "en": "Cloudy (Wet)"
+  },
+  {
+    "id": "6974",
+    "k": "lng_weather_and_surface_name_heavy_rain_dry",
+    "en": "Heavy Rain (Dry)"
+  },
+  {
+    "id": "6975",
+    "k": "lng_weather_and_surface_name_heavy_rain_wet",
+    "en": "Heavy Rain (Wet)"
+  },
+  {
+    "id": "6976",
+    "k": "lng_weather_and_surface_name_heavy_snow_dry",
+    "en": "Heavy Snowfall (Dry)"
+  },
+  {
+    "id": "6977",
+    "k": "lng_weather_and_surface_name_heavy_snow_ice",
+    "en": "Heavy Snowfall (Ice)"
+  },
+  {
+    "id": "6978",
+    "k": "lng_weather_and_surface_name_heavy_snow_wet",
+    "en": "Heavy Snowfall (Snow)"
+  },
+  {
+    "id": "6979",
+    "k": "lng_weather_and_surface_name_light_rain_damp",
+    "en": "Light Rain (Wet)"
+  },
+  {
+    "id": "6980",
+    "k": "lng_weather_and_surface_name_light_rain_dry",
+    "en": "Light Rain (Dry)"
+  },
+  {
+    "id": "6981",
+    "k": "lng_weather_and_surface_name_light_snow_dry",
+    "en": "Light Snowfall (Dry)"
+  },
+  {
+    "id": "6982",
+    "k": "lng_weather_and_surface_name_light_snow_snow",
+    "en": "Light Snowfall (Snow)"
+  },
+  {
+    "id": "6983",
+    "k": "lng_weather_and_surface_name_medium_rain_wet",
+    "en": "Medium Rain (Wet)"
+  },
+  {
+    "id": "6984",
+    "k": "lng_weather_and_surface_name_medium_snow_dry",
+    "en": "Medium Snowfall (Dry)"
+  },
+  {
+    "id": "6985",
+    "k": "lng_weather_and_surface_name_medium_snow_snow",
+    "en": "Medium Snowfall (Snow)"
+  },
+  {
+    "id": "6986",
+    "k": "lng_weather_and_surface_name_medium_snow_wet",
+    "en": "Medium Snowfall (Wet)"
+  },
+  {
+    "id": "6987",
+    "k": "lng_weather_and_surface_name_overcast_dry",
+    "en": "Overcast (Dry)"
+  },
+  {
+    "id": "6988",
+    "k": "lng_weather_and_surface_name_overcast_ice",
+    "en": "Overcast (Ice)"
+  },
+  {
+    "id": "6989",
+    "k": "lng_weather_and_surface_name_overcast_snow",
+    "en": "Overcast (Snow)"
+  },
+  {
+    "id": "6990",
+    "k": "lng_weather_and_surface_name_overcast_wet",
+    "en": "Overcast (Wet)"
+  },
+  {
+    "id": "6991",
+    "k": "lng_weather_and_surface_name_partly_cloudy_dry",
+    "en": "Partly Cloudy (Dry)"
+  },
+  {
+    "id": "6992",
+    "k": "lng_weather_and_surface_name_partly_cloudy_ice",
+    "en": "Partly Cloudy (Ice)"
+  },
+  {
+    "id": "6993",
+    "k": "lng_weather_and_surface_name_partly_cloudy_snow_wet",
+    "en": "Partly Cloudy (Snow)"
+  },
+  {
+    "id": "6994",
+    "k": "lng_weather_and_surface_name_partly_cloudy_wet",
+    "en": "Partly Cloudy (Wet)"
+  },
+  {
+    "id": "6995",
+    "k": "lng_weather_and_surface_name_snow_dry",
+    "en": "Light Snowfall (Ice)"
+  },
+  {
+    "id": "6996",
+    "k": "lng_weather_and_surface_name_snow_ice",
+    "en": "Snowfall (Ice)"
+  },
+  {
+    "id": "6997",
+    "k": "lng_weather_and_surface_name_snow_snow",
+    "en": "Snowfall (Snow)"
+  },
+  {
+    "id": "6998",
+    "k": "lng_weather_and_surface_name_snow_wet",
+    "en": "Light Snowfall (Wet)"
+  },
+  {
+    "id": "6999",
+    "k": "lng_weather_and_surface_name_storm_damp",
+    "en": "Storm (Wet)"
+  },
+  {
+    "id": "7000",
+    "k": "lng_weather_and_surface_name_storm_dry",
+    "en": "Storm (Dry)"
+  },
+  {
+    "id": "7001",
+    "k": "lng_weather_condition_name_cloudy",
+    "en": "Cloudy"
+  },
+  {
+    "id": "7002",
+    "k": "lng_weather_condition_name_heavy_rain",
+    "en": "Heavy Rain"
+  },
+  {
+    "id": "7003",
+    "k": "lng_weather_condition_name_heavy_snow",
+    "en": "Heavy Snow"
+  },
+  {
+    "id": "7004",
+    "k": "lng_weather_condition_name_heavy_snow",
+    "en": "Heavy Snowfall"
+  },
+  {
+    "id": "7005",
+    "k": "lng_weather_condition_name_light_rain",
+    "en": "Light Rain"
+  },
+  {
+    "id": "7006",
+    "k": "lng_weather_condition_name_light_snow",
+    "en": "Light Snowfall"
+  },
+  {
+    "id": "7007",
+    "k": "lng_weather_condition_name_medium_rain",
+    "en": "Medium Rain"
+  },
+  {
+    "id": "7008",
+    "k": "lng_weather_condition_name_medium_snow",
+    "en": "Medium Snowfall"
+  },
+  {
+    "id": "7009",
+    "k": "lng_weather_condition_name_overcast",
+    "en": "Overcast"
+  },
+  {
+    "id": "7010",
+    "k": "lng_weather_condition_name_partly_cloudy",
+    "en": "Partly Cloudy"
+  },
+  {
+    "id": "7011",
+    "k": "lng_weather_condition_name_snow",
+    "en": "Snowfall"
+  },
+  {
+    "id": "7012",
+    "k": "lng_weather_condition_name_storm",
+    "en": "Storm"
+  },
+  {
+    "id": "7013",
+    "k": "lng_weather_season_name_autumn",
+    "en": "Autumn"
+  },
+  {
+    "id": "7014",
+    "k": "lng_weather_season_name_spring",
+    "en": "Spring"
+  },
+  {
+    "id": "7015",
+    "k": "lng_weather_season_name_summer",
+    "en": "Summer"
+  },
+  {
+    "id": "7016",
+    "k": "lng_weather_season_name_winter",
+    "en": "Winter"
+  },
+  {
+    "id": "7017",
+    "k": "h_scenario_desc_1",
+    "en": "The cold and icy Monte-Carlo stages were an ample hunting ground for the Alpine drivers during this era of rallying, with it's extremely light weight putting the Alpine some distance ahead of its rivals.  "
+  },
+  {
+    "id": "7018",
+    "k": "h_scenario_desc_10",
+    "en": "The BMW M3 Evo Rally made for an unlikely hero on these icy Rallye Monte-Carlo stages, ultimately achieving success on the rallying scene, as it had done in the many other vessels of motorsport."
+  },
+  {
+    "id": "7019",
+    "k": "h_scenario_desc_100",
+    "en": "Eric Camilli beat his Finnish rival Teemu Suninen by over 20 seconds at this high-speed asphalt RallyRACC Catalunya. After starting the event strong, he led the majority of this rally, taking the ultimate victory."
+  },
+  {
+    "id": "7020",
+    "k": "h_scenario_desc_11",
+    "en": "The Fiat 131 Abarth Rally is truly at home on these tight and technical Sardinian stages, with many drivers finding their feet in this Italian rallying icon in similar conditions."
+  },
+  {
+    "id": "7021",
+    "k": "h_scenario_desc_12",
+    "en": "This renowned Finnish crew showed great speed on their local stages, as they tried their hand at rallying. Although a roll sadly put them out of contention, they remained a fan favourite. "
+  },
+  {
+    "id": "7022",
+    "k": "h_scenario_desc_13",
+    "en": "While it never made an appearance in the WRC, the Ford Escort Mk 6 Maxi was built specifically for asphalt stages like these, and excelled on the national rally scene, especially in the UK and Ireland."
+  },
+  {
+    "id": "7023",
+    "k": "h_scenario_desc_14",
+    "en": "The Ford Escort MK2 McRae Motorsport was a very personal project for its creators, with heavily modified Ford Escort MK2s being a popular choice for rallying on the national scene at that time."
+  },
+  {
+    "id": "7024",
+    "k": "h_scenario_desc_15",
+    "en": "The Ford Escort MK2 is a must drive for any rally driver, old and new. This vehicle not only dominated rallying when it was first introduced but has continued to be a popular choice in modern rallying since then, the world over."
+  },
+  {
+    "id": "7025",
+    "k": "h_scenario_desc_16",
+    "en": "This well-renowned British crew held their own at this rally in Greece, in 1994, in the Ford Escort RS Cosworth. This was just one of many legendary performances by various crews in the Ford Escort RS Cosworth. "
+  },
+  {
+    "id": "7026",
+    "k": "h_scenario_desc_17",
+    "en": "Jon Armstrong put in a dominant performance at Croatia Rally in 2021, driving the FWD Ford Fiesta MK8 Rally 4, as he hunted for that illusive first Junior World Rally Championship."
+  },
+  {
+    "id": "7027",
+    "k": "h_scenario_desc_18",
+    "en": "Jari Huttunen had already made a name for himself as an up and coming star, and was firmly in the fight at this Estonian rally in 2022, finishing the Event in a respectable 4th position against tough competition."
+  },
+  {
+    "id": "7028",
+    "k": "h_scenario_desc_19",
+    "en": "This legendary Scottish crew’s car suffered engine cut-outs from an electrical failure at this historic rally in New Zealand, causing them to retire, irrevocably damaging their position in the standings for that year’s championship. "
+  },
+  {
+    "id": "7029",
+    "k": "h_scenario_desc_2",
+    "en": "The Audi Sport quattro S1 E2 fought heroically against its faster and more agile Peugeot rivals, on the tricky Italian asphalt stages. This rivalry would continue until the disbanding of Group B in 1986."
+  },
+  {
+    "id": "7030",
+    "k": "h_scenario_desc_20",
+    "en": "A local hero, this Norwegian star performed well beyond expectations at his home rally in 2008, with a top 5 finish in conditions that did nothing to stunt his flamboyant driving style."
+  },
+  {
+    "id": "7031",
+    "k": "h_scenario_desc_21",
+    "en": "This French crew found great success in the JWRC category, producing a spate of convincing performances on their way up the WRC ladder, driving the fabled Ford Puma S1600, the historic predecessor to the current Ford Puma Rally1."
+  },
+  {
+    "id": "7032",
+    "k": "h_scenario_desc_22",
+    "en": "At this Swedish rally in 1986, the local Swedish crew fought hard with the front runners, in front of their home crowd."
+  },
+  {
+    "id": "7033",
+    "k": "h_scenario_desc_23",
+    "en": "The highly sought after Ford Sierra Cosworth RS500 road car was modified for rallying, seeing success early on in its career, as well as in other racing series. In modern times the Ford Sierra Cosworth RS500 remains a true classic."
+  },
+  {
+    "id": "7034",
+    "k": "h_scenario_desc_24",
+    "en": "The highly sought after Hillman Avenger road car was modified for rallying, seeing success early on in its career. In modern times the Hillman Avenger remains a common sight on the national rally stages."
+  },
+  {
+    "id": "7035",
+    "k": "h_scenario_desc_25",
+    "en": "This Lancia factory driver fought tooth and nail to beat his 4WD competition at this event, against competition that was far more suited to the gravel stages at this historic rally in Portugal."
+  },
+  {
+    "id": "7036",
+    "k": "h_scenario_desc_26",
+    "en": "At this rally in Monte-Carlo in 1993, this legendary Spanish crew made an uncharacteristic mistake sliding off the track, in challenging conditions. They frustratingly lost what would have been a solid top 4 result on their debut for the team."
+  },
+  {
+    "id": "7037",
+    "k": "h_scenario_desc_27",
+    "en": "The Lancia Fulvia HF was widely used in the early days of rallying and saw remarkable success during this period. It's excellent weight distribution and complex chassis meant it was far ahead of its competition, technically speaking."
+  },
+  {
+    "id": "7038",
+    "k": "h_scenario_desc_28",
+    "en": "The tight and twisty Monte-Carlo stages and the ultra-short wheelbase Lancia Stratos were a match made in heaven, and an iconic duo in the world of rallying revered even 50 years later."
+  },
+  {
+    "id": "7039",
+    "k": "h_scenario_desc_29",
+    "en": "The McRae R4 was put through its paces in testing many times and made a number of appearances at large motorsport events and exhibitions. Although in the end it didn't reach international competition, it's potential was there for all to see."
+  },
+  {
+    "id": "7040",
+    "k": "h_scenario_desc_3",
+    "en": "The BMW E30 M3 Evo Rally proved unbeatable on asphalt stages, and was responsible for some true giant killing performances. This car has remained a fan favourite ever since."
+  },
+  {
+    "id": "7041",
+    "k": "h_scenario_desc_30",
+    "en": "The MG Metro 6R4 wasn't around long enough to make a major impression in the WRC but was still able to make an impression in the minds of rally fans the world over. The MG Metro 6R4 remained popular in national championships and rallycross for many years after its debut."
+  },
+  {
+    "id": "7042",
+    "k": "h_scenario_desc_31",
+    "en": "At the 1964 Monte-Carlo rally, Paddy Hopkirk took a win so iconic it became one of the defining historic moments for the MINI Cooper S as a car, with his win remaining in rally folklore to this day. The MINI Cooper S was unrivalled in these icy conditions."
+  },
+  {
+    "id": "7043",
+    "k": "h_scenario_desc_32",
+    "en": "Kenneth Eriksson won the arduous and challenging International Swedish Rally in the Mitsubishi Galant VR4, battling the snowfall and ice that is ever present at his home event in Sweden."
+  },
+  {
+    "id": "7044",
+    "k": "h_scenario_desc_33",
+    "en": "This experienced Austrian crew failed to finish this Italian rally in 1999, but their privately entered Mitsubishi Lancer Evolution VI showed promise regardless, navigating the tough gravel stages with ease."
+  },
+  {
+    "id": "7045",
+    "k": "h_scenario_desc_34",
+    "en": "The Mitsubishi Lancer Evolution X is a popular choice for rally drivers competing in Japan-based rallying competitions, with local legends putting the car through its paces on the scenic Japanese routes."
+  },
+  {
+    "id": "7046",
+    "k": "h_scenario_desc_35",
+    "en": "The Opel Ascona 400 showed its prowess at this Greek rally in 1980, with a solid top 5 finish on the slippery gravel stages, that may otherwise have slowed down a lesser RWD competitor."
+  },
+  {
+    "id": "7047",
+    "k": "h_scenario_desc_36",
+    "en": "The Opel Corsa S2000 had a very limited and short presence on the rally scene, and never had the chance to meet its full potential. However, it was driven by multiple established drivers for the short period it operated, enabling said drivers to move up the WRC ladder."
+  },
+  {
+    "id": "7048",
+    "k": "h_scenario_desc_37",
+    "en": "The Alpine Renault A110 1600 S excelled on asphalt stages, with its extremely light weight and strong chassis making it the weapon of choice on stages such as these."
+  },
+  {
+    "id": "7049",
+    "k": "h_scenario_desc_38",
+    "en": "The 1971 headline event in Portugal, played host to this French crew's heroic defense and win against their highly experienced rivals, at a gravel Event no less, in the nimble little Alpine."
+  },
+  {
+    "id": "7050",
+    "k": "h_scenario_desc_38",
+    "en": "The 1971 headline event in Portugal, played host to this French crews heroic defence and win against their highly experienced rivals, at a gravel Event no less, in the nimble little Alpine."
+  },
+  {
+    "id": "7051",
+    "k": "h_scenario_desc_39",
+    "en": "At this Portuguese rally in 1985, this fabled German rally driver managed to take a top 3 finish, despite a penalty being applied to his time."
+  },
+  {
+    "id": "7052",
+    "k": "h_scenario_desc_4",
+    "en": "Built for the new 2017 ruleset, the Volkswagen Polo 2017 never made it to competition, as the project was cancelled shortly before the season began. The car was tested on several occasions however, and was reckoned to be a potential title contender at the time."
+  },
+  {
+    "id": "7053",
+    "k": "h_scenario_desc_40",
+    "en": "This Finnish crew took a respectable 3rd place finish at the rally in Monte-Carlo in 1986, competing against lighter and more agile competition on these narrow and icy roads."
+  },
+  {
+    "id": "7054",
+    "k": "h_scenario_desc_41",
+    "en": "This French crew was able to achieve a remarkable top 3 finish against more powerful and advanced 4WD machinery at the 1990 rally in Corsica, highlighting once again that the underdog should never been discounted."
+  },
+  {
+    "id": "7055",
+    "k": "h_scenario_desc_42",
+    "en": "The Peugeot 208 Rally4 was tested extensively on asphalt stages prior to it entering the Rally4 class, with its impressive speed and highly aggressive anti-lag system grabbing the attention of onlookers."
+  },
+  {
+    "id": "7056",
+    "k": "h_scenario_desc_43",
+    "en": "The Peugeot 208 T16 R5 was a popular choice at one time, however it has become more of a rarity in the WRC since then, however when it does make an appearance it's been known to pull out some shock performances."
+  },
+  {
+    "id": "7057",
+    "k": "h_scenario_desc_44",
+    "en": "The Peugeot 306 Maxi with this legendary French crew at the helm made for exhilarating watching, as the car snaked its way along the tight asphalt roads it was so accustomed to, laying the benchmark for those that followed."
+  },
+  {
+    "id": "7058",
+    "k": "h_scenario_desc_45",
+    "en": "At this Corsican rally in 1984, this experienced French crew debuted the Porsche 911 SC RS, with the smooth asphalt roads of Corsica being the perfect staging ground for the rear-engine monster."
+  },
+  {
+    "id": "7059",
+    "k": "h_scenario_desc_46",
+    "en": "This iconic French crew famously won the 1985 Rallye Monte-Carlo in the rear-wheel drive Renault 5 Turbo, a truly inspiring David versus Goliath performance against the more powerful 4WD competition."
+  },
+  {
+    "id": "7060",
+    "k": "h_scenario_desc_47",
+    "en": "This up and coming Finnish driver drove the Renault Clio S1600 during the earlier stages of his career, later becoming one of the most respected drivers in the WRC. Here you will tackle his home stages in Finland, in this FWD monster."
+  },
+  {
+    "id": "7061",
+    "k": "h_scenario_desc_48",
+    "en": "This ever popular French crew and the historic Corsican stages proved an excellent combination time and again, with the Renault Maxi Mégane excelling once again on this occasion.  "
+  },
+  {
+    "id": "7062",
+    "k": "h_scenario_desc_49",
+    "en": "The father of future rallying superstar Elfyn Evans, competed at this Argentinian event in 1999, a truly tough and gruelling rally. This Event took place on similar stages to those found in Chile. Sadly the Welsh driver retired from the Event on the 3rd leg."
+  },
+  {
+    "id": "7063",
+    "k": "h_scenario_desc_5",
+    "en": "Dani Sordo won the Junior World Rally Championship in the Citroën C2 Super 1600 in 2005, before continuing on with a long and successful career with the factory Citroën WRC team after that. With many Event wins along the way, this victory was a key factor in his promotion to said factory lineup."
+  },
+  {
+    "id": "7064",
+    "k": "h_scenario_desc_50",
+    "en": "The nimble Renault Twingo II excels on asphalt stages such as the ones found in Corsica, and at the time of its introduction, was a popular choice for up-and-coming drivers."
+  },
+  {
+    "id": "7065",
+    "k": "h_scenario_desc_51",
+    "en": "The SEAT Ibiza Kit Car was an icon of the historic F2 Kit Car class, and is more than at home navigating these tight asphalt stages, in the Spanish hills."
+  },
+  {
+    "id": "7066",
+    "k": "h_scenario_desc_52",
+    "en": "Oliver Solberg switched to the ŠKODA Fabia Rally2 Evo for this Event, scoring a respectable 6th position in the then WRC3 class. He quickly climbed his way up the WRC ladder from here."
+  },
+  {
+    "id": "7067",
+    "k": "h_scenario_desc_53",
+    "en": "Driving the new ŠKODA Fabia Rally, this circuit racing legend put this car through its paces at the 2006 Swedish Rally, sadly retiring after a strong performance."
+  },
+  {
+    "id": "7068",
+    "k": "h_scenario_desc_54",
+    "en": "The Scottish legend of the sport took victory by more than 40 seconds at New Zealand in 1995, a truly dominant performance by the Scot. This result put him in a prime position to go on and clinch the title later on in the season."
+  },
+  {
+    "id": "7069",
+    "k": "h_scenario_desc_55",
+    "en": "In 2001 this British crew won the World Rally Championship after a long and tough battle with their rivals. The two crews had very different approaches to rallying, with this being highlighted from the start, with the season kicking off in Monte Carlo."
+  },
+  {
+    "id": "7070",
+    "k": "h_scenario_desc_56",
+    "en": "At this rally in Greece in 2008, this iconic Norwegian driver famously finished on the podium, a considerable achievement for an independent entry. Later he gave a post stage interview, that will go down in history as one of the best of all time."
+  },
+  {
+    "id": "7071",
+    "k": "h_scenario_desc_57",
+    "en": "This popular Swede won the rally in New Zealand in 1997, but only by a small margin, after a tough battle through changeable conditions with the ever present Spanish crew close on their heels."
+  },
+  {
+    "id": "7072",
+    "k": "h_scenario_desc_58",
+    "en": "This Scottish driver’s infamous performance at the Finnish rally in 1992 was the stuff of legends, with the young driver rolling his car several times. He continued on, even as his car fell apart around him. "
+  },
+  {
+    "id": "7073",
+    "k": "h_scenario_desc_59",
+    "en": "At the 2006 Neste Rally Finland Guy Wilks won in the highly competitive JWRC class, a major achievement for the young British driver, as he hunted for promotion to the WRC class."
+  },
+  {
+    "id": "7074",
+    "k": "h_scenario_desc_6",
+    "en": "Mads Østberg's home Event in Norway is one he is extremely familiar with, across a multitude of competition levels and vehicle types. He's truly a master of these snowy Norwegian roads."
+  },
+  {
+    "id": "7075",
+    "k": "h_scenario_desc_60",
+    "en": "At the RallyRACC Catalunya in 2018 Eric Camilli debuted the long awaited Volkswagen Polo GTI R5, achieving a strong podium. The first of many for this incredibly successful R5 machine."
+  },
+  {
+    "id": "7076",
+    "k": "h_scenario_desc_61",
+    "en": "This Scottish driver once took victory in Greece by 20 seconds, avoiding the many hazards associated with these tricky Greek roads. This was a dominant, and measured performance by the Scot."
+  },
+  {
+    "id": "7077",
+    "k": "h_scenario_desc_62",
+    "en": "At the Portuguese rally in 2010 Mads Østberg put in an impressive performance, in the struggling SUBARU Impreza Rally 2008. He would later drive for the likes of Citroën and M-sport."
+  },
+  {
+    "id": "7078",
+    "k": "h_scenario_desc_63",
+    "en": "At this rocky and dangerous rally in Greece, a true race of attrition during this era of rallying, this Finnish icon took yet another impressive Event win on his way to the championship that year."
+  },
+  {
+    "id": "7079",
+    "k": "h_scenario_desc_64",
+    "en": "This legendary Finnish driver dominated multiple Events in 1985 on his way to winning the World Rally Championship that year. Finland was no exception to this rule, with the Finn taking victory on his home turf."
+  },
+  {
+    "id": "7080",
+    "k": "h_scenario_desc_65",
+    "en": "This French crew retired from this iconic rally in New Zealand in 2000 with gearbox issues, despite showing some promising early pace."
+  },
+  {
+    "id": "7081",
+    "k": "h_scenario_desc_66",
+    "en": "This Finnish crew were icons of the sport, and in the 2000s they were one of the few crews that could challenge the mighty Sébastien Loeb. Driving the Peugeot 206 Rally, they achieved numerous successes."
+  },
+  {
+    "id": "7082",
+    "k": "h_scenario_desc_67",
+    "en": "At this 1997 rally in Portugal, this crew won in their class with an heroic drive, and finished in the top 10 overall against fully fledged WRC cars."
+  },
+  {
+    "id": "7083",
+    "k": "h_scenario_desc_68",
+    "en": "This iconic vehicle survived this brutal rally in Kenya, finishing in the top 3 against the toughest of competition, all the while avoiding the hazards of the Safari wilderness."
+  },
+  {
+    "id": "7084",
+    "k": "h_scenario_desc_69",
+    "en": "An utterly dominant performance by this Finnish crew came at the 1999 rally in New Zealand, where this crew was able to secure victory by a minute and a half, as they headed towards securing yet another World Rally Championship drivers title that year."
+  },
+  {
+    "id": "7085",
+    "k": "h_scenario_desc_7",
+    "en": "The Citroën DS3 R5 was introduced shortly after the Citroën DS3 WRC, which had been extremely successful in its own right. This rugged and reliable car is ideal for the rocky stages of Greece."
+  },
+  {
+    "id": "7086",
+    "k": "h_scenario_desc_70",
+    "en": "At this Safari rally in 1996 this Finnish driver fought hard against the elements to secure another rally win, a performance that would characterise his season, as he headed towards securing the World Rally Championship drivers title that year."
+  },
+  {
+    "id": "7087",
+    "k": "h_scenario_desc_71",
+    "en": "These two Finnish drivers were rivals during the late 1990s, fighting for victory at a number of high-profile events. At Rallye Monte-Carlo the Mitsubishi crew had to work to defend their position against their hard charging adversaries."
+  },
+  {
+    "id": "7088",
+    "k": "h_scenario_desc_72",
+    "en": "During this 1979 Finnish rally, this local driver retired at the end of one of the stages due to a timing belt issue. This very same driver went on to become an icon of the sport, but not before some highly coveted performances in the lower tiers."
+  },
+  {
+    "id": "7089",
+    "k": "h_scenario_desc_73",
+    "en": "The debut of the MINI Countryman Rally Edition was far from smooth, with both cars suffering mechanical mishaps, and eventually retiring from the event. The drivers attempted to fight on despite these issues."
+  },
+  {
+    "id": "7090",
+    "k": "h_scenario_desc_74",
+    "en": "This Finnish newcomer was late to time control on one of the stages at his home event, but undeterred he put in a stellar performance, against more experienced competition and factory teams, using his knowledge of these Finnish stages to his advantage."
+  },
+  {
+    "id": "7091",
+    "k": "h_scenario_desc_75",
+    "en": "This French crew navigated the tricky Swedish stages at this rally in 1986 in the powerful and unpredictable MG Metro 6R4, achieving a respectable result all things considered."
+  },
+  {
+    "id": "7092",
+    "k": "h_scenario_desc_76",
+    "en": "The McRae R4 never made it to international competition but was tested extensively before the project ended. Naturally, this surface type would have been part of this testing program had it continued."
+  },
+  {
+    "id": "7093",
+    "k": "h_scenario_desc_79",
+    "en": "This Finnish legend attempted to fight on despite severe engine issues at this dark and snowy 1986 rally in Sweden, with the car eventually failing entirely. "
+  },
+  {
+    "id": "7094",
+    "k": "h_scenario_desc_8",
+    "en": "Sébastien Loeb won the Junior WRC in the Citroën Saxo Super 1600 in 2001, on his way to the top class where he would win 9 drivers’ championships. With many Event wins along the way, his victory in JWRC was a clear indicator of success to come."
+  },
+  {
+    "id": "7095",
+    "k": "h_scenario_desc_80",
+    "en": "The Lancia 037 Evo 2 ended its stay in the WRC as more 4WD cars were entered, with the Lancia Delta S4 then taking its place. With a win at the Corsican round in 1984, a location well suited to the lightweight mid-engine Lancia, this car then began its graceful exit."
+  },
+  {
+    "id": "7096",
+    "k": "h_scenario_desc_81",
+    "en": "At the Acropolis Rally in 1984 - this Finnish crew managed to finish in the top 3 despite the rough terrain, and the loss of his teammates to the difficult Greek stages."
+  },
+  {
+    "id": "7097",
+    "k": "h_scenario_desc_82",
+    "en": "This German crew was able to wrestle their Lancia 037 Evo 2 to victory at this rally in Greece, despite the conditions destroying many of the competition’s cars. Against all odds it was the Lancia’s that performed the most consistently that weekend in 1983."
+  },
+  {
+    "id": "7098",
+    "k": "h_scenario_desc_83",
+    "en": "At the Swedish rally in 1986, this home hero ran into engine troubles forcing him to retire, which acted as a damaging blow to the Swedes championship hopes, especially as he had been running in a strong 3rd overall for much of the rally."
+  },
+  {
+    "id": "7099",
+    "k": "h_scenario_desc_84",
+    "en": "The Ford RS200 never had the chance to make a real impression in the WRC, as it wasn't around for long before Group B was disbanded. The car was not developed as its rivals were, but certainly had the potential to take the top step."
+  },
+  {
+    "id": "7100",
+    "k": "h_scenario_desc_85",
+    "en": "This Swedish crew was running in 3rd position for much of this event, and appeared set for a podium, before suffering an accident on SS18. This was a sad end to their 1986 Greek rally."
+  },
+  {
+    "id": "7101",
+    "k": "h_scenario_desc_86",
+    "en": "Adrien Fourmaux finished in 2nd place at the Rally Monte-Carlo in 2021, narrowly trailing his more experienced rival, Andreas Mikkelsen. Attempt to recreate this result, or go one better, navigating the changeable conditions on these high-altitude routes."
+  },
+  {
+    "id": "7102",
+    "k": "h_scenario_desc_87",
+    "en": "Jon Armstrong took an unexpected victory at Rally Sweden in 2022 in the JWRC class, with Jon having very limited experience on the difficult snowy routes of Sweden. This was a major breakthrough for Jon, after a turbulent Swedish rally in 2020."
+  },
+  {
+    "id": "7103",
+    "k": "h_scenario_desc_88",
+    "en": "Jon Armstrong was on the limit fighting for the stage win at this 2020 Swedish Rally, sadly suffering an accident along the way which put an end to his 2020 chances. Attempt to win this stage, with heavy degradation setting in."
+  },
+  {
+    "id": "7104",
+    "k": "h_scenario_desc_89",
+    "en": "Jon Armstrong and Sami Pajari were rivals in the JWRC for 2 full seasons, fighting relentlessly for every stage win. The action in Estonia continued in this fashion, with Sami eventually winning the Event overall."
+  },
+  {
+    "id": "7105",
+    "k": "h_scenario_desc_9",
+    "en": "Finish in the top 3 at the famed Rallye Monte-Carlo, with this Scottish star at the wheel of his Citroën Xsara WRC, a car which proved utterly dominant during its stay in the WRC."
+  },
+  {
+    "id": "7106",
+    "k": "h_scenario_desc_90",
+    "en": "The EA Sports Rally run Ford Fiesta Rally 3 showed its worth in Croatia, and despite not achieving the desired overall result, was able to demolish multiple high-speed stages at this rally, gaining the vital stage win points rewarded in the JWRC class."
+  },
+  {
+    "id": "7107",
+    "k": "h_scenario_desc_91",
+    "en": "Sébastien Loeb and Petter Solberg fought hard for much of the 2004 World Rally Championship, with Sébastien Loeb narrowly taking victory in the overall standings. Spain was no exception, even with Sébastien retiring later in the event."
+  },
+  {
+    "id": "7108",
+    "k": "h_scenario_desc_92",
+    "en": "The Volkswagen Polo 2017 never made it to international competition but was tested extensively before the project ended. Naturally, this surface type would have been part of this testing program had it continued."
+  },
+  {
+    "id": "7109",
+    "k": "h_scenario_desc_94",
+    "en": "This would have been the debut of the much-anticipated Volkswagen Polo 2017, with a win surely being the Volkswagen's aim heading into the season opener at Monte-Carlo in 2017."
+  },
+  {
+    "id": "7110",
+    "k": "h_scenario_desc_95",
+    "en": "At the Neste Oil Rally Finland in 2007 Martin Prokop sadly crashed out of the event on the fabled Ouninpohja stage, a real shame for the Czech driver who had been dominating proceedings in JWRC up to that point."
+  },
+  {
+    "id": "7111",
+    "k": "h_scenario_desc_96",
+    "en": "Martin Prokop dominated his class at the Rallye Automobile de Monte-Carlo in 2007, taking victory on these difficult routes despite receiving a 10 second time penalty for being late to time control, on the final stage."
+  },
+  {
+    "id": "7112",
+    "k": "h_scenario_desc_97",
+    "en": "Yoann Bonato completed an incredible comeback at this Tour de Corse, starting out well behind his rivals, slowly clawing his way back into the top 3 by the end of the 3rd leg."
+  },
+  {
+    "id": "7113",
+    "k": "h_scenario_desc_98",
+    "en": "Yoann Bonato narrowly beat Ole Christian Veiby in the Volkswagen Polo GTI R5 at this tricky Monte-Carlo event in 2019, making the most of the Citroën C3 Rally2 handling and prowess."
+  },
+  {
+    "id": "7114",
+    "k": "h_scenario_desc_99",
+    "en": "At this more recent Rallye Monte-Carlo event, French rally driver and veteran of the sport Yohan Rossel held his own to win, adding another string to his cap in the WRC."
+  },
+  {
+    "id": "7115",
+    "k": "h_scenario_title_1",
+    "en": "Alpine Showdown"
+  },
+  {
+    "id": "7116",
+    "k": "h_scenario_title_10",
+    "en": "An Unlikely Hero"
+  },
+  {
+    "id": "7117",
+    "k": "h_scenario_title_100",
+    "en": "Camilli's Asphalt Domination"
+  },
+  {
+    "id": "7118",
+    "k": "h_scenario_title_11",
+    "en": "An Italian Folklore"
+  },
+  {
+    "id": "7119",
+    "k": "h_scenario_title_12",
+    "en": "A New Rallying Endeavor"
+  },
+  {
+    "id": "7120",
+    "k": "h_scenario_title_13",
+    "en": "F2 Asphalt King "
+  },
+  {
+    "id": "7121",
+    "k": "h_scenario_title_14",
+    "en": "A Personal Project"
+  },
+  {
+    "id": "7122",
+    "k": "h_scenario_title_15",
+    "en": "Rally's Cult Classic"
+  },
+  {
+    "id": "7123",
+    "k": "h_scenario_title_16",
+    "en": "M-sport's Inception"
+  },
+  {
+    "id": "7124",
+    "k": "h_scenario_title_17",
+    "en": "Climbing the Ladder"
+  },
+  {
+    "id": "7125",
+    "k": "h_scenario_title_18",
+    "en": "Huttunen's Flying Estonia"
+  },
+  {
+    "id": "7126",
+    "k": "h_scenario_title_19",
+    "en": "Electrical Nightmares"
+  },
+  {
+    "id": "7127",
+    "k": "h_scenario_title_2",
+    "en": "Audi's Asphalt Assault"
+  },
+  {
+    "id": "7128",
+    "k": "h_scenario_title_20",
+    "en": "Mr Hollywood V2"
+  },
+  {
+    "id": "7129",
+    "k": "h_scenario_title_21",
+    "en": "JWRC Legends - Ford Puma S1600"
+  },
+  {
+    "id": "7130",
+    "k": "h_scenario_title_22",
+    "en": "Home Hero - Sweden"
+  },
+  {
+    "id": "7131",
+    "k": "h_scenario_title_23",
+    "en": "The Jack of all Trades"
+  },
+  {
+    "id": "7132",
+    "k": "h_scenario_title_24",
+    "en": "A Classic RWD Legend"
+  },
+  {
+    "id": "7133",
+    "k": "h_scenario_title_25",
+    "en": "Drivetrain Showdown"
+  },
+  {
+    "id": "7134",
+    "k": "h_scenario_title_26",
+    "en": "An Uncharacteristic Mistake"
+  },
+  {
+    "id": "7135",
+    "k": "h_scenario_title_27",
+    "en": "Ahead of its Time"
+  },
+  {
+    "id": "7136",
+    "k": "h_scenario_title_28",
+    "en": "Short Wheelbase Icon"
+  },
+  {
+    "id": "7137",
+    "k": "h_scenario_title_29",
+    "en": "A Potential Pace Setter"
+  },
+  {
+    "id": "7138",
+    "k": "h_scenario_title_3",
+    "en": "The RWD Giant Killer"
+  },
+  {
+    "id": "7139",
+    "k": "h_scenario_title_30",
+    "en": "The Super Metro "
+  },
+  {
+    "id": "7140",
+    "k": "h_scenario_title_31",
+    "en": "A British Icon"
+  },
+  {
+    "id": "7141",
+    "k": "h_scenario_title_32",
+    "en": "Home Hero - Sweden 2"
+  },
+  {
+    "id": "7142",
+    "k": "h_scenario_title_33",
+    "en": "The Independent Hero"
+  },
+  {
+    "id": "7143",
+    "k": "h_scenario_title_34",
+    "en": "The Last Evolution"
+  },
+  {
+    "id": "7144",
+    "k": "h_scenario_title_35",
+    "en": "A Race of Attrition"
+  },
+  {
+    "id": "7145",
+    "k": "h_scenario_title_36",
+    "en": "Opel's S2000 Foray"
+  },
+  {
+    "id": "7146",
+    "k": "h_scenario_title_37",
+    "en": "A Featherweight Icon"
+  },
+  {
+    "id": "7147",
+    "k": "h_scenario_title_38",
+    "en": "Alpine's Heroic Defense"
+  },
+  {
+    "id": "7148",
+    "k": "h_scenario_title_39",
+    "en": "A German Masterclass"
+  },
+  {
+    "id": "7149",
+    "k": "h_scenario_title_4",
+    "en": "Missed Opportunities"
+  },
+  {
+    "id": "7150",
+    "k": "h_scenario_title_40",
+    "en": "The Flying Finn of Monte-Carlo"
+  },
+  {
+    "id": "7151",
+    "k": "h_scenario_title_41",
+    "en": "The RWD Underdog"
+  },
+  {
+    "id": "7152",
+    "k": "h_scenario_title_42",
+    "en": "The New Kid on the Block"
+  },
+  {
+    "id": "7153",
+    "k": "h_scenario_title_43",
+    "en": "The Successor"
+  },
+  {
+    "id": "7154",
+    "k": "h_scenario_title_44",
+    "en": "WRC Legends - Peugeot 306 Maxi"
+  },
+  {
+    "id": "7155",
+    "k": "h_scenario_title_45",
+    "en": "The 911 in its Element"
+  },
+  {
+    "id": "7156",
+    "k": "h_scenario_title_46",
+    "en": "Speedy Machine"
+  },
+  {
+    "id": "7157",
+    "k": "h_scenario_title_46",
+    "en": "WRC Legends - Renault 5 Turbo"
+  },
+  {
+    "id": "7158",
+    "k": "h_scenario_title_47",
+    "en": "WRC Legends - Renault Clio S1600"
+  },
+  {
+    "id": "7159",
+    "k": "h_scenario_title_48",
+    "en": "Asphalt King"
+  },
+  {
+    "id": "7160",
+    "k": "h_scenario_title_49",
+    "en": "WRC Legends - SEAT Córdoba Rally"
+  },
+  {
+    "id": "7161",
+    "k": "h_scenario_title_5",
+    "en": "WRC Legends - Dani Sordo"
+  },
+  {
+    "id": "7162",
+    "k": "h_scenario_title_50",
+    "en": "French Compact"
+  },
+  {
+    "id": "7163",
+    "k": "h_scenario_title_51",
+    "en": "A Cult Classic"
+  },
+  {
+    "id": "7164",
+    "k": "h_scenario_title_52",
+    "en": "Oliver Solbergs Climb to the Top"
+  },
+  {
+    "id": "7165",
+    "k": "h_scenario_title_53",
+    "en": "WRC Legends - ŠKODA Fabia Rally"
+  },
+  {
+    "id": "7166",
+    "k": "h_scenario_title_54",
+    "en": "WRC Legends - SUBARU Impreza 1995"
+  },
+  {
+    "id": "7167",
+    "k": "h_scenario_title_55",
+    "en": "WRC Legends - SUBARU Impreza 2001"
+  },
+  {
+    "id": "7168",
+    "k": "h_scenario_title_56",
+    "en": "Mr Hollywood"
+  },
+  {
+    "id": "7169",
+    "k": "h_scenario_title_57",
+    "en": "WRC Legends - SUBARU Impreza Rally 1998"
+  },
+  {
+    "id": "7170",
+    "k": "h_scenario_title_58",
+    "en": "A Chaotic Rally Finland "
+  },
+  {
+    "id": "7171",
+    "k": "h_scenario_title_59",
+    "en": "Suzuki's Moment in the Sun"
+  },
+  {
+    "id": "7172",
+    "k": "h_scenario_title_6",
+    "en": "A Norwegian Masterclass"
+  },
+  {
+    "id": "7173",
+    "k": "h_scenario_title_60",
+    "en": "The Return to Rallying"
+  },
+  {
+    "id": "7174",
+    "k": "h_scenario_title_61",
+    "en": "A Masterclass in Greece"
+  },
+  {
+    "id": "7175",
+    "k": "h_scenario_title_62",
+    "en": "An Impressive Independent"
+  },
+  {
+    "id": "7176",
+    "k": "h_scenario_title_63",
+    "en": "The Group B Wonder"
+  },
+  {
+    "id": "7177",
+    "k": "h_scenario_title_64",
+    "en": "Group B Champion"
+  },
+  {
+    "id": "7178",
+    "k": "h_scenario_title_65",
+    "en": "Gearbox Woes"
+  },
+  {
+    "id": "7179",
+    "k": "h_scenario_title_66",
+    "en": "WRC Legends - Peugeot 206 Rally"
+  },
+  {
+    "id": "7180",
+    "k": "h_scenario_title_67",
+    "en": "Maxi Power"
+  },
+  {
+    "id": "7181",
+    "k": "h_scenario_title_68",
+    "en": "Safari Showdown"
+  },
+  {
+    "id": "7182",
+    "k": "h_scenario_title_69",
+    "en": "Mitsubishi's Masterclass"
+  },
+  {
+    "id": "7183",
+    "k": "h_scenario_title_7",
+    "en": "Citroën's Answer to R5"
+  },
+  {
+    "id": "7184",
+    "k": "h_scenario_title_70",
+    "en": "WRC Legends - Mitsubishi Lancer Evolution VI"
+  },
+  {
+    "id": "7185",
+    "k": "h_scenario_title_71",
+    "en": "A Finnish Rivalry"
+  },
+  {
+    "id": "7186",
+    "k": "h_scenario_title_72",
+    "en": "Talbot Power"
+  },
+  {
+    "id": "7187",
+    "k": "h_scenario_title_73",
+    "en": "A Difficult Debut"
+  },
+  {
+    "id": "7188",
+    "k": "h_scenario_title_74",
+    "en": "Home Heroes - MINI Countryman Rally Edition"
+  },
+  {
+    "id": "7189",
+    "k": "h_scenario_title_75",
+    "en": "On the Edge"
+  },
+  {
+    "id": "7190",
+    "k": "h_scenario_title_76",
+    "en": "Experimental Part 1"
+  },
+  {
+    "id": "7191",
+    "k": "h_scenario_title_77",
+    "en": "Experimental Part 2"
+  },
+  {
+    "id": "7192",
+    "k": "h_scenario_title_78",
+    "en": "Experimental Part 3"
+  },
+  {
+    "id": "7193",
+    "k": "h_scenario_title_78",
+    "en": "The Prototype Test 3"
+  },
+  {
+    "id": "7194",
+    "k": "h_scenario_title_79",
+    "en": "Reliability Troubles"
+  },
+  {
+    "id": "7195",
+    "k": "h_scenario_title_8",
+    "en": "WRC Legends - Sébastien Loeb"
+  },
+  {
+    "id": "7196",
+    "k": "h_scenario_title_80",
+    "en": "Lightweight Legend"
+  },
+  {
+    "id": "7197",
+    "k": "h_scenario_title_81",
+    "en": "Last Man Standing"
+  },
+  {
+    "id": "7198",
+    "k": "h_scenario_title_82",
+    "en": "A Battle of Attrition"
+  },
+  {
+    "id": "7199",
+    "k": "h_scenario_title_83",
+    "en": "WRC Legends - Ford RS200"
+  },
+  {
+    "id": "7200",
+    "k": "h_scenario_title_84",
+    "en": "Better Late than Never"
+  },
+  {
+    "id": "7201",
+    "k": "h_scenario_title_85",
+    "en": "Terminal Damage"
+  },
+  {
+    "id": "7202",
+    "k": "h_scenario_title_86",
+    "en": "Rookie of the Year"
+  },
+  {
+    "id": "7203",
+    "k": "h_scenario_title_87",
+    "en": "Unfamiliar Conditions"
+  },
+  {
+    "id": "7204",
+    "k": "h_scenario_title_88",
+    "en": "Jon Armstrong's Return to Form"
+  },
+  {
+    "id": "7205",
+    "k": "h_scenario_title_89",
+    "en": "JWRC Showdown"
+  },
+  {
+    "id": "7206",
+    "k": "h_scenario_title_9",
+    "en": "Monte-Carlo Magic - Citroën Xsara Rally"
+  },
+  {
+    "id": "7207",
+    "k": "h_scenario_title_90",
+    "en": "Stage Points"
+  },
+  {
+    "id": "7208",
+    "k": "h_scenario_title_91",
+    "en": "A Classic Rivalry"
+  },
+  {
+    "id": "7209",
+    "k": "h_scenario_title_92",
+    "en": "Volkswagen Polo 2017 - Gravel Test"
+  },
+  {
+    "id": "7210",
+    "k": "h_scenario_title_92",
+    "en": "Volkswagen Polo 2017 - Gravel Test Session"
+  },
+  {
+    "id": "7211",
+    "k": "h_scenario_title_93",
+    "en": "Volkswagen Polo 2017 - Asphalt Test"
+  },
+  {
+    "id": "7212",
+    "k": "h_scenario_title_93",
+    "en": "Volkswagen Polo 2017 - Asphalt Test Session"
+  },
+  {
+    "id": "7213",
+    "k": "h_scenario_title_94",
+    "en": "New Rules New VW"
+  },
+  {
+    "id": "7214",
+    "k": "h_scenario_title_95",
+    "en": "Finland Strikes Again"
+  },
+  {
+    "id": "7215",
+    "k": "h_scenario_title_96",
+    "en": "Better Late than Never 2"
+  },
+  {
+    "id": "7216",
+    "k": "h_scenario_title_97",
+    "en": "Bonato's Recovery Drive"
+  },
+  {
+    "id": "7217",
+    "k": "h_scenario_title_98",
+    "en": "WRC2 - Rivals"
+  },
+  {
+    "id": "7218",
+    "k": "h_scenario_title_99",
+    "en": "Back on the Podium"
+  },
+  {
+    "id": "7219",
+    "k": "lng_moments_archive_season_reduced_xp",
+    "en": "This Season has been archived, rewards will be reduced."
+  },
+  {
+    "id": "7220",
+    "k": "lng_scenario_data_package_validate_failed_body",
+    "en": "The data for this Moment has failed validation. Please try again later."
+  },
+  {
+    "id": "7221",
+    "k": "lng_scenario_data_package_validate_failed_title",
+    "en": "VALIDATION FAILED"
+  },
+  {
+    "id": "7222",
+    "k": "lng_scenario_desc_test",
+    "en": "Description lng."
+  },
+  {
+    "id": "7223",
+    "k": "lng_scenario_featured_label",
+    "en": "FEATURED"
+  },
+  {
+    "id": "7224",
+    "k": "lng_scenario_title_test",
+    "en": "SCENARIO TITLE LNG"
+  },
+  {
+    "id": "7225",
+    "k": "lng_cd_rally_school_complete_fail_1",
+    "en": "Alright, that wasn't up to scratch, let's give it another go."
+  },
+  {
+    "id": "7226",
+    "k": "lng_cd_rally_school_complete_fail_3",
+    "en": "Ok we need to go back and have another go."
+  },
+  {
+    "id": "7227",
+    "k": "lng_cd_rally_school_complete_fail_4",
+    "en": "That was a good effort, but not a pass"
+  },
+  {
+    "id": "7228",
+    "k": "lng_cd_rally_school_complete_fail_5",
+    "en": "Ok, failed on this attempt, but let's give it another go."
+  },
+  {
+    "id": "7229",
+    "k": "lng_cd_rally_school_complete_fail_6",
+    "en": "That's a fail"
+  },
+  {
+    "id": "7230",
+    "k": "lng_cd_rally_school_complete_fail_7",
+    "en": "We failed this attempt, let's try again."
+  },
+  {
+    "id": "7231",
+    "k": "lng_cd_rally_school_complete_fail_8",
+    "en": "That wasn't good enough for a pass."
+  },
+  {
+    "id": "7232",
+    "k": "lng_cd_rally_school_complete_faildidbrake_1",
+    "en": "You failed because you touched the brakes"
+  },
+  {
+    "id": "7233",
+    "k": "lng_cd_rally_school_complete_faildidbrake_2",
+    "en": "Careful of the brakes, even an accidental touch is a fail here."
+  },
+  {
+    "id": "7234",
+    "k": "lng_cd_rally_school_complete_faildidbrake_3",
+    "en": "Remember, no brakes for this lesson."
+  },
+  {
+    "id": "7235",
+    "k": "lng_cd_rally_school_complete_failhandbrake_1",
+    "en": "Alright, you didn't pull the handbrake in the zone"
+  },
+  {
+    "id": "7236",
+    "k": "lng_cd_rally_school_complete_failhandbrake_2",
+    "en": "Remember to get on the handbrake in the zone"
+  },
+  {
+    "id": "7237",
+    "k": "lng_cd_rally_school_complete_failhandbrake_3",
+    "en": "OK, you missed the handbrake zone there"
+  },
+  {
+    "id": "7238",
+    "k": "lng_cd_rally_school_complete_failhandbrake_4",
+    "en": "Pay attention to the test, you missed the handbrake zone"
+  },
+  {
+    "id": "7239",
+    "k": "lng_cd_rally_school_complete_failhitcone_1",
+    "en": "Careful of the cones"
+  },
+  {
+    "id": "7240",
+    "k": "lng_cd_rally_school_complete_failhitcone_2",
+    "en": "You went out of bounds"
+  },
+  {
+    "id": "7241",
+    "k": "lng_cd_rally_school_complete_failhitcone_3",
+    "en": "You hit the cones"
+  },
+  {
+    "id": "7242",
+    "k": "lng_cd_rally_school_complete_failhitcone_4",
+    "en": "Keep within the course limits"
+  },
+  {
+    "id": "7243",
+    "k": "lng_cd_rally_school_complete_failhitcone_5",
+    "en": "You went off track there"
+  },
+  {
+    "id": "7244",
+    "k": "lng_cd_rally_school_complete_failmaintain_speed_1",
+    "en": "Alright, you need to keep your speed up."
+  },
+  {
+    "id": "7245",
+    "k": "lng_cd_rally_school_complete_failmaintain_speed_2",
+    "en": "Try to maintain your speed on this one."
+  },
+  {
+    "id": "7246",
+    "k": "lng_cd_rally_school_complete_failmaintain_speed_3",
+    "en": "Make sure you maintain your speed"
+  },
+  {
+    "id": "7247",
+    "k": "lng_cd_rally_school_complete_failmaintain_speed_4",
+    "en": "You didn't maintain your speed there."
+  },
+  {
+    "id": "7248",
+    "k": "lng_cd_rally_school_complete_failnobrakecorner_1",
+    "en": "You didn't apply the brake in the corner"
+  },
+  {
+    "id": "7249",
+    "k": "lng_cd_rally_school_complete_failnobrakecorner_2",
+    "en": "You need to get on the brake in the blue technique zone"
+  },
+  {
+    "id": "7250",
+    "k": "lng_cd_rally_school_complete_failnobrakecorner_3",
+    "en": "Next time, make sure you brake in the highlighted area."
+  },
+  {
+    "id": "7251",
+    "k": "lng_cd_rally_school_complete_failnobrakezone_1",
+    "en": "You didn't hit the the brakes in the highlighted zone"
+  },
+  {
+    "id": "7252",
+    "k": "lng_cd_rally_school_complete_failnobrakezone_2",
+    "en": "Keep an eye on the course for where to brake"
+  },
+  {
+    "id": "7253",
+    "k": "lng_cd_rally_school_complete_failnobrakezone_3",
+    "en": "Not braking is a fail on this test I'm afraid."
+  },
+  {
+    "id": "7254",
+    "k": "lng_cd_rally_school_complete_failnothrottle_1",
+    "en": "You didn't hit the throttle in the zone"
+  },
+  {
+    "id": "7255",
+    "k": "lng_cd_rally_school_complete_failnothrottle_2",
+    "en": "Remember to get back on the throttle in the highlighted technique zone"
+  },
+  {
+    "id": "7256",
+    "k": "lng_cd_rally_school_complete_failnothrottle_3",
+    "en": "You didn't get back on the throttle there."
+  },
+  {
+    "id": "7257",
+    "k": "lng_cd_rally_school_complete_failover_speed_1",
+    "en": "Alright, watch your speed, you went over."
+  },
+  {
+    "id": "7258",
+    "k": "lng_cd_rally_school_complete_failover_speed_2",
+    "en": "OK, too fast there, watch your speed."
+  },
+  {
+    "id": "7259",
+    "k": "lng_cd_rally_school_complete_failover_speed_3",
+    "en": "You need to watch your pace, too fast there."
+  },
+  {
+    "id": "7260",
+    "k": "lng_cd_rally_school_complete_failover_speed_4",
+    "en": "Too fast, watch your speed."
+  },
+  {
+    "id": "7261",
+    "k": "lng_cd_rally_school_complete_failover_time_1",
+    "en": "OK, you went over the allowed time"
+  },
+  {
+    "id": "7262",
+    "k": "lng_cd_rally_school_complete_failover_time_2",
+    "en": "Alright, just need to be a bit quicker"
+  },
+  {
+    "id": "7263",
+    "k": "lng_cd_rally_school_complete_failover_time_3",
+    "en": "Let's try and finish the test a bit quicker"
+  },
+  {
+    "id": "7264",
+    "k": "lng_cd_rally_school_complete_failover_time_4",
+    "en": "Have another go, and see if you can finish a bit faster."
+  },
+  {
+    "id": "7265",
+    "k": "lng_cd_rally_school_complete_failreactslow_1",
+    "en": "Your reaction time was too slow"
+  },
+  {
+    "id": "7266",
+    "k": "lng_cd_rally_school_complete_failreactslow_2",
+    "en": "Anticipate the countdown for better launch timing"
+  },
+  {
+    "id": "7267",
+    "k": "lng_cd_rally_school_complete_failreactslow_3",
+    "en": "Concentrate on the countdown, the launch was a bit late."
+  },
+  {
+    "id": "7268",
+    "k": "lng_cd_rally_school_complete_failreducethrottle_1",
+    "en": "You didn't reduce your throttle input"
+  },
+  {
+    "id": "7269",
+    "k": "lng_cd_rally_school_complete_failreducethrottle_2",
+    "en": "Remember to let off the throttle to set up the weight transfer"
+  },
+  {
+    "id": "7270",
+    "k": "lng_cd_rally_school_complete_failreducethrottle_3",
+    "en": "You'll need to remember to reduce your throttle input"
+  },
+  {
+    "id": "7271",
+    "k": "lng_cd_rally_school_complete_failstopzone_1",
+    "en": "You failed to stop in the pass zone"
+  },
+  {
+    "id": "7272",
+    "k": "lng_cd_rally_school_complete_failstopzone_2",
+    "en": "Make sure you don't overshoot the pass zone"
+  },
+  {
+    "id": "7273",
+    "k": "lng_cd_rally_school_complete_failstopzone_3",
+    "en": "Give yourself enough time to stop in the pass zone next time"
+  },
+  {
+    "id": "7274",
+    "k": "lng_cd_rally_school_complete_failthrottle_1",
+    "en": "You didn't maintain your throttle"
+  },
+  {
+    "id": "7275",
+    "k": "lng_cd_rally_school_complete_failthrottle_2",
+    "en": "Make sure you keep the throttle engaged"
+  },
+  {
+    "id": "7276",
+    "k": "lng_cd_rally_school_complete_failthrottle_3",
+    "en": "You went below the minimum throttle input that time"
+  },
+  {
+    "id": "7277",
+    "k": "lng_cd_rally_school_complete_pass_1",
+    "en": "That's a pass!"
+  },
+  {
+    "id": "7278",
+    "k": "lng_cd_rally_school_complete_pass_2",
+    "en": "That was impressive, let's take a look at the next lesson!"
+  },
+  {
+    "id": "7279",
+    "k": "lng_cd_rally_school_complete_pass_3",
+    "en": "You completed that like a Pro!"
+  },
+  {
+    "id": "7280",
+    "k": "lng_cd_rally_school_complete_pass_4",
+    "en": "Are you sure you're not a professional?"
+  },
+  {
+    "id": "7281",
+    "k": "lng_cd_rally_school_complete_pass_5",
+    "en": "It's a pass, let's move on to the next lesson."
+  },
+  {
+    "id": "7282",
+    "k": "lng_cd_rally_school_complete_pass_6",
+    "en": "You made that look easy!"
+  },
+  {
+    "id": "7283",
+    "k": "lng_cd_rally_school_complete_pass_7",
+    "en": "That was great!"
+  },
+  {
+    "id": "7284",
+    "k": "lng_cd_rally_school_complete_pass_8",
+    "en": "Excellent, that's a pass!"
+  },
+  {
+    "id": "7285",
+    "k": "lng_cd_rally_school_lesson001_part1_1",
+    "en": "Hey, right let's get started, just make sure your belts are nice and tight before we carry on..."
+  },
+  {
+    "id": "7286",
+    "k": "lng_cd_rally_school_lesson001_part2_1",
+    "en": "OK... Driving a rally car for the first time can be a daunting experience for anyone."
+  },
+  {
+    "id": "7287",
+    "k": "lng_cd_rally_school_lesson001_part3_1",
+    "en": "So, for this first session, it is more of a familiarisation exercise than a test."
+  },
+  {
+    "id": "7288",
+    "k": "lng_cd_rally_school_lesson001_part4_1",
+    "en": "Keep the car under the stated speed, and navigate through the corners and within the cones to the end of the course, then come to a stop in the blue marked zone."
+  },
+  {
+    "id": "7289",
+    "k": "lng_cd_rally_school_lesson001_part4_b_1",
+    "en": "OK, come to a stop inside the blue marked zone at the end of this section."
+  },
+  {
+    "id": "7290",
+    "k": "lng_cd_rally_school_lesson001_part5_1",
+    "en": "The main goal is to be in control of the car until the finish, no need to go flat out just yet!"
+  },
+  {
+    "id": "7291",
+    "k": "lng_cd_rally_school_lesson002_part1_1",
+    "en": "Pacenotes are used in rallying to give the driver a detailed \"turn by turn\" description of the track they are driving down."
+  },
+  {
+    "id": "7292",
+    "k": "lng_cd_rally_school_lesson002_part2_1",
+    "en": "The information delivered by a Co-Driver allows you to determine how fast to approach each section. They also warn you about upcoming dangers like rocks by the roadside and obstacles like jumps and bumps."
+  },
+  {
+    "id": "7293",
+    "k": "lng_cd_rally_school_lesson002_part3_1",
+    "en": "You can choose either; easier to digest \"simple pacenotes\", or the more detailed \"1 to 6\" corner grading system, with 6 being the least severe angle, and 1 being the most severe. Detailed calls also highlight straights in metres, which link the corners and obstacles together."
+  },
+  {
+    "id": "7294",
+    "k": "lng_cd_rally_school_lesson002_part4_1",
+    "en": "Keep in mind that the corner grade represents the severity of the turn, not the speed. Once you get familiar with each call, you will be able to visualise the track ahead, and adjust your speed accordingly."
+  },
+  {
+    "id": "7295",
+    "k": "lng_cd_rally_school_lesson002_part5_1",
+    "en": "So, same as last time, complete the course set out by the cones, keep under the stated speed, but this time I will read out some calls for you."
+  },
+  {
+    "id": "7296",
+    "k": "lng_cd_rally_school_lesson003_part1_1",
+    "en": "To get off to a good start, you need to keep your eye on the start lights, whilst listening to the countdown from your co-driver."
+  },
+  {
+    "id": "7297",
+    "k": "lng_cd_rally_school_lesson003_part2_1",
+    "en": "Holding the handbrake starts the five second countdown."
+  },
+  {
+    "id": "7298",
+    "k": "lng_cd_rally_school_lesson003_part3_1",
+    "en": "When the lights go green, release the handbrake as fast as you can, balance the throttle to find good traction for a smooth launch, and try to avoid excess wheel spin."
+  },
+  {
+    "id": "7299",
+    "k": "lng_cd_rally_school_lesson003_part4_1",
+    "en": "After launching, get the car up to speed. Then, hit the brakes just after crossing the braking markers. Come to a stop within the blue pass zone."
+  },
+  {
+    "id": "7300",
+    "k": "lng_cd_rally_school_lesson003_part5_1",
+    "en": "Try to avoid locking up the wheels, this will happen if you apply too much braking pressure."
+  },
+  {
+    "id": "7301",
+    "k": "lng_cd_rally_school_lesson003_trigger1_1",
+    "en": "OK so, hold the handbrake and find your revs"
+  },
+  {
+    "id": "7302",
+    "k": "lng_cd_rally_school_lesson003_trigger2_1",
+    "en": "5, 4, 3, 2, 1, GO."
+  },
+  {
+    "id": "7303",
+    "k": "lng_cd_rally_school_lesson003_trigger3_1",
+    "en": "Accelerate to the braking markers."
+  },
+  {
+    "id": "7304",
+    "k": "lng_cd_rally_school_lesson003_trigger4_1",
+    "en": "Brake!"
+  },
+  {
+    "id": "7305",
+    "k": "lng_cd_rally_school_lesson004_part1_1",
+    "en": "Unlike normal rallies, regularity events are not about going as fast as you can."
+  },
+  {
+    "id": "7306",
+    "k": "lng_cd_rally_school_lesson004_part2_1",
+    "en": "Instead, there is a target average speed for the stage. From this average speed, a target time is then calculated for each sector. The goal is to get as close to this target time as possible."
+  },
+  {
+    "id": "7307",
+    "k": "lng_cd_rally_school_lesson004_part3_1",
+    "en": "You will incur 1 penalty point for every second you are above or below the target time for each sector, the driver with the least amount of penalty points at the finish will be the winner."
+  },
+  {
+    "id": "7308",
+    "k": "lng_cd_rally_school_lesson004_part4_1",
+    "en": "Penalty points are also incurred for breaking the max speed limit or stopping on stage for too long. Ignoring these rules will get you disqualified."
+  },
+  {
+    "id": "7309",
+    "k": "lng_cd_rally_school_lesson004_part5_1",
+    "en": "Now, let's have a practice on this small course set out in the rally school! You will see your target time counting down, so try to reach each sector as close as you can to zero. Remember, every second above or below will incur a penalty point."
+  },
+  {
+    "id": "7310",
+    "k": "lng_cd_rally_school_lesson005_part1_1",
+    "en": "The fastest point from the start of the stage to the end, would be a dead straight line, however..."
+  },
+  {
+    "id": "7311",
+    "k": "lng_cd_rally_school_lesson005_part2_1",
+    "en": "Rally stages are made up of many corners, and by identifying the correct racing line through each one, you can take the shortest path possible, which helps maintain your momentum."
+  },
+  {
+    "id": "7312",
+    "k": "lng_cd_rally_school_lesson005_part3_1",
+    "en": "The ideal racing line, starts wide on corner entry, then swings in - clipping the inside apex, before letting the car drift back out wide again."
+  },
+  {
+    "id": "7313",
+    "k": "lng_cd_rally_school_lesson005_trigger_1",
+    "en": "Let's have a go at nailing the racing line for this corner, accelerate towards the turn and keep within the blue cones."
+  },
+  {
+    "id": "7314",
+    "k": "lng_cd_rally_school_lesson006_part2_1",
+    "en": "Lightly braking while still \"on the throttle\" is called \"Left foot braking\". This will create a more exaggerated response than \"off throttle oversteer\" and can help you pitch the car into the corner, as you put weight onto the front wheels, allowing greater precision."
+  },
+  {
+    "id": "7315",
+    "k": "lng_cd_rally_school_lesson006_part3_1",
+    "en": "In this exercise you must maintain a level of throttle input and use left foot braking to carry your speed through the corner, at the blue technique zone."
+  },
+  {
+    "id": "7316",
+    "k": "lng_cd_rally_school_lesson006_part4_1",
+    "en": "The advantage of left foot braking is that you can keep the engine revs high, giving you more momentum on the exit of the corner."
+  },
+  {
+    "id": "7317",
+    "k": "lng_cd_rally_school_lesson006_trigger2_1",
+    "en": "Brake through the corner and stay on the throttle."
+  },
+  {
+    "id": "7318",
+    "k": "lng_cd_rally_school_lesson006_trigger3_1",
+    "en": "Off the brake on exit."
+  },
+  {
+    "id": "7319",
+    "k": "lng_cd_rally_school_lesson007_part1_1",
+    "en": "Weight transfer can be used to shift load from one area of the car to another. Deaccelerating will increase grip at the front wheels, whilst accelerating will increase grip at the rear."
+  },
+  {
+    "id": "7320",
+    "k": "lng_cd_rally_school_lesson007_part2_1",
+    "en": "Off throttle oversteer can be a useful technique in situations where heavy braking is not required. Lifting off the throttle on corner entry will send the weight to the front wheels, for a more responsive turn-in, preventing understeer."
+  },
+  {
+    "id": "7321",
+    "k": "lng_cd_rally_school_lesson007_part3_1",
+    "en": "In this exercise you will navigate the corner ahead, using the off throttle oversteer technique, by releasing the throttle on corner entry."
+  },
+  {
+    "id": "7322",
+    "k": "lng_cd_rally_school_lesson007_part4_1",
+    "en": "This is important: don't use the brakes or handbrake, this is an instant fail. Apply the throttle again once you are exiting the bend."
+  },
+  {
+    "id": "7323",
+    "k": "lng_cd_rally_school_lesson007_trigger1_1",
+    "en": "Accelerate up to the stated speed."
+  },
+  {
+    "id": "7324",
+    "k": "lng_cd_rally_school_lesson007_trigger2_1",
+    "en": "Lift off the throttle, don't use the brakes."
+  },
+  {
+    "id": "7325",
+    "k": "lng_cd_rally_school_lesson007_trigger3_1",
+    "en": "Now back on the throttle."
+  },
+  {
+    "id": "7326",
+    "k": "lng_cd_rally_school_lesson008_part1_1",
+    "en": "The handbrake can be used to get the car around tight corners that would be difficult to navigate using only the techniques you have practiced up until now."
+  },
+  {
+    "id": "7327",
+    "k": "lng_cd_rally_school_lesson008_part2_1",
+    "en": "To get around tighter sections like hairpins, turn-in and quickly engage the handbrake to lock up your rear wheels, and tighten your line through the corner."
+  },
+  {
+    "id": "7328",
+    "k": "lng_cd_rally_school_lesson008_part3_1",
+    "en": "It's important to pull the handbrake whilst the weight has already been transferred over the front wheels. Using the footbrake into the hairpin should set this up."
+  },
+  {
+    "id": "7329",
+    "k": "lng_cd_rally_school_lesson008_part4_1",
+    "en": "You will need to turn in hard and sharp on 180 degree corners, on 90 degree corners you will require less steering input."
+  },
+  {
+    "id": "7330",
+    "k": "lng_cd_rally_school_lesson008_trigger1_1",
+    "en": "Accelerate towards the first corner, turn in whilst braking, then pull the handbrake in the blue zone. Repeat this technique for the rest of the course."
+  },
+  {
+    "id": "7331",
+    "k": "lng_cd_rally_school_lesson009_part1_1",
+    "en": "Throttle control is extremely important when driving a rally car, especially with Rear Wheel Drive and Four Wheel Drive powertrains."
+  },
+  {
+    "id": "7332",
+    "k": "lng_cd_rally_school_lesson009_part2_1",
+    "en": "When you master throttle control, it will greatly improve your stage times. That extra finesse will help you find traction to accelerate more efficiently."
+  },
+  {
+    "id": "7333",
+    "k": "lng_cd_rally_school_lesson009_part3_1",
+    "en": "You can initiate a power slide from one corner to another by using any of the weight transfer techniques you have learned in the previous lessons. Maintain the slide by feathering the throttle."
+  },
+  {
+    "id": "7334",
+    "k": "lng_cd_rally_school_lesson009_part4_1",
+    "en": "This allows for maximum corner speed on tighter turns without using the handbrake."
+  },
+  {
+    "id": "7335",
+    "k": "lng_cd_rally_school_lesson009_trigger1_1",
+    "en": "Ok, accelerate up to the first corner."
+  },
+  {
+    "id": "7336",
+    "k": "lng_cd_rally_school_lesson009_trigger2_1",
+    "en": "Maintain your speed through the corners."
+  },
+  {
+    "id": "7337",
+    "k": "lng_cd_rally_school_lesson010_part1_1",
+    "en": "Now, it wouldn't be a Rally without having to face some unique obstacles along the way, however, any good driver will be well prepared to navigate them."
+  },
+  {
+    "id": "7338",
+    "k": "lng_cd_rally_school_lesson010_part2_1",
+    "en": "Over sharp crests, the car – depending on the speed of approach – can leave the ground and jump through the air."
+  },
+  {
+    "id": "7339",
+    "k": "lng_cd_rally_school_lesson010_part3_1",
+    "en": "You can also encounter deep water crossings on some stages which will slow you down, and if you enter at a bad angle you could lose control of the car."
+  }
+]

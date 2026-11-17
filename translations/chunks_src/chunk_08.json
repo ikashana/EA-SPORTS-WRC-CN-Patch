@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "3257",
+    "k": "lng_staff_engineer_perk_name_suspension_repair_expert",
+    "en": "Suspension Repair Expert"
+  },
+  {
+    "id": "3258",
+    "k": "lng_staff_facilities_next_upgrade",
+    "en": "Next Upgrade"
+  },
+  {
+    "id": "3259",
+    "k": "lng_staff_first_tier",
+    "en": "Tier 1"
+  },
+  {
+    "id": "3260",
+    "k": "lng_staff_fourth_tier",
+    "en": "Tier 4"
+  },
+  {
+    "id": "3261",
+    "k": "lng_staff_licence_requaired_to_hire",
+    "en": "LICENCE REQUIRED TO HIRE"
+  },
+  {
+    "id": "3262",
+    "k": "lng_staff_member_name_b_harris",
+    "en": "B. Harris"
+  },
+  {
+    "id": "3263",
+    "k": "lng_staff_member_name_b_martin",
+    "en": "B. Martin"
+  },
+  {
+    "id": "3264",
+    "k": "lng_staff_member_name_g_muller",
+    "en": "G. Muller"
+  },
+  {
+    "id": "3265",
+    "k": "lng_staff_member_name_s_williams",
+    "en": "S. Williams"
+  },
+  {
+    "id": "3266",
+    "k": "lng_staff_member_name_t_garcia",
+    "en": "T. Garcia"
+  },
+  {
+    "id": "3267",
+    "k": "lng_staff_member_quantity_key",
+    "en": "Member"
+  },
+  {
+    "id": "3268",
+    "k": "lng_staff_member_role_name_engineer",
+    "en": "Engineer"
+  },
+  {
+    "id": "3269",
+    "k": "lng_staff_recruitment_screen_title",
+    "en": "STAFF RECRUITMENT"
+  },
+  {
+    "id": "3270",
+    "k": "lng_staff_repair_efficiency",
+    "en": "Repair Efficiency"
+  },
+  {
+    "id": "3271",
+    "k": "lng_staff_second_tier",
+    "en": "Tier 2"
+  },
+  {
+    "id": "3272",
+    "k": "lng_staff_skill_level_name_junior",
+    "en": "Junior"
+  },
+  {
+    "id": "3273",
+    "k": "lng_staff_skill_level_name_senior",
+    "en": "Senior"
+  },
+  {
+    "id": "3274",
+    "k": "lng_staff_skill_level_name_specialist",
+    "en": "Specialist"
+  },
+  {
+    "id": "3275",
+    "k": "lng_staff_skill_level_name_trained",
+    "en": "Trained"
+  },
+  {
+    "id": "3276",
+    "k": "lng_staff_stamina_name_alert",
+    "en": "Alert"
+  },
+  {
+    "id": "3277",
+    "k": "lng_staff_stamina_name_out_of_action",
+    "en": "Out of Action"
+  },
+  {
+    "id": "3278",
+    "k": "lng_staff_stamina_name_tired",
+    "en": "Tired"
+  },
+  {
+    "id": "3279",
+    "k": "lng_staff_third_tier",
+    "en": "Tier 3"
+  },
+  {
+    "id": "3280",
+    "k": "lng_standingsfilter_all",
+    "en": "All Classes"
+  },
+  {
+    "id": "3281",
+    "k": "lng_standingsfilter_playerclass",
+    "en": "Current Class"
+  },
+  {
+    "id": "3282",
+    "k": "lng_start_button_title",
+    "en": "Start"
+  },
+  {
+    "id": "3283",
+    "k": "lng_start_next_event",
+    "en": "START NEXT EVENT"
+  },
+  {
+    "id": "3284",
+    "k": "lng_staying_focused",
+    "en": "Staying Focused"
+  },
+  {
+    "id": "3285",
+    "k": "lng_stop_in_parkingbay_description",
+    "en": "Stop the vehicle in the blue marked zone"
+  },
+  {
+    "id": "3286",
+    "k": "lng_stop_in_trigger_description",
+    "en": "Stop the vehicle in the pass zone"
+  },
+  {
+    "id": "3287",
+    "k": "lng_stop_the_vehicle_in_marshal_zone_description",
+    "en": "Stop the vehicle in the marshal control zone"
+  },
+  {
+    "id": "3288",
+    "k": "lng_super_ford",
+    "en": "Super Ford"
+  },
+  {
+    "id": "3289",
+    "k": "lng_surface_title",
+    "en": "Surface"
+  },
+  {
+    "id": "3290",
+    "k": "lng_systemeq_headphones",
+    "en": "Headphones"
+  },
+  {
+    "id": "3291",
+    "k": "lng_systemeq_homecinema",
+    "en": "Home Cinema"
+  },
+  {
+    "id": "3292",
+    "k": "lng_systemeq_nightmode",
+    "en": "Night Mode"
+  },
+  {
+    "id": "3293",
+    "k": "lng_systemeq_soundbar",
+    "en": "Soundbar"
+  },
+  {
+    "id": "3294",
+    "k": "lng_systemeq_tv",
+    "en": "TV"
+  },
+  {
+    "id": "3295",
+    "k": "lng_talent_scout_screen_title",
+    "en": "TALENT SCOUT"
+  },
+  {
+    "id": "3296",
+    "k": "lng_target_time_friend_time",
+    "en": "FRIEND TIME"
+  },
+  {
+    "id": "3297",
+    "k": "lng_target_time_leaderboard_time",
+    "en": "Leaderboard Time"
+  },
+  {
+    "id": "3298",
+    "k": "lng_tb_wheel_vo_race",
+    "en": "Turtle Beach VelocityOne™ Race Wheel"
+  },
+  {
+    "id": "3299",
+    "k": "lng_tb_wheel_vo_race",
+    "en": "VelocityOne™ Race Wheel"
+  },
+  {
+    "id": "3300",
+    "k": "lng_teamselectscreen_codriver",
+    "en": "CO-DRIVER"
+  },
+  {
+    "id": "3301",
+    "k": "lng_teamselectscreen_cylinders",
+    "en": "CYLINDERS"
+  },
+  {
+    "id": "3302",
+    "k": "lng_teamselectscreen_driver",
+    "en": "DRIVER"
+  },
+  {
+    "id": "3303",
+    "k": "lng_teamselectscreen_engine",
+    "en": "ENGINE"
+  },
+  {
+    "id": "3304",
+    "k": "lng_teamselectscreen_established",
+    "en": "Established in"
+  },
+  {
+    "id": "3305",
+    "k": "lng_teamselectscreen_power",
+    "en": "POWER"
+  },
+  {
+    "id": "3306",
+    "k": "lng_teamselectscreen_privateer",
+    "en": "Privateer"
+  },
+  {
+    "id": "3307",
+    "k": "lng_teamselectscreen_teamname",
+    "en": "TEAM NAME"
+  },
+  {
+    "id": "3308",
+    "k": "lng_teamselectscreen_weight",
+    "en": "WEIGHT"
+  },
+  {
+    "id": "3309",
+    "k": "lng_terminal_damage_car_unrecoverable",
+    "en": "UNRECOVERABLE"
+  },
+  {
+    "id": "3310",
+    "k": "lng_terminal_damage_impact_speed",
+    "en": "IMPACT"
+  },
+  {
+    "id": "3311",
+    "k": "lng_terminal_damage_part_failure",
+    "en": "PART FAILURE"
+  },
+  {
+    "id": "3312",
+    "k": "lng_terminaldamagetype_steering",
+    "en": "STEERING"
+  },
+  {
+    "id": "3313",
+    "k": "lng_test_drive_result_title",
+    "en": "Test Drive Result"
+  },
+  {
+    "id": "3314",
+    "k": "lng_test_drive_results_title",
+    "en": "TEST DRIVE RESULTS"
+  },
+  {
+    "id": "3315",
+    "k": "lng_testdrivesettings_graveldry",
+    "en": "Gravel - Dry"
+  },
+  {
+    "id": "3316",
+    "k": "lng_testdrivesettings_gravelwet",
+    "en": "Gravel - Wet"
+  },
+  {
+    "id": "3317",
+    "k": "lng_testdrivesettings_tarmacdry",
+    "en": "Asphalt - Dry"
+  },
+  {
+    "id": "3318",
+    "k": "lng_testdrivesettings_tarmacwet",
+    "en": "Asphalt - Wet"
+  },
+  {
+    "id": "3319",
+    "k": "lng_theoretical_best",
+    "en": "Theoretical Best"
+  },
+  {
+    "id": "3320",
+    "k": "lng_throttle_diagram_option_aggressive_text",
+    "en": "AGGRESSIVE"
+  },
+  {
+    "id": "3321",
+    "k": "lng_throttle_diagram_option_balanced_text",
+    "en": "BALANCED"
+  },
+  {
+    "id": "3322",
+    "k": "lng_throttle_diagram_option_cautious_text",
+    "en": "CAUTIOUS"
+  },
+  {
+    "id": "3323",
+    "k": "lng_throttle_jump_description",
+    "en": "Accelerate on each jump take off"
+  },
+  {
+    "id": "3324",
+    "k": "lng_throttlepositionoptions_aggressive",
+    "en": "Aggressive"
+  },
+  {
+    "id": "3325",
+    "k": "lng_throttlepositionoptions_balanced",
+    "en": "Balanced"
+  },
+  {
+    "id": "3326",
+    "k": "lng_throttlepositionoptions_cautious",
+    "en": "Cautious"
+  },
+  {
+    "id": "3327",
+    "k": "lng_tier_number_format",
+    "en": "Tier {0}"
+  },
+  {
+    "id": "3328",
+    "k": "lng_time_limit_description",
+    "en": "Complete the lesson in the required time:"
+  },
+  {
+    "id": "3329",
+    "k": "lng_time_of_day_name_afternoon",
+    "en": "Afternoon"
+  },
+  {
+    "id": "3330",
+    "k": "lng_time_of_day_name_dawn",
+    "en": "Dawn"
+  },
+  {
+    "id": "3331",
+    "k": "lng_time_of_day_name_dusk",
+    "en": "Dusk"
+  },
+  {
+    "id": "3332",
+    "k": "lng_time_of_day_name_midday",
+    "en": "Morning"
+  },
+  {
+    "id": "3333",
+    "k": "lng_time_of_day_name_mystery",
+    "en": "Unknown"
+  },
+  {
+    "id": "3334",
+    "k": "lng_time_of_day_name_night",
+    "en": "Night"
+  },
+  {
+    "id": "3335",
+    "k": "lng_time_of_day_name_random",
+    "en": "Random"
+  },
+  {
+    "id": "3336",
+    "k": "lng_time_of_day_name_sunrise",
+    "en": "Sunrise"
+  },
+  {
+    "id": "3337",
+    "k": "lng_time_of_day_name_sunset",
+    "en": "Sunset"
+  },
+  {
+    "id": "3338",
+    "k": "lng_time_trial_daily_target_label",
+    "en": "DAILY TARGET TIME"
+  },
+  {
+    "id": "3339",
+    "k": "lng_time_trial_ea_account_required_body",
+    "en": "If you do not have an EA Account you will still be able to access Time Trial but will not be able to post to online leaderboards."
+  },
+  {
+    "id": "3340",
+    "k": "lng_time_trial_ea_account_required_title",
+    "en": "EA ACCOUNT REQUIRED"
+  },
+  {
+    "id": "3341",
+    "k": "lng_time_trial_lap_invalidated_message",
+    "en": "Attempt Invalidated"
+  },
+  {
+    "id": "3342",
+    "k": "lng_time_trial_lead_ghost",
+    "en": "LEAD GHOST"
+  },
+  {
+    "id": "3343",
+    "k": "lng_time_trial_monthly_target_label",
+    "en": "MONTHLY TARGET TIME"
+  },
+  {
+    "id": "3344",
+    "k": "lng_time_trial_results_session_best",
+    "en": "Session Best"
+  },
+  {
+    "id": "3345",
+    "k": "lng_time_trial_targets_multiple_missing_entitlements",
+    "en": "Multiple Content Packs Required"
+  },
+  {
+    "id": "3346",
+    "k": "lng_timed_stage_name",
+    "en": "FINAL TIMED TEST"
+  },
+  {
+    "id": "3347",
+    "k": "lng_timetype_curated",
+    "en": "Curated Time"
+  },
+  {
+    "id": "3348",
+    "k": "lng_timetype_friends",
+    "en": "Friend Time"
+  },
+  {
+    "id": "3349",
+    "k": "lng_timetype_initial",
+    "en": "No Time Set"
+  },
+  {
+    "id": "3350",
+    "k": "lng_timingoption_timingandsplits",
+    "en": "Timing and Splits"
+  },
+  {
+    "id": "3351",
+    "k": "lng_timingoption_timingonly",
+    "en": "Timing Only"
+  },
+  {
+    "id": "3352",
+    "k": "lng_tm_base_t300rs",
+    "en": "Thrustmaster T300 RS"
+  },
+  {
+    "id": "3353",
+    "k": "lng_tm_base_t500rs",
+    "en": "Thrustmaster T500 RS"
+  },
+  {
+    "id": "3354",
+    "k": "lng_tm_base_tgt",
+    "en": "Thrustmaster T-GT"
+  },
+  {
+    "id": "3355",
+    "k": "lng_tm_base_tspc",
+    "en": "Thrustmaster TS-PC"
+  },
+  {
+    "id": "3356",
+    "k": "lng_tm_dual_trigger_3_in_1",
+    "en": "Thrustmaster Dual Trigger 3 In 1"
+  },
+  {
+    "id": "3357",
+    "k": "lng_tm_handbrake",
+    "en": "TSS Handbrake Sparco Mod"
+  },
+  {
+    "id": "3358",
+    "k": "lng_tm_handbrake_direct",
+    "en": "TSS Handbrake Sparco Mod (USB)"
+  },
+  {
+    "id": "3359",
+    "k": "lng_tm_pedals_direct",
+    "en": "Thrustmaster Pedals (USB)"
+  },
+  {
+    "id": "3360",
+    "k": "lng_tm_rim_28gt",
+    "en": "TM Leather 28 GT Wheel"
+  },
+  {
+    "id": "3361",
+    "k": "lng_tm_rim_458",
+    "en": "Ferrari 458 Italia"
+  },
+  {
+    "id": "3362",
+    "k": "lng_tm_rim_488",
+    "en": "Ferrari 488 Challenge"
+  },
+  {
+    "id": "3363",
+    "k": "lng_tm_rim_599",
+    "en": "Ferrari 599xx EVO 30 Wheel"
+  },
+  {
+    "id": "3364",
+    "k": "lng_tm_rim_f1",
+    "en": "Ferrari F1 Wheel"
+  },
+  {
+    "id": "3365",
+    "k": "lng_tm_rim_gt",
+    "en": "GT Wheel"
+  },
+  {
+    "id": "3366",
+    "k": "lng_tm_rim_gte",
+    "en": "Ferrari GTE Wheel Add-On Ferrari 458 Challenge Edition"
+  },
+  {
+    "id": "3367",
+    "k": "lng_tm_rim_open",
+    "en": "TM Open Wheel"
+  },
+  {
+    "id": "3368",
+    "k": "lng_tm_rim_p310",
+    "en": "TM Competition Wheel Add-On SPARCO P310 Mod"
+  },
+  {
+    "id": "3369",
+    "k": "lng_tm_rim_p310_xb",
+    "en": "TM Competition Wheel Add-On SPARCO P310 Mod (Xbox Series X|S)"
+  },
+  {
+    "id": "3370",
+    "k": "lng_tm_rim_ps",
+    "en": "PS5™ console Wheel"
+  },
+  {
+    "id": "3371",
+    "k": "lng_tm_rim_r383",
+    "en": "TM Rally Wheel Add-On SPARCO R383 Mod"
+  },
+  {
+    "id": "3372",
+    "k": "lng_tm_rim_t128",
+    "en": "T128"
+  },
+  {
+    "id": "3373",
+    "k": "lng_tm_rim_t248",
+    "en": "T248"
+  },
+  {
+    "id": "3374",
+    "k": "lng_tm_rim_tgt",
+    "en": "T-GT Wheel"
+  },
+  {
+    "id": "3375",
+    "k": "lng_tm_rim_tx_leather",
+    "en": "TM Leather 28 GT Wheel (Xbox Series X|S)"
+  },
+  {
+    "id": "3376",
+    "k": "lng_tm_shifter_direct",
+    "en": "Thrustmaster Shifter"
+  },
+  {
+    "id": "3377",
+    "k": "lng_tm_t128_xb",
+    "en": "Thrustmaster T128 for Xbox Series X|S"
+  },
+  {
+    "id": "3378",
+    "k": "lng_tm_tsxw",
+    "en": "Thrustmaster TS-XW"
+  },
+  {
+    "id": "3379",
+    "k": "lng_tm_tsxw_28gt",
+    "en": "Thrustmaster TS-XW - 28GT"
+  },
+  {
+    "id": "3380",
+    "k": "lng_tm_tsxw_458",
+    "en": "Thrustmaster TS-XW - 458 Italia"
+  },
+  {
+    "id": "3381",
+    "k": "lng_tm_tsxw_599",
+    "en": "Thrustmaster TS-XW - 599xx"
+  },
+  {
+    "id": "3382",
+    "k": "lng_tm_tsxw_f1",
+    "en": "Thrustmaster TS-XW - F1"
+  },
+  {
+    "id": "3383",
+    "k": "lng_tm_tsxw_gte",
+    "en": "Thrustmaster TS-XW - GTE"
+  },
+  {
+    "id": "3384",
+    "k": "lng_tm_tsxw_leather",
+    "en": "Thrustmaster TS-XW - 28GT (Xbox Series X|S)"
+  },
+  {
+    "id": "3385",
+    "k": "lng_tm_tsxw_open",
+    "en": "Thrustmaster TS-XW - Open"
+  },
+  {
+    "id": "3386",
+    "k": "lng_tm_tsxw_p310",
+    "en": "Thrustmaster TS-XW - P310"
+  },
+  {
+    "id": "3387",
+    "k": "lng_tm_tsxw_r383",
+    "en": "Thrustmaster TS-XW - R383"
+  },
+  {
+    "id": "3388",
+    "k": "lng_tm_tx",
+    "en": "Thrustmaster TX"
+  },
+  {
+    "id": "3389",
+    "k": "lng_tm_tx_28gt",
+    "en": "Thrustmaster TX - 28GT"
+  },
+  {
+    "id": "3390",
+    "k": "lng_tm_tx_458",
+    "en": "Thrustmaster TX - 458 Italia"
+  },
+  {
+    "id": "3391",
+    "k": "lng_tm_tx_599",
+    "en": "Thrustmaster TX - 599xx"
+  },
+  {
+    "id": "3392",
+    "k": "lng_tm_tx_f1",
+    "en": "Thrustmaster TX - F1"
+  },
+  {
+    "id": "3393",
+    "k": "lng_tm_tx_gte",
+    "en": "Thrustmaster TX - GTE"
+  },
+  {
+    "id": "3394",
+    "k": "lng_tm_tx_leather",
+    "en": "Thrustmaster TX - 28GT (Xbox Series X|S)"
+  },
+  {
+    "id": "3395",
+    "k": "lng_tm_tx_open",
+    "en": "Thrustmaster TX - Open"
+  },
+  {
+    "id": "3396",
+    "k": "lng_tm_tx_p310",
+    "en": "Thrustmaster TX - P310"
+  },
+  {
+    "id": "3397",
+    "k": "lng_tm_tx_r383",
+    "en": "Thrustmaster TX - R383"
+  },
+  {
+    "id": "3398",
+    "k": "lng_tm_wheel_f430",
+    "en": "Thrustmaster Ferrari F430 Force Feedback"
+  },
+  {
+    "id": "3399",
+    "k": "lng_tm_wheel_f458",
+    "en": "Thrustmaster Ferrari 458 Spider Racing Wheel"
+  },
+  {
+    "id": "3400",
+    "k": "lng_tm_wheel_fgt",
+    "en": "Thrustmaster Ferrari GT Experience"
+  },
+  {
+    "id": "3401",
+    "k": "lng_tm_wheel_pc",
+    "en": "Thrustmaster Advanced Racer"
+  },
+  {
+    "id": "3402",
+    "k": "lng_tm_wheel_rgt",
+    "en": "Thrustmaster Rally GT Pro Force Feedback"
+  },
+  {
+    "id": "3403",
+    "k": "lng_tm_wheel_t128_ps",
+    "en": "Thrustmaster T128 for PS5™ console"
+  },
+  {
+    "id": "3404",
+    "k": "lng_tm_wheel_t150",
+    "en": "Thrustmaster T150 Force Feedback"
+  },
+  {
+    "id": "3405",
+    "k": "lng_tm_wheel_t248_ps",
+    "en": "Thrustmaster T248 for PS5™ console"
+  },
+  {
+    "id": "3406",
+    "k": "lng_tm_wheel_t248_xb",
+    "en": "Thrustmaster T248 for Xbox Series X|S"
+  },
+  {
+    "id": "3407",
+    "k": "lng_tm_wheel_t80",
+    "en": "Thrustmaster T80 Racing Wheel"
+  },
+  {
+    "id": "3408",
+    "k": "lng_tm_wheel_tmx",
+    "en": "Thrustmaster TMX"
+  },
+  {
+    "id": "3409",
+    "k": "lng_toggle_look_back_option_warning",
+    "en": "Some players may experience discomfort if the Toggle 'Lock Back' setting is turned ON and the reverse camera view is selected during racing."
+  },
+  {
+    "id": "3410",
+    "k": "lng_trackdegradation_late",
+    "en": "Heavy"
+  },
+  {
+    "id": "3411",
+    "k": "lng_trackdegradation_maximum",
+    "en": "Maximum"
+  },
+  {
+    "id": "3412",
+    "k": "lng_trackdegradation_mid",
+    "en": "Moderate"
+  },
+  {
+    "id": "3413",
+    "k": "lng_tracksurfacematerial_cobblestone",
+    "en": "Cobblestone"
+  },
+  {
+    "id": "3414",
+    "k": "lng_tracksurfacematerial_dirt",
+    "en": "Dirt"
+  },
+  {
+    "id": "3415",
+    "k": "lng_tracksurfacematerial_lightgravel",
+    "en": "Light Gravel"
+  },
+  {
+    "id": "3416",
+    "k": "lng_transmissiontype_auto",
+    "en": "Automatic"
+  },
+  {
+    "id": "3417",
+    "k": "lng_transmissiontype_autoselect",
+    "en": "Auto-Select"
+  },
+  {
+    "id": "3418",
+    "k": "lng_transmissiontype_manualhpattern",
+    "en": "Manual H-Pattern"
+  },
+  {
+    "id": "3419",
+    "k": "lng_transmissiontype_manualhpatternorsequential",
+    "en": "Manual Auto-Select"
+  },
+  {
+    "id": "3420",
+    "k": "lng_transmissiontype_manualsequential",
+    "en": "Manual Sequential"
+  },
+  {
+    "id": "3421",
+    "k": "lng_transmissiontype_semiauto",
+    "en": "Semi-Automatic"
+  },
+  {
+    "id": "3422",
+    "k": "lng_transmissiontype_vehicletype",
+    "en": "Vehicle Type"
+  },
+  {
+    "id": "3423",
+    "k": "lng_tuning_alignment_screen_title",
+    "en": "ALIGNMENT"
+  },
+  {
+    "id": "3424",
+    "k": "lng_tuning_brake_bias",
+    "en": "Brake Bias"
+  },
+  {
+    "id": "3425",
+    "k": "lng_tuning_braking_screen_title",
+    "en": "BRAKING"
+  },
+  {
+    "id": "3426",
+    "k": "lng_tuning_bump_zone_division_slider_label_high",
+    "en": "Fast"
+  },
+  {
+    "id": "3427",
+    "k": "lng_tuning_bump_zone_division_slider_label_low",
+    "en": "Slow"
+  },
+  {
+    "id": "3428",
+    "k": "lng_tuning_camber_angle_slider_label_high",
+    "en": "Positive"
+  },
+  {
+    "id": "3429",
+    "k": "lng_tuning_camber_angle_slider_label_low",
+    "en": "Negative"
+  },
+  {
+    "id": "3430",
+    "k": "lng_tuning_centre_differential_lock",
+    "en": "(Centre) Differential Lock"
+  },
+  {
+    "id": "3431",
+    "k": "lng_tuning_centre_lsd_braking_lock",
+    "en": "(Centre) LSD Braking Lock"
+  },
+  {
+    "id": "3432",
+    "k": "lng_tuning_centre_lsd_preload",
+    "en": "(Centre) LSD Preload"
+  },
+  {
+    "id": "3433",
+    "k": "lng_tuning_centre_torque_bias",
+    "en": "(Centre) Torque Bias"
+  },
+  {
+    "id": "3434",
+    "k": "lng_tuning_centre_viscous_differential",
+    "en": "(Centre) Viscous Differential"
+  },
+  {
+    "id": "3435",
+    "k": "lng_tuning_differential_lock_slider_label_low",
+    "en": "Open"
+  },
+  {
+    "id": "3436",
+    "k": "lng_tuning_differentials_centre_differential_lock_description",
+    "en": "A high lock percentage will improve straight-line traction although it may induce understeer particularly in low grip conditions. A low lock percentage will improve cornering at a cost of straight-line stability."
+  },
+  {
+    "id": "3437",
+    "k": "lng_tuning_front_anti_roll_bar",
+    "en": "(Front) Anti-roll Bar"
+  },
+  {
+    "id": "3438",
+    "k": "lng_tuning_front_differential_lock",
+    "en": "(Front) Differential Lock"
+  },
+  {
+    "id": "3439",
+    "k": "lng_tuning_front_fast_bump",
+    "en": "(Front) Fast Bump"
+  },
+  {
+    "id": "3440",
+    "k": "lng_tuning_front_lsd_braking_lock",
+    "en": "(Front) LSD Braking Lock"
+  },
+  {
+    "id": "3441",
+    "k": "lng_tuning_front_lsd_preload",
+    "en": "(Front) LSD Preload"
+  },
+  {
+    "id": "3442",
+    "k": "lng_tuning_front_slow_bump",
+    "en": "(Front) Slow Bump"
+  },
+  {
+    "id": "3443",
+    "k": "lng_tuning_front_slow_rebound",
+    "en": "(Front) Slow Rebound"
+  },
+  {
+    "id": "3444",
+    "k": "lng_tuning_front_spring_rate",
+    "en": "(Front) Spring Rate"
+  },
+  {
+    "id": "3445",
+    "k": "lng_tuning_gearing_long_description",
+    "en": "A short ratio will improve acceleration at a cost of top speed. A long ratio will reduce acceleration but increase top speed. Too short a ratio may make it more difficult to control the vehicle's power delivery."
+  },
+  {
+    "id": "3446",
+    "k": "lng_tuning_gears_gear4",
+    "en": "4th Gear"
+  },
+  {
+    "id": "3447",
+    "k": "lng_tuning_gears_gear5",
+    "en": "5th Gear"
+  },
+  {
+    "id": "3448",
+    "k": "lng_tuning_gears_screen_title",
+    "en": "GEARS"
+  },
+  {
+    "id": "3449",
+    "k": "lng_tuning_handbrake_force",
+    "en": "Handbrake Force"
+  },
+  {
+    "id": "3450",
+    "k": "lng_tuning_hub_no_tuning_allowed",
+    "en": "Tuning not Available"
+  },
+  {
+    "id": "3451",
+    "k": "lng_tuning_lsd_braking_lock_slider_label_high",
+    "en": "Locked"
+  },
+  {
+    "id": "3452",
+    "k": "lng_tuning_rear_anti_roll_bar",
+    "en": "(Rear) Anti-roll Bar"
+  },
+  {
+    "id": "3453",
+    "k": "lng_tuning_rear_camber_angle",
+    "en": "(Rear) Camber Angle"
+  },
+  {
+    "id": "3454",
+    "k": "lng_tuning_rear_differential_lock",
+    "en": "(Rear) Differential Lock"
+  },
+  {
+    "id": "3455",
+    "k": "lng_tuning_rear_fast_bump",
+    "en": "(Rear) Fast Bump"
+  },
+  {
+    "id": "3456",
+    "k": "lng_tuning_rear_lsd_driving_lock",
+    "en": "(Rear) LSD Driving Lock"
+  },
+  {
+    "id": "3457",
+    "k": "lng_tuning_rear_slow_rebound",
+    "en": "(Rear) Slow Rebound"
+  },
+  {
+    "id": "3458",
+    "k": "lng_tuning_rear_spring_rate",
+    "en": "(Rear) Spring Rate"
+  },
+  {
+    "id": "3459",
+    "k": "lng_tuning_slow_rebound_slider_label_high",
+    "en": "Firm"
+  },
+  {
+    "id": "3460",
+    "k": "lng_tuning_slow_rebound_slider_label_low",
+    "en": "Soft"
+  },
+  {
+    "id": "3461",
+    "k": "lng_tuning_toe_angle_slider_label_high",
+    "en": "In"
+  },
+  {
+    "id": "3462",
+    "k": "lng_tuning_toe_angle_slider_label_low",
+    "en": "Out"
+  },
+  {
+    "id": "3463",
+    "k": "lng_tuning_units_damping_bump_zone_division",
+    "en": "{0} m/s"
+  },
+  {
+    "id": "3464",
+    "k": "lng_tuning_units_differentials_preload",
+    "en": "{0} Nm"
+  },
+  {
+    "id": "3465",
+    "k": "lng_tuning_units_springs_rate",
+    "en": "{0} N/mm"
+  },
+  {
+    "id": "3466",
+    "k": "lng_tuning_units_springs_ride_height",
+    "en": "{0} mm"
+  },
+  {
+    "id": "3467",
+    "k": "lng_tuning_units_viscous_differential",
+    "en": "{0} kgf.m/100rpm"
+  },
+  {
+    "id": "3468",
+    "k": "lng_tuning_viscous_differential_slider_label_high",
+    "en": "Strong"
+  },
+  {
+    "id": "3469",
+    "k": "lng_tuning_viscous_differential_slider_label_low",
+    "en": "Loose"
+  },
+  {
+    "id": "3470",
+    "k": "lng_tuninghub_screen_notsaved_description",
+    "en": "Tuning set up not saved. Are you sure you want to continue?"
+  },
+  {
+    "id": "3471",
+    "k": "lng_tuningsetting_off",
+    "en": "Not Allowed"
+  },
+  {
+    "id": "3472",
+    "k": "lng_tuningsetting_on",
+    "en": "Allowed"
+  },
+  {
+    "id": "3473",
+    "k": "lng_tutorial_benefactor_title",
+    "en": "BENEFACTOR "
+  },
+  {
+    "id": "3474",
+    "k": "lng_tutorial_branding_title",
+    "en": "TEAM BRANDING"
+  },
+  {
+    "id": "3475",
+    "k": "lng_tutorial_calendar_title",
+    "en": "CALENDAR"
+  },
+  {
+    "id": "3476",
+    "k": "lng_tutorial_championship_title",
+    "en": "CHAMPIONSHIP OVERVIEW"
+  },
+  {
+    "id": "3477",
+    "k": "lng_tutorial_chief_title",
+    "en": "CHIEF ENGINEER"
+  },
+  {
+    "id": "3478",
+    "k": "lng_tutorial_dialog_benefactor_1",
+    "en": "Here you can check your current benefactor objectives and relationship alongside how well you are managing your weekly budgets."
+  },
+  {
+    "id": "3479",
+    "k": "lng_tutorial_dialog_benefactor_2",
+    "en": "Completing targets improves your benefactor relationship, so look for season activities that can contribute towards achieving them. The better your relationship, the better your future contracts will be. To earn promotion through the FIA World Rally Championship tiers you'll want them to be 'ecstatic' about your efforts. Make them 'angry' and you may be demoted instead."
+  },
+  {
+    "id": "3480",
+    "k": "lng_tutorial_dialog_benefactor_3",
+    "en": "Budgets work on a weekly basis and cover engineers, teammate, vehicles and repairs. If you overspend your relationship with your benefactor may decline and you’ll not be able to purchase anything else until the overspend has been adjusted. At the end of each season, no matter how the previous one ended, the Benefactor’s mood will trend towards being ‘happy’. So, they may have a different outlook at the start of the new season."
+  },
+  {
+    "id": "3481",
+    "k": "lng_tutorial_dialog_calendar_1",
+    "en": "The calendar is a list of all the activities you can do over the current season split into weeks. Each week you'll have a number of activities to select from including championships and events alongside team improvement options such as staff training or garage expansion."
+  },
+  {
+    "id": "3482",
+    "k": "lng_tutorial_dialog_calendar_2",
+    "en": "You can only select one activity per week, and if you opt to enter a championship, you will be committed to enter all events over the course of the season."
+  },
+  {
+    "id": "3483",
+    "k": "lng_tutorial_dialog_calendar_3",
+    "en": "You can check ahead in the calendar to see what activities are coming up, so you can focus on Benefactor Targets, or where clashes could occur to help plan your season effectively."
+  },
+  {
+    "id": "3484",
+    "k": "lng_tutorial_dialog_championship",
+    "en": "Championship Mode allows you to complete a full season in either the Junior WRC, WRC2, or the WRC. You can choose to race as your favourite driver, or use your own driver and compete with your favourite team."
+  },
+  {
+    "id": "3485",
+    "k": "lng_tutorial_dialog_chief_engineer_1",
+    "en": "Your Chief Engineer not only leads your team but also provides a number of unique perks including reducing the costs of repairs, reducing costs of vehicle builds or improving the stamina of your staff."
+  },
+  {
+    "id": "3486",
+    "k": "lng_tutorial_dialog_chief_engineer_2",
+    "en": "As the season progresses you'll be able to improve these perks through the Train Chief Engineer activity found in the calendar."
+  },
+  {
+    "id": "3487",
+    "k": "lng_tutorial_dialog_clubs_1",
+    "en": "Clubs allows you to compete in championships with other players at a time that suits you. Via the Racenet website you can join the Official WRC Clubs or set up a private group for your friends to join as well as search for other clubs to become a member of. "
+  },
+  {
+    "id": "3488",
+    "k": "lng_tutorial_dialog_clubs_2",
+    "en": "Once a club has been set up, owners can create championships for all members to compete in and any Club you are currently enrolled in will appear in your Club Hub."
+  },
+  {
+    "id": "3489",
+    "k": "lng_tutorial_dialog_crew_select_1",
+    "en": "Before you go to an event you need to decide which crew members to take with you. The more crew members you have, the more efficient your team is at repairs but be aware that their stamina levels will impact their performance."
+  },
+  {
+    "id": "3490",
+    "k": "lng_tutorial_dialog_crew_select_2",
+    "en": "Crew members with low stamina will also not be able to use their associated perk or even be able to go to the event so be sure to manage your team effectively."
+  },
+  {
+    "id": "3491",
+    "k": "lng_tutorial_dialog_garage_1",
+    "en": "Your Garage allows you to see all the vehicles you currently have access to. The size of your garage is limited by the number of slots you have, and this can be increased by completing the garage expansion activities in the calendar throughout the season."
+  },
+  {
+    "id": "3492",
+    "k": "lng_tutorial_dialog_garage_2",
+    "en": "If you have available budget you can add additional vehicles via the Vendor or use the Builder to create your own. When adding or building a vehicle you can also add an exact copy for your teammate to use."
+  },
+  {
+    "id": "3493",
+    "k": "lng_tutorial_dialog_garage_3",
+    "en": "Throughout the calendar there are also Motor Shows. These are special activities that allow you to add a wider variety of vehicles at a much cheaper rate than in the Vendor."
+  },
+  {
+    "id": "3494",
+    "k": "lng_tutorial_dialog_hybrid",
+    "en": "WRC vehicles are now equipped with an electric boost system - you can trigger this via the accelerator, and it will also regenerate throughout the stage. You can select different deployment maps to suit the type of stage and conditions to get the best results"
+  },
+  {
+    "id": "3495",
+    "k": "lng_tutorial_dialog_liveditor_1",
+    "en": "The Livery Editor allows you to create custom liveries for your favourite vehicles. From the hub you’ll be able to change base paint, window tinting and driver detail adjustments as well as being able to apply further decal designs. "
+  },
+  {
+    "id": "3496",
+    "k": "lng_tutorial_dialog_liveditor_2",
+    "en": "You can create multiple liveries for an individual vehicle and these will be available for use in all modes via Vehicle Options in Vehicle Select. Liveries can also be edited after you have created them if you want to make any further changes."
+  },
+  {
+    "id": "3497",
+    "k": "lng_tutorial_dialog_qp_empty_champ_1",
+    "en": "In Quick Play you can create your own championships. First define the event location, season and class used then set out the stages and conditions you want to compete in. Or use the Generate Championship option via Championship options to shortcut the process."
+  },
+  {
+    "id": "3498",
+    "k": "lng_tutorial_dialog_qp_empty_champ_2",
+    "en": "Championship templates can also be saved and used across Solo, Multiplayer and even Clubs allowing you to shortcut the creation process and get a championship set up quickly."
+  },
+  {
+    "id": "3499",
+    "k": "lng_tutorial_dialog_qp_empty_champ_3",
+    "en": "Event templates can also be saved allowing you to mix and match events to create unique championships."
+  },
+  {
+    "id": "3500",
+    "k": "lng_tutorial_dialog_qp_mp",
+    "en": "Via the Multiplayer Hub you can quickly join a session with others via quick match or opt to create or load a championship template of your own for other players to join. You can also look for a specific game to join via the Session Browser."
+  },
+  {
+    "id": "3501",
+    "k": "lng_tutorial_dialog_qp_solo",
+    "en": "Via the Solo Hub you can opt to quickly jump in to a generated championship or create your own and save the template to use later. <cf><cf>You can also load progress from any championships you may have not completed yet."
+  },
+  {
+    "id": "3502",
+    "k": "lng_tutorial_dialog_rallypass_1",
+    "en": "Rally Pass is where you can earn unlocks through competing in all modes of EA SPORTS™ WRC. Completing a stage provides an XP reward based on the distance you have driven with further XP boosts being available for your performance."
+  },
+  {
+    "id": "3503",
+    "k": "lng_tutorial_dialog_rallypass_2",
+    "en": "Through Rally Pass every season you’ll be able to earn different items to customise your driver such as suits and helmets, or unlock decal packs and liveries for your vehicles. Note that some items require VIP access that can be purchased from the store."
+  },
+  {
+    "id": "3504",
+    "k": "lng_tutorial_dialog_rallyschool",
+    "en": "In Rally School you can learn basic and advanced techniques to improve your driving ability. Each lesson comes with its own set of objectives and target times and can be completed on gravel, asphalt, or snow surfaces. Rally School is a great way to build your rally knowledge and understand the skills required to rise to the top. "
+  },
+  {
+    "id": "3505",
+    "k": "lng_tutorial_dialog_rallyscoringrules_1",
+    "en": "RUNNING ORDER: <cf>Running order for an event is determined by two factors: your class, and your current championship standing. Faster classes (such as WRC, and WRC2) run earlier in the order, with the slowest classes (such as H1 FWD and H2 FWD) bringing up the rear of the event. <cf><cf>Within your class the running order is determined by current championship standings, with the top placed driver starting first in the running order. For the first event in a championship, the previous year's championship finishing positions are used to determine the running order, with new entrants placed randomly."
+  },
+  {
+    "id": "3506",
+    "k": "lng_tutorial_dialog_rallyscoringrules_2",
+    "en": "PENALTIES: <cf>There are several penalties that can be incurred when driving on stage during an event. They are as follows: <cf><cf>Jumping the start - A 10 second time penalty. <cf>Corner Cutting - A 5 second time penalty. <cf>Driving the wrong way down a stage - Disqualification from the event. <cf>Stopping on stage - Disqualification from the event. <cf>Exceeding the stage time limit - Retirement until the next day of the event, incurring the stage maximum time for each missed stage. <cf>Exceeding the service time limit - A time penalty of 10 seconds per minute extra spent in the service area."
+  },
+  {
+    "id": "3507",
+    "k": "lng_tutorial_dialog_rallyscoringrules_24_1",
+    "en": "CHAMPIONSHIP POINTS: In WRC1 events, Championship Points are split over two different sections called the Primary Leg and Final Leg.<cf><cf>PRIMARY LEG: 1st - 18 Points /  2nd - 15 Points / 3rd - 13 Points / 4th - 10 Points / 5th - 8 Points / 6th - 6 Points / 7th - 4 Points /  8th - 3 Points / 9th - 2 Points / 10th - 1 Point<cf><cf>FINAL LEG: 1st - 7 Points / 2nd - 6 Points / 3rd - 5 Points / 4th - 4 Points / 5th - 3 Points / 6th - 2 Points / 7th - 1 Point<cf><cf>In Team Championships the points are awarded for each team based on their top 2 finishing drivers in that event.<cf><cf>Drivers must successfully complete the full event in order to be awarded the Championship Points secured in the Primary Leg and Final Leg."
+  },
+  {
+    "id": "3508",
+    "k": "lng_tutorial_dialog_rallyscoringrules_4",
+    "en": "POWER STAGE POINTS: <cf>If an event is using Power Stage scoring, then these points are awarded during the final stage of the event. <cf>Power Stages give drivers the opportunity to score extra Championship Points based on their finishing position for that specific stage. The points are distributed as follows: <cf><cf>1st - 5 points / 2nd - 4 points / 3rd - 3 points / 4th - 2 points / 5th - 1 point"
+  },
+  {
+    "id": "3509",
+    "k": "lng_tutorial_dialog_rallyscoringrules_5",
+    "en": "TIEBREAK RESOLUTION: <cf>Tiebreaks are resolved differently on a Stage, Event, and Championship level. <cf><cf>Stage Tiebreaks: Stage level tiebreaks are resolved based on Running Order. <cf>i.e. If both Driver A and Driver B finish with the time of 03:25.20 then the driver who was first in the running order is top in the stage results. <cf><cf>Drivers' Championship - Event Tiebreaks: Event level tiebreaks are initially resolved by preferring whichever driver set the fastest time on the first stage of the event. If the times prove to be the same, then the second stage is checked, and then the third, and so on until one driver is faster than the other. <cf>If all the times for every stage are the same for both drivers, then the running order is used to determine the finishing position."
+  },
+  {
+    "id": "3510",
+    "k": "lng_tutorial_dialog_rallyscoringrules_6",
+    "en": "Drivers' and Team Championship - Championship Tiebreaks: Championship level tiebreaks are initially resolved by preferring whichever driver/team has the best event finish position. <cf>i.e. A driver/team who has finished 1st in an event will be preferred over a driver/team who has only finished 2nd. <cf><cf>If a resolution cannot be found through this method, then the number of best event finish are used. <cf>i.e. If Driver/Team A has 3 1st place finishes, then they are preferred over Driver/Team B that only has 2 1st Place Finishes. <cf><cf>If the drivers/teams are still tied following this, then the same process is run using second best event finishes. If a resolution still cannot be found following that, then the result will be decided based on who had their best event finish first in the championship."
+  },
+  {
+    "id": "3511",
+    "k": "lng_tutorial_dialog_regrallyscoringrules_1",
+    "en": "ON STAGE: <cf>In Regularity Rally the aim is to maintain an average speed throughout a stage to reach a checkpoint at a specified time. If you arrive too early or too late to a checkpoint you will incur 1 penalty point for each second you are either side of the specified time. There is a 1 second grace period around the specified time that is considered a 'perfect' sector, for which you will receive no penalty points. The winner of the event is the driver who has received the least amount of penalty points.<cf><cf>RUNNING ORDER: <cf>Running order for an event is determined by two factors: your class, and your current championship standing. Faster classes (such as WRC, and WRC2) run earlier in the order, with the slowest classes (such as H1 FWD and H2 FWD) bringing up the rear of the event. <cf>Within your class the running order is determined by current championship standings, with the top placed driver starting first in the running order. For the first event in a championship, the previous year's championship finishing positions are used to determine the running order, with new entrants placed randomly."
+  },
+  {
+    "id": "3512",
+    "k": "lng_tutorial_dialog_regrallyscoringrules_3",
+    "en": "CHAMPIONSHIP POINTS: <cf>At the end of each event the following Championship Points will be awarded for the Driver's Championship. <cf><cf>1st - 25 points / 2nd - 18 points / 3rd - 15 points / 4th - 12 points / 5th - 10 points / 6th - 8 points / 7th - 6 points / 8th - 4 points / 9th - 2 points / 10th - 1 point <cf><cf>In Team Championships the points are awarded to each team based on their top 2 finishing drivers in that event.<cf>i.e. The top two drivers in a team finish 2nd and 5th, gaining their team a total of 28 points for that event."
+  },
+  {
+    "id": "3513",
+    "k": "lng_tutorial_dialog_regrallyscoringrules_4",
+    "en": "POWER STAGE POINTS: <cf>If an event is using Power Stage scoring, then these points are awarded during the final stage of the event. <cf>Power Stages give drivers the opportunity to score extra Championship Points based on their finishing position for that specific stage. The points are distributed as follows: <cf><cf>1st - 5 points / 2nd - 4 points / 3rd - 3 points / 4th - 2 points / 5th - 1 point<cf><cf>Unless it is a WRC2 event where points are distributed like so: <cf><cf>1st - 3 points / 2nd - 2 points / 3rd - 1 point"
+  },
+  {
+    "id": "3514",
+    "k": "lng_tutorial_dialog_regrallyscoringrules_5",
+    "en": "PENALTIES: <cf>There are several penalties that can be incurred when driving on stage during an event. They are as follows: <cf><cf>Breaking the Maximum Speed Limit (70mph/113kph) - 20 Penalty Points.<cf>Driving below the Minimum Speed Limit (15mph/24kph) - 20 Penalty Points.<cf>Jumping the start - 20 Penalty Points.<cf>Corner Cutting - 20 Penalty Points.<cf>Driving the wrong way down a stage - Disqualification from the event. <cf>Stopping on stage - Disqualification from the event. <cf>Exceeding the stage time limit - Retirement until the next day of the event, incurring the stage maximum penalty points for each missed stage. <cf>Exceeding the service time limit - A penalty of 1 penalty point per second extra spent in the service area."
+  },
+  {
+    "id": "3515",
+    "k": "lng_tutorial_dialog_regrallyscoringrules_6",
+    "en": "TIEBREAK RESOLUTION: <cf>Tiebreaks are resolved differently on a Stage, Event, and Championship level. <cf><cf>Stage Tiebreaks: Stage level tiebreaks are resolved based on Running Order. i.e. If both Driver A and Driver B finish with 18 penalty points then the driver who was first in the running order is top in the stage results. <cf><cf>Drivers' Championship - Event Tiebreaks: Event level tiebreaks are initially resolved by preferring whichever driver has the best stage finish position in the event. If both drivers best stage position is the same, then the player with the highest number of best stage finishes is preferred. i.e. Driver A with 4 1st place finishes is preferred over Driver B who only has 2 1st place finishes.<cf><cf>If the number of best stage finishes is the same for each driver, then the same logic is applied to their second-best stage finishes. If those are also the same, then the running order is used to determine the outcome."
+  },
+  {
+    "id": "3516",
+    "k": "lng_tutorial_dialog_repairs_1",
+    "en": "Here you can repair damage you have received on stage. The level of damage is indicated on each part along with additional information of the effect that the damage will have on your vehicle. The service area length dictates how long you have to perform repairs but if you exceed the time limit you will receive a penalty."
+  },
+  {
+    "id": "3517",
+    "k": "lng_tutorial_dialog_repairs_2",
+    "en": "The type of part will decide the fix that can be applied to it, some parts can be easily replaced while others can only be either fully repaired or quick fixed. Quick fixing a part will repair it, but the part will wear at a quicker rate. Estimated repair times will always be the longest time possible but may end up being shorter."
+  },
+  {
+    "id": "3518",
+    "k": "lng_tutorial_dialog_scenarios_1",
+    "en": "Moments is a live updated set of challenges that allow you to replicate iconic performances from the world of rally as well as the latest highlights from the current season. Every day a new challenge will be added to that season’s list, with an XP reward for each based on your performance."
+  },
+  {
+    "id": "3519",
+    "k": "lng_tutorial_dialog_scenarios_2",
+    "en": "Each moment contains a number of objectives which you need to complete to fully pass that moment. One objective will also contain 3 medal targets that determine if you get a gold, silver or bronze XP reward."
+  },
+  {
+    "id": "3520",
+    "k": "lng_tutorial_dialog_season_offer",
+    "en": "Season Offers contain Targets for the season, set by the Benefactor, and the weekly Budgets to achieve them with.<cf><cf>Completing Targets makes your Benefactor happier, whilst failing Targets makes them angrier.<cf><cf>At the start of the next season, the offers presented to you by an ‘ecstatic’ Benefactor may include a promotion to a higher tier of competition."
+  },
+  {
+    "id": "3521",
+    "k": "lng_tutorial_dialog_shakedown_1",
+    "en": "Shakedown gives you a limited number of runs to practice the first sector of the stage so you can experience the surface conditions and test different set ups."
+  },
+  {
+    "id": "3522",
+    "k": "lng_tutorial_dialog_shakedown_2",
+    "en": "Completing a Shakedown run grants you an extra set of tyres to use which you can take into the event."
+  },
+  {
+    "id": "3523",
+    "k": "lng_tutorial_dialog_shakedown_3",
+    "en": "If you opt to repair your vehicle or change the tires used in Shakedown you will no longer be able to participate in any more Shakedown runs."
+  },
+  {
+    "id": "3524",
+    "k": "lng_tutorial_dialog_shakedown_3",
+    "en": "If you opt to repair your vehicle or change the tyres used in Shakedown you will no longer be able to participate in any more Shakedown runs."
+  },
+  {
+    "id": "3525",
+    "k": "lng_tutorial_dialog_staff_1",
+    "en": "Here you can see all of your engineers and the attributes they bring to your team. Staff have an associated skill and stamina level along with a perk that will impact their performance on stage. It's important to manage these effectively, so be mindful to Rest the Team at periodic intervals in the calendar to restore their stamina."
+  },
+  {
+    "id": "3526",
+    "k": "lng_tutorial_dialog_staff_2",
+    "en": "You can increase your Chief Engineer's capabilities via training activities in the calendar. Completing training is important because developing your Chief Engineer's skills will improve your team's effectiveness when it comes to repairing your vehicle during events."
+  },
+  {
+    "id": "3527",
+    "k": "lng_tutorial_dialog_staff_3",
+    "en": "You can also add new staff at special Talent Scout activities found throughout the calendar. Alongside Engineer Roster Expansion's these allow you to build up a talented crew to aid you in events."
+  },
+  {
+    "id": "3528",
+    "k": "lng_tutorial_dialog_team_branding",
+    "en": "Here you can give your team a name, as well as define your logo and team colours. You will always be able to update your branding as you progress through the season via Customisation in the Team Hub."
+  },
+  {
+    "id": "3529",
+    "k": "lng_tutorial_dialog_team_hub",
+    "en": "The Team Hub is the central place to check in on your career. From here you can select an activity to complete via the calendar, access your benefactor budgets and objectives, manage your staff and garage, as well as see how the competition are doing via the season stats. You can also change your team branding, or update your vehicle liveries via Customisation."
+  },
+  {
+    "id": "3530",
+    "k": "lng_tutorial_dialog_tuning_1",
+    "en": "Tuning allows you to make adjustments to your vehicle that changes how it performs on stage. Creating tuning set ups allows you to get the best out of the vehicle and you can adjust your tuning via Vehicle Set Up when you are in the service area."
+  },
+  {
+    "id": "3531",
+    "k": "lng_tutorial_dialog_tuning_2",
+    "en": "You can also save your setups allowing you to create multiple tuning options for different strategies allowing you to quickly access them when in the service area."
+  },
+  {
+    "id": "3532",
+    "k": "lng_tutorial_dialog_tuning_3",
+    "en": "Note for every event you'll need to load your preferred tuning set up each time."
+  },
+  {
+    "id": "3533",
+    "k": "lng_tutorial_dialog_tyres_1",
+    "en": "Here you can change your tires or decide how many spares you want to take on stage. You'll have the opportunity to change your tires at each service area in an event."
+  },
+  {
+    "id": "3534",
+    "k": "lng_tutorial_dialog_tyres_1",
+    "en": "Here you can change your tyres or decide how many spares you want to take on stage. You'll have the opportunity to change your tyres at each service area in an event."
+  },
+  {
+    "id": "3535",
+    "k": "lng_tutorial_dialog_tyres_2",
+    "en": "When you opt to change your tires you change the complete set and the number of sets you have are limited based on event length, so try to plan your tire strategy effectively if you want to maintain the best grip possible."
+  },
+  {
+    "id": "3536",
+    "k": "lng_tutorial_dialog_tyres_2",
+    "en": "When you opt to change your tyres you change the complete set and the number of sets you have are limited based on event length, so try to plan your tyre strategy effectively if you want to maintain the best grip possible."
+  },
+  {
+    "id": "3537",
+    "k": "lng_tutorial_dialog_tyres_wear_1",
+    "en": "Worn tires will impact the amount of grip you have on stage so changing them in service area intervals is essential to stay competitive."
+  },
+  {
+    "id": "3538",
+    "k": "lng_tutorial_dialog_tyres_wear_1",
+    "en": "Worn tyres will impact the amount of grip you have on stage so changing them in service area intervals is essential to stay competitive."
+  },
+  {
+    "id": "3539",
+    "k": "lng_tutorial_dialog_tyres_wear_2",
+    "en": "The compound you opt for will also impact performance. Soft tires, while having greater grip, will wear at quicker rate, while harder tires will last longer, so it is important to plan ahead when selecting your compound type."
+  },
+  {
+    "id": "3540",
+    "k": "lng_tutorial_dialog_tyres_wear_2",
+    "en": "The compound you opt for will also impact performance. Soft tyres, while having greater grip, will wear at quicker rate, while harder tyres will last longer, so it is important to plan ahead when selecting your compound type."
+  },
+  {
+    "id": "3541",
+    "k": "lng_tutorial_dialog_vb_gen_1",
+    "en": "Builder allows you to create your own rally cars for use in events. At the start of your career the parts available will be limited but as you progress and complete Trials more will become available."
+  },
+  {
+    "id": "3542",
+    "k": "lng_tutorial_dialog_vb_gen_1",
+    "en": "Builder allows you to create your own rally cars for use in events. At the start of your career the parts available will be limited, but as you progress and complete Trials more will become available."
+  },
+  {
+    "id": "3543",
+    "k": "lng_tutorial_dialog_vb_gen_2",
+    "en": "Your weekly vehicle budget also applies to your vehicle builds as well and the vehicles created here are only used in the Career mode."
+  },
+  {
+    "id": "3544",
+    "k": "lng_tutorial_dialog_vb_gen_3",
+    "en": "Career vehicle builds are only used in Career and do not appear in any other mode."
+  },
+  {
+    "id": "3545",
+    "k": "lng_tutorial_dialog_vb_mechparts",
+    "en": "Here you can select the part you want to fit to your vehicle build. Mechanical parts vary in quality, from low to very high and condition from used to new. Some parts also support custom tuning from none to full, allowing you to further adjust your set up when you're on stage."
+  },
+  {
+    "id": "3546",
+    "k": "lng_tutorial_dialog_vb_nc_1",
+    "en": "Builder provides you with the ability to manufacture your own rally car. Once you've selected a drivetrain layout you can then pick from a range of mechanical parts, different body shells as well as exterior and interior customisation options."
+  },
+  {
+    "id": "3547",
+    "k": "lng_tutorial_dialog_vb_nc_2",
+    "en": "Once saved, your vehicle builds will appear in the relevant class Vehicle Select list. Vehicles made outside of Career will not be available for use in Career mode."
+  },
+  {
+    "id": "3548",
+    "k": "lng_tutorial_garage_title",
+    "en": "GARAGE"
+  },
+  {
+    "id": "3549",
+    "k": "lng_tutorial_liveryeditor_title",
+    "en": "LIVERY EDITOR"
+  },
+  {
+    "id": "3550",
+    "k": "lng_tutorial_quickplaymp_title",
+    "en": "QUICK PLAY MULTIPLAYER"
+  },
+  {
+    "id": "3551",
+    "k": "lng_tutorial_quickplaysolo_title",
+    "en": "QUICK PLAY SOLO"
+  },
+  {
+    "id": "3552",
+    "k": "lng_tutorial_rallyscoringrules_title",
+    "en": "RALLY RULES"
+  },
+  {
+    "id": "3553",
+    "k": "lng_tutorial_rallyspass_title",
+    "en": "RALLY PASS"
+  },
+  {
+    "id": "3554",
+    "k": "lng_tutorial_regrallyscoringrules_title",
+    "en": "REGULARITY RALLY RULES"
+  },
+  {
+    "id": "3555",
+    "k": "lng_tutorial_repairs_title",
+    "en": "REPAIRS"
+  },
+  {
+    "id": "3556",
+    "k": "lng_tutorial_season_offer_title",
+    "en": "SEASON OFFER"
+  },
+  {
+    "id": "3557",
+    "k": "lng_tutorial_servicecrew_title",
+    "en": "SERVICE CREW"
+  },
+  {
+    "id": "3558",
+    "k": "lng_tutorial_shakedown_title",
+    "en": "SHAKEDOWNS"
+  },
+  {
+    "id": "3559",
+    "k": "lng_tutorial_staff_title",
+    "en": "STAFF"
+  },
+  {
+    "id": "3560",
+    "k": "lng_tutorial_teamhubs_title",
+    "en": "TEAM HUB"
+  },
+  {
+    "id": "3561",
+    "k": "lng_tutorial_tuning_title",
+    "en": "TUNING"
+  },
+  {
+    "id": "3562",
+    "k": "lng_tutorial_tyres_title",
+    "en": "TIRES"
+  },
+  {
+    "id": "3563",
+    "k": "lng_tutorial_tyres_title",
+    "en": "TYRES"
+  },
+  {
+    "id": "3564",
+    "k": "lng_tutorial_vehiclebuilder_title",
+    "en": "BUILDER"
+  },
+  {
+    "id": "3565",
+    "k": "lng_tyre_compound_name_gravel_hard",
+    "en": "Gravel Hard"
+  },
+  {
+    "id": "3566",
+    "k": "lng_tyre_compound_name_gravel_medium_slow",
+    "en": "Gravel Medium"
+  },
+  {
+    "id": "3567",
+    "k": "lng_tyre_compound_name_gravel_soft_fast",
+    "en": "Gravel Soft"
+  },
+  {
+    "id": "3568",
+    "k": "lng_tyre_compound_name_gravel_super_soft",
+    "en": "Gravel Super Soft"
+  },
+  {
+    "id": "3569",
+    "k": "lng_tyre_compound_name_snow",
+    "en": "Snow"
+  },
+  {
+    "id": "3570",
+    "k": "lng_tyre_compound_name_tarmac_hard",
+    "en": "Asphalt Hard"
+  },
+  {
+    "id": "3571",
+    "k": "lng_tyre_compound_name_tarmac_medium_fast",
+    "en": "Asphalt Medium"
+  },
+  {
+    "id": "3572",
+    "k": "lng_tyre_compound_name_tarmac_rain",
+    "en": "Asphalt Rain"
+  },
+  {
+    "id": "3573",
+    "k": "lng_tyre_compound_name_tarmac_soft",
+    "en": "Asphalt Soft"
+  },
+  {
+    "id": "3574",
+    "k": "lng_tyre_compound_name_tarmac_super_soft",
+    "en": "Asphalt Super Soft"
+  },
+  {
+    "id": "3575",
+    "k": "lng_tyres_selection_condition_new",
+    "en": "NEW"
+  },
+  {
+    "id": "3576",
+    "k": "lng_tyres_selection_condition_worn",
+    "en": "WORN"
+  },
+  {
+    "id": "3577",
+    "k": "lng_tyres_selection_confirm_button",
+    "en": "CONFIRM"
+  },
+  {
+    "id": "3578",
+    "k": "lng_tyres_selection_confition_poor",
+    "en": "POOR"
+  },
+  {
+    "id": "3579",
+    "k": "lng_tyres_selection_current_service_area",
+    "en": "Current Service Area"
+  },
+  {
+    "id": "3580",
+    "k": "lng_tyres_selection_entry_recommended",
+    "en": "Recommended"
+  },
+  {
+    "id": "3581",
+    "k": "lng_tyres_selection_entry_remaining",
+    "en": "Sets Remaining"
+  },
+  {
+    "id": "3582",
+    "k": "lng_tyres_selection_finish",
+    "en": "Finish"
+  },
+  {
+    "id": "3583",
+    "k": "lng_tyres_selection_fitted_condition",
+    "en": "CONDITION:"
+  },
+  {
+    "id": "3584",
+    "k": "lng_tyres_selection_fitted_current_desc",
+    "en": "CURRENTLY FITTED TIRE"
+  },
+  {
+    "id": "3585",
+    "k": "lng_tyres_selection_fitted_current_desc",
+    "en": "CURRENTLY FITTED TYRE"
+  },
+  {
+    "id": "3586",
+    "k": "lng_tyres_selection_fitted_desc",
+    "en": "TIRE FITTED FOR NEXT STAGE"
+  },
+  {
+    "id": "3587",
+    "k": "lng_tyres_selection_fitted_desc",
+    "en": "TYRE FITTED FOR NEXT STAGE"
+  },
+  {
+    "id": "3588",
+    "k": "lng_tyres_selection_fitted_remaining",
+    "en": "Tires of Change Remaining"
+  },
+  {
+    "id": "3589",
+    "k": "lng_tyres_selection_fitted_remaining",
+    "en": "Tyres of Change Remaining"
+  },
+  {
+    "id": "3590",
+    "k": "lng_tyres_selection_next_service_area_at",
+    "en": "Next Service Area at"
+  },
+  {
+    "id": "3591",
+    "k": "lng_tyres_selection_plus_stages",
+    "en": "+{0} {0}|plural(one=Stage,other=Stages)"
+  },
+  {
+    "id": "3592",
+    "k": "lng_tyres_selection_service_area",
+    "en": "Service Area"
+  },
+  {
+    "id": "3593",
+    "k": "lng_tyres_selection_spare_none",
+    "en": "None"
+  },
+  {
+    "id": "3594",
+    "k": "lng_tyres_selection_spare_title",
+    "en": "Spare Tires"
+  },
+  {
+    "id": "3595",
+    "k": "lng_tyres_selection_spare_title",
+    "en": "Spare Tyres"
+  },
+  {
+    "id": "3596",
+    "k": "lng_tyres_selection_stage_count",
+    "en": "Stage {0}"
+  },
+  {
+    "id": "3597",
+    "k": "lng_unblock_confirm_body",
+    "en": "Are you sure you want to unblock this player?"
+  },
+  {
+    "id": "3598",
+    "k": "lng_unblock_confirm_title",
+    "en": "UNBLOCK PLAYER?"
+  },
+  {
+    "id": "3599",
+    "k": "lng_units_days_format",
+    "en": "{0} {0}|plural(one=Day,other=Days)"
+  },
+  {
+    "id": "3600",
+    "k": "lng_units_engine_size",
+    "en": "{0} cc"
+  },
+  {
+    "id": "3601",
+    "k": "lng_units_hours_format",
+    "en": "{0} {0}|plural(one=Hour,other=Hours)"
+  },
+  {
+    "id": "3602",
+    "k": "lng_units_imperial",
+    "en": "Imperial"
+  },
+  {
+    "id": "3603",
+    "k": "lng_units_metric",
+    "en": "Metric"
+  },
+  {
+    "id": "3604",
+    "k": "lng_units_minutes_format",
+    "en": "{0} {0}|plural(one=Minute,other=Minutes)"
+  },
+  {
+    "id": "3605",
+    "k": "lng_units_quantity_championship_points",
+    "en": "{0} {0}|plural(one=Pt,other=Pts)"
+  },
+  {
+    "id": "3606",
+    "k": "lng_units_quantity_events",
+    "en": "{0} {0}|plural(one=EVENT,other=EVENTS)"
+  },
+  {
+    "id": "3607",
+    "k": "lng_units_quantity_ordinal",
+    "en": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th)"
+  },
+  {
+    "id": "3608",
+    "k": "lng_units_quantity_points",
+    "en": "{0} {0}|plural(one=Point,other=Points)"
+  },
+  {
+    "id": "3609",
+    "k": "lng_units_quantity_stages",
+    "en": "{0} {0}|plural(one=Stage,other=Stages)"
+  },
+  {
+    "id": "3610",
+    "k": "lng_units_quantity_vehicle_classes",
+    "en": "+{0} {0}|plural(one=CLASS,other=CLASSES)"
+  },
+  {
+    "id": "3611",
+    "k": "lng_units_quantity_vehicles",
+    "en": "{0} {0}|plural(one=VEHICLE,other=VEHICLES)"
+  },
+  {
+    "id": "3612",
+    "k": "lng_units_seconds_format",
+    "en": "{0} {0}|plural(one=Second,other=Seconds)"
+  },
+  {
+    "id": "3613",
+    "k": "lng_units_time_days",
+    "en": "Days"
+  },
+  {
+    "id": "3614",
+    "k": "lng_units_time_hours",
+    "en": "Hours"
+  },
+  {
+    "id": "3615",
+    "k": "lng_units_time_minutes",
+    "en": "Minutes"
+  },
+  {
+    "id": "3616",
+    "k": "lng_units_vehicle_bhp",
+    "en": "Bhp"
+  },
+  {
+    "id": "3617",
+    "k": "lng_units_vehicle_power",
+    "en": "{0} HP"
+  },
+  {
+    "id": "3618",
+    "k": "lng_units_velocity_kilometres_per_hour",
+    "en": "KPH"
+  },
+  {
+    "id": "3619",
+    "k": "lng_units_velocity_miles_per_hour",
+    "en": "MPH"
+  },
+  {
+    "id": "3620",
+    "k": "lng_units_weeks_format",
+    "en": "{0} {0}|plural(one=Week,other=Weeks)"
+  },
+  {
+    "id": "3621",
+    "k": "lng_upscaler_dlss",
+    "en": "DLSS"
+  },
+  {
+    "id": "3622",
+    "k": "lng_upscaler_fidelityfx",
+    "en": "Fidelity FX"
+  },
+  {
+    "id": "3623",
+    "k": "lng_upscaler_temporal",
+    "en": "Temporal"
+  },
+  {
+    "id": "3624",
+    "k": "lng_upscalerquality_performance",
+    "en": "Performance"
+  },
+  {
+    "id": "3625",
+    "k": "lng_upscalerquality_quality",
+    "en": "Quality"
+  },
+  {
+    "id": "3626",
+    "k": "lng_upscalerquality_ultraperformance",
+    "en": "Ultra Performance"
+  },
+  {
+    "id": "3627",
+    "k": "lng_usagesharing_disabled",
+    "en": "Disabled"
+  },
+  {
+    "id": "3628",
+    "k": "lng_usagesharing_enabled",
+    "en": "Enabled"
+  },
+  {
+    "id": "3629",
+    "k": "lng_use_handbrake_description",
+    "en": "Correctly apply the handbrake at each detection zone"
+  },
+  {
+    "id": "3630",
+    "k": "lng_usergeneratedcontent_hidden",
+    "en": "Hidden"
+  },
+  {
+    "id": "3631",
+    "k": "lng_usergeneratedcontent_visible",
+    "en": "Visible"
+  },
+  {
+    "id": "3632",
+    "k": "lng_vb_bodywork_front_select_screen_title",
+    "en": "FRONT BODYWORK"
+  },
+  {
+    "id": "3633",
+    "k": "lng_vb_bodywork_rear_select_screen_title",
+    "en": "REAR BODYWORK"
+  },
+  {
+    "id": "3634",
+    "k": "lng_vb_bodywork_select_screen_title",
+    "en": "SELECT BODY"
+  },
+  {
+    "id": "3635",
+    "k": "lng_vb_breakdown_bodywork_tab",
+    "en": "Bodywork"
+  },
+  {
+    "id": "3636",
+    "k": "lng_vb_breakdown_bonnet_pins_label",
+    "en": "BONNET PINS"
+  },
+  {
+    "id": "3637",
+    "k": "lng_vb_breakdown_bonnets_label",
+    "en": "BONNET"
+  },
+  {
+    "id": "3638",
+    "k": "lng_vb_breakdown_boot_pins_label",
+    "en": "TAILGATE PINS"
+  },
+  {
+    "id": "3639",
+    "k": "lng_vb_breakdown_boots_label",
+    "en": "TAILGATE"
+  },
+  {
+    "id": "3640",
+    "k": "lng_vb_breakdown_button_confirm",
+    "en": "CONFIRM BUILD"
+  },
+  {
+    "id": "3641",
+    "k": "lng_vb_breakdown_button_confirm_save",
+    "en": "CONFIRM & SAVE"
+  },
+  {
+    "id": "3642",
+    "k": "lng_vb_breakdown_button_update_save",
+    "en": "UPDATE & SAVE"
+  },
+  {
+    "id": "3643",
+    "k": "lng_vb_breakdown_door_mirrors_label",
+    "en": "DOOR MIRRORS"
+  },
+  {
+    "id": "3644",
+    "k": "lng_vb_breakdown_drivetrain_label",
+    "en": "DRIVETRAIN"
+  },
+  {
+    "id": "3645",
+    "k": "lng_vb_breakdown_drivetrain_tab",
+    "en": "Drivetrain"
+  },
+  {
+    "id": "3646",
+    "k": "lng_vb_breakdown_exterior_tab",
+    "en": "Exterior"
+  },
+  {
+    "id": "3647",
+    "k": "lng_vb_breakdown_finished_screen_title",
+    "en": "FINALISE BUILD"
+  },
+  {
+    "id": "3648",
+    "k": "lng_vb_breakdown_front_bumper_trims_label",
+    "en": "FRONT BUMPER TRIM"
+  },
+  {
+    "id": "3649",
+    "k": "lng_vb_breakdown_front_bumpers_label",
+    "en": "FRONT BUMPER"
+  },
+  {
+    "id": "3650",
+    "k": "lng_vb_breakdown_front_label",
+    "en": "FRONT"
+  },
+  {
+    "id": "3651",
+    "k": "lng_vb_breakdown_front_lights_label",
+    "en": "FRONT LIGHTS"
+  },
+  {
+    "id": "3652",
+    "k": "lng_vb_breakdown_front_mud_flaps_label",
+    "en": "FRONT MUD FLAPS"
+  },
+  {
+    "id": "3653",
+    "k": "lng_vb_breakdown_gravel_rims_label",
+    "en": "GRAVEL WHEELS"
+  },
+  {
+    "id": "3654",
+    "k": "lng_vb_breakdown_header_bodywork",
+    "en": "BODYWORK"
+  },
+  {
+    "id": "3655",
+    "k": "lng_vb_breakdown_header_exterior_parts",
+    "en": "EXTERIOR HUB"
+  },
+  {
+    "id": "3656",
+    "k": "lng_vb_breakdown_header_mech_parts",
+    "en": "MECHANICAL HUB"
+  },
+  {
+    "id": "3657",
+    "k": "lng_vb_breakdown_mechanical_tab",
+    "en": "Mechanical"
+  },
+  {
+    "id": "3658",
+    "k": "lng_vb_breakdown_part_not_fitted",
+    "en": "Not Fitted"
+  },
+  {
+    "id": "3659",
+    "k": "lng_vb_breakdown_rear_bumpers_label",
+    "en": "REAR BUMPER"
+  },
+  {
+    "id": "3660",
+    "k": "lng_vb_breakdown_rear_label",
+    "en": "BACK"
+  },
+  {
+    "id": "3661",
+    "k": "lng_vb_breakdown_rear_lights_label",
+    "en": "REAR LIGHTS"
+  },
+  {
+    "id": "3662",
+    "k": "lng_vb_breakdown_rear_mud_flaps_label",
+    "en": "REAR MUD FLAPS"
+  },
+  {
+    "id": "3663",
+    "k": "lng_vb_breakdown_roof_vents_label",
+    "en": "ROOF VENT"
+  },
+  {
+    "id": "3664",
+    "k": "lng_vb_breakdown_screen_title",
+    "en": "BUILD BREAKDOWN"
+  },
+  {
+    "id": "3665",
+    "k": "lng_vb_breakdown_spoilers_label",
+    "en": "SPOILER"
+  },
+  {
+    "id": "3666",
+    "k": "lng_vb_breakdown_tarmac_rims_label",
+    "en": "ASPHALT WHEELS"
+  },
+  {
+    "id": "3667",
+    "k": "lng_vb_breakdown_total_build_cost",
+    "en": "Total Build Cost"
+  },
+  {
+    "id": "3668",
+    "k": "lng_vb_class_select_button_jwrc_description",
+    "en": "The WRC3 and JWRC championships now use Rally3 cars. The intention of Rally3 was to provide young and upcoming drivers with more 4WD experience at an international level, to assist them on taking the next step up to WRC2. With around 215bhp and weighing in at just over 1200kg, these cars are perfect in allowing young drivers to prove their skills on the world's stages."
+  },
+  {
+    "id": "3669",
+    "k": "lng_vb_class_select_button_wrc1_description",
+    "en": "WRC cars produce a combined power output of over 500bhp, generated via combination of a 1.6l turbocharged engine and an advanced electrical boost system. The Rally1 car's advanced aerodynamics help make the cars stick to the ground while keeping them stable and controllable for the drivers."
+  },
+  {
+    "id": "3670",
+    "k": "lng_vb_class_select_button_wrc2_description",
+    "en": "WRC2 is the leading support series to the FIA World Rally Championship. These Rally2 cars prepare drivers for taking the step up to the WRC. Utilising 4WD and roughly 280bhp, the cars provide a significant upgrade from Rally3 cars."
+  },
+  {
+    "id": "3671",
+    "k": "lng_vb_custom_tuning_info_label",
+    "en": "Custom Tuning"
+  },
+  {
+    "id": "3672",
+    "k": "lng_vb_default_build_label_make_name",
+    "en": "WRC"
+  },
+  {
+    "id": "3673",
+    "k": "lng_vb_default_build_label_model_name",
+    "en": "Rally Car"
+  },
+  {
+    "id": "3674",
+    "k": "lng_vb_default_build_name",
+    "en": "WRC CUSTOM 01"
+  },
+  {
+    "id": "3675",
+    "k": "lng_vb_drivetrain_base_build_cost",
+    "en": "Base Cost"
+  },
+  {
+    "id": "3676",
+    "k": "lng_vb_drivetrain_base_weekly_build_cost",
+    "en": "Base Weekly Cost"
+  },
+  {
+    "id": "3677",
+    "k": "lng_vb_drivetrain_select_screen_title",
+    "en": "SELECT {0} DRIVETRAIN"
+  },
+  {
+    "id": "3678",
+    "k": "lng_vb_hub_create_new_vehicle_desc",
+    "en": "Create a fully customised vehicle to suit your style"
+  },
+  {
+    "id": "3679",
+    "k": "lng_vb_hub_create_new_vehicle_title",
+    "en": "CREATE NEW BUILD"
+  },
+  {
+    "id": "3680",
+    "k": "lng_vb_hub_edit_build_desc",
+    "en": "Change parts on an existing build"
+  },
+  {
+    "id": "3681",
+    "k": "lng_vb_hub_edit_build_title",
+    "en": "MODIFY EXISTING BUILD"
+  },
+  {
+    "id": "3682",
+    "k": "lng_vb_hub_load_build_desc",
+    "en": "Create a new vehicle based on an existing creation"
+  },
+  {
+    "id": "3683",
+    "k": "lng_vb_hub_load_build_title",
+    "en": "CREATE FROM EXISTING"
+  },
+  {
+    "id": "3684",
+    "k": "lng_vb_interior_parts_hub_screen_title",
+    "en": "INTERIOR HUB"
+  },
+  {
+    "id": "3685",
+    "k": "lng_vb_mech_part_condition_title",
+    "en": "Condition:"
+  },
+  {
+    "id": "3686",
+    "k": "lng_vb_mech_part_quality_title",
+    "en": "Quality:"
+  },
+  {
+    "id": "3687",
+    "k": "lng_vb_mech_part_tuning_title",
+    "en": "Tuning:"
+  },
+  {
+    "id": "3688",
+    "k": "lng_vb_page_header_body",
+    "en": "Body"
+  },
+  {
+    "id": "3689",
+    "k": "lng_vb_part_condition_info_label",
+    "en": "Part Condition"
+  },
+  {
+    "id": "3690",
+    "k": "lng_vb_part_locked_description",
+    "en": "Complete a Builder Part Trial to unlock this part"
+  },
+  {
+    "id": "3691",
+    "k": "lng_vb_part_quality_info_label",
+    "en": "Part Quality"
+  },
+  {
+    "id": "3692",
+    "k": "lng_vb_test_drive_settings_title",
+    "en": "Test Drive"
+  },
+  {
+    "id": "3693",
+    "k": "lng_vb_vehicle_class_select_screen_title",
+    "en": "VEHICLE CLASS SELECT "
+  },
+  {
+    "id": "3694",
+    "k": "lng_vb_vehicle_name_title",
+    "en": "Vehicle Name"
+  },
+  {
+    "id": "3695",
+    "k": "lng_vehiclebuilderbudgetupdatetype_buildvehicle",
+    "en": "Vehicle Built {0}"
+  },
+  {
+    "id": "3696",
+    "k": "lng_vehiclebuilderbudgetupdatetype_changedrivetrain",
+    "en": "Drivetrain Change {0}"
+  },
+  {
+    "id": "3697",
+    "k": "lng_vehiclebuilderbudgetupdatetype_changeexteriorpart",
+    "en": "Exterior Part Change {0}"
+  },
+  {
+    "id": "3698",
+    "k": "lng_vehiclebuilderbudgetupdatetype_changefrontbodywork",
+    "en": "FRONT BODY CHANGE {0}"
+  },
+  {
+    "id": "3699",
+    "k": "lng_vehiclebuilderbudgetupdatetype_changemechanicalpart",
+    "en": "Mechanical Part Change {0}"
+  },
+  {
+    "id": "3700",
+    "k": "lng_vehiclebuilderbudgetupdatetype_changerearbodywork",
+    "en": "Rear Body Change {0}"
+  },
+  {
+    "id": "3701",
+    "k": "lng_vehiclebuilderbudgetupdatetype_defaultexteriorparts",
+    "en": "Exterior Parts {0}"
+  },
+  {
+    "id": "3702",
+    "k": "lng_vehiclebuilderbudgetupdatetype_defaultmechanicalparts",
+    "en": "Mechanical Parts {0}"
+  },
+  {
+    "id": "3703",
+    "k": "lng_ver_squash",
+    "en": "Skew Y Axis"
+  },
+  {
+    "id": "3704",
+    "k": "lng_vibration_and_feedback",
+    "en": "Vibration and Feedback"
+  },
+  {
+    "id": "3705",
+    "k": "lng_vibration_and_feedback_override",
+    "en": "Vibration and Feedback Override"
+  },
+  {
+    "id": "3706",
+    "k": "lng_vibration_centreforce_enabled",
+    "en": "Steering Centre Force"
+  },
+  {
+    "id": "3707",
+    "k": "lng_vibration_collision",
+    "en": "Collision"
+  },
+  {
+    "id": "3708",
+    "k": "lng_vibration_pedalbrake",
+    "en": "Brake Pedal Vibration"
+  },
+  {
+    "id": "3709",
+    "k": "lng_vibration_pedalthrottle",
+    "en": "Throttle Pedal Vibration"
+  },
+  {
+    "id": "3710",
+    "k": "lng_vibration_resistive_triggers",
+    "en": "Trigger Vibration"
+  },
+  {
+    "id": "3711",
+    "k": "lng_vibration_selfaligningtorque",
+    "en": "Self Aligning Torque"
+  },
+  {
+    "id": "3712",
+    "k": "lng_vibration_softlock",
+    "en": "Soft Lock"
+  },
+  {
+    "id": "3713",
+    "k": "lng_vibration_softlockvalue",
+    "en": "Soft Lock Value"
+  },
+  {
+    "id": "3714",
+    "k": "lng_vibration_trueforce_enabled",
+    "en": "TrueForce"
+  },
+  {
+    "id": "3715",
+    "k": "lng_vibration_tyrefriction",
+    "en": "Tire Friction"
+  },
+  {
+    "id": "3716",
+    "k": "lng_vibration_tyrefriction",
+    "en": "Tyre Friction"
+  },
+  {
+    "id": "3717",
+    "k": "lng_vibration_tyreslip",
+    "en": "Tire Slip"
+  },
+  {
+    "id": "3718",
+    "k": "lng_vibration_tyreslip",
+    "en": "Tyre Slip"
+  },
+  {
+    "id": "3719",
+    "k": "lng_vibration_wheelfriction",
+    "en": "Wheel Friction"
+  },
+  {
+    "id": "3720",
+    "k": "lng_victory_celebration_team_champions_label",
+    "en": "TEAM CHAMPIONS"
+  },
+  {
+    "id": "3721",
+    "k": "lng_victory_celebration_world_champions_label",
+    "en": "WORLD CHAMPIONS"
+  },
+  {
+    "id": "3722",
+    "k": "lng_visibility_public",
+    "en": "Public"
+  },
+  {
+    "id": "3723",
+    "k": "lng_voicegender_female",
+    "en": "Voice 2"
+  },
+  {
+    "id": "3724",
+    "k": "lng_voicegender_male",
+    "en": "Voice 1"
+  },
+  {
+    "id": "3725",
+    "k": "lng_vr_entering_text_body",
+    "en": "If you wish to enter new text on this screen please temporarily remove your headset, or activate pass-through, and use your attached keyboard and monitor."
+  },
+  {
+    "id": "3726",
+    "k": "lng_vr_entering_text_title",
+    "en": "ENTERING TEXT"
+  },
+  {
+    "id": "3727",
+    "k": "lng_vr_headset_hp_reverb_g2",
+    "en": "HP Reverb G2"
+  },
+  {
+    "id": "3728",
+    "k": "lng_vr_headset_htc_vive_cosmos",
+    "en": "HTC Vive Cosmos"
+  },
+  {
+    "id": "3729",
+    "k": "lng_vr_headset_htc_vive_pro_2",
+    "en": "HTC Vive Pro 2"
+  },
+  {
+    "id": "3730",
+    "k": "lng_vr_headset_meta_quest_2",
+    "en": "Meta Quest 2"
+  },
+  {
+    "id": "3731",
+    "k": "lng_vr_headset_meta_quest_3",
+    "en": "Meta Quest 3"
+  },
+  {
+    "id": "3732",
+    "k": "lng_vr_headset_meta_quest_pro",
+    "en": "Meta Quest Pro"
+  },
+  {
+    "id": "3733",
+    "k": "lng_vr_headset_not_in_use_body",
+    "en": "The VR headset is currently unavailable."
+  },
+  {
+    "id": "3734",
+    "k": "lng_vr_headset_oculus_quest",
+    "en": "Oculus Quest"
+  },
+  {
+    "id": "3735",
+    "k": "lng_vr_headset_oculus_rift_s",
+    "en": "Oculus Rift S"
+  },
+  {
+    "id": "3736",
+    "k": "lng_vr_headset_pico_3",
+    "en": "Pico 3"
+  }
+]

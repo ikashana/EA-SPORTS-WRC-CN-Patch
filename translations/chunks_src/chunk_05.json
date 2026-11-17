@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "1817",
+    "k": "lng_infopanel_hudscale_title",
+    "en": "HUD Scale"
+  },
+  {
+    "id": "1818",
+    "k": "lng_infopanel_instrumentcluster_description",
+    "en": "Changes the visibility options of the Instrument Cluster: <cf><cf>- On - Except Interior<cf>- On - All Cameras<cf>- Off"
+  },
+  {
+    "id": "1819",
+    "k": "lng_infopanel_instrumentcluster_title",
+    "en": "Instrument Cluster"
+  },
+  {
+    "id": "1820",
+    "k": "lng_infopanel_invertclutchaxis_title",
+    "en": "INVERT CLUTCH AXIS"
+  },
+  {
+    "id": "1821",
+    "k": "lng_infopanel_inverthandbrakeaxis_title",
+    "en": "INVERT HANDBRAKE AXIS"
+  },
+  {
+    "id": "1822",
+    "k": "lng_infopanel_invertsteeringaxis_title",
+    "en": "INVERT STEERING AXIS"
+  },
+  {
+    "id": "1823",
+    "k": "lng_infopanel_invertthrottleaxis_title",
+    "en": "INVERT THROTTLE AXIS"
+  },
+  {
+    "id": "1824",
+    "k": "lng_infopanel_lateral_title",
+    "en": "TIRE FRICTION"
+  },
+  {
+    "id": "1825",
+    "k": "lng_infopanel_lateral_title",
+    "en": "TYRE FRICTION"
+  },
+  {
+    "id": "1826",
+    "k": "lng_infopanel_launchcontrol_description",
+    "en": "Toggles the Start Line Assist ‘On’ or ‘Off’ in vehicles. <cf><cf>Start Line Assist will automatically apply, hold, and release the vehicle’s handbrake during the countdown before a stage start."
+  },
+  {
+    "id": "1827",
+    "k": "lng_infopanel_leaderboards_description",
+    "en": "Changes the Online Leaderboards to your platform preference."
+  },
+  {
+    "id": "1828",
+    "k": "lng_infopanel_lemaestros_description",
+    "en": "Toggles the inclusion of Le Maestros Content in generated championships either 'On' or 'Off'."
+  },
+  {
+    "id": "1829",
+    "k": "lng_infopanel_lemaestros_title",
+    "en": "LE MAESTROS CONTENT PACK"
+  },
+  {
+    "id": "1830",
+    "k": "lng_infopanel_length_description",
+    "en": "Sets the length of Events in Championship Mode:<cf><cf>- Standard: 6 Stages per event<cf>- Long: 9 Stages per event<cf>- Short: 4 Stages per event<cf>- Sprint: 4 Stages per event, and fewer events in the Season"
+  },
+  {
+    "id": "1831",
+    "k": "lng_infopanel_loaddevicepresetlist_description",
+    "en": "Select which preset you wish to apply to your device. <cf><cf>This will overwrite any adjustments you have made to your current device setup, but you will still be able to customise the controls further via the edit binding functions."
+  },
+  {
+    "id": "1832",
+    "k": "lng_infopanel_loaddevicepresetlist_title",
+    "en": "Loading a Device Preset"
+  },
+  {
+    "id": "1833",
+    "k": "lng_infopanel_location_description",
+    "en": "Filter by Moments with a specific location"
+  },
+  {
+    "id": "1834",
+    "k": "lng_infopanel_location_title",
+    "en": "Location"
+  },
+  {
+    "id": "1835",
+    "k": "lng_infopanel_locationreveal3d_description",
+    "en": "This sets whether the location reveal is presented in full 3D or displayed on the virtual monitor."
+  },
+  {
+    "id": "1836",
+    "k": "lng_infopanel_logitechtrueforceenabled_description",
+    "en": "Toggles TRUEFORCE 'On' or 'Off' on the selected device. If set to off you will not be able to change any of the settings but any changes will be retained."
+  },
+  {
+    "id": "1837",
+    "k": "lng_infopanel_logitechtrueforceenabled_title",
+    "en": "TRUEFORCE"
+  },
+  {
+    "id": "1838",
+    "k": "lng_infopanel_looktoapexheadcam_description",
+    "en": "Sets the strength of the ‘Look to Apex’ effect when using the Internal Head Camera. <cf><cf>(0 = weakest, 100 = strongest)"
+  },
+  {
+    "id": "1839",
+    "k": "lng_infopanel_looktohorizoninternal_description",
+    "en": "Sets the strength of the ‘Lock to Horizon’ effect when using the Internal and Bonnet Cameras.<cf><cf>(0 = weakest, 100 = strongest)"
+  },
+  {
+    "id": "1840",
+    "k": "lng_infopanel_looktohorizoninternal_title",
+    "en": "Lock to Horizon"
+  },
+  {
+    "id": "1841",
+    "k": "lng_infopanel_mainghost_description",
+    "en": "A maximum of three ghosts can be loaded on a stage at one time. If a stage has previously been completed, a Personal Best will automatically be present. Additional Ghosts can be downloaded from the stage leaderboard via Player Options.<cf><cf>The visibility of ghosts on stage can also be set to ‘On’ or ‘Off’."
+  },
+  {
+    "id": "1842",
+    "k": "lng_infopanel_mainmenufpslimit_description",
+    "en": "Toggles the main menu framerate limit 'On' or 'Off'. <cf><cf>- 'On' locks the main menu framerate to 60fps <cf>- 'Off' allows the main menu framerate to be unlimited"
+  },
+  {
+    "id": "1843",
+    "k": "lng_infopanel_manualcameracontrol_description",
+    "en": "This sets whether the camera orientation can be effected by any other means than moving the headset."
+  },
+  {
+    "id": "1844",
+    "k": "lng_infopanel_manualcameracontrol_title",
+    "en": "Manual Camera Control"
+  },
+  {
+    "id": "1845",
+    "k": "lng_infopanel_master_description",
+    "en": "Sets the overall volume level of the game."
+  },
+  {
+    "id": "1846",
+    "k": "lng_infopanel_maxworkshopvalue_description",
+    "en": "Sets the maximum value of Workshop vehicles that can be entered into this championship: <cf><cf>- Unlimited <cf>- Premium <cf>- High <cf>- Medium <cf>- Low"
+  },
+  {
+    "id": "1847",
+    "k": "lng_infopanel_medalachieved_description",
+    "en": "Filter by Moments where you earned a specific medal"
+  },
+  {
+    "id": "1848",
+    "k": "lng_infopanel_medalachieved_title",
+    "en": "Medals Earned"
+  },
+  {
+    "id": "1849",
+    "k": "lng_infopanel_menumusic_description",
+    "en": "Sets the volume level of the main menu music."
+  },
+  {
+    "id": "1850",
+    "k": "lng_infopanel_menumusic_title",
+    "en": "Menu Music"
+  },
+  {
+    "id": "1851",
+    "k": "lng_infopanel_menunarration_description",
+    "en": "Toggles menu narration 'On' or 'Off'.<cf><cf>Menu narration provides audio cues for the main menu to aid in the locating of multiplayer communications."
+  },
+  {
+    "id": "1852",
+    "k": "lng_infopanel_mirrors_description",
+    "en": "Sets the quality of Mirrors: <cf><cf>- Off<cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1853",
+    "k": "lng_infopanel_monobalance_description",
+    "en": "Sets the balance of the mono mix to favour either the left or right audio channels."
+  },
+  {
+    "id": "1854",
+    "k": "lng_infopanel_monomode_description",
+    "en": "Toggles Mono Mix 'On' or 'Off'. <cf><cf>Mono Mix sets the audio to a mono mix that allows the adjustment of the balance between left and right audio channels."
+  },
+  {
+    "id": "1855",
+    "k": "lng_infopanel_monomode_title",
+    "en": "Mono Mix"
+  },
+  {
+    "id": "1856",
+    "k": "lng_infopanel_motionblur_description",
+    "en": "Toggles Motion Blur 'On' or 'Off'."
+  },
+  {
+    "id": "1857",
+    "k": "lng_infopanel_multisampling_description",
+    "en": "Changes the multisampling options to smooth graphical artifacts. <cf><cf>- x1<cf>- x2 <cf>- x4<cf>- x8<cf><cf>May reduce performance/framerate."
+  },
+  {
+    "id": "1858",
+    "k": "lng_infopanel_multisampling_title",
+    "en": "Multisampling"
+  },
+  {
+    "id": "1859",
+    "k": "lng_infopanel_nightlighting_description",
+    "en": "Sets the quality of the Night Lighting:<cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1860",
+    "k": "lng_infopanel_nightlighting_title",
+    "en": "Night Lighting"
+  },
+  {
+    "id": "1861",
+    "k": "lng_infopanel_notificationfeed_description",
+    "en": "Toggles the visibility of the Multiplayer Notification Feed on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "1862",
+    "k": "lng_infopanel_objects_description",
+    "en": "Sets the quality of Dynamic Objects: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1863",
+    "k": "lng_infopanel_offthrottlebraking_description",
+    "en": "Sets the strength of Off-Throttle Braking in vehicles. <cf><cf>Off-Throttle Braking will automatically apply the vehicle’s brakes when not accelerating.<cf><cf>(0 = Off, 5 = High)."
+  },
+  {
+    "id": "1864",
+    "k": "lng_infopanel_offthrottlebraking_title",
+    "en": "Off-Throttle Braking"
+  },
+  {
+    "id": "1865",
+    "k": "lng_infopanel_onlinedrivertags_description",
+    "en": "Toggles the visibility of the Online Driver Tags on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "1866",
+    "k": "lng_infopanel_onlinedrivertags_title",
+    "en": "Online Driver Tags"
+  },
+  {
+    "id": "1867",
+    "k": "lng_infopanel_onscreenprompts_description",
+    "en": "Toggles the visibility of the On Screen Prompts on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "1868",
+    "k": "lng_infopanel_particles_description",
+    "en": "Sets the quality of the particles: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1869",
+    "k": "lng_infopanel_particles_title",
+    "en": "Particles"
+  },
+  {
+    "id": "1870",
+    "k": "lng_infopanel_pedalbrakevibration_description",
+    "en": "Sets the strength of the Brake Pedal tyre slip vibration."
+  },
+  {
+    "id": "1871",
+    "k": "lng_infopanel_pedalthrottlevibration_description",
+    "en": "Sets the strength of the Throttle Pedal tyre slip vibration."
+  },
+  {
+    "id": "1872",
+    "k": "lng_infopanel_photosensitivemode_description",
+    "en": "Toggles in-game Camera Flashes from the crowd ‘On’ or ‘Off’."
+  },
+  {
+    "id": "1873",
+    "k": "lng_infopanel_photosensitivemode_title",
+    "en": "Photosensitive Mode"
+  },
+  {
+    "id": "1874",
+    "k": "lng_infopanel_playlistformat_description",
+    "en": "Allows switching between different playlist formats:<cf><cf>- Custom - Only play tracks that have been set to 'On'<cf>- Instrumental - Sets only a selection of Instrumental tracks 'On'<cf>- Off - Sets all music to 'Off'<cf>- Full - Sets all music to 'On'"
+  },
+  {
+    "id": "1875",
+    "k": "lng_infopanel_playlistformat_title",
+    "en": "Playlist"
+  },
+  {
+    "id": "1876",
+    "k": "lng_infopanel_preferredskilllevel_description",
+    "en": "Displays the preferred skill level for this session to prospective players when viewed in the session browser:<cf><cf>- Everyone <cf>- Beginner <cf>- Intermediate <cf>- Expert<cf><cf>Note: This does not prohibit players of higher or lower skill than the preferred level from joining"
+  },
+  {
+    "id": "1877",
+    "k": "lng_infopanel_preracetimer_description",
+    "en": "Changes how long players will have before the stage begins:<cf><cf>- 1 Minute<cf>- 2 Minutes <cf>- 3 Minutes <cf>- 5 Minutes<cf>- 10 Minutes<cf><cf>Note: This includes Service Area tuning and repairs"
+  },
+  {
+    "id": "1878",
+    "k": "lng_infopanel_preracetimer_title",
+    "en": "Pre Stage Timer"
+  },
+  {
+    "id": "1879",
+    "k": "lng_infopanel_privacypolicy_description",
+    "en": "Allows you to view the Electronic Arts Privacy and Cookie Policy"
+  },
+  {
+    "id": "1880",
+    "k": "lng_infopanel_privacypolicy_title",
+    "en": "EA PRIVACY AND COOKIE POLICY"
+  },
+  {
+    "id": "1881",
+    "k": "lng_infopanel_progressbar_description",
+    "en": "Toggles the visibility of the Stage Progress Bar on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "1882",
+    "k": "lng_infopanel_progressbar_title",
+    "en": "Progress Bar"
+  },
+  {
+    "id": "1883",
+    "k": "lng_infopanel_puncturewarning_description",
+    "en": "Toggles the visibility of the Puncture Warning on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "1884",
+    "k": "lng_infopanel_puncturewarning_title",
+    "en": "Puncture Warning"
+  },
+  {
+    "id": "1885",
+    "k": "lng_infopanel_pushtotalk_description",
+    "en": "Toggles Push to Talk 'On' or 'Off'."
+  },
+  {
+    "id": "1886",
+    "k": "lng_infopanel_qualitypreset_description",
+    "en": "Sets the graphical fidelity of the game according to a preset: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1887",
+    "k": "lng_infopanel_qualitypreset_title",
+    "en": "Quality Preset"
+  },
+  {
+    "id": "1888",
+    "k": "lng_infopanel_raceendtimer_description",
+    "en": "Changes how long players will have to complete the stage after the first player has crossed the finish line:<cf><cf>- 30 Seconds <cf>- 1 Minute <cf>- 2 Minutes <cf>- 3 Minutes<cf>- 5 Minutes"
+  },
+  {
+    "id": "1889",
+    "k": "lng_infopanel_raceendtimer_title",
+    "en": "End Stage Timer"
+  },
+  {
+    "id": "1890",
+    "k": "lng_infopanel_rallypassportvisibility_description",
+    "en": "Toggles  the visibility of your Rally Passport to other player 'On' or 'Off'."
+  },
+  {
+    "id": "1891",
+    "k": "lng_infopanel_rearantirollbar_description",
+    "en": "A strong setting will resist roll but could lift the inside wheel and overload the outside wheel resulting in loss of traction. A weak setting will allow more roll but transfer of bumps to the opposite wheel will be reduced."
+  },
+  {
+    "id": "1892",
+    "k": "lng_infopanel_rearbumpzonedivision_description",
+    "en": "If an impact on the wheel causes the damper to compress slower than this rate, the standard bump rate will take effect. If it causes the damper to compress faster than this rate, the fast bump rate will take effect."
+  },
+  {
+    "id": "1893",
+    "k": "lng_infopanel_rearbumpzonedivision_title",
+    "en": "(Rear) Bump Division"
+  },
+  {
+    "id": "1894",
+    "k": "lng_infopanel_rearlsdbrakinglock_description",
+    "en": "A high lock percentage will improve traction under braking but may induce understeer on corner entry. A low lock percentage will reduce understeer on corner entry but traction under braking may be compromised."
+  },
+  {
+    "id": "1895",
+    "k": "lng_infopanel_rearlsdbrakinglock_title",
+    "en": "(Rear) LSD Braking Lock"
+  },
+  {
+    "id": "1896",
+    "k": "lng_infopanel_rearlsdpreload_description",
+    "en": "Applying preload will partially lock the differential when little or no torque is applied by the drivetrain, ensuring it is never fully open. This can improve mid-corner traction, but having it too high may induce understeer."
+  },
+  {
+    "id": "1897",
+    "k": "lng_infopanel_rearlsdpreload_title",
+    "en": "(Rear) LSD Preload"
+  },
+  {
+    "id": "1898",
+    "k": "lng_infopanel_rearrideheight_description",
+    "en": "A low ride height helps reduce body-roll and improves overall stability, however reduces suspension travel. High ride height will improve handling over rougher terrain at the cost of increased body-roll."
+  },
+  {
+    "id": "1899",
+    "k": "lng_infopanel_rearrideheight_title",
+    "en": "(Rear) Ride Height"
+  },
+  {
+    "id": "1900",
+    "k": "lng_infopanel_rearslowbump_description",
+    "en": "Firm bump rate will aid stability but absorption of bumps can be reduced. Soft bump rate will be better at absorbing bumps, but stability can be reduced."
+  },
+  {
+    "id": "1901",
+    "k": "lng_infopanel_rearslowbump_title",
+    "en": "(Rear) Slow Bump"
+  },
+  {
+    "id": "1902",
+    "k": "lng_infopanel_rearslowrebound_description",
+    "en": "Firm rebound rate will resist damper extension for more stability but the wheel may take longer to make contact with the ground. Soft rebound rate will result in less resistance on extension but stability may be reduced."
+  },
+  {
+    "id": "1903",
+    "k": "lng_infopanel_reartoeangle_description",
+    "en": "Toe in on the rear increases stability and enables you to get better drive out of the corners. Toe out on the rear increases vehicle rotation mid corner, however too much can cause oversteer."
+  },
+  {
+    "id": "1904",
+    "k": "lng_infopanel_reartoeangle_title",
+    "en": "(Rear) Toe Angle"
+  },
+  {
+    "id": "1905",
+    "k": "lng_infopanel_rearviscousdifferential_description",
+    "en": "A strong differential reduces the speed difference between the wheels and can improve straight-line traction, but it may cause understeer. A loose differential has the opposite effect."
+  },
+  {
+    "id": "1906",
+    "k": "lng_infopanel_rearviscousdifferential_title",
+    "en": "(Rear) Viscous Differential"
+  },
+  {
+    "id": "1907",
+    "k": "lng_infopanel_recentreviewonboot_description",
+    "en": "This sets whether the headset view is automatically re-centred when VR mode is first engaged."
+  },
+  {
+    "id": "1908",
+    "k": "lng_infopanel_recentreviewonboot_title",
+    "en": "Recentre View on Boot"
+  },
+  {
+    "id": "1909",
+    "k": "lng_infopanel_recentreviewonracestart_description",
+    "en": "This sets whether the headset view is automatically re-centred before the race countdown begins."
+  },
+  {
+    "id": "1910",
+    "k": "lng_infopanel_recentreviewonracestart_title",
+    "en": "Recentre View on Race Start"
+  },
+  {
+    "id": "1911",
+    "k": "lng_infopanel_replaymusic_description",
+    "en": "Sets the volume level of the replay music."
+  },
+  {
+    "id": "1912",
+    "k": "lng_infopanel_resetall_description",
+    "en": "Resets all saved data covering any saved options, vehicle builds, liveries, Career progression, Championship progression, Championship and Event Templates and any saved tuning set ups as well as locally saved stats."
+  },
+  {
+    "id": "1913",
+    "k": "lng_infopanel_resetall_title",
+    "en": "RESET ALL"
+  },
+  {
+    "id": "1914",
+    "k": "lng_infopanel_resetdialogs_description",
+    "en": "Resets all in game dialogs which had previously been set to \"continue and don’t show this again\"."
+  },
+  {
+    "id": "1915",
+    "k": "lng_infopanel_resetdialogs_title",
+    "en": "RESET DIALOGS"
+  },
+  {
+    "id": "1916",
+    "k": "lng_infopanel_resetoptionsextras_description",
+    "en": "Resets all saved option and extras settings."
+  },
+  {
+    "id": "1917",
+    "k": "lng_infopanel_resetoptionsextras_title",
+    "en": "RESET OPTIONS AND EXTRAS"
+  },
+  {
+    "id": "1918",
+    "k": "lng_infopanel_resetstats_description",
+    "en": "Resets all locally saved stats."
+  },
+  {
+    "id": "1919",
+    "k": "lng_infopanel_resetstats_title",
+    "en": "RESET STATS"
+  },
+  {
+    "id": "1920",
+    "k": "lng_infopanel_resettutorials_description",
+    "en": "Resets all viewed Tutorials so they will be shown again when accessing that feature or game mode."
+  },
+  {
+    "id": "1921",
+    "k": "lng_infopanel_resettutorials_title",
+    "en": "RESET TUTORIALS"
+  },
+  {
+    "id": "1922",
+    "k": "lng_infopanel_resistivetriggers_description",
+    "en": "Toggles Trigger Vibration effects either 'On' or 'Off'."
+  },
+  {
+    "id": "1923",
+    "k": "lng_infopanel_resistivetriggers_title",
+    "en": "TRIGGER VIBRATION"
+  },
+  {
+    "id": "1924",
+    "k": "lng_infopanel_resistivetriggersenabled_description",
+    "en": "Toggles trigger effect function either 'On' or 'Off'."
+  },
+  {
+    "id": "1925",
+    "k": "lng_infopanel_resistivetriggersenabled_title",
+    "en": "Adaptive Triggers"
+  },
+  {
+    "id": "1926",
+    "k": "lng_infopanel_resolution_description",
+    "en": "Changes the resolution (Pixel density/width/height) of the game according to your GPU and output."
+  },
+  {
+    "id": "1927",
+    "k": "lng_infopanel_resolution_title",
+    "en": "Resolution"
+  },
+  {
+    "id": "1928",
+    "k": "lng_infopanel_restarts_description",
+    "en": "Changes how many restarts are available at each event: <cf><cf>- None<cf>- Unlimited<cf>- 20<cf>- 10 <cf>- 5 <cf>- 3<cf>- 1"
+  },
+  {
+    "id": "1929",
+    "k": "lng_infopanel_saturation_description",
+    "en": "Sets the percentage of input that is required to reach 100%. A low percentage reduces the range to reach full input."
+  },
+  {
+    "id": "1930",
+    "k": "lng_infopanel_scoringmethod_description",
+    "en": "Sets the scoring method for the Club event: <cf><cf>- WRC - Applies the standard WRC scoring rules of fixed points per event win dependant on competition level<cf>- Flexible - Adjusts the scoring to best suit the number of members within the Club"
+  },
+  {
+    "id": "1931",
+    "k": "lng_infopanel_scoringmethod_title",
+    "en": "Scoring Method"
+  },
+  {
+    "id": "1932",
+    "k": "lng_infopanel_selfaligningtorque_description",
+    "en": "Sets the strength of the Force Feedback and Vibration for Self Aligning Torque Effects."
+  },
+  {
+    "id": "1933",
+    "k": "lng_infopanel_selfaligningtorque_title",
+    "en": "SELF ALIGNING TORQUE"
+  },
+  {
+    "id": "1934",
+    "k": "lng_infopanel_sessioninvitealert_description",
+    "en": "Toggles the Cross Network session invite alert 'On' or 'Off'. <cf><cf>When invites are sent for cross network sessions these appear as an alert in game with the sessions available in the Session Browser list under the Invites tab."
+  },
+  {
+    "id": "1935",
+    "k": "lng_infopanel_sessionvisibility_description",
+    "en": "Changes whether other players can see your session within the Session Browser: <cf><cf>- Private <cf>- Public"
+  },
+  {
+    "id": "1936",
+    "k": "lng_infopanel_shaders_description",
+    "en": "Sets the quality of Shaders: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1937",
+    "k": "lng_infopanel_shaders_title",
+    "en": "Shaders"
+  },
+  {
+    "id": "1938",
+    "k": "lng_infopanel_shadows_description",
+    "en": "Sets the quality of the Shadows: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1939",
+    "k": "lng_infopanel_shadows_title",
+    "en": "Shadows"
+  },
+  {
+    "id": "1940",
+    "k": "lng_infopanel_shareuserdata_description",
+    "en": "EA collects data from your device to develop our products and services. <cf><cf>If disabled, EA will only collect your device data we need to provide necessary online services. <cf><cf>See EA's Privacy and Cookie Policy for more information. (Changes will be reflected in your next gameplay session)"
+  },
+  {
+    "id": "1941",
+    "k": "lng_infopanel_shareuserdata_title",
+    "en": "Usage Sharing"
+  },
+  {
+    "id": "1942",
+    "k": "lng_infopanel_skid_description",
+    "en": "Sets the strength of the Force Feedback and Vibration for the Tyre Slip and Puncture Effects."
+  },
+  {
+    "id": "1943",
+    "k": "lng_infopanel_skid_title",
+    "en": "TIRE SLIP"
+  },
+  {
+    "id": "1944",
+    "k": "lng_infopanel_skid_title",
+    "en": "TYRE SLIP"
+  },
+  {
+    "id": "1945",
+    "k": "lng_infopanel_skidmarks_description",
+    "en": "Sets the quality of Skidmarks: <cf><cf>- Off<cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1946",
+    "k": "lng_infopanel_skidmarks_description",
+    "en": "Toggles Skidmarks either 'On' or 'Off'."
+  },
+  {
+    "id": "1947",
+    "k": "lng_infopanel_skidmarks_title",
+    "en": "Skidmarks"
+  },
+  {
+    "id": "1948",
+    "k": "lng_infopanel_softlock_description",
+    "en": "Sets the strength of the Force Feedback and Vibration for Soft Lock Effects."
+  },
+  {
+    "id": "1949",
+    "k": "lng_infopanel_softlock_title",
+    "en": "SOFT LOCK"
+  },
+  {
+    "id": "1950",
+    "k": "lng_infopanel_speech_description",
+    "en": "Sets the volume of in-game speech audio."
+  },
+  {
+    "id": "1951",
+    "k": "lng_infopanel_speechtotext_description",
+    "en": "Toggles the speech to text accessibility setting 'On' or 'Off'. <cf><cf>When active in multiplayer sessions speech will be converted to on screen text."
+  },
+  {
+    "id": "1952",
+    "k": "lng_infopanel_splittimer_description",
+    "en": "Toggles the visibility of the Split Timings on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "1953",
+    "k": "lng_infopanel_springsbutton_description",
+    "en": "The suspension is used to absorb bumps on the road and ensure that the vehicle remains stable and able to capitalise on performance. Firmer suspension settings may aid stability, but are less effective at absorbing the harder hits, the opposite is true for softer settings. How you choose to setup your suspension is heavily stage and surface dependent."
+  },
+  {
+    "id": "1954",
+    "k": "lng_infopanel_springsbutton_title",
+    "en": "SPRINGS"
+  },
+  {
+    "id": "1955",
+    "k": "lng_infopanel_stabilitycontrol_description",
+    "en": "Sets the strength of Stability Control in vehicles.<cf><cf>Stability Control will automatically prevent vehicles from spinning and losing steering control.<cf><cf>(0 = Off, 5 = High)."
+  },
+  {
+    "id": "1956",
+    "k": "lng_infopanel_standingstable_description",
+    "en": "Toggles the visibility of the Standings Table on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "1957",
+    "k": "lng_infopanel_standingstable_title",
+    "en": "Standings Table"
+  },
+  {
+    "id": "1958",
+    "k": "lng_infopanel_startbutton_title",
+    "en": "START CHAMPIONSHIP"
+  },
+  {
+    "id": "1959",
+    "k": "lng_infopanel_startcountdown_description",
+    "en": "Toggles the visibility of the Start Countdown on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "1960",
+    "k": "lng_infopanel_startcountdown_title",
+    "en": "Start Countdown"
+  },
+  {
+    "id": "1961",
+    "k": "lng_infopanel_startsdate_description",
+    "en": "Number of days until the Club Championship starts. Works in conjunction with the Start Time setting to start at that time within that day."
+  },
+  {
+    "id": "1962",
+    "k": "lng_infopanel_startsdate_title",
+    "en": "Hours Until Start"
+  },
+  {
+    "id": "1963",
+    "k": "lng_infopanel_startsin_title",
+    "en": "STARTS IN (DAYS)"
+  },
+  {
+    "id": "1964",
+    "k": "lng_infopanel_steeringlinearity_title",
+    "en": "STEERING LINEARITY"
+  },
+  {
+    "id": "1965",
+    "k": "lng_infopanel_steeringlinearity_wheel_description",
+    "en": "Sets the linearity of the steering. <cf><cf>Low linearity makes steering directly proportional to your input which can feel more consistent but sensitive.<cf>High linearity can make the steering feel less sensitive for small inputs but can feel inconsistent. <cf>Both settings give maximum steering angle at full input"
+  },
+  {
+    "id": "1966",
+    "k": "lng_infopanel_steeringsensitivity_description",
+    "en": "Sets the sensitivity of the steering. <cf><cf>A higher sensitivity will react more to lower input from controller."
+  },
+  {
+    "id": "1967",
+    "k": "lng_infopanel_steeringsensitivity_title",
+    "en": "STEERING SENSITIVITY"
+  },
+  {
+    "id": "1968",
+    "k": "lng_infopanel_subtitles_description",
+    "en": "Toggles Subtitles ‘On’ or ‘Off’."
+  },
+  {
+    "id": "1969",
+    "k": "lng_infopanel_subtitles_title",
+    "en": "Subtitles "
+  },
+  {
+    "id": "1970",
+    "k": "lng_infopanel_subtitlessize_description",
+    "en": "Changes the display size of Subtitles: <cf><cf>- Normal<cf>- Large"
+  },
+  {
+    "id": "1971",
+    "k": "lng_infopanel_subtitlessize_title",
+    "en": "Subtitles Size"
+  },
+  {
+    "id": "1972",
+    "k": "lng_infopanel_surfaceoptions_description",
+    "en": "Sets the surface type for the test drive"
+  },
+  {
+    "id": "1973",
+    "k": "lng_infopanel_surfaceoptions_title",
+    "en": "Surface Select"
+  },
+  {
+    "id": "1974",
+    "k": "lng_infopanel_surfaces_description",
+    "en": "Sets the volume of surface audio for Asphalt, Gravel, Ice, and Snow.<cf><cf>Cannot be set below 50."
+  },
+  {
+    "id": "1975",
+    "k": "lng_infopanel_surfaces_title",
+    "en": "Surfaces"
+  },
+  {
+    "id": "1976",
+    "k": "lng_infopanel_suspension_description",
+    "en": "Sets the strength of the Force Feedback and Vibration for the Suspension Effects."
+  },
+  {
+    "id": "1977",
+    "k": "lng_infopanel_systemeq_description",
+    "en": "Changes the equalisation of the game audio according to your output.<cf><cf>-TV<cf>- Headphones <cf>- Home Cinema <cf>- Soundbar <cf>- Night Mode"
+  },
+  {
+    "id": "1978",
+    "k": "lng_infopanel_teambudget_description",
+    "en": "Changes the size of all accounts in the weekly team budget:<cf><cf>Balanced - Budgets lie between those two extremes, suitable for a typical career.<cf>Generous - Budgets are larger, making the career easier.<cf>Restrictive - Budgets are smaller, creating more challenge."
+  },
+  {
+    "id": "1979",
+    "k": "lng_infopanel_teambudget_title",
+    "en": "Weekly Team Budget"
+  },
+  {
+    "id": "1980",
+    "k": "lng_infopanel_texttospeech_description",
+    "en": "Toggles the text to speech accessibility setting to 'On' or 'Off'. <cf><cf>When active in multiplayer sessions any communication text will be read aloud."
+  },
+  {
+    "id": "1981",
+    "k": "lng_infopanel_textures_description",
+    "en": "Sets the quality of Textures: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1982",
+    "k": "lng_infopanel_textures_title",
+    "en": "Textures"
+  },
+  {
+    "id": "1983",
+    "k": "lng_infopanel_throttlelimiter_description",
+    "en": "Sets the strength of the Throttle Limiter assist in vehicles. <cf><cf>The Throttle Limiter will reduce the maximum amount of acceleration in vehicles making them easier to control.<cf><cf>(0 = Off, 5 = High)."
+  },
+  {
+    "id": "1984",
+    "k": "lng_infopanel_timecontrolbraking_description",
+    "en": "Sets the strength of Time Control Braking in vehicles. <cf><cf>Time Control Braking will automatically apply the vehicle’s brakes when entering the Time Control Area after crossing a Stage finishing line. <cf><cf>(0 = Off, 5 = High)."
+  },
+  {
+    "id": "1985",
+    "k": "lng_infopanel_timecontrolbraking_title",
+    "en": "Time Control Braking"
+  },
+  {
+    "id": "1986",
+    "k": "lng_infopanel_tirefriction_description",
+    "en": "Sets the strength of the Force Feedback and Vibration for the Tire Friction Effects."
+  },
+  {
+    "id": "1987",
+    "k": "lng_infopanel_tirefriction_description",
+    "en": "Sets the strength of the Force Feedback and Vibration for the Tyre Friction Effects."
+  },
+  {
+    "id": "1988",
+    "k": "lng_infopanel_togglecarinbonnet_description",
+    "en": "This sets whether the car is visible when using the 'bonnet' camera position. 'All Driving Views' must also be set to 'On' to make this camera available."
+  },
+  {
+    "id": "1989",
+    "k": "lng_infopanel_togglecarinbonnet_title",
+    "en": "Toggle Bonnet Camera"
+  },
+  {
+    "id": "1990",
+    "k": "lng_infopanel_toggledriveravatar_description",
+    "en": "This sets whether the driver's body can be seen whilst racing in the driver's eye camera view point."
+  },
+  {
+    "id": "1991",
+    "k": "lng_infopanel_toggledriveravatar_title",
+    "en": "Toggle Driver Avatar"
+  },
+  {
+    "id": "1992",
+    "k": "lng_infopanel_togglehiddenareamask_description",
+    "en": "Enable a customisable hidden-area mask that can be used to improve performance by limiting the headset view."
+  },
+  {
+    "id": "1993",
+    "k": "lng_infopanel_togglehiddenareamask_title",
+    "en": "Custom Hidden Area Mask"
+  },
+  {
+    "id": "1994",
+    "k": "lng_infopanel_togglelookback_description",
+    "en": "This sets whether the option to look backwards, whilst racing, is enabled."
+  },
+  {
+    "id": "1995",
+    "k": "lng_infopanel_track_description",
+    "en": "Allows the player to turn off and on individual tracks from the soundtrack"
+  },
+  {
+    "id": "1996",
+    "k": "lng_infopanel_track_title",
+    "en": "Artist - Track Name"
+  },
+  {
+    "id": "1997",
+    "k": "lng_infopanel_trackdegradation_description",
+    "en": "Changes the level of track degradation experienced by players in the championship: <cf><cf>- None <cf>- Light <cf>- Moderate<cf>- Heavy<cf>- Maximum"
+  },
+  {
+    "id": "1998",
+    "k": "lng_infopanel_trackquality_description",
+    "en": "Sets the quality of the Track: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "1999",
+    "k": "lng_infopanel_tractioncontrol_description",
+    "en": "Sets the strength of Traction Control in vehicles. <cf><cf>Traction Control will automatically prevent the loss of traction under acceleration. <cf><cf>(0 = Off, 5 = High)."
+  },
+  {
+    "id": "2000",
+    "k": "lng_infopanel_transmission_description",
+    "en": "Changes the Transmission type of vehicles: <cf><cf>- Automatic<cf>- Semi-Automatic<cf>- Manual Sequential<cf>- Manual H-Pattern<cf>- Manual Auto-Select (Determines Sequential or H-Pattern depending on the vehicle)"
+  },
+  {
+    "id": "2001",
+    "k": "lng_infopanel_trees_description",
+    "en": "Sets the quality of the Trees: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "2002",
+    "k": "lng_infopanel_trueforceengine_description",
+    "en": "Sets the strength of TRUEFORCE and Vibration for the Engine Effects."
+  },
+  {
+    "id": "2003",
+    "k": "lng_infopanel_trueforcesurface_description",
+    "en": "Sets the strength of TRUEFORCE and Vibration for Surface Effects."
+  },
+  {
+    "id": "2004",
+    "k": "lng_infopanel_trueforcetyre_description",
+    "en": "Sets the strength of the TRUEFORCE and Vibration for the Tire Slip and Puncture Effects."
+  },
+  {
+    "id": "2005",
+    "k": "lng_infopanel_trueforcetyre_description",
+    "en": "Sets the strength of the TRUEFORCE and Vibration for the Tyre Slip and Puncture Effects."
+  },
+  {
+    "id": "2006",
+    "k": "lng_infopanel_tuning_description",
+    "en": "Changes whether players competing in the championship will be able to Tune their vehicles in the Service Area: <cf><cf>- Allowed <cf>- Not Allowed"
+  },
+  {
+    "id": "2007",
+    "k": "lng_infopanel_units_description",
+    "en": "Changes the in-game measurement units to your preference:<cf><cf>- Metric<cf>- Imperial"
+  },
+  {
+    "id": "2008",
+    "k": "lng_infopanel_units_title",
+    "en": "Units"
+  },
+  {
+    "id": "2009",
+    "k": "lng_infopanel_unpausecountdown_description",
+    "en": "Toggles the countdown when returning to a stage from the Pause menu ‘On’ or ‘Off’."
+  },
+  {
+    "id": "2010",
+    "k": "lng_infopanel_unpausecountdown_title",
+    "en": "Un-Pause Countdown"
+  },
+  {
+    "id": "2011",
+    "k": "lng_infopanel_upscaler_description",
+    "en": "Changes the selection of an upscaler that can potentially increase performance. Graphics will be rendered at a lower resolution and then upscaled to your chosen output resolution. Select from:<cf><cf>- Standard Temporal upscaler<cf>- AMD's Fidelity FX (FSR)<cf>- NVIDIA's DLSS (requires a compatible NVIDIA graphics card)."
+  },
+  {
+    "id": "2012",
+    "k": "lng_infopanel_upscaler_title",
+    "en": "Upscaler"
+  },
+  {
+    "id": "2013",
+    "k": "lng_infopanel_upscalerautoquality_description",
+    "en": "Available with DLSS, auto-selects the quality based on your chosen output resolution."
+  },
+  {
+    "id": "2014",
+    "k": "lng_infopanel_upscalerautoquality_title",
+    "en": "Upscaler Auto Quality"
+  },
+  {
+    "id": "2015",
+    "k": "lng_infopanel_upscalerquality_description",
+    "en": "Provides an option to balance between performance and visual quality. Ultra Performance will render at the lowest resolution, while Quality will render at the highest. Balanced or Performance offer a compromise between visual quality and frame rate."
+  },
+  {
+    "id": "2016",
+    "k": "lng_infopanel_upscalerquality_title",
+    "en": "Upscaler Quality"
+  },
+  {
+    "id": "2017",
+    "k": "lng_infopanel_upscalersharpness_description",
+    "en": "Using FSR allows the sharpening of an image to the required preference."
+  },
+  {
+    "id": "2018",
+    "k": "lng_infopanel_upscalersharpness_title",
+    "en": "Upscaler Sharpness"
+  },
+  {
+    "id": "2019",
+    "k": "lng_infopanel_usergeneratedcontent_description",
+    "en": "Changes whether user created liveries are visible in Quick Play Multiplayer:<cf><cf>- Visible<cf>- Hidden<cf><cf>Note: User Generated Content must be set to 'Visible' to enter Esports competitions."
+  },
+  {
+    "id": "2020",
+    "k": "lng_infopanel_usergeneratedcontent_title",
+    "en": "User Generated Content"
+  },
+  {
+    "id": "2021",
+    "k": "lng_infopanel_vehicleclass_description",
+    "en": "Filter by Moments with a specific vehicle class"
+  },
+  {
+    "id": "2022",
+    "k": "lng_infopanel_vehicleclass_title",
+    "en": "Vehicle Class"
+  },
+  {
+    "id": "2023",
+    "k": "lng_infopanel_vehicleselecttimeout_description",
+    "en": "(DEV)"
+  },
+  {
+    "id": "2024",
+    "k": "lng_infopanel_vehiclevendorclass_description",
+    "en": "Filter by vehicle class"
+  },
+  {
+    "id": "2025",
+    "k": "lng_infopanel_vibrationandfeedback_override_description",
+    "en": "Toggles Vibration and Feedback On or Off manually.<cf><cf>The initial state is supplied by your device drivers (if supported). If your device driver has errors supplying this information, which can occur with highly custom or old devices, you can manually toggle Vibration and Feedback On."
+  },
+  {
+    "id": "2026",
+    "k": "lng_infopanel_vibrationandfeedback_override_title",
+    "en": "VIBRATION AND FEEDBACK OVERRIDE"
+  },
+  {
+    "id": "2027",
+    "k": "lng_infopanel_vibrationandfeedbackenabled_description",
+    "en": "Allows you to turn all vibration and feedback off for the selected device.<cf><cf>If set to off you will not be able to change any of the settings but any changes will be retained."
+  },
+  {
+    "id": "2028",
+    "k": "lng_infopanel_vibrationandfeedbackenabled_title",
+    "en": "VIBRATION AND FEEDBACK"
+  },
+  {
+    "id": "2029",
+    "k": "lng_infopanel_virtualmonitordistance_description",
+    "en": "This changes the position of the 'virtual monitor', that displays the game whilst not racing, towards or away from the initial view point. The larger the number the further away the display will appear."
+  },
+  {
+    "id": "2030",
+    "k": "lng_infopanel_virtualmonitorposition_description",
+    "en": "This changes the position of the 'virtual monitor', that displays the game whilst not racing, up or down in the view. The larger the number the higher the display will appear."
+  },
+  {
+    "id": "2031",
+    "k": "lng_infopanel_virtualmonitorscale_description",
+    "en": "This changes the overall size of the 'virtual monitor' that displays the game whilst not racing. All menu components, within this display, scale with that change. The larger the number the larger the size of the display."
+  },
+  {
+    "id": "2032",
+    "k": "lng_infopanel_virtualmonitorscale_title",
+    "en": "Virtual Monitor Scale"
+  },
+  {
+    "id": "2033",
+    "k": "lng_infopanel_visibleinsearches_description",
+    "en": "Toggles whether your Player ID can be found via Friend searches 'On' or 'Off'."
+  },
+  {
+    "id": "2034",
+    "k": "lng_infopanel_visibleinsearches_title",
+    "en": "Visible in Searches"
+  },
+  {
+    "id": "2035",
+    "k": "lng_infopanel_voicechat_description",
+    "en": "Toggles the online voice chat ‘On’ or ‘Off’.<cf><cf>Note this setting is applied when exiting the menu."
+  },
+  {
+    "id": "2036",
+    "k": "lng_infopanel_voicechatautoducking_description",
+    "en": "Toggles Voice Chat Auto Ducking 'On' or Off'.<cf><cf>Auto Ducking reduces the volume of in-game audio when other players are talking."
+  },
+  {
+    "id": "2037",
+    "k": "lng_infopanel_voicechatvolume_description",
+    "en": "Sets the volume of online voice chat audio."
+  },
+  {
+    "id": "2038",
+    "k": "lng_infopanel_voicechatvolume_title",
+    "en": "Voice Chat Volume"
+  },
+  {
+    "id": "2039",
+    "k": "lng_infopanel_voicegender_description",
+    "en": "Changes the voice used for text to speech system.<cf><cf>- Voice 1<cf>- Voice 2"
+  },
+  {
+    "id": "2040",
+    "k": "lng_infopanel_voicegender_description",
+    "en": "Changes the voice used for text to speech system:<cf><cf>- Voice 1<cf>- Voice 2"
+  },
+  {
+    "id": "2041",
+    "k": "lng_infopanel_voicegender_title",
+    "en": "Text to Speech Voice"
+  },
+  {
+    "id": "2042",
+    "k": "lng_infopanel_vsync_description",
+    "en": "Toggles Vsync ‘On’ or ‘Off’. <cf><cf>Vsync will attempt to synchronise the framerate of the game to your output’s refresh rate in order to prevent screen tearing and other graphical artifacts."
+  },
+  {
+    "id": "2043",
+    "k": "lng_infopanel_vsync_title",
+    "en": "Vsync"
+  },
+  {
+    "id": "2044",
+    "k": "lng_infopanel_warningmessages_description",
+    "en": "Toggles the visibility of the Warning Messages on the OSD 'On' or 'Off'."
+  },
+  {
+    "id": "2045",
+    "k": "lng_infopanel_water_description",
+    "en": "Sets the quality of Water: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "2046",
+    "k": "lng_infopanel_weather_description",
+    "en": "Sets the quality of the Weather effects: <cf><cf>- Ultra Low<cf>- Low<cf>- Medium <cf>- High<cf>- Ultra"
+  },
+  {
+    "id": "2047",
+    "k": "lng_infopanel_weather_title",
+    "en": "Weather"
+  },
+  {
+    "id": "2048",
+    "k": "lng_infopanel_wheelbasevibration_description",
+    "en": "Sets the strength of the Wheel Base engine effect."
+  },
+  {
+    "id": "2049",
+    "k": "lng_infopanel_wheelbasevibration_title",
+    "en": "Wheel Base Vibration"
+  },
+  {
+    "id": "2050",
+    "k": "lng_installation_complete_body",
+    "en": "You can now access the full game"
+  },
+  {
+    "id": "2051",
+    "k": "lng_installation_complete_title",
+    "en": "INSTALLATION COMPLETE"
+  },
+  {
+    "id": "2052",
+    "k": "lng_intro_class_leader_name_format",
+    "en": "CLASS LEADER - {0}"
+  },
+  {
+    "id": "2053",
+    "k": "lng_intro_class_leader_points_format",
+    "en": "{0} POINTS"
+  },
+  {
+    "id": "2054",
+    "k": "lng_intro_class_leader_title",
+    "en": "CLASS LEADER"
+  },
+  {
+    "id": "2055",
+    "k": "lng_intro_power_stage",
+    "en": "Wolf Power Stage"
+  },
+  {
+    "id": "2056",
+    "k": "lng_intro_rally_school_title",
+    "en": "RALLY SCHOOL"
+  },
+  {
+    "id": "2057",
+    "k": "lng_intro_stage_leader_title",
+    "en": "STAGE LEADER"
+  },
+  {
+    "id": "2058",
+    "k": "lng_invite_received_during_install_body",
+    "en": "Multiplayer sessions cannot be joined while the game is still installing."
+  },
+  {
+    "id": "2059",
+    "k": "lng_invite_received_during_install_title",
+    "en": "PLEASE WAIT"
+  },
+  {
+    "id": "2060",
+    "k": "lng_jwrc_championship_name",
+    "en": "FIA Junior WRC Championship"
+  },
+  {
+    "id": "2061",
+    "k": "lng_keeping_out_of_trouble_title",
+    "en": "Keeping Out of Trouble"
+  },
+  {
+    "id": "2062",
+    "k": "lng_keyboard",
+    "en": "Keyboard (QWERTY)"
+  },
+  {
+    "id": "2063",
+    "k": "lng_keyboard_azerty",
+    "en": "Keyboard (AZERTY)"
+  },
+  {
+    "id": "2064",
+    "k": "lng_keyboard_qwertz",
+    "en": "Keyboard (QWERTZ)"
+  },
+  {
+    "id": "2065",
+    "k": "lng_kick_confirm_body",
+    "en": "This will remove {0} from the session. Are you sure you wish to continue?"
+  },
+  {
+    "id": "2066",
+    "k": "lng_kit_car_icon",
+    "en": "Kit Car Icon"
+  },
+  {
+    "id": "2067",
+    "k": "lng_language_key",
+    "en": "Language Key"
+  },
+  {
+    "id": "2068",
+    "k": "lng_language_name_english",
+    "en": "English"
+  },
+  {
+    "id": "2069",
+    "k": "lng_language_name_spanish",
+    "en": "Spanish"
+  },
+  {
+    "id": "2070",
+    "k": "lng_language_name_ukrainian",
+    "en": "Ukrainian"
+  },
+  {
+    "id": "2071",
+    "k": "lng_launch_control_assist_modification_body",
+    "en": "This change will only take effect from the next stage or on a restart."
+  },
+  {
+    "id": "2072",
+    "k": "lng_le_basic_shapes",
+    "en": "SHAPES"
+  },
+  {
+    "id": "2073",
+    "k": "lng_le_date",
+    "en": "Date"
+  },
+  {
+    "id": "2074",
+    "k": "lng_le_livery_name",
+    "en": "Livery Name"
+  },
+  {
+    "id": "2075",
+    "k": "lng_le_logos_licensed",
+    "en": "LOGOS"
+  },
+  {
+    "id": "2076",
+    "k": "lng_leaderboard",
+    "en": "Leaderboard"
+  },
+  {
+    "id": "2077",
+    "k": "lng_leaderboard_filter_input_type",
+    "en": "Controller"
+  },
+  {
+    "id": "2078",
+    "k": "lng_leaderboard_filter_leaderboard_type",
+    "en": "Type"
+  },
+  {
+    "id": "2079",
+    "k": "lng_leaderboard_filter_type_friends",
+    "en": "FRIENDS"
+  },
+  {
+    "id": "2080",
+    "k": "lng_leaderboard_filter_type_platform",
+    "en": "PLATFORM"
+  },
+  {
+    "id": "2081",
+    "k": "lng_leaderboard_filter_vehicle",
+    "en": "Builder Vehicles"
+  },
+  {
+    "id": "2082",
+    "k": "lng_leaderboard_filters_title",
+    "en": "LEADERBOARD FILTERS"
+  },
+  {
+    "id": "2083",
+    "k": "lng_leaderboard_loading",
+    "en": "Loading Leaderboard"
+  },
+  {
+    "id": "2084",
+    "k": "lng_leaderboardpagetype_aroundme",
+    "en": "My Position"
+  },
+  {
+    "id": "2085",
+    "k": "lng_leaderboardpagetype_aroundme",
+    "en": "My Position "
+  },
+  {
+    "id": "2086",
+    "k": "lng_leaderboardpagetype_top",
+    "en": "Top"
+  },
+  {
+    "id": "2087",
+    "k": "lng_lg_driving_force_ex",
+    "en": "Logitech® Driving Force EX"
+  },
+  {
+    "id": "2088",
+    "k": "lng_lg_driving_force_gt",
+    "en": "Logitech® Driving Force GT"
+  },
+  {
+    "id": "2089",
+    "k": "lng_lg_driving_force_pro",
+    "en": "Logitech® Driving Force Pro"
+  },
+  {
+    "id": "2090",
+    "k": "lng_lg_dual_action",
+    "en": "Logitech® Dual Action"
+  },
+  {
+    "id": "2091",
+    "k": "lng_lg_f510",
+    "en": "Logitech® F510"
+  },
+  {
+    "id": "2092",
+    "k": "lng_lg_f710_and_cordless_rumblepad_2",
+    "en": "Logitech® Wireless Gamepad F710"
+  },
+  {
+    "id": "2093",
+    "k": "lng_lg_g25",
+    "en": "Logitech® G25"
+  },
+  {
+    "id": "2094",
+    "k": "lng_lg_g27",
+    "en": "Logitech® G27"
+  },
+  {
+    "id": "2095",
+    "k": "lng_lg_g29",
+    "en": "Logitech® G29"
+  },
+  {
+    "id": "2096",
+    "k": "lng_lg_g920",
+    "en": "Logitech® G920"
+  },
+  {
+    "id": "2097",
+    "k": "lng_lg_g923_ps4",
+    "en": "Logitech® G923 for PS5™ console"
+  },
+  {
+    "id": "2098",
+    "k": "lng_lg_g923_xone",
+    "en": "Logitech® G923 for Xbox Series X|S"
+  },
+  {
+    "id": "2099",
+    "k": "lng_lg_gpro_ps",
+    "en": "Logitech® G PRO Racing Wheel for PlayStation®5 console and PC"
+  },
+  {
+    "id": "2100",
+    "k": "lng_lg_gpro_xb",
+    "en": "Logitech® G PRO Racing Wheel for Xbox Series X|S and PC"
+  },
+  {
+    "id": "2101",
+    "k": "lng_lg_momo_racing",
+    "en": "Logitech® Momo Racing"
+  },
+  {
+    "id": "2102",
+    "k": "lng_lg_pedals_pro",
+    "en": "Logitech® G PRO Racing Pedals"
+  },
+  {
+    "id": "2103",
+    "k": "lng_lib_direct_input",
+    "en": "Direct Input Wheel"
+  },
+  {
+    "id": "2104",
+    "k": "lng_lib_direct_input_pad",
+    "en": "Direct Input Controller"
+  },
+  {
+    "id": "2105",
+    "k": "lng_lib_gdk",
+    "en": "Unknown Device"
+  },
+  {
+    "id": "2106",
+    "k": "lng_lib_gdk_mouse",
+    "en": "Mouse"
+  },
+  {
+    "id": "2107",
+    "k": "lng_lib_open_xr",
+    "en": "VR - Unbound"
+  },
+  {
+    "id": "2108",
+    "k": "lng_license_promotion_screen_title",
+    "en": "REWARDS"
+  },
+  {
+    "id": "2109",
+    "k": "lng_like_father_like_son",
+    "en": "Like Father, Like Son"
+  },
+  {
+    "id": "2110",
+    "k": "lng_listen_to_calls_description",
+    "en": "Listen to the co-driver calls"
+  },
+  {
+    "id": "2111",
+    "k": "lng_liveryedhub_button_base_paint",
+    "en": "PAINT"
+  },
+  {
+    "id": "2112",
+    "k": "lng_liveryedhub_button_place_decals",
+    "en": "DECALS"
+  },
+  {
+    "id": "2113",
+    "k": "lng_liveryedhub_button_save_exit",
+    "en": "SAVE LIVERY"
+  },
+  {
+    "id": "2114",
+    "k": "lng_liveryedhub_button_window_tint",
+    "en": "WINDOW TINT"
+  },
+  {
+    "id": "2115",
+    "k": "lng_liveryeditor_colour_will_be_lost_body",
+    "en": "You have not confimed the current colour. If you continue the current colour will be lost."
+  },
+  {
+    "id": "2116",
+    "k": "lng_liveryeditor_current_colour_will_be_overwritten_body",
+    "en": "Are you sure you want to overwrite the current colour?"
+  },
+  {
+    "id": "2117",
+    "k": "lng_liveryeditor_saved_colour_will_be_overwritten_body",
+    "en": "Are you sure you want to overwrite this saved colour?"
+  },
+  {
+    "id": "2118",
+    "k": "lng_load_championship_template_title",
+    "en": "LOAD TEMPLATE"
+  },
+  {
+    "id": "2119",
+    "k": "lng_load_custom_progress_template_title",
+    "en": "LOAD"
+  },
+  {
+    "id": "2120",
+    "k": "lng_load_device_do_you_want_to_load_body",
+    "en": "Loading a device preset will overwrite the current bindings. Are you sure that you want to continue?"
+  },
+  {
+    "id": "2121",
+    "k": "lng_load_event_template_title",
+    "en": "LOAD EVENT TEMPLATE"
+  },
+  {
+    "id": "2122",
+    "k": "lng_load_progress_unavailable_body",
+    "en": "Currently there are no suspended championships available to load and continue racing. Please create a new championship instead."
+  },
+  {
+    "id": "2123",
+    "k": "lng_load_progress_unavailable_title",
+    "en": "LOAD PROGRESS UNAVAILABLE"
+  },
+  {
+    "id": "2124",
+    "k": "lng_load_template_unavailable_body",
+    "en": "Currently there are no saved championship templates available to load. Please create a new championship instead."
+  },
+  {
+    "id": "2125",
+    "k": "lng_load_template_unavailable_title",
+    "en": "LOAD TEMPLATE UNAVAILABLE"
+  },
+  {
+    "id": "2126",
+    "k": "lng_load_tuning_template_title",
+    "en": "Load Tuning Template"
+  },
+  {
+    "id": "2127",
+    "k": "lng_load_vehicle_builder_template_text",
+    "en": "Load Builder Template"
+  },
+  {
+    "id": "2128",
+    "k": "lng_locations_select_entitlementrequired_format",
+    "en": "WRC 2024 Season Expansion Required"
+  },
+  {
+    "id": "2129",
+    "k": "lng_main_menu_career_entitlement_required_format",
+    "en": "{0} Required"
+  },
+  {
+    "id": "2130",
+    "k": "lng_main_menu_clubs_desc",
+    "en": "Compete against other players in asynchronous online play"
+  },
+  {
+    "id": "2131",
+    "k": "lng_main_menu_ea_friends_title",
+    "en": "SOCIAL"
+  },
+  {
+    "id": "2132",
+    "k": "lng_main_menu_esport_title",
+    "en": "ESPORTS"
+  },
+  {
+    "id": "2133",
+    "k": "lng_main_menu_freeplay_title",
+    "en": "QUICK PLAY"
+  },
+  {
+    "id": "2134",
+    "k": "lng_main_menu_interior_customisation_desc",
+    "en": "Personalise the interior of your purchased and created vehicles"
+  },
+  {
+    "id": "2135",
+    "k": "lng_main_menu_interior_customisation_title",
+    "en": "INTERIOR CUSTOMISATION"
+  },
+  {
+    "id": "2136",
+    "k": "lng_main_menu_livery_customisation_desc",
+    "en": "Design and create liveries for your favourite vehicles"
+  },
+  {
+    "id": "2137",
+    "k": "lng_main_menu_racenet",
+    "en": "RACENET"
+  },
+  {
+    "id": "2138",
+    "k": "lng_main_menu_rally_profile_title",
+    "en": "DRIVER PROFILE"
+  },
+  {
+    "id": "2139",
+    "k": "lng_main_menu_stats_title",
+    "en": "STATS"
+  },
+  {
+    "id": "2140",
+    "k": "lng_main_menu_workshop_desc",
+    "en": "Create your own customised rally car"
+  },
+  {
+    "id": "2141",
+    "k": "lng_maintiain_max_throttle_description",
+    "en": "Do not use throttle in blue zone"
+  },
+  {
+    "id": "2142",
+    "k": "lng_maintiain_min_throttle_description",
+    "en": "Maintain a level of throttle input through the corner"
+  },
+  {
+    "id": "2143",
+    "k": "lng_making_a_comeback",
+    "en": "Making a Comeback"
+  },
+  {
+    "id": "2144",
+    "k": "lng_manual_camera_control_option_warning",
+    "en": "Some players may experience discomfort if the Manual Camera Control setting is turned ON and the view is then changed using any other method than headset orientation."
+  },
+  {
+    "id": "2145",
+    "k": "lng_manual_start_and_braking_name",
+    "en": "MANUAL STARTS AND STRAIGHT LINE BRAKING"
+  },
+  {
+    "id": "2146",
+    "k": "lng_manufacturer_name_alpine",
+    "en": "Alpine"
+  },
+  {
+    "id": "2147",
+    "k": "lng_manufacturer_name_audi",
+    "en": "Audi"
+  },
+  {
+    "id": "2148",
+    "k": "lng_manufacturer_name_bmw",
+    "en": "BMW"
+  },
+  {
+    "id": "2149",
+    "k": "lng_manufacturer_name_chrysler",
+    "en": "Chrysler"
+  },
+  {
+    "id": "2150",
+    "k": "lng_manufacturer_name_citroen",
+    "en": "Citroën"
+  },
+  {
+    "id": "2151",
+    "k": "lng_manufacturer_name_datsun",
+    "en": "Datsun"
+  },
+  {
+    "id": "2152",
+    "k": "lng_manufacturer_name_djm_motorsport",
+    "en": "DJM Motorsport"
+  },
+  {
+    "id": "2153",
+    "k": "lng_manufacturer_name_ds_automobiles",
+    "en": "DS Automobiles"
+  },
+  {
+    "id": "2154",
+    "k": "lng_manufacturer_name_fiat",
+    "en": "Fiat"
+  },
+  {
+    "id": "2155",
+    "k": "lng_manufacturer_name_ford",
+    "en": "Ford"
+  },
+  {
+    "id": "2156",
+    "k": "lng_manufacturer_name_hillman",
+    "en": "Hillman"
+  },
+  {
+    "id": "2157",
+    "k": "lng_manufacturer_name_hyundai",
+    "en": "Hyundai"
+  },
+  {
+    "id": "2158",
+    "k": "lng_manufacturer_name_lada",
+    "en": "Lada"
+  },
+  {
+    "id": "2159",
+    "k": "lng_manufacturer_name_lancia",
+    "en": "Lancia"
+  },
+  {
+    "id": "2160",
+    "k": "lng_manufacturer_name_mg",
+    "en": "MG"
+  },
+  {
+    "id": "2161",
+    "k": "lng_manufacturer_name_mini",
+    "en": "MINI"
+  },
+  {
+    "id": "2162",
+    "k": "lng_manufacturer_name_mitsubishi",
+    "en": "Mitsubishi"
+  },
+  {
+    "id": "2163",
+    "k": "lng_manufacturer_name_nissan",
+    "en": "Nissan"
+  },
+  {
+    "id": "2164",
+    "k": "lng_manufacturer_name_opel",
+    "en": "Opel"
+  },
+  {
+    "id": "2165",
+    "k": "lng_manufacturer_name_peugeot",
+    "en": "Peugeot"
+  },
+  {
+    "id": "2166",
+    "k": "lng_manufacturer_name_porsche",
+    "en": "Porsche"
+  },
+  {
+    "id": "2167",
+    "k": "lng_manufacturer_name_proton",
+    "en": "Proton"
+  },
+  {
+    "id": "2168",
+    "k": "lng_manufacturer_name_renault",
+    "en": "Renault"
+  },
+  {
+    "id": "2169",
+    "k": "lng_manufacturer_name_seat",
+    "en": "SEAT"
+  },
+  {
+    "id": "2170",
+    "k": "lng_manufacturer_name_skoda",
+    "en": "ŠKODA"
+  },
+  {
+    "id": "2171",
+    "k": "lng_manufacturer_name_subaru",
+    "en": "SUBARU"
+  },
+  {
+    "id": "2172",
+    "k": "lng_manufacturer_name_suzuki",
+    "en": "Suzuki"
+  },
+  {
+    "id": "2173",
+    "k": "lng_manufacturer_name_talbot",
+    "en": "Talbot"
+  },
+  {
+    "id": "2174",
+    "k": "lng_manufacturer_name_toyota",
+    "en": "Toyota"
+  },
+  {
+    "id": "2175",
+    "k": "lng_manufacturer_name_vauxhall",
+    "en": "Vauxhall"
+  },
+  {
+    "id": "2176",
+    "k": "lng_manufacturer_name_volkswagen",
+    "en": "Volkswagen"
+  },
+  {
+    "id": "2177",
+    "k": "lng_mc_pro_r",
+    "en": "Mad Catz Pro Racing Force Feedback Wheel"
+  },
+  {
+    "id": "2178",
+    "k": "lng_mechpartcondition_new",
+    "en": "New"
+  },
+  {
+    "id": "2179",
+    "k": "lng_mechpartcondition_refurbished",
+    "en": "Refurbished"
+  },
+  {
+    "id": "2180",
+    "k": "lng_mechpartcondition_used",
+    "en": "Used"
+  },
+  {
+    "id": "2181",
+    "k": "lng_mechpartqualityoption_high",
+    "en": "High"
+  },
+  {
+    "id": "2182",
+    "k": "lng_mechpartqualityoption_low",
+    "en": "Low"
+  },
+  {
+    "id": "2183",
+    "k": "lng_mechpartqualityoption_veryhigh",
+    "en": "Very High"
+  },
+  {
+    "id": "2184",
+    "k": "lng_mechparttuningoption_limited",
+    "en": "Limited"
+  },
+  {
+    "id": "2185",
+    "k": "lng_menu_installing_button_continue",
+    "en": "Continue Event"
+  },
+  {
+    "id": "2186",
+    "k": "lng_menu_installing_button_start",
+    "en": "Start Event"
+  },
+  {
+    "id": "2187",
+    "k": "lng_menu_narration_screen_title",
+    "en": "MENU NARRATION"
+  },
+  {
+    "id": "2188",
+    "k": "lng_min_speed_limit_description",
+    "en": "Maintain a speed above {0} in all corners"
+  },
+  {
+    "id": "2189",
+    "k": "lng_mishap_car_recovered",
+    "en": "Car recovered."
+  },
+  {
+    "id": "2190",
+    "k": "lng_mishap_checked_headlights",
+    "en": "Stopped to check headlights."
+  },
+  {
+    "id": "2191",
+    "k": "lng_mishap_disqualified",
+    "en": "Disqualified."
+  },
+  {
+    "id": "2192",
+    "k": "lng_mishap_dust_cloud",
+    "en": "Freak dust cloud."
+  },
+  {
+    "id": "2193",
+    "k": "lng_mishap_exceeded_speed_limit",
+    "en": "Exceeded Speed Limit."
+  },
+  {
+    "id": "2194",
+    "k": "lng_mishap_faulty_stopwatch",
+    "en": "Faulty Stopwatch."
+  },
+  {
+    "id": "2195",
+    "k": "lng_mishap_fog",
+    "en": "Fog."
+  },
+  {
+    "id": "2196",
+    "k": "lng_mishap_heavy_rain",
+    "en": "Heavy rain."
+  },
+  {
+    "id": "2197",
+    "k": "lng_mishap_heavy_snow",
+    "en": "Heavy snow."
+  },
+  {
+    "id": "2198",
+    "k": "lng_mishap_ignored_marshal",
+    "en": "Ignored Marshal."
+  },
+  {
+    "id": "2199",
+    "k": "lng_mishap_jump_start",
+    "en": "Jump start penalty."
+  },
+  {
+    "id": "2200",
+    "k": "lng_mishap_late_leaving",
+    "en": "Late leaving Service Area."
+  },
+  {
+    "id": "2201",
+    "k": "lng_mishap_new_codriver",
+    "en": "New Co Driver."
+  },
+  {
+    "id": "2202",
+    "k": "lng_mishap_refill_radiator",
+    "en": "Stopped to refill radiator."
+  },
+  {
+    "id": "2203",
+    "k": "lng_mishap_repair_puncture",
+    "en": "Stopped to repair puncture."
+  },
+  {
+    "id": "2204",
+    "k": "lng_mishap_repaired_multiple_punctures",
+    "en": "Stopped to repair punctures."
+  },
+  {
+    "id": "2205",
+    "k": "lng_mishap_rocks_in_road",
+    "en": "Rocks in the road."
+  },
+  {
+    "id": "2206",
+    "k": "lng_mishap_stalled_start",
+    "en": "Stalled on start line."
+  },
+  {
+    "id": "2207",
+    "k": "lng_mishap_stopped_on_stage",
+    "en": "Stopped on Stage."
+  },
+  {
+    "id": "2208",
+    "k": "lng_mishap_thick_fog",
+    "en": "Thick fog."
+  },
+  {
+    "id": "2209",
+    "k": "lng_mishap_unrecoverable_car",
+    "en": "Unrecoverable car."
+  },
+  {
+    "id": "2210",
+    "k": "lng_mishap_wrong_turn",
+    "en": "Wrong turn."
+  },
+  {
+    "id": "2211",
+    "k": "lng_mm_career_screen_continue_career_description",
+    "en": "Pick up where you left off in your ongoing WRC career"
+  },
+  {
+    "id": "2212",
+    "k": "lng_mm_career_screen_new_career_description",
+    "en": "Start your WRC career from the beginning again, replacing your ongoing one"
+  },
+  {
+    "id": "2213",
+    "k": "lng_mode_name_championship",
+    "en": "Championship"
+  },
+  {
+    "id": "2214",
+    "k": "lng_mode_name_clubs",
+    "en": "CLUBS"
+  },
+  {
+    "id": "2215",
+    "k": "lng_mode_name_time_trial",
+    "en": "TIME TRIAL "
+  },
+  {
+    "id": "2216",
+    "k": "lng_monthly_target_generated",
+    "en": "MONTHLY TARGET"
+  },
+  {
+    "id": "2217",
+    "k": "lng_motorshow_leave_body",
+    "en": "Leaving the Motor Show will progress time in the Calendar to the next week. Are you sure you wish to continue?"
+  },
+  {
+    "id": "2218",
+    "k": "lng_motorshow_leave_title",
+    "en": "LEAVE MOTOR SHOW?"
+  },
+  {
+    "id": "2219",
+    "k": "lng_moza_base_r12",
+    "en": "Moza R12 Wheel Base"
+  },
+  {
+    "id": "2220",
+    "k": "lng_moza_base_r16_21",
+    "en": "Moza R16 R21 Wheel Base"
+  },
+  {
+    "id": "2221",
+    "k": "lng_moza_base_r3",
+    "en": "Moza R3 Wheel Base"
+  },
+  {
+    "id": "2222",
+    "k": "lng_moza_base_r5",
+    "en": "Moza R5 Wheel Base"
+  },
+  {
+    "id": "2223",
+    "k": "lng_moza_base_r9",
+    "en": "Moza R9 Wheel Base"
+  },
+  {
+    "id": "2224",
+    "k": "lng_moza_handbrake_hbp",
+    "en": "Moza HBP Handbrake"
+  },
+  {
+    "id": "2225",
+    "k": "lng_moza_handbrake_hbp_direct",
+    "en": "Moza HBP Handbrake (USB)"
+  },
+  {
+    "id": "2226",
+    "k": "lng_moza_pedals_crp",
+    "en": "Moza CRP Pedals"
+  },
+  {
+    "id": "2227",
+    "k": "lng_moza_pedals_crp_direct",
+    "en": "Moza CRP Pedals (USB)"
+  },
+  {
+    "id": "2228",
+    "k": "lng_moza_pedals_srp",
+    "en": "Moza SR-P Pedals"
+  },
+  {
+    "id": "2229",
+    "k": "lng_moza_pedals_srp_direct",
+    "en": "Moza SR-P Pedals (USB)"
+  },
+  {
+    "id": "2230",
+    "k": "lng_moza_rim_cs",
+    "en": "Moza CS V2P Steering Wheel"
+  },
+  {
+    "id": "2231",
+    "k": "lng_moza_rim_es_xb",
+    "en": "Moza ES Steering Wheel"
+  },
+  {
+    "id": "2232",
+    "k": "lng_moza_rim_fsr",
+    "en": "Moza FSR Formula Wheel"
+  },
+  {
+    "id": "2233",
+    "k": "lng_moza_rim_gsv2",
+    "en": "Moza GS V2P GT Wheel"
+  },
+  {
+    "id": "2234",
+    "k": "lng_moza_shifter_hgp",
+    "en": "Moza HGP Shifter"
+  },
+  {
+    "id": "2235",
+    "k": "lng_moza_shifter_hgp_direct",
+    "en": "Moza HGP Shifter (USB)"
+  },
+  {
+    "id": "2236",
+    "k": "lng_moza_shifter_sgp",
+    "en": "Moza SGP Sequential Shifter"
+  },
+  {
+    "id": "2237",
+    "k": "lng_moza_shifter_sgp_direct",
+    "en": "Moza SGP Sequential Shifter (USB)"
+  },
+  {
+    "id": "2238",
+    "k": "lng_mp_WRCPointsSystem_S1_001",
+    "en": "For the 2024 edition of the FIA World Rally Championship, a brand new points system has been introduced for the top tier WRC category."
+  },
+  {
+    "id": "2239",
+    "k": "lng_mp_WRCPointsSystem_S1_002",
+    "en": "From this season onwards, points for each rally will be distributed across two separate sections called the Primary and Final Leg."
+  },
+  {
+    "id": "2240",
+    "k": "lng_mp_WRCPointsSystem_S2_001",
+    "en": "The Primary Leg will account for the majority of the overall championship points awarded for each event."
+  },
+  {
+    "id": "2241",
+    "k": "lng_mp_WRCPointsSystem_S2_002",
+    "en": "At the end of the Primary Leg, points are locked into place for the top 10 crews based on their current leaderboard positions."
+  },
+  {
+    "id": "2242",
+    "k": "lng_mp_WRCPointsSystem_S2_003",
+    "en": "Bonus Points are then given out to the crews that are the fastest over the Final Leg stages."
+  },
+  {
+    "id": "2243",
+    "k": "lng_mp_WRCPointsSystem_S3_001",
+    "en": "This new format requires drivers to hold their nerve and balance the desire to conserve position with the need to push for maximum championship points."
+  },
+  {
+    "id": "2244",
+    "k": "lng_mp_WRCPointsSystem_S3_002",
+    "en": "Power Stage Points are still on offer and crucially, in order to secure the points from the Primary Leg, crews are still required to complete the entire event"
+  },
+  {
+    "id": "2245",
+    "k": "lng_mp_WRCPointsSystem_S3_003",
+    "en": "Lastly, although the distribution of points has changed, the final podium positions for each rally, are still determined by the competitors overall event times"
+  },
+  {
+    "id": "2246",
+    "k": "lng_mp_WRCPointsSystem_S3_004",
+    "en": "We hope you enjoy this fresh challenge within EA Sports WRC, see you out on the stages!"
+  },
+  {
+    "id": "2247",
+    "k": "lng_ms_sidewinder_ffb",
+    "en": "Microsoft Sidewinder Wheel"
+  },
+  {
+    "id": "2248",
+    "k": "lng_multiplayer_banned_body",
+    "en": "You have been banned from multiplayer"
+  },
+  {
+    "id": "2249",
+    "k": "lng_multiplayer_banned_title",
+    "en": "Banned"
+  },
+  {
+    "id": "2250",
+    "k": "lng_multiplayer_lobby_blocked_player_present_body",
+    "en": "A player from your blocked list is in this lobby. Are you sure you want to continue?"
+  },
+  {
+    "id": "2251",
+    "k": "lng_nationality_argentina",
+    "en": "Argentinian"
+  },
+  {
+    "id": "2252",
+    "k": "lng_nationality_australia",
+    "en": "Australian"
+  },
+  {
+    "id": "2253",
+    "k": "lng_nationality_austria",
+    "en": "Austrian"
+  },
+  {
+    "id": "2254",
+    "k": "lng_nationality_bahrain",
+    "en": "Bahraini"
+  },
+  {
+    "id": "2255",
+    "k": "lng_nationality_belgium",
+    "en": "Belgian"
+  },
+  {
+    "id": "2256",
+    "k": "lng_nationality_bolivia",
+    "en": "Bolivian"
+  },
+  {
+    "id": "2257",
+    "k": "lng_nationality_brazil",
+    "en": "Brazilian"
+  },
+  {
+    "id": "2258",
+    "k": "lng_nationality_britain",
+    "en": "British"
+  },
+  {
+    "id": "2259",
+    "k": "lng_nationality_bulgaria",
+    "en": "Bulgarian"
+  },
+  {
+    "id": "2260",
+    "k": "lng_nationality_cameroon",
+    "en": "Camerounaise"
+  },
+  {
+    "id": "2261",
+    "k": "lng_nationality_canada",
+    "en": "Canadian"
+  },
+  {
+    "id": "2262",
+    "k": "lng_nationality_chile",
+    "en": "Chilean"
+  },
+  {
+    "id": "2263",
+    "k": "lng_nationality_china",
+    "en": "Mainland China"
+  },
+  {
+    "id": "2264",
+    "k": "lng_nationality_colombia",
+    "en": "Colombian"
+  },
+  {
+    "id": "2265",
+    "k": "lng_nationality_costarica",
+    "en": "Costa Rican"
+  },
+  {
+    "id": "2266",
+    "k": "lng_nationality_croatia",
+    "en": "Croatian"
+  },
+  {
+    "id": "2267",
+    "k": "lng_nationality_cyprus",
+    "en": "Cypriot"
+  },
+  {
+    "id": "2268",
+    "k": "lng_nationality_czechrepublic",
+    "en": "Czech"
+  },
+  {
+    "id": "2269",
+    "k": "lng_nationality_denmark",
+    "en": "Danish"
+  },
+  {
+    "id": "2270",
+    "k": "lng_nationality_ecuador",
+    "en": "Ecuadorean"
+  },
+  {
+    "id": "2271",
+    "k": "lng_nationality_estonia",
+    "en": "Estonian"
+  },
+  {
+    "id": "2272",
+    "k": "lng_nationality_finland",
+    "en": "Finnish"
+  },
+  {
+    "id": "2273",
+    "k": "lng_nationality_ghana",
+    "en": "Ghanaian"
+  },
+  {
+    "id": "2274",
+    "k": "lng_nationality_greece",
+    "en": "Greek"
+  },
+  {
+    "id": "2275",
+    "k": "lng_nationality_hongkong",
+    "en": "Hong Kong"
+  },
+  {
+    "id": "2276",
+    "k": "lng_nationality_hungary",
+    "en": "Hungarian"
+  },
+  {
+    "id": "2277",
+    "k": "lng_nationality_iceland",
+    "en": "Icelander"
+  },
+  {
+    "id": "2278",
+    "k": "lng_nationality_india",
+    "en": "Indian"
+  },
+  {
+    "id": "2279",
+    "k": "lng_nationality_indonesia",
+    "en": "Indonesian"
+  },
+  {
+    "id": "2280",
+    "k": "lng_nationality_ireland",
+    "en": "Irish"
+  },
+  {
+    "id": "2281",
+    "k": "lng_nationality_isleofman",
+    "en": "Manx"
+  },
+  {
+    "id": "2282",
+    "k": "lng_nationality_israel",
+    "en": "Israeli"
+  },
+  {
+    "id": "2283",
+    "k": "lng_nationality_ivorycoast",
+    "en": "Ivorian"
+  },
+  {
+    "id": "2284",
+    "k": "lng_nationality_jamaica",
+    "en": "Jamaican"
+  },
+  {
+    "id": "2285",
+    "k": "lng_nationality_japan",
+    "en": "Japanese"
+  },
+  {
+    "id": "2286",
+    "k": "lng_nationality_jordan",
+    "en": "Jordanian"
+  },
+  {
+    "id": "2287",
+    "k": "lng_nationality_kenya",
+    "en": "Kenyan"
+  },
+  {
+    "id": "2288",
+    "k": "lng_nationality_kuwait",
+    "en": "Kuwaiti"
+  },
+  {
+    "id": "2289",
+    "k": "lng_nationality_label",
+    "en": "Country/Region"
+  },
+  {
+    "id": "2290",
+    "k": "lng_nationality_latvia",
+    "en": "Latvian"
+  },
+  {
+    "id": "2291",
+    "k": "lng_nationality_lithuania",
+    "en": "Lithuanian"
+  },
+  {
+    "id": "2292",
+    "k": "lng_nationality_luxemburg",
+    "en": "Luxembourger"
+  },
+  {
+    "id": "2293",
+    "k": "lng_nationality_malaysia",
+    "en": "Malaisie"
+  },
+  {
+    "id": "2294",
+    "k": "lng_nationality_malaysia",
+    "en": "Malaysian"
+  },
+  {
+    "id": "2295",
+    "k": "lng_nationality_mexico",
+    "en": "Mexican"
+  },
+  {
+    "id": "2296",
+    "k": "lng_nationality_monaco",
+    "en": "Monégasque"
+  }
+]

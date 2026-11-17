@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "5157",
+    "k": "lng_br_mp_stPos3_licensedName_Tanak_001",
+    "en": "and Tänak"
+  },
+  {
+    "id": "5158",
+    "k": "lng_br_mp_stPos3_licensedName_Turkkan_001",
+    "en": "and, Turkkan"
+  },
+  {
+    "id": "5159",
+    "k": "lng_br_mp_stPos3_licensedName_VIITANEN_001",
+    "en": "VIITANEN"
+  },
+  {
+    "id": "5160",
+    "k": "lng_br_mp_stPos3_licensedName_Veiby_001",
+    "en": "and Veiby"
+  },
+  {
+    "id": "5161",
+    "k": "lng_br_mp_stPos3_licensedName_Virves_001",
+    "en": "and Virves"
+  },
+  {
+    "id": "5162",
+    "k": "lng_br_mp_stPos3_licensedName_Vossen_001",
+    "en": "and, Vossen"
+  },
+  {
+    "id": "5163",
+    "k": "lng_br_mp_stPos3_licensedName_YAMAMOTO_001",
+    "en": "and, YAMAMOTO"
+  },
+  {
+    "id": "5164",
+    "k": "lng_br_mp_stPos3_licensedName_Zaldivar_001",
+    "en": "and, Zaldivar"
+  },
+  {
+    "id": "5165",
+    "k": "lng_br_mp_stPos3_licensedName_cachon_001",
+    "en": "and, Cachon"
+  },
+  {
+    "id": "5166",
+    "k": "lng_br_mp_stPos3_licensedName_keferbock_001",
+    "en": "and, Keferböck"
+  },
+  {
+    "id": "5167",
+    "k": "lng_br_mp_stPos3_nickname_Ace_001",
+    "en": "and Ace"
+  },
+  {
+    "id": "5168",
+    "k": "lng_br_mp_stPos3_nickname_Aero_001",
+    "en": "and Aero"
+  },
+  {
+    "id": "5169",
+    "k": "lng_br_mp_stPos3_nickname_AsphaltArtist_001",
+    "en": "and The Asphalt Artist"
+  },
+  {
+    "id": "5170",
+    "k": "lng_br_mp_stPos3_nickname_Banjo_001",
+    "en": "and Banjo"
+  },
+  {
+    "id": "5171",
+    "k": "lng_br_mp_stPos3_nickname_Bird_001",
+    "en": "and Bird"
+  },
+  {
+    "id": "5172",
+    "k": "lng_br_mp_stPos3_nickname_BlackMamba_001",
+    "en": "and Black Mamba"
+  },
+  {
+    "id": "5173",
+    "k": "lng_br_mp_stPos3_nickname_Blaze_001",
+    "en": "and Blaze"
+  },
+  {
+    "id": "5174",
+    "k": "lng_br_mp_stPos3_nickname_Bloggs_001",
+    "en": "and Bloggs"
+  },
+  {
+    "id": "5175",
+    "k": "lng_br_mp_stPos3_nickname_Blue_001",
+    "en": "and Blue"
+  },
+  {
+    "id": "5176",
+    "k": "lng_br_mp_stPos3_nickname_Bombshell_001",
+    "en": "and Bombshell"
+  },
+  {
+    "id": "5177",
+    "k": "lng_br_mp_stPos3_nickname_Bulldog_001",
+    "en": "and Bulldog"
+  },
+  {
+    "id": "5178",
+    "k": "lng_br_mp_stPos3_nickname_Captain_001",
+    "en": "and The Captain"
+  },
+  {
+    "id": "5179",
+    "k": "lng_br_mp_stPos3_nickname_Cowboy_001",
+    "en": "and Cowboy"
+  },
+  {
+    "id": "5180",
+    "k": "lng_br_mp_stPos3_nickname_Crash_001",
+    "en": "and Crash"
+  },
+  {
+    "id": "5181",
+    "k": "lng_br_mp_stPos3_nickname_Dice_001",
+    "en": "and Dice"
+  },
+  {
+    "id": "5182",
+    "k": "lng_br_mp_stPos3_nickname_Doc_001",
+    "en": "and Doc"
+  },
+  {
+    "id": "5183",
+    "k": "lng_br_mp_stPos3_nickname_Domino_001",
+    "en": "and Domino"
+  },
+  {
+    "id": "5184",
+    "k": "lng_br_mp_stPos3_nickname_Doughnut_001",
+    "en": "and Doughnut"
+  },
+  {
+    "id": "5185",
+    "k": "lng_br_mp_stPos3_nickname_Dynamo_001",
+    "en": "and Dynamo"
+  },
+  {
+    "id": "5186",
+    "k": "lng_br_mp_stPos3_nickname_Eagle_001",
+    "en": "and Eagle"
+  },
+  {
+    "id": "5187",
+    "k": "lng_br_mp_stPos3_nickname_ElMaestro_001",
+    "en": "and El Maestro"
+  },
+  {
+    "id": "5188",
+    "k": "lng_br_mp_stPos3_nickname_ElMatador_001",
+    "en": "and El Matador"
+  },
+  {
+    "id": "5189",
+    "k": "lng_br_mp_stPos3_nickname_Emperor_001",
+    "en": "and Emperor"
+  },
+  {
+    "id": "5190",
+    "k": "lng_br_mp_stPos3_nickname_Empress_001",
+    "en": "and Empress"
+  },
+  {
+    "id": "5191",
+    "k": "lng_br_mp_stPos3_nickname_Engineer_001",
+    "en": "and The Engineer"
+  },
+  {
+    "id": "5192",
+    "k": "lng_br_mp_stPos3_nickname_Epiphany_001",
+    "en": "and Epiphany"
+  },
+  {
+    "id": "5193",
+    "k": "lng_br_mp_stPos3_nickname_Falcon_001",
+    "en": "and Falcon"
+  },
+  {
+    "id": "5194",
+    "k": "lng_br_mp_stPos3_nickname_Firestarter_001",
+    "en": "and Firestarter"
+  },
+  {
+    "id": "5195",
+    "k": "lng_br_mp_stPos3_nickname_Flawless_001",
+    "en": "and Flawless"
+  },
+  {
+    "id": "5196",
+    "k": "lng_br_mp_stPos3_nickname_FlyingFinn_001",
+    "en": "and The Flying Finn"
+  },
+  {
+    "id": "5197",
+    "k": "lng_br_mp_stPos3_nickname_Frostbite_001",
+    "en": "and Frostbite"
+  },
+  {
+    "id": "5198",
+    "k": "lng_br_mp_stPos3_nickname_Frosty_001",
+    "en": "and Frosty"
+  },
+  {
+    "id": "5199",
+    "k": "lng_br_mp_stPos3_nickname_Goat_001",
+    "en": "and The Goat"
+  },
+  {
+    "id": "5200",
+    "k": "lng_br_mp_stPos3_nickname_GoldenBoy_001",
+    "en": "and Golden Boy"
+  },
+  {
+    "id": "5201",
+    "k": "lng_br_mp_stPos3_nickname_GoldenGirl_001",
+    "en": "and Golden Girl"
+  },
+  {
+    "id": "5202",
+    "k": "lng_br_mp_stPos3_nickname_Goose_001",
+    "en": "and Goose"
+  },
+  {
+    "id": "5203",
+    "k": "lng_br_mp_stPos3_nickname_Governor_001",
+    "en": "and The Governor"
+  },
+  {
+    "id": "5204",
+    "k": "lng_br_mp_stPos3_nickname_GravelGuru_001",
+    "en": "and The Gravel Guru"
+  },
+  {
+    "id": "5205",
+    "k": "lng_br_mp_stPos3_nickname_GrimReaper_001",
+    "en": "and Grim Reaper"
+  },
+  {
+    "id": "5206",
+    "k": "lng_br_mp_stPos3_nickname_Hawk_001",
+    "en": "and Hawk"
+  },
+  {
+    "id": "5207",
+    "k": "lng_br_mp_stPos3_nickname_Hollywood_001",
+    "en": "and Hollywood"
+  },
+  {
+    "id": "5208",
+    "k": "lng_br_mp_stPos3_nickname_Iceman_001",
+    "en": "and Iceman"
+  },
+  {
+    "id": "5209",
+    "k": "lng_br_mp_stPos3_nickname_Icewoman_001",
+    "en": "and Icewoman"
+  },
+  {
+    "id": "5210",
+    "k": "lng_br_mp_stPos3_nickname_Ironclad_001",
+    "en": "and Ironclad"
+  },
+  {
+    "id": "5211",
+    "k": "lng_br_mp_stPos3_nickname_Jammy_001",
+    "en": "and Jammy"
+  },
+  {
+    "id": "5212",
+    "k": "lng_br_mp_stPos3_nickname_Jester_001",
+    "en": "and Jester"
+  },
+  {
+    "id": "5213",
+    "k": "lng_br_mp_stPos3_nickname_Jet_001",
+    "en": "and Jet"
+  },
+  {
+    "id": "5214",
+    "k": "lng_br_mp_stPos3_nickname_Joker_001",
+    "en": "and Joker"
+  },
+  {
+    "id": "5215",
+    "k": "lng_br_mp_stPos3_nickname_Jungle_001",
+    "en": "and Jungle"
+  },
+  {
+    "id": "5216",
+    "k": "lng_br_mp_stPos3_nickname_King_001",
+    "en": "and The King"
+  },
+  {
+    "id": "5217",
+    "k": "lng_br_mp_stPos3_nickname_LaMaestro_001",
+    "en": "and La Maestro"
+  },
+  {
+    "id": "5218",
+    "k": "lng_br_mp_stPos3_nickname_LaMatador_001",
+    "en": "and La Matador"
+  },
+  {
+    "id": "5219",
+    "k": "lng_br_mp_stPos3_nickname_Lightning_001",
+    "en": "and Lightning"
+  },
+  {
+    "id": "5220",
+    "k": "lng_br_mp_stPos3_nickname_Lucky_001",
+    "en": "and Lucky"
+  },
+  {
+    "id": "5221",
+    "k": "lng_br_mp_stPos3_nickname_Mango_001",
+    "en": "and Mango"
+  },
+  {
+    "id": "5222",
+    "k": "lng_br_mp_stPos3_nickname_Maverick_001",
+    "en": "and Maverick"
+  },
+  {
+    "id": "5223",
+    "k": "lng_br_mp_stPos3_nickname_Mayhem_001",
+    "en": "and Mayhem"
+  },
+  {
+    "id": "5224",
+    "k": "lng_br_mp_stPos3_nickname_Midas_001",
+    "en": "and Midas"
+  },
+  {
+    "id": "5225",
+    "k": "lng_br_mp_stPos3_nickname_Mongoose_001",
+    "en": "and Mongoose"
+  },
+  {
+    "id": "5226",
+    "k": "lng_br_mp_stPos3_nickname_MrMonte_001",
+    "en": "and Mr Monte "
+  },
+  {
+    "id": "5227",
+    "k": "lng_br_mp_stPos3_nickname_MsMonte_001",
+    "en": "and Ms Monte "
+  },
+  {
+    "id": "5228",
+    "k": "lng_br_mp_stPos3_nickname_MxMonte_001",
+    "en": "and Mx Monte "
+  },
+  {
+    "id": "5229",
+    "k": "lng_br_mp_stPos3_nickname_Nitro_001",
+    "en": "and Nitro"
+  },
+  {
+    "id": "5230",
+    "k": "lng_br_mp_stPos3_nickname_OldTimer_001",
+    "en": "and Old Timer"
+  },
+  {
+    "id": "5231",
+    "k": "lng_br_mp_stPos3_nickname_Outlaw_001",
+    "en": "and Outlaw"
+  },
+  {
+    "id": "5232",
+    "k": "lng_br_mp_stPos3_nickname_Phoenix_001",
+    "en": "and Phoenix"
+  },
+  {
+    "id": "5233",
+    "k": "lng_br_mp_stPos3_nickname_Piston_001",
+    "en": "and Piston"
+  },
+  {
+    "id": "5234",
+    "k": "lng_br_mp_stPos3_nickname_Pro_001",
+    "en": "and Pro "
+  },
+  {
+    "id": "5235",
+    "k": "lng_br_mp_stPos3_nickname_Professor_001",
+    "en": "and The Professor"
+  },
+  {
+    "id": "5236",
+    "k": "lng_br_mp_stPos3_nickname_Queen_001",
+    "en": "and Queen"
+  },
+  {
+    "id": "5237",
+    "k": "lng_br_mp_stPos3_nickname_Rainmaster_001",
+    "en": "and Rainmaster"
+  },
+  {
+    "id": "5238",
+    "k": "lng_br_mp_stPos3_nickname_RealDeal_001",
+    "en": "and Real Deal"
+  },
+  {
+    "id": "5239",
+    "k": "lng_br_mp_stPos3_nickname_Red_001",
+    "en": "and Red"
+  },
+  {
+    "id": "5240",
+    "k": "lng_br_mp_stPos3_nickname_Riveter_001",
+    "en": "and The Riveter"
+  },
+  {
+    "id": "5241",
+    "k": "lng_br_mp_stPos3_nickname_Rocketman_001",
+    "en": "and Rocketman"
+  },
+  {
+    "id": "5242",
+    "k": "lng_br_mp_stPos3_nickname_Rookie_001",
+    "en": "and The Rookie"
+  },
+  {
+    "id": "5243",
+    "k": "lng_br_mp_stPos3_nickname_Rose_001",
+    "en": "and Rose"
+  },
+  {
+    "id": "5244",
+    "k": "lng_br_mp_stPos3_nickname_Scientist_001",
+    "en": "and The Scientist"
+  },
+  {
+    "id": "5245",
+    "k": "lng_br_mp_stPos3_nickname_Shrub_001",
+    "en": "and Shrub"
+  },
+  {
+    "id": "5246",
+    "k": "lng_br_mp_stPos3_nickname_Skip_001",
+    "en": "and Skip"
+  },
+  {
+    "id": "5247",
+    "k": "lng_br_mp_stPos3_nickname_SnowSpecialist_001",
+    "en": "and The Snow Specialist"
+  },
+  {
+    "id": "5248",
+    "k": "lng_br_mp_stPos3_nickname_Sparkles_001",
+    "en": "and Sparkles"
+  },
+  {
+    "id": "5249",
+    "k": "lng_br_mp_stPos3_nickname_Sparrow_001",
+    "en": "and Sparrow"
+  },
+  {
+    "id": "5250",
+    "k": "lng_br_mp_stPos3_nickname_Spectre_001",
+    "en": "and Spectre"
+  },
+  {
+    "id": "5251",
+    "k": "lng_br_mp_stPos3_nickname_Sunshine_001",
+    "en": "and Sunshine"
+  },
+  {
+    "id": "5252",
+    "k": "lng_br_mp_stPos3_nickname_SurferGirl_001",
+    "en": "and Surfer Girl"
+  },
+  {
+    "id": "5253",
+    "k": "lng_br_mp_stPos3_nickname_Surferboy_001",
+    "en": "and Surfer Boy"
+  },
+  {
+    "id": "5254",
+    "k": "lng_br_mp_stPos3_nickname_Tempest_001",
+    "en": "and Tempest"
+  },
+  {
+    "id": "5255",
+    "k": "lng_br_mp_stPos3_nickname_Tiger_001",
+    "en": "and Tiger"
+  },
+  {
+    "id": "5256",
+    "k": "lng_br_mp_stPos3_nickname_Torpedo_001",
+    "en": "and Torpedo"
+  },
+  {
+    "id": "5257",
+    "k": "lng_br_mp_stPos3_nickname_Turbo_001",
+    "en": "and Turbo"
+  },
+  {
+    "id": "5258",
+    "k": "lng_br_mp_stPos3_nickname_Turtle_001",
+    "en": "and Turtle"
+  },
+  {
+    "id": "5259",
+    "k": "lng_br_mp_stPos3_nickname_Underdog_001",
+    "en": "and the Underdog"
+  },
+  {
+    "id": "5260",
+    "k": "lng_br_mp_stPos3_nickname_Unicorn_001",
+    "en": "and Unicorn"
+  },
+  {
+    "id": "5261",
+    "k": "lng_br_mp_stPos3_nickname_Viking_001",
+    "en": "and Viking"
+  },
+  {
+    "id": "5262",
+    "k": "lng_br_mp_stPos3_nickname_Wheels_001",
+    "en": "and Wheels"
+  },
+  {
+    "id": "5263",
+    "k": "lng_br_mp_stPos3_nickname_Woodchopper_001",
+    "en": "and Woodchopper"
+  },
+  {
+    "id": "5264",
+    "k": "lng_br_mp_st_int_1st_001",
+    "en": "And here we go, the first rally of the event for this pairing, the fans are ready for some action, and this crew will be looking to settle into their rhythm for the event."
+  },
+  {
+    "id": "5265",
+    "k": "lng_br_mp_st_int_1st_001_rally",
+    "en": "And here we go, the first stage for this pairing, the fans are ready for some action, and this crew will be looking to settle into their rhythm for the event."
+  },
+  {
+    "id": "5266",
+    "k": "lng_br_mp_st_int_1st_002_rally",
+    "en": "Here we are, this crew are ready and raring for their first stage of the event. These two will be looking to set a fast but controlled time here to start the day off strongly."
+  },
+  {
+    "id": "5267",
+    "k": "lng_br_mp_st_int_1st_003",
+    "en": "Well, these two are getting ready to start their rally here, and they will be hoping to get this first stage under their belts comfortably to settle them in for the day."
+  },
+  {
+    "id": "5268",
+    "k": "lng_br_mp_st_int_1st_003_rally",
+    "en": "Well, these two are getting ready to start their event here, and they will be hoping to get this first stage under their belts comfortably to settle them in for the day."
+  },
+  {
+    "id": "5269",
+    "k": "lng_br_mp_st_int_1st_004",
+    "en": "It is almost time now for the crew of this car to get underway on their first stage of the rally. Let’s see what they can do."
+  },
+  {
+    "id": "5270",
+    "k": "lng_br_mp_st_int_1st_004_rally",
+    "en": "It's almost time now for the crew of this car to get underway on their first stage of the event. Let’s see what they can do."
+  },
+  {
+    "id": "5271",
+    "k": "lng_br_mp_st_int_1st_005",
+    "en": "Hopefully the nerves have settled for these two as they get ready to put themselves, and their car to test on the first stage of the rally."
+  },
+  {
+    "id": "5272",
+    "k": "lng_br_mp_st_int_1st_005_rally",
+    "en": "Hopefully the nerves have settled for these two as they get ready to put themselves, and their car to test on the first stage of the event"
+  },
+  {
+    "id": "5273",
+    "k": "lng_br_mp_st_int_1st_006",
+    "en": "Well, it's the opening stage of the rally and I'm sure this pair will be looking to find good some pace right from the start, so let’s see how they get on."
+  },
+  {
+    "id": "5274",
+    "k": "lng_br_mp_st_int_1st_006_rally",
+    "en": "Well, it's the opening stage of the event and I'm sure this pair will be looking to find some good pace right from the start, so let’s see how they get on."
+  },
+  {
+    "id": "5275",
+    "k": "lng_br_mp_st_int_1st_007",
+    "en": "The first stage of the rally is here, and this crew are poised, ready to send their car thundering into the event. Let's see what this initial run has in store for them. "
+  },
+  {
+    "id": "5276",
+    "k": "lng_br_mp_st_int_1st_008",
+    "en": "This crew is ready, their car is ready, and the first stage is beckoning before them. Will they be able to set themselves in good stead for the rest of the rally? We'll see, as the event is about to begin. "
+  },
+  {
+    "id": "5277",
+    "k": "lng_br_mp_st_int_1st_009",
+    "en": "The pressure and excitment is building here, as the crews prepare for the start of the rally. Goals and ambitions can be realised, or broken, in a matter of minutes and none of these teams will be wanting to crash out on the first stage. "
+  },
+  {
+    "id": "5278",
+    "k": "lng_br_mp_st_int_1st_010",
+    "en": "The revving engines and cheering crowds are creating an incredible atmosphere for the start of this rally! Hopefully the crew lining up at the start now will hold their nerve as they launch down the first stage and into the rest of the event. "
+  },
+  {
+    "id": "5279",
+    "k": "lng_br_mp_st_int_last_002",
+    "en": "What a thrilling event it has been so far, but we are now here at the final stage, where it can still be all lost or won."
+  },
+  {
+    "id": "5280",
+    "k": "lng_br_mp_st_int_last_003",
+    "en": "Here we go then, the final stage of a rip-roaring event. Getting through this one cleanly and quickly can have huge ramifications on the overall results."
+  },
+  {
+    "id": "5281",
+    "k": "lng_br_mp_st_int_last_004",
+    "en": "So, into the final stage of the event now. This can make or break a crew’s ambitions for the podium, so let’s see if this pairing have what it takes to get through cleanly."
+  },
+  {
+    "id": "5282",
+    "k": "lng_br_mp_st_int_last_005",
+    "en": "Well, it's been a brilliant show of driving so far in this event, and we are now at the final stage for these crews. Who will come out on top? Let's wait and see."
+  },
+  {
+    "id": "5283",
+    "k": "lng_br_mp_st_int_last_006",
+    "en": "The final stage of the event is coming up now. A nice balance of pace and caution is needed here, the last thing these crews want to do is lose a position now."
+  },
+  {
+    "id": "5284",
+    "k": "lng_br_mp_st_int_last_007",
+    "en": "Here we go, the last stage and the last chance for the crews to improve their standing. Will they roll the dice with a daring run, or see themselves carefully through to the end? "
+  },
+  {
+    "id": "5285",
+    "k": "lng_br_mp_st_int_last_008",
+    "en": "The final stage of the rally stretches out before the competitors, and they will surely be wondering how best to tackle this drive. Will there be any last minute suprises in this event? Lets find out."
+  },
+  {
+    "id": "5286",
+    "k": "lng_br_mp_st_int_last_009",
+    "en": "One more stage, and one more chance to gamble for glory. Will the crews push hard, or play it safe? "
+  },
+  {
+    "id": "5287",
+    "k": "lng_br_mp_st_int_last_010",
+    "en": "We've reached the climax of this rally now as the last stage is all that stands between the crews and their final standings. This last stretch of driving could make or break any of these crews ambitions. "
+  },
+  {
+    "id": "5288",
+    "k": "lng_br_mp_st_int_long_001",
+    "en": "A real endurance test for the crews now, as one of the longest stages at this event is up next. Let’s see how if they have the focus to keep on pace."
+  },
+  {
+    "id": "5289",
+    "k": "lng_br_mp_st_int_long_002",
+    "en": "We are heading into one of the longer stages of the event, so plenty of distance available to gain an advantage."
+  },
+  {
+    "id": "5290",
+    "k": "lng_br_mp_st_int_long_003",
+    "en": "The longer stages require from our drivers, a focused mind to hit corner after corner after corner and maintain their pace."
+  },
+  {
+    "id": "5291",
+    "k": "lng_br_mp_st_int_long_004",
+    "en": "The crews will have put in extra effort into the planning stage here, as this longer stage will punish any team that haven't tended to their car’s setup."
+  },
+  {
+    "id": "5292",
+    "k": "lng_br_mp_st_int_long_005",
+    "en": "So, a longer stage for our crews. Getting in the zone early and keeping a smooth flow could just be the deciding factor on this one."
+  },
+  {
+    "id": "5293",
+    "k": "lng_br_mp_st_int_long_006",
+    "en": "Speed and focus is needed on this stage, and that focus needs to remain locked in for the duration of this lengthy route."
+  },
+  {
+    "id": "5294",
+    "k": "lng_br_mp_st_int_long_007",
+    "en": "The prospect of this long stage will be well and truly in the minds of this crew now, as over 20km of stage stretches out before them. Let's see if they can come out unscathed and on top. "
+  },
+  {
+    "id": "5295",
+    "k": "lng_br_mp_st_int_long_008",
+    "en": "Over 20km of stage will be a daunting prospect for any crew as they sit on the start line for this long stage. Will they be able to handle the pressure and finsh the stage with a strong time for the leaderboard? "
+  },
+  {
+    "id": "5296",
+    "k": "lng_br_mp_st_int_med_001",
+    "en": "A medium length stage now, a nice balance of consistency and speed is needed from the crews in order to manage their tires and their time."
+  },
+  {
+    "id": "5297",
+    "k": "lng_br_mp_st_int_med_001",
+    "en": "A medium length stage now, a nice balance of consistency and speed is needed from the crews in order to manage their tyres and their time."
+  },
+  {
+    "id": "5298",
+    "k": "lng_br_mp_st_int_med_003",
+    "en": "And onto a medium length stage now, fatigue won't be an issue for our drivers on this one as they use the extra distance to really find that pace."
+  },
+  {
+    "id": "5299",
+    "k": "lng_br_mp_st_int_med_004",
+    "en": "It's not the longest stage we will see during this event, so we can expect to see our crews tackle this one with confidence."
+  },
+  {
+    "id": "5300",
+    "k": "lng_br_mp_st_int_med_006",
+    "en": "Our crews now look to take on this medium length stage, plenty of time to find a rhythm and keep the pace as fast as they dare."
+  },
+  {
+    "id": "5301",
+    "k": "lng_br_mp_st_int_med_007",
+    "en": "This crew are on the start line for a mid legnth stage now. It should provide plenty of opportunity for them to find their rhythm and get ahead of thier rivals. "
+  },
+  {
+    "id": "5302",
+    "k": "lng_br_mp_st_int_med_008",
+    "en": "It's time for a stage of medium distance for this crew, as their car takes it's position on the start line. Let's see how they fare against their opposition. "
+  },
+  {
+    "id": "5303",
+    "k": "lng_br_mp_st_int_mix_surf_002",
+    "en": "The challenge from this stage really comes from the numerous surface transitions, each offering a different level of grip and stability."
+  },
+  {
+    "id": "5304",
+    "k": "lng_br_mp_st_int_mix_surf_005",
+    "en": "This location has to be one of the more technically demanding on the calendar, with frequent surface transitions drivers must have a good level of experience across everything on offer."
+  },
+  {
+    "id": "5305",
+    "k": "lng_br_mp_st_int_mix_surf_006",
+    "en": "The recce for this stage will have been very thorough, with our crews having to be acutely aware of the changing surface types they will encounter."
+  },
+  {
+    "id": "5306",
+    "k": "lng_br_mp_st_int_powerp_WRC1_001",
+    "en": "To the powerstage for this event now where additional points will be available to drivers who place well in today's final.  "
+  },
+  {
+    "id": "5307",
+    "k": "lng_br_mp_st_int_powerp_WRC1_002",
+    "en": "Here we are then, the final stage for this rally where those potentially game-changing powerstage points are all up for grabs."
+  },
+  {
+    "id": "5308",
+    "k": "lng_br_mp_st_int_powerp_WRC1_003",
+    "en": "Final stage now then, and our drivers will be putting their all into this one! They'll be looking to secure those high places on this powerstage to be awarded some of those extra points."
+  },
+  {
+    "id": "5309",
+    "k": "lng_br_mp_st_int_powerp_WRC1_004",
+    "en": "We are down to the last run of this rally where teams are gearing up to make the most of this powerstage and to potentially score some additional points. "
+  },
+  {
+    "id": "5310",
+    "k": "lng_br_mp_st_int_powerp_WRC1_005",
+    "en": "The powerstage for this event then, the teams are prepping for an eventful finale and I'm sure they'll all be vying for those high places and those  extra points."
+  },
+  {
+    "id": "5311",
+    "k": "lng_br_mp_st_int_reg_1st_001",
+    "en": "And here we go, the first stage of the event for this pairing, the fans are ready for some action, and this crew will be looking to settle into their rhythm for the event."
+  },
+  {
+    "id": "5312",
+    "k": "lng_br_mp_st_int_reg_1st_002",
+    "en": "Well, these two are getting ready to start their event here, and they will be hoping to get this first stage under their belts comfortably to settle them into the day."
+  },
+  {
+    "id": "5313",
+    "k": "lng_br_mp_st_int_reg_1st_003",
+    "en": "It is almost time now for the crew of this car to get underway on their first stage of the event. Let’s see what they can do."
+  },
+  {
+    "id": "5314",
+    "k": "lng_br_mp_st_int_reg_1st_004",
+    "en": "Hopefully the nerves have settled for these two as they get ready to put themselves, and their car to test on the first stage of this event."
+  },
+  {
+    "id": "5315",
+    "k": "lng_br_mp_st_int_reg_last_001",
+    "en": "There has been a plethora of excitement and talent on show here, and as we now move into the final stage of the event, it could all still be to play for."
+  },
+  {
+    "id": "5316",
+    "k": "lng_br_mp_st_int_reg_long_002",
+    "en": "We are heading now into one of the longer stages of the event, so plenty of distance available to gain an advantage."
+  },
+  {
+    "id": "5317",
+    "k": "lng_br_mp_st_int_reg_long_005",
+    "en": "So, a longer stage for our crews. Getting in the zone early and keeping a smooth flow down the stage could just be the deciding factor on this one."
+  },
+  {
+    "id": "5318",
+    "k": "lng_br_mp_st_int_reg_med_001",
+    "en": "So, a medium length stage here now, plenty of distance to really bed in, and get the feel for the conditions."
+  },
+  {
+    "id": "5319",
+    "k": "lng_br_mp_st_int_reg_med_003",
+    "en": "Well, it may not be the longest stage in this event, and it's still a drive that demands consistency, and total concentration to make the most of."
+  },
+  {
+    "id": "5320",
+    "k": "lng_br_mp_st_int_reg_mix_surf_001",
+    "en": "Our drivers will have to watch out for the surface transitions on this stage, as they are abundant. Each surface requiring a different set of skills to guide the car through."
+  },
+  {
+    "id": "5321",
+    "k": "lng_br_mp_st_int_reg_mix_surf_003",
+    "en": "Our drivers need to be really tuned into this stage, and the variety of surfaces to deal with, anyone with less experience in dealing with those surface transitions will be found out!"
+  },
+  {
+    "id": "5322",
+    "k": "lng_br_mp_st_int_reg_mix_surf_004",
+    "en": "A very challenging location here, with no one particular surface to really settle in to, this is all about testing your ability to find the grip level and adapt!"
+  },
+  {
+    "id": "5323",
+    "k": "lng_br_mp_st_int_reg_mix_surf_005",
+    "en": "This location has to be one of the more technically demanding on the calendar, with frequent surface transitions drivers must have a good level of experience across everything on offer out there."
+  },
+  {
+    "id": "5324",
+    "k": "lng_br_mp_st_int_reg_mix_surf_006",
+    "en": "The recce on this stage will have been very thorough, with our crews having to be acutely aware of the changing surface types they will encounter."
+  },
+  {
+    "id": "5325",
+    "k": "lng_br_mp_st_int_reg_serv_abv_50_003",
+    "en": "This crew will be saying \"Let’s just get this one over with\", this has to be a no risks taken drive or that car might not make it to service."
+  },
+  {
+    "id": "5326",
+    "k": "lng_br_mp_st_int_reg_serv_abv_50_004",
+    "en": "This car has been in a couple of pretty serious knocks, so the upcoming service at the end of this stage should hopefully allow them to fix some of the more pressing issues."
+  },
+  {
+    "id": "5327",
+    "k": "lng_br_mp_st_int_reg_serv_abv_50_005",
+    "en": "Well, you only have to take a glance at this car to see it is in desperate need of a trouble-free run to the end of this stage in order to reach the service."
+  },
+  {
+    "id": "5328",
+    "k": "lng_br_mp_st_int_reg_serv_bel_15_001",
+    "en": "This is the last stage before service, and this crews’ engineers will be happy as it looks as though there's barely a scratch on the vehicle!"
+  },
+  {
+    "id": "5329",
+    "k": "lng_br_mp_st_int_reg_serv_bel_15_002",
+    "en": "Just this stage to complete before service, and as long as this crew don't have any issues on this stage, it looks like minimal repairs will be needed."
+  },
+  {
+    "id": "5330",
+    "k": "lng_br_mp_st_int_reg_serv_bel_15_003",
+    "en": "This crew is having a fantastic run so far, with a service coming up it looks like they will have plenty of time left over once any small repairs are made."
+  },
+  {
+    "id": "5331",
+    "k": "lng_br_mp_st_int_reg_serv_bel_15_004",
+    "en": "Heading into a service at the end of this stage, so, as long as this crew can look after the car, they should need minimal repairs."
+  },
+  {
+    "id": "5332",
+    "k": "lng_br_mp_st_int_reg_serv_bel_50_001",
+    "en": "We're heading into the last stage before service now, I'm sure the crew of the vehicle in shot will be glad for the rest."
+  },
+  {
+    "id": "5333",
+    "k": "lng_br_mp_st_int_reg_serv_bel_50_002",
+    "en": "A much-needed service coming up now, and this crew seem to have picked up one or two issues over the previous stages, they will want to avoid any hard knocks out there."
+  },
+  {
+    "id": "5334",
+    "k": "lng_br_mp_st_int_reg_serv_bel_50_003",
+    "en": "Just this stage to complete until the next service, and this car will certainly need some attention, the engineers I'm sure already prepping to maximise the available time."
+  },
+  {
+    "id": "5335",
+    "k": "lng_br_mp_st_int_reg_serv_bel_50_004",
+    "en": "Well, a service is within sight, and not only is it of benefit to the car, allowing much needed repairs, but the driver and co-driver can regroup, and prepare for the next stage."
+  },
+  {
+    "id": "5336",
+    "k": "lng_br_mp_st_int_reg_serv_bel_50_005",
+    "en": "This crew will be dead set on making it through this stage unscathed, and they will want not to want to add any more repairs to the fix list for the upcoming service"
+  },
+  {
+    "id": "5337",
+    "k": "lng_br_mp_st_int_reg_serv_bel_50_006",
+    "en": "The last stage before service, and this crew will be looking to keep it smooth and steady to keep repair time down."
+  },
+  {
+    "id": "5338",
+    "k": "lng_br_mp_st_int_reg_serv_fullRep_001",
+    "en": "Well, it looks as though the engineers have done a brilliant job with this car. Looks like it’s just come out of the factory as they head up to the start line. A productive service indeed."
+  },
+  {
+    "id": "5339",
+    "k": "lng_br_mp_st_int_reg_serv_fullRep_002",
+    "en": "It must've been a productive service for the engineers of this crew, the car looks in almost perfect condition. Let's see if their performance on this next stage can match it."
+  },
+  {
+    "id": "5340",
+    "k": "lng_br_mp_st_int_reg_serv_fullRep_004",
+    "en": "Now, there's a team that work together, having a fully repaired car roll out on to the stage can be a luxury, but they have made sure of it!"
+  },
+  {
+    "id": "5341",
+    "k": "lng_br_mp_st_int_reg_serv_nopen_001",
+    "en": "Coming out of service now, and this crew will be hoping that was time and effort well spent. Have they got the most critical issues under control?"
+  },
+  {
+    "id": "5342",
+    "k": "lng_br_mp_st_int_reg_serv_nopen_005",
+    "en": "That’s service done, and now on with the show. It looks like this crew has had a productive session, let’s see how that translates out on the next stage."
+  },
+  {
+    "id": "5343",
+    "k": "lng_br_mp_st_int_reg_serv_timeRepPen_001",
+    "en": "The car currently lining up was a little late to the line following service. I'm sure the marshals will have something to say about that, and there may be a penalty involved."
+  },
+  {
+    "id": "5344",
+    "k": "lng_br_mp_st_int_reg_serv_timeRepPen_005",
+    "en": "It looks as though it was a tricky service for the engineers of this crew, as they are late the start line. There may be a penalty involved as a result."
+  },
+  {
+    "id": "5345",
+    "k": "lng_br_mp_st_int_reg_techHigh7_001",
+    "en": "This next stage is one of the most mentally demanding and technical stages in this event, let’s see how the drivers tackle the upcoming challenge."
+  },
+  {
+    "id": "5346",
+    "k": "lng_br_mp_st_int_reg_techLow3_001",
+    "en": "Well, it doesn't rank highly in terms of technicality, but our crews do not want to be caught sleeping, because stages like these can still catch out even the most confident of drivers."
+  },
+  {
+    "id": "5347",
+    "k": "lng_br_mp_st_int_reg_techLow3_003",
+    "en": "High speed but low on the technical side in this upcoming stage, but there's still plenty that will punish the crews for making a mistake. Staying switched on, and fully in the moment is a must."
+  },
+  {
+    "id": "5348",
+    "k": "lng_br_mp_st_int_regrally_gen_001",
+    "en": "Let's get going then into the first stage of this Reg Rally event where technical ability is everything. "
+  },
+  {
+    "id": "5349",
+    "k": "lng_br_mp_st_int_regrally_gen_002",
+    "en": "Into the first stage of this Regularity Rally event then and I'm sure this pairing are more than ready to get underway."
+  },
+  {
+    "id": "5350",
+    "k": "lng_br_mp_st_int_regrally_gen_003",
+    "en": "This crew look to be ready to throw themselves into their first run of today's Regularity Rally. "
+  },
+  {
+    "id": "5351",
+    "k": "lng_br_mp_st_int_serv_abv_50_001",
+    "en": "Well, I can only imagine this pairing about to set off are itching to get through this stage and to the service beyond it. Their car is looking decidedly beaten up after a few bad knocks."
+  },
+  {
+    "id": "5352",
+    "k": "lng_br_mp_st_int_serv_abv_50_002",
+    "en": "Well, it will be a rather nervy drive for this crew, attempting to make it through to the upcoming service. Surely just finishing the stage intact is the main goal."
+  },
+  {
+    "id": "5353",
+    "k": "lng_br_mp_st_int_serv_abv_50_003",
+    "en": "I don't think we will be seeing a particularly fast time from this pairing, the car needs to make it to the upcoming service, and it's seen better days!"
+  },
+  {
+    "id": "5354",
+    "k": "lng_br_mp_st_int_serv_abv_50_007",
+    "en": "The service park is almost within sight for this crew, and I'm sure it will provide welcome relief when they get there. Just one more stage for them and their vehicle to get through now. "
+  },
+  {
+    "id": "5355",
+    "k": "lng_br_mp_st_int_serv_abv_50_008",
+    "en": "Control and durability will be just as important as pace for this crew, as they approach the last stage before service, in a car that looks like it certianly needs the attention of the mechanics. "
+  },
+  {
+    "id": "5356",
+    "k": "lng_br_mp_st_int_serv_bel_15_001",
+    "en": "This is the last stage before service, and this crews’ engineers will be happy as it looks like there's barely a scratch on the vehicle!"
+  },
+  {
+    "id": "5357",
+    "k": "lng_br_mp_st_int_serv_bel_15_002",
+    "en": "Just this stage to complete before service, and as long as this crew don't have any issues, it looks like minimal repairs will be needed."
+  },
+  {
+    "id": "5358",
+    "k": "lng_br_mp_st_int_serv_bel_15_003",
+    "en": "Well, this crew are in a great position going into the last stage before service, they've really looked after the car so repairs should be minimal."
+  },
+  {
+    "id": "5359",
+    "k": "lng_br_mp_st_int_serv_bel_15_004",
+    "en": "This crew is having a fantastic run so far, with a service coming up it looks like they will have plenty of time to complete all of their repairs."
+  },
+  {
+    "id": "5360",
+    "k": "lng_br_mp_st_int_serv_bel_15_006",
+    "en": "The wear and tear on this crew’s car looks to me to be nothing but cosmetic, so the upcoming service should be a trivial endeavour for the engineers."
+  },
+  {
+    "id": "5361",
+    "k": "lng_br_mp_st_int_serv_bel_15_007",
+    "en": "This crew's service team will be hoping they get through this stage quickly and cleanly, as this is the last before the service period."
+  },
+  {
+    "id": "5362",
+    "k": "lng_br_mp_st_int_serv_bel_15_007",
+    "en": "This crew's service team will be hoping they get through this stage quickly and cleanly, as this is the last before the service period. "
+  },
+  {
+    "id": "5363",
+    "k": "lng_br_mp_st_int_serv_bel_15_008",
+    "en": "Tyre strategy, and any maintence concerns will be on the minds of our crews, as there is just one more stage before they get to take that all important rest at the service period. "
+  },
+  {
+    "id": "5364",
+    "k": "lng_br_mp_st_int_serv_bel_50_005",
+    "en": "This crew will be dead set on making it through this stage unscathed, and they will not want to add any more repairs to the fix list for the upcoming service."
+  },
+  {
+    "id": "5365",
+    "k": "lng_br_mp_st_int_serv_bel_50_007",
+    "en": "Just one more stage before the service for this crew, and I'm sure they'll appreciate the well earned rest, and the opportunity to do maintainance and setup changes on their car."
+  },
+  {
+    "id": "5366",
+    "k": "lng_br_mp_st_int_serv_bel_50_008",
+    "en": "One more stage for this crew and they'll be able to get their car checked over by their service team. Hopefully there aren't any issues that will cause them too many problems through this stage. "
+  },
+  {
+    "id": "5367",
+    "k": "lng_br_mp_st_int_serv_fullRep_001",
+    "en": "Well, it looks as though the engineers and mechanics have done a brilliant job with this car. Looks like it’s just come out of the factory as they head up to the start line. A productive service indeed."
+  },
+  {
+    "id": "5368",
+    "k": "lng_br_mp_st_int_serv_fullRep_003",
+    "en": "Well, the engineering crew have worked wonders on that car, and that's exactly what you need, the whole team on the top of their game."
+  },
+  {
+    "id": "5369",
+    "k": "lng_br_mp_st_int_serv_fullRep_005",
+    "en": "Nothing could be sweeter for this crew than having a car come back out from a successful service, with a clean bill of health."
+  },
+  {
+    "id": "5370",
+    "k": "lng_br_mp_st_int_serv_fullRep_006",
+    "en": "Now, the car has been through service, and emerged rally ready, it up to this pair to put as much effort into keeping it race worthy throughout the upcoming stages."
+  },
+  {
+    "id": "5371",
+    "k": "lng_br_mp_st_int_serv_fullRep_007",
+    "en": "This car is gleaming as it takes it place on the start line, a well managed drive and a productive service will surely pay dividends through the rest of the rally. "
+  },
+  {
+    "id": "5372",
+    "k": "lng_br_mp_st_int_serv_fullRep_008",
+    "en": "A well used service stop for this team, as the engineers seem to do have done an excellent job in setting up the car. It almost looks factory fresh! "
+  },
+  {
+    "id": "5373",
+    "k": "lng_br_mp_st_int_serv_noPenNotFull_007",
+    "en": "Back to action now after that service period. The crews will be hoping that they've got any potential issues under control, and that they've backed the right tyre strategy."
+  },
+  {
+    "id": "5374",
+    "k": "lng_br_mp_st_int_serv_nopen_002",
+    "en": "So, service done, and back out to put the car through its paces on the stage, let’s see if they managed to get it in good shape."
+  },
+  {
+    "id": "5375",
+    "k": "lng_br_mp_st_int_serv_nopen_003",
+    "en": "That’s service done, and back out onto the stages. Let’s see if any setup changes or repairs can give this crew the edge for the rest of the event."
+  },
+  {
+    "id": "5376",
+    "k": "lng_br_mp_st_int_serv_nopen_004",
+    "en": "Well, hopefully a successful service for this crew, it's so important to maximise your time and make necessary repairs within the time limit."
+  },
+  {
+    "id": "5377",
+    "k": "lng_br_mp_st_int_serv_nopen_006",
+    "en": "It looks like a very productive service for this pairing, let’s see if they can turn in a good stage time as a result."
+  },
+  {
+    "id": "5378",
+    "k": "lng_br_mp_st_int_serv_nopen_008",
+    "en": "The service period is now over, and this crew are taking their position for the next loop of stages. If any mechanical and setup issues have been ironed out, we should hopefully see a good drive on this stage. "
+  },
+  {
+    "id": "5379",
+    "k": "lng_br_mp_st_int_serv_timeRepPen_001",
+    "en": "The car currently lining up was a bit late to the start following service. I'm sure the marshals will have something to say about that, and there may be a penalty involved."
+  },
+  {
+    "id": "5380",
+    "k": "lng_br_mp_st_int_serv_timeRepPen_002",
+    "en": "This crew over ran and look to be receiving a time penalty, they have to balance that service time better, or will suffer more penalties down the road."
+  },
+  {
+    "id": "5381",
+    "k": "lng_br_mp_st_int_serv_timeRepPen_003",
+    "en": "Running late there and could very well be handed a time penalty. I'd imagine the engineers will be planning to make sure this does not happen again."
+  },
+  {
+    "id": "5382",
+    "k": "lng_br_mp_st_int_serv_timeRepPen_004",
+    "en": "The Marshalls will be looking at this crew to see if there is a case for a time penalty, a possible breach of the time allowance will certainly mean they will serve one."
+  },
+  {
+    "id": "5383",
+    "k": "lng_br_mp_st_int_serv_timeRepPen_006",
+    "en": "It looks as though it was a tricky service for the engineers of this crew, as they are late to the start line. There may be a penalty involved as a result."
+  },
+  {
+    "id": "5384",
+    "k": "lng_br_mp_st_int_serv_timeRepPen_007",
+    "en": "Late to the start line following an intensive service period, the crew of this car will have undoubtedly suffered a penalty of some degree for that. Hopefully the work to the car will be worth it. "
+  },
+  {
+    "id": "5385",
+    "k": "lng_br_mp_st_int_serv_timeRepPen_008",
+    "en": "This vehicle was clearly in a bad way pre-service, as the crew are late to their starting spot. They'll have to hope that the penalty imposed doesn't hamper their ambitions for this event too badly. "
+  },
+  {
+    "id": "5386",
+    "k": "lng_br_mp_st_int_short_001",
+    "en": "And back to the action for one of the shorter stages now on this loop. With all still to play for, the drivers will be looking to push hard here to gain any advantage they can. "
+  },
+  {
+    "id": "5387",
+    "k": "lng_br_mp_st_int_short_002",
+    "en": "This is one of the shorter stages in the days running, so let’s see how hard this crew can push it through here and if they can gain any time."
+  },
+  {
+    "id": "5388",
+    "k": "lng_br_mp_st_int_short_003",
+    "en": "A shorter stage now, but one that is no less demanding on the crews. Setting consistently fast times on stages such as these counts for a lot in the grand scheme of the event."
+  },
+  {
+    "id": "5389",
+    "k": "lng_br_mp_st_int_short_004",
+    "en": "This crew will be tackling a short and punchy stage now, they'll have to be mindful of how hard they push, a small mistake here can mean a big loss of time in the event."
+  },
+  {
+    "id": "5390",
+    "k": "lng_br_mp_st_int_short_005",
+    "en": "A shorter stage then, but no less intense. Let’s see if this crew can balance the desire to push, with the need to stay consistent."
+  },
+  {
+    "id": "5391",
+    "k": "lng_br_mp_st_int_short_006",
+    "en": "This crew are about to tackle one of the shortest stages of this event, and due to that shorter distance, they will have less time to find their groove."
+  },
+  {
+    "id": "5392",
+    "k": "lng_br_mp_st_int_short_007",
+    "en": "The crew are poised for a short stage now. With all still to play for, the drivers will be looking to push hard here to gain any advantage they can. "
+  },
+  {
+    "id": "5393",
+    "k": "lng_br_mp_st_int_short_008",
+    "en": "A short and fast stage now, so let’s see how hard this crew can push it through here and if they can gain any time."
+  },
+  {
+    "id": "5394",
+    "k": "lng_br_mp_st_int_short_009",
+    "en": "A short stage, but one that is no less demanding on the crews. Setting consistently fast times on stages such as these counts for a lot in the grand scheme of the event."
+  },
+  {
+    "id": "5395",
+    "k": "lng_br_mp_st_int_short_010",
+    "en": "This crew will be tackling a short and punchy stage now, they'll have to be mindful of how hard they push, a small mistake here can result in a big loss of time in the event."
+  },
+  {
+    "id": "5396",
+    "k": "lng_br_mp_st_int_short_011",
+    "en": "A short stage then, but no less intense. Let’s see if this crew can balance the desire to push, with the need to stay consistent."
+  },
+  {
+    "id": "5397",
+    "k": "lng_br_mp_st_int_short_012",
+    "en": "This crew are about to tackle a short and sharp stage, and due to that shorter distance, they will have less time to find their rhythm."
+  },
+  {
+    "id": "5398",
+    "k": "lng_br_mp_st_int_short_013",
+    "en": "A short stage ahead of them now, will this crew be able to push hard and maximise their pace over the limited distance? "
+  },
+  {
+    "id": "5399",
+    "k": "lng_br_mp_st_int_short_014",
+    "en": "Into a short stage now for this crew. Small margins make for the biggest gains over these smaller distances, so lets see what they can do. "
+  },
+  {
+    "id": "5400",
+    "k": "lng_br_mp_st_int_sing_001",
+    "en": "Now this is the only stage our drivers will be competing on, so it all comes down to this one run to determine who will be taking the victory. "
+  },
+  {
+    "id": "5401",
+    "k": "lng_br_mp_st_int_sing_002",
+    "en": "Drivers will be counting on this run to be perfect in this single stage event in hopes to secure those high places everyone is competing for. "
+  },
+  {
+    "id": "5402",
+    "k": "lng_br_mp_st_int_sing_003",
+    "en": "It all comes down to this one stage for our drivers and I'm sure everyone is raring to give it their all for this very short event."
+  },
+  {
+    "id": "5403",
+    "k": "lng_br_mp_st_int_sing_004",
+    "en": "We're getting ready to take to the one and only stage here at today's event and I'm sure the drivers will be putting their absolute all into this single run."
+  },
+  {
+    "id": "5404",
+    "k": "lng_br_mp_st_int_sing_005",
+    "en": "It's all getting started down here for the crews at this single stage event and I'm sure this pairing is more than ready to get going down on the track. "
+  },
+  {
+    "id": "5405",
+    "k": "lng_br_mp_st_int_sing_006",
+    "en": "To the track now for this single stage event, all the drivers efforts will be put entirely into this one stage here today in hopes to bag those top positions.  "
+  },
+  {
+    "id": "5406",
+    "k": "lng_br_mp_st_int_techHigh7_002",
+    "en": "This upcoming stage will strike fear into even the most seasoned rally driver, with its high level of technicality, demanding precision and bravery in equal measure."
+  },
+  {
+    "id": "5407",
+    "k": "lng_br_mp_st_int_techHigh7_003",
+    "en": "The drivers will have studied every minute detail of the pace notes going into this stage, such is the technical demand throughout. "
+  },
+  {
+    "id": "5408",
+    "k": "lng_br_mp_st_int_techHigh7_004",
+    "en": "Our crews will have to be fully switched on for this technically demanding stage, with many sections that will punish those prone to straying off the ideal line."
+  },
+  {
+    "id": "5409",
+    "k": "lng_br_mp_st_int_techHigh7_005",
+    "en": "With plenty to slow our crews down, and plenty of sections that feel designed to put them to the test, this technical stage will surely be a case of \"only the strong survive\"."
+  },
+  {
+    "id": "5410",
+    "k": "lng_br_mp_st_int_techHigh7_007",
+    "en": "A technical challenge up next for the crews. Making the most of fine margins of the many twists and turns of this stage will  be critical to success. "
+  },
+  {
+    "id": "5411",
+    "k": "lng_br_mp_st_int_techHigh7_008",
+    "en": "Over highly technical stages such as this next one, getting into a solid rhythm early and maintaining it will be essential for success. "
+  },
+  {
+    "id": "5412",
+    "k": "lng_br_mp_st_int_techLow3_001",
+    "en": "Well, it's not the most technical of stages ahead of our crews, but what it might lack in technicality, it makes up with in pure speed."
+  },
+  {
+    "id": "5413",
+    "k": "lng_br_mp_st_int_techLow3_003",
+    "en": "A faster stage, rather than a technical one for our drivers. Handling that higher speed takes real nerve, as the car reacts more to even the finest adjustment."
+  },
+  {
+    "id": "5414",
+    "k": "lng_br_mp_st_int_techLow3_004",
+    "en": "You'd never call a stage \"easy\", but certainly this one comes in on the less technically demanding end of the scale, though our drivers will be aware that anything that seems simple, will often catch them off guard."
+  },
+  {
+    "id": "5415",
+    "k": "lng_br_mp_st_int_techLow3_007",
+    "en": "Speed, bravery, and skill will determine the outcome of this next stage, as it's less techinical nature will lead to greater risks making the largest gains. "
+  },
+  {
+    "id": "5416",
+    "k": "lng_br_mp_st_int_techLow3_008",
+    "en": "This next stage is sure to make fascinating viewing, as our crews launch themselves down a run that measures it's lack of technicality with the possibility for pure speed. "
+  },
+  {
+    "id": "5417",
+    "k": "lng_br_mp_st_out_disq_001",
+    "en": "And with that, this crew have been disqualified from the event. That will be a big blow to them, the team, and to their championship prospects."
+  },
+  {
+    "id": "5418",
+    "k": "lng_br_mp_st_out_disq_002",
+    "en": "We've just been informed that this pairing have been disqualified from the event. We're not sure what they were thinking, but I imagine the debrief with the team will not be a pleasant conversation."
+  },
+  {
+    "id": "5419",
+    "k": "lng_br_mp_st_out_disq_003",
+    "en": "Well, there will be some unhappy faces in and around the service park later today, as this crew have now been disqualified from the event. I doubt their team will be very pleased with that."
+  },
+  {
+    "id": "5420",
+    "k": "lng_br_mp_st_out_disq_004",
+    "en": "There we have it, that will be the end of this pairing's event, as they have been disqualified from the competition. A huge blow to their goals for this Championship, as they will receive no points."
+  },
+  {
+    "id": "5421",
+    "k": "lng_br_mp_st_out_dn1Pos_001",
+    "en": "With that time, it looks as though something may have gone amiss on that stage, as this pairing drop from their position on the leader board."
+  },
+  {
+    "id": "5422",
+    "k": "lng_br_mp_st_out_dn1Pos_002",
+    "en": "Ahh that’s a shame, despite their best efforts through this stage, this crew have dropped in the event standings."
+  },
+  {
+    "id": "5423",
+    "k": "lng_br_mp_st_out_dn1Pos_004",
+    "en": "I'm not sure whether there has been an incident somewhere on this stage, but sadly this crew look to have dropped some time and subsequently their position in the standings."
+  },
+  {
+    "id": "5424",
+    "k": "lng_br_mp_st_out_dn1Pos_005",
+    "en": "Unfortunately, after that stage this pairing are going to drop a place or two in the standings, it’s certainly tough going out there."
+  },
+  {
+    "id": "5425",
+    "k": "lng_br_mp_st_out_dn1Pos_006",
+    "en": "Oh, that's not their best run through this stage. It looks like they've had a tough time and are going to lose their position in the event table."
+  },
+  {
+    "id": "5426",
+    "k": "lng_br_mp_st_out_firststage_highpos_001",
+    "en": "Some great driving for that starting stage putting this pairing in a brilliant position for the rest of this event."
+  },
+  {
+    "id": "5427",
+    "k": "lng_br_mp_st_out_firststage_highpos_002",
+    "en": "That's the first stage done and this pairing have gotten a great head-start for this competition. "
+  },
+  {
+    "id": "5428",
+    "k": "lng_br_mp_st_out_firststage_highpos_003",
+    "en": "What a great position for the opening stage of this event, seems like this pairing are tuned in and ready to take on the competition!"
+  },
+  {
+    "id": "5429",
+    "k": "lng_br_mp_st_out_firststage_highpos_004",
+    "en": "A great start for this team. They've really hit the ground running here on their first stage, let's see if they can carry on the momentum into the next. "
+  },
+  {
+    "id": "5430",
+    "k": "lng_br_mp_st_out_firststage_highpos_005",
+    "en": "What a start for this team, a good place to kick off the competition with. I'm sure they'll be eager to maintain their positioning throughout the event."
+  },
+  {
+    "id": "5431",
+    "k": "lng_br_mp_st_out_firststage_highpos_006",
+    "en": "This pairing have really started on the right foot and have put themselves in an ideal position on this starting stage. With the right momentum we may see them take this competition for their own. "
+  },
+  {
+    "id": "5432",
+    "k": "lng_br_mp_st_out_firststage_lowpos_001",
+    "en": "An unfortunate start for this pairing here, seems like they'll have to put in a good fight in the next stages to climb up the leaderboard. "
+  },
+  {
+    "id": "5433",
+    "k": "lng_br_mp_st_out_firststage_lowpos_002",
+    "en": "Not the strongest start for the team here but there will be plenty of chance for them to claw their way up to higher positions."
+  },
+  {
+    "id": "5434",
+    "k": "lng_br_mp_st_out_firststage_lowpos_003",
+    "en": "Not quite the start this team were imagining but a great opportunity to improve on the upcoming stages."
+  },
+  {
+    "id": "5435",
+    "k": "lng_br_mp_st_out_firststage_lowpos_004",
+    "en": "An unlucky start to the Rally for this pairing today but there's always a chance to turn it around in the upcoming stages. "
+  },
+  {
+    "id": "5436",
+    "k": "lng_br_mp_st_out_firststage_lowpos_005",
+    "en": "A tough position to be in for the first stage but anything can happen and I'm sure this pairing will be strategising in preparation for the next run. "
+  },
+  {
+    "id": "5437",
+    "k": "lng_br_mp_st_out_firststage_lowpos_006",
+    "en": "Not an ideal position to find yourself in but this is the first stage so there will be plenty of time for this team to make up what they can. "
+  },
+  {
+    "id": "5438",
+    "k": "lng_br_mp_st_out_firststage_midpos_001",
+    "en": "Not a bad position to find yourself in at the start of the event and I'm sure this pairing will be discussing tactics on how they can climb out of mid-pack."
+  },
+  {
+    "id": "5439",
+    "k": "lng_br_mp_st_out_firststage_midpos_002",
+    "en": "A good start here for this team today and there'll be plenty of opportunities to push forward in the coming stages."
+  },
+  {
+    "id": "5440",
+    "k": "lng_br_mp_st_out_firststage_midpos_003",
+    "en": "A promising start for this pair on today's stage and plenty of time to regroup and plan for the rest of the event. "
+  },
+  {
+    "id": "5441",
+    "k": "lng_br_mp_st_out_firststage_midpos_004",
+    "en": "Not a bad result for the first stage. I'm sure this pairing will have plenty of chances to claim back some time on the upcoming routes."
+  },
+  {
+    "id": "5442",
+    "k": "lng_br_mp_st_out_firststage_midpos_005",
+    "en": "A good run from this pairing today, there'll be ample opportuinity in the upcoming stages to make a statement on the competition."
+  },
+  {
+    "id": "5443",
+    "k": "lng_br_mp_st_out_firststage_midpos_006",
+    "en": "This pairing have found themselves in a promising starting position with plenty of competition to be fighting with for those fast times. "
+  },
+  {
+    "id": "5444",
+    "k": "lng_br_mp_st_out_laststage_001",
+    "en": "And with that run, this crews event comes to an end. Lets have a look at the table now to see how they faired. "
+  },
+  {
+    "id": "5445",
+    "k": "lng_br_mp_st_out_laststage_002",
+    "en": "With the final stage of the rally now over, lets see how this crew have finished their event. "
+  },
+  {
+    "id": "5446",
+    "k": "lng_br_mp_st_out_laststage_003",
+    "en": "A fantastic event now comes to an end, hopefully the leaderboard reflects each crews ambitions. "
+  },
+  {
+    "id": "5447",
+    "k": "lng_br_mp_st_out_laststage_004",
+    "en": "As this crew crosses the line they'll have to hope that they've done enough to secure what points they need. Lets see from the table if they've succeeded. "
+  },
+  {
+    "id": "5448",
+    "k": "lng_br_mp_st_out_laststage_005",
+    "en": "So the event has now concluded for this crew. The leaderboard will now reveal whether they've done enough to reach the podium. "
+  },
+  {
+    "id": "5449",
+    "k": "lng_br_mp_st_out_laststage_006",
+    "en": "A tough rally for all involved. As this car crosses the line, we'll go now to see where they've placed in the grand scheme of the event. "
+  },
+  {
+    "id": "5450",
+    "k": "lng_br_mp_st_out_maxTimeRetIsDay_001",
+    "en": "It looks as though this crew are going to have to retire for the day. They'll lose a lot of time, but they at least have another day of competition tomorrow to try and reduce that deficit."
+  },
+  {
+    "id": "5451",
+    "k": "lng_br_mp_st_out_maxTimeRetIsDay_002",
+    "en": "And it's a retirement for this crew today, who seemingly had all the bad luck out there. It's not all doom and gloom though, as there is still time to claw back some much-needed Championship points tomorrow."
+  },
+  {
+    "id": "5452",
+    "k": "lng_br_mp_st_out_maxTimeRetIsDay_003",
+    "en": "Unfortunate scenes out there as this crew were forced to retire, losing them a fair amount of time in the process. All hope is not lost though, as they still have another stage to run tomorrow."
+  },
+  {
+    "id": "5453",
+    "k": "lng_br_mp_st_out_maxTimeRetIsDay_004",
+    "en": "They will be looking to make that time back up tomorrow after a very disappointing stage that ended in a retirement for this crew."
+  },
+  {
+    "id": "5454",
+    "k": "lng_br_mp_st_out_maxTimeRetNotDay_001",
+    "en": "It’s a real shame, but it appears that the crew have in fact retired from the event. We're not sure why at this stage, but that'll certainly hamper their progress in this championship."
+  },
+  {
+    "id": "5455",
+    "k": "lng_br_mp_st_out_maxTimeRetNotDay_002",
+    "en": "It's never nice to see a team retiring from an event, but let's hope that this is a minor setback in their ambitions this year."
+  },
+  {
+    "id": "5456",
+    "k": "lng_br_mp_st_out_maxTimeRetNotDay_003",
+    "en": "What a shame for this crew, who have pushed hard but ultimately have been forced to retire from this event. Here's hoping they come back stronger!"
+  },
+  {
+    "id": "5457",
+    "k": "lng_br_mp_st_out_maxTimeRetNotDay_004",
+    "en": "A day this crew will want to immediately put behind them and move on from. Let's hope they can analyse this performance and learn valuable lessons to come back fighting."
+  },
+  {
+    "id": "5458",
+    "k": "lng_br_mp_st_out_noPos_001",
+    "en": "It looks like this crew have settled nicely into their rhythm now, setting another solid time on this stage and holding their position in this event."
+  },
+  {
+    "id": "5459",
+    "k": "lng_br_mp_st_out_noPos_002",
+    "en": "A nice smooth run through that stage, and it looks like this crew will maintain their position in the standings for now."
+  },
+  {
+    "id": "5460",
+    "k": "lng_br_mp_st_out_noPos_003",
+    "en": "And with that run this crew have managed to maintain their position in the event standings. A nice clean drive through a tricky stage."
+  },
+  {
+    "id": "5461",
+    "k": "lng_br_mp_st_out_noPos_004",
+    "en": "Lovely steady and controlled driving through this section, this pairing will be happy with that as they maintain their current event standing."
+  },
+  {
+    "id": "5462",
+    "k": "lng_br_mp_st_out_noPos_005",
+    "en": "No change in the standings either up nor down following this stage, this crew are setting a good rhythm, but may need to push a bit more to get the biggest rewards."
+  },
+  {
+    "id": "5463",
+    "k": "lng_br_mp_st_out_noPos_006",
+    "en": "The pairing here were fast, clean, and smooth through the section just now and although they haven't gained any places, they haven't dropped any either."
+  },
+  {
+    "id": "5464",
+    "k": "lng_br_mp_st_out_reg_dn1Pos_003",
+    "en": "A valiant effort in a very tricky stage there, unfortunately though it’s not enough and this pairing have dropped in the current standings."
+  },
+  {
+    "id": "5465",
+    "k": "lng_br_mp_st_out_reg_up1Pos_001",
+    "en": "A brilliant effort on that stage sees this crew move up the event standings, great job!"
+  },
+  {
+    "id": "5466",
+    "k": "lng_br_mp_st_out_stillfirst_001",
+    "en": "Lovely consistent driving there, as this crew manage to hold their position at the top of the leaderboard. "
+  },
+  {
+    "id": "5467",
+    "k": "lng_br_mp_st_out_stillfirst_002",
+    "en": "This pair seems to be having a great run of it out there today, as they maintain their leading position with that drive."
+  },
+  {
+    "id": "5468",
+    "k": "lng_br_mp_st_out_stillfirst_003",
+    "en": "An excellent drive through a tricky stage sees our leaders keep themselves clear of second place. "
+  },
+  {
+    "id": "5469",
+    "k": "lng_br_mp_st_out_stillfirst_004",
+    "en": "Our current leaders seem untroubled by the pressure from the rest of the pack, as they hold themselves clear in 1st following that drive."
+  },
+  {
+    "id": "5470",
+    "k": "lng_br_mp_st_out_stillfirst_005",
+    "en": "A fast and clean run sees no change at the top of the event table at this juncture. Our leading crew are commanding the stages at the moment. "
+  },
+  {
+    "id": "5471",
+    "k": "lng_br_mp_st_out_stillfirst_006",
+    "en": "Commanding driving from the leading crew as they keep their position at the top of the leaderboard. Can they hold on for the rest of the event?"
+  },
+  {
+    "id": "5472",
+    "k": "lng_br_mp_st_out_term_001_2024",
+    "en": "Wow that’s a big accident! Thankfully the crew seem to be okay, although I would suspect their event may well be over."
+  },
+  {
+    "id": "5473",
+    "k": "lng_br_mp_st_out_term_002_2024",
+    "en": "It's a real shame but a big accident seems to have ended this crew’s day at the least, and possibly even their event."
+  },
+  {
+    "id": "5474",
+    "k": "lng_br_mp_st_out_term_003_2024",
+    "en": "Oh no! We're not sure exactly what's happened there but its looks like a big crash. That could potentially be event ending for this crew."
+  },
+  {
+    "id": "5475",
+    "k": "lng_br_mp_st_out_term_004_2024",
+    "en": "The car appears to be quite badly damaged after that collision, and although the crew are ok, I think they will be hard-pressed to get the car going again."
+  },
+  {
+    "id": "5476",
+    "k": "lng_br_mp_st_out_term_005_2024",
+    "en": "Oh, someone’s come to a standstill on the stage! Oh that’s so unfortunate, I think they've had a bad crash, and may even be out of this event."
+  },
+  {
+    "id": "5477",
+    "k": "lng_br_mp_st_out_term_006_2024",
+    "en": "And with that, I think this crew’s event may be in jeopardy. It’s a big accident, and it'll be a real effort to get this car going again."
+  },
+  {
+    "id": "5478",
+    "k": "lng_br_mp_st_out_up1Pos_001",
+    "en": "That's an excellent drive! The crew will have to be pleased with that one, as it moves them up the table, they absolutely flew down that stage!"
+  },
+  {
+    "id": "5479",
+    "k": "lng_br_mp_st_out_up1Pos_003",
+    "en": "Wow, they will be pleased with that one. An excellent stage for this pairing and it moves them up the standings."
+  },
+  {
+    "id": "5480",
+    "k": "lng_br_mp_st_out_up1Pos_004",
+    "en": "Fantastic stuff! Some absolutely on the edge driving has paid off for this crew as they climb the event table."
+  },
+  {
+    "id": "5481",
+    "k": "lng_br_mp_st_out_up1Pos_005",
+    "en": "You couldn't ask for a better run through this stage than that. This pairing have set a lovely rhythm and its paying off in spades, as they are moving up the standings."
+  },
+  {
+    "id": "5482",
+    "k": "lng_br_mp_st_out_up1Pos_006",
+    "en": "Very nicely driven through that stage, it’s a great result for the crew who as a result have moved up in the event standings."
+  },
+  {
+    "id": "5483",
+    "k": "lng_ce_bb_seasNew_demo_wrc2_001",
+    "en": "How are you feeling? It's a brand new season, and no matter how difficult parts of last year might've been, I really believe we can make up for it this year. Let's get after it then, and push ourselves back into the WRC as soon as possible."
+  },
+  {
+    "id": "5484",
+    "k": "lng_ce_bb_seasNew_demo_wrc2_002",
+    "en": "Welcome back, glad you're here. I know you're disappointed to be dropped down into WRC2, but, I think we can carry a lot of the lessons we learnt last season into this one. I'm sure you'll smash it, and get that promotion."
+  },
+  {
+    "id": "5485",
+    "k": "lng_ce_bb_seasNew_demo_wrc2_003",
+    "en": "Welcome back, hope you took a good break! I know last year didn't play out how you wanted it to but I'm a firm believer that from now we can only aim upwards! "
+  },
+  {
+    "id": "5486",
+    "k": "lng_ce_bb_seasNew_demo_wrc2_004",
+    "en": "Hey, nice to see you! I know being in WRC2 isn't ideal but it'll give us a good amount of time to get our issues ironed out and taken care of and once we do, we'll get back up there, alright? "
+  },
+  {
+    "id": "5487",
+    "k": "lng_ce_bb_seasNew_demo_wrc2_back_001",
+    "en": "Great to see you again! Hope you had a good break, as we've got some work to do now! I know it's disappointing to be back in WRC2, but if we knuckle down and keep pushing, we can be back at the top in no time at all."
+  },
+  {
+    "id": "5488",
+    "k": "lng_ce_bb_seasNew_demo_wrc2_back_003",
+    "en": "I hope you're well rested because this season we're in for a lot of work! Being back in WRC2 isn't what you were hoping but if we just focus, we'll get back on track in no time!"
+  },
+  {
+    "id": "5489",
+    "k": "lng_ce_bb_seasNew_demo_wrc2_back_004",
+    "en": "Hey, welcome back. I know being back in WRC2 was not one of our goals but the road to success is rarely a straight one! Treat this just as you would a twisty hairpin, alright? "
+  },
+  {
+    "id": "5490",
+    "k": "lng_ce_bb_seasNew_prom_wrc1_001",
+    "en": "Great to see you! I bet you're bouncing off the walls, we're in the big time now, eh? WRC! We've had some great momentum coming into this season so let's keep building and if we're lucky by the end of the year you might be the World Drivers' Champion!"
+  },
+  {
+    "id": "5491",
+    "k": "lng_ce_bb_seasNew_prom_wrc1_002",
+    "en": "How are you my friend! Can you believe it, the WRC! You've been absolutely brilliant to work with thus far, and I'm very excited to see what we can do in this top level of competition. You'll be a world champion within no time I reckon."
+  },
+  {
+    "id": "5492",
+    "k": "lng_ce_bb_seasNew_prom_wrc1_003",
+    "en": "Hello hello, there they are, the star of the show! Look we're all absolutely thrilled that we're into the WRC, we can't wait to support you for the rest of this journey, and get you onto those podium steps!"
+  },
+  {
+    "id": "5493",
+    "k": "lng_ce_bb_seasNew_prom_wrc1_004",
+    "en": "Hey! What a feeling, eh? We're at the top of the game now but here is where the real work starts. We keep going the way we're going and I reckon we might have a very real chance at nabbing the championship for ourselves!"
+  },
+  {
+    "id": "5494",
+    "k": "lng_ce_bb_seasNew_prom_wrc1_back_001",
+    "en": "Welcome back to HQ and welcome back to the WRC! It's good to be back at the top right? I know our last time here wasn't too strong, but I think we've learnt a lot since then that we'll be able to apply in our push for the Championship title!"
+  },
+  {
+    "id": "5495",
+    "k": "lng_ce_bb_seasNew_prom_wrc1_back_002",
+    "en": "It feels good to be back in the top tier, doesn't it? The WRC is where we belong, and I think we can make a real impact this season. If we start strong and get some good results under our belts, who knows what we could achieve!"
+  },
+  {
+    "id": "5496",
+    "k": "lng_ce_bb_seasNew_prom_wrc1_back_003",
+    "en": "Nice to see you! It's a good feeling to be back at the top again and I'm sure this time round we've made enough improvements to really run with it! Let's push for the top, alright?!"
+  },
+  {
+    "id": "5497",
+    "k": "lng_ce_bb_seasNew_prom_wrc2_001",
+    "en": "Good to be back, isn't it! We had a cracking season last year, so let's try and keep that going into this one. As there's a promotion into the WRC to play for! WRC2 will likely test you, but I have no doubt we can handle it."
+  },
+  {
+    "id": "5498",
+    "k": "lng_ce_bb_seasNew_prom_wrc2_002",
+    "en": "New season and a new Championship tier! If we can carry the momentum from a very strong performance last year, we can absolutely push to be the best in WRC2 and get into the WRC. Let's get at it, eh?"
+  },
+  {
+    "id": "5499",
+    "k": "lng_ce_bb_seasNew_prom_wrc2_003",
+    "en": "Great to see you and great to be back at HQ. Congratulations again on a fantastic season, but now we have the challenge of WRC2 to get on with. With you at the helm I have no doubt we'll be pushing for podiums and promotions."
+  },
+  {
+    "id": "5500",
+    "k": "lng_ce_bb_seasNew_prom_wrc2_004",
+    "en": "I don't know about you but I am buzzing to get back at it for this new season! We're one step closer to WRC and I reckon, if we prove ourselves in WRC2 this season, we're sure to make that leap."
+  }
+]

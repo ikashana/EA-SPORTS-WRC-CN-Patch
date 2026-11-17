@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "857",
+    "k": "lng_cross_platform_not_allowed_body",
+    "en": "Your settings currently limit access to cross platform play. Please check your platform settings and terms & conditions for more information."
+  },
+  {
+    "id": "858",
+    "k": "lng_cross_platform_not_allowed_title",
+    "en": "CROSS PLATFORM RESTRICTED"
+  },
+  {
+    "id": "859",
+    "k": "lng_cross_platform_players_present",
+    "en": "Cross platform players present"
+  },
+  {
+    "id": "860",
+    "k": "lng_custom_ solo_hub_load_progress_desc",
+    "en": "Resume a suspended championship"
+  },
+  {
+    "id": "861",
+    "k": "lng_custom_add_events",
+    "en": "CREATE CHAMPIONSHIP"
+  },
+  {
+    "id": "862",
+    "k": "lng_custom_autosave_slot_title",
+    "en": "Autosave"
+  },
+  {
+    "id": "863",
+    "k": "lng_custom_championship_additional_settings",
+    "en": "ADDITIONAL SETTINGS"
+  },
+  {
+    "id": "864",
+    "k": "lng_custom_championship_back_without_save_confirm_body",
+    "en": "If you continue without saving your Championship Template will be lost."
+  },
+  {
+    "id": "865",
+    "k": "lng_custom_championship_reset_progress_confirm_body",
+    "en": "Are you sure you want to reset the progress of this Championship? All previously saved progress will be lost. "
+  },
+  {
+    "id": "866",
+    "k": "lng_custom_hub_clubs_desc",
+    "en": "Link up with groups of other players and take part in championships together"
+  },
+  {
+    "id": "867",
+    "k": "lng_custom_hub_clubs_recenet_desc",
+    "en": "To create and join more Clubs, login to your EA account at racenet.com, or by scanning this QR code. "
+  },
+  {
+    "id": "868",
+    "k": "lng_custom_hub_esports_racenet_desc",
+    "en": "To join Esports, login to your EA account at racenet.com, or by scanning this QR code. "
+  },
+  {
+    "id": "869",
+    "k": "lng_custom_hub_find_multiplayer_session_desc",
+    "en": "Set preferences and search for multiplayer sessions"
+  },
+  {
+    "id": "870",
+    "k": "lng_custom_hub_friends_desc",
+    "en": "Manage Friends"
+  },
+  {
+    "id": "871",
+    "k": "lng_custom_hub_friends_title",
+    "en": "Friends Hub"
+  },
+  {
+    "id": "872",
+    "k": "lng_custom_hub_multiplayer_championship_desc",
+    "en": "Create a lobby and compete in Public or Private sessions"
+  },
+  {
+    "id": "873",
+    "k": "lng_custom_hub_multiplayer_championship_title",
+    "en": "MULTIPLAYER CHAMPIONSHIP"
+  },
+  {
+    "id": "874",
+    "k": "lng_custom_hub_multiplayer_quick_match_desc",
+    "en": "Jump straight into a multiplayer session"
+  },
+  {
+    "id": "875",
+    "k": "lng_custom_hub_solo_championship_desc",
+    "en": "Create your own championships and race against AI drivers"
+  },
+  {
+    "id": "876",
+    "k": "lng_custom_hub_solo_championship_title",
+    "en": "SOLO HUB"
+  },
+  {
+    "id": "877",
+    "k": "lng_custom_mp_browser_damage_hardcore",
+    "en": "Hardcore"
+  },
+  {
+    "id": "878",
+    "k": "lng_custom_mp_browser_damage_visual_only_no_terminal",
+    "en": "Visual Only"
+  },
+  {
+    "id": "879",
+    "k": "lng_custom_mp_create_rally_description",
+    "en": "Create your own Rally championship and race against other online players"
+  },
+  {
+    "id": "880",
+    "k": "lng_custom_mp_create_reg_description",
+    "en": "Create your own Regularity Rally championship and compete against other online players"
+  },
+  {
+    "id": "881",
+    "k": "lng_custom_mp_hub_button_create_rally",
+    "en": "CREATE RALLY"
+  },
+  {
+    "id": "882",
+    "k": "lng_custom_mp_hub_button_create_reg_rally",
+    "en": "CREATE REGULARITY RALLY"
+  },
+  {
+    "id": "883",
+    "k": "lng_custom_mp_hub_button_quick_match",
+    "en": "QUICK MATCH"
+  },
+  {
+    "id": "884",
+    "k": "lng_custom_mp_hub_friends_description",
+    "en": "Manage your connection with other EA Accounts."
+  },
+  {
+    "id": "885",
+    "k": "lng_custom_mp_hub_quick_match_description",
+    "en": "Jump straight into the action: automatically join a public session."
+  },
+  {
+    "id": "886",
+    "k": "lng_custom_mp_hub_session_browser_description",
+    "en": "Choose from the available public sessions; and review invites from your EA Friends."
+  },
+  {
+    "id": "887",
+    "k": "lng_custom_multiplayer_browser_filters_screen_title",
+    "en": "SESSION FILTERS"
+  },
+  {
+    "id": "888",
+    "k": "lng_custom_multiplayer_hub_create_description",
+    "en": "Setup a session with private and public lobbies"
+  },
+  {
+    "id": "889",
+    "k": "lng_custom_multiplayer_hub_load_template_description",
+    "en": "Load a saved, or recently played championship template"
+  },
+  {
+    "id": "890",
+    "k": "lng_custom_multiplayer_in_progress_hub_screen_title",
+    "en": "IN PROGRESS HUB"
+  },
+  {
+    "id": "891",
+    "k": "lng_custom_multiplayer_in_progress_results",
+    "en": "IN PROGRESS RESULTS"
+  },
+  {
+    "id": "892",
+    "k": "lng_custom_multiplayer_lobby",
+    "en": "LOBBY"
+  },
+  {
+    "id": "893",
+    "k": "lng_custom_multiplayer_lobby_invite_screen_title",
+    "en": "INVITE TO LOBBY"
+  },
+  {
+    "id": "894",
+    "k": "lng_custom_multiplayer_main_screen_title",
+    "en": "MULTIPLAYER HUB"
+  },
+  {
+    "id": "895",
+    "k": "lng_custom_multiplayer_no_other_players_body",
+    "en": "There are currently no other players in the Championship. Would you like to continue on your own or leave the session?"
+  },
+  {
+    "id": "896",
+    "k": "lng_custom_multiplayer_no_other_players_make_public_body",
+    "en": "There are currently no other players in the competition. Would you like to continue the championship on your own, make the session public, or leave the session?"
+  },
+  {
+    "id": "897",
+    "k": "lng_custom_multiplayer_no_other_players_title",
+    "en": "NO OTHER PLAYERS"
+  },
+  {
+    "id": "898",
+    "k": "lng_custom_multiplayer_not_enough_players_body",
+    "en": "In order to start a Quick Play Online Championship the session must include at least two players. Would you like to invite some more players?"
+  },
+  {
+    "id": "899",
+    "k": "lng_custom_multiplayer_not_enough_players_title",
+    "en": "NOT ENOUGH PLAYERS"
+  },
+  {
+    "id": "900",
+    "k": "lng_custom_multiplayer_session_leave_confirm_body",
+    "en": "You are about to leave the multiplayer session. Are you sure that you wish to continue?"
+  },
+  {
+    "id": "901",
+    "k": "lng_custom_multiplayer_session_lobby_leave_without_championship_save_body",
+    "en": "You are about to leave the multiplayer session. All unsaved changes to the current championship will be lost. Are you sure that you wish to continue?"
+  },
+  {
+    "id": "902",
+    "k": "lng_custom_multiplayer_settings_assists",
+    "en": "Assists"
+  },
+  {
+    "id": "903",
+    "k": "lng_custom_multiplayer_settings_camera",
+    "en": "Camera"
+  },
+  {
+    "id": "904",
+    "k": "lng_custom_multiplayer_settings_room_visibility",
+    "en": "Room Visibility"
+  },
+  {
+    "id": "905",
+    "k": "lng_custom_multiplayer_settings_size",
+    "en": "Size"
+  },
+  {
+    "id": "906",
+    "k": "lng_custom_multiplayer_settings_skill",
+    "en": "Preferred Player Skill"
+  },
+  {
+    "id": "907",
+    "k": "lng_custom_multiplayer_settings_skill_all_comers",
+    "en": "Everyone"
+  },
+  {
+    "id": "908",
+    "k": "lng_custom_multiplayer_settings_skill_experts",
+    "en": "Expert"
+  },
+  {
+    "id": "909",
+    "k": "lng_custom_multiplayer_settings_skill_intermediates",
+    "en": "Intermediate"
+  },
+  {
+    "id": "910",
+    "k": "lng_custom_multiplayer_settings_tunning",
+    "en": "Tuning"
+  },
+  {
+    "id": "911",
+    "k": "lng_custom_multiplayer_settings_visibility_private",
+    "en": "Private"
+  },
+  {
+    "id": "912",
+    "k": "lng_custom_multiplayer_setup_create_session",
+    "en": "CREATE SESSION"
+  },
+  {
+    "id": "913",
+    "k": "lng_custom_multiplayer_setup_screen_title",
+    "en": "SESSION SET UP"
+  },
+  {
+    "id": "914",
+    "k": "lng_custom_multiplayer_setup_session_setup",
+    "en": "Session Setup"
+  },
+  {
+    "id": "915",
+    "k": "lng_custom_multiplayer_setup_session_visibility",
+    "en": "Session Visibility"
+  },
+  {
+    "id": "916",
+    "k": "lng_custom_route_selector_label",
+    "en": "Route - Distance"
+  },
+  {
+    "id": "917",
+    "k": "lng_custom_settings_competition_type_level_playing_field_label",
+    "en": "Level Playing Field"
+  },
+  {
+    "id": "918",
+    "k": "lng_custom_settings_competition_type_realistic_label",
+    "en": "Realistic"
+  },
+  {
+    "id": "919",
+    "k": "lng_custom_settings_default_custom_name",
+    "en": "CUSTOM CHAMPIONSHIP"
+  },
+  {
+    "id": "920",
+    "k": "lng_custom_settings_label_bonus_points",
+    "en": "Bonus Points"
+  },
+  {
+    "id": "921",
+    "k": "lng_custom_settings_label_championship_name",
+    "en": "Championship Name"
+  },
+  {
+    "id": "922",
+    "k": "lng_custom_settings_label_competition_type",
+    "en": "Competition Type"
+  },
+  {
+    "id": "923",
+    "k": "lng_custom_settings_label_incidental_moments",
+    "en": "Incidental Moments"
+  },
+  {
+    "id": "924",
+    "k": "lng_custom_settings_label_length",
+    "en": "Length"
+  },
+  {
+    "id": "925",
+    "k": "lng_custom_settings_label_max_workshop_value",
+    "en": "Max Workshop Value"
+  },
+  {
+    "id": "926",
+    "k": "lng_custom_settings_label_session_cross_platform",
+    "en": "Cross Platform"
+  },
+  {
+    "id": "927",
+    "k": "lng_custom_settings_label_track_degradation",
+    "en": "Track Degradation"
+  },
+  {
+    "id": "928",
+    "k": "lng_custom_settings_vehicle_classes",
+    "en": "Vehicle Classes"
+  },
+  {
+    "id": "929",
+    "k": "lng_custom_slot_save_confirmation_body",
+    "en": "Leaving the Championship now will cause all progress to be lost. Would you like to save your progress in this Championship to resume later?"
+  },
+  {
+    "id": "930",
+    "k": "lng_custom_solo_championship_panel_description",
+    "en": "Add events to your championship"
+  },
+  {
+    "id": "931",
+    "k": "lng_custom_solo_championship_podium_title",
+    "en": "CHAMPIONSHIP PODIUM"
+  },
+  {
+    "id": "932",
+    "k": "lng_custom_solo_championship_settings_title",
+    "en": "CHAMPIONSHIP SETTINGS"
+  },
+  {
+    "id": "933",
+    "k": "lng_custom_solo_create_rally_description",
+    "en": "Create your own Rally championship and race against AI drivers"
+  },
+  {
+    "id": "934",
+    "k": "lng_custom_solo_create_reg_description",
+    "en": "Create your own Regularity Rally championship and compete against AI drivers"
+  },
+  {
+    "id": "935",
+    "k": "lng_custom_solo_dlc_pack_required",
+    "en": "DLC Pack Required"
+  },
+  {
+    "id": "936",
+    "k": "lng_custom_solo_event_accumulative_standings_title",
+    "en": "EVENT STANDINGS - ACCUMULATIVE"
+  },
+  {
+    "id": "937",
+    "k": "lng_custom_solo_event_final_standings_title",
+    "en": "EVENT STANDINGS - FINAL LEG"
+  },
+  {
+    "id": "938",
+    "k": "lng_custom_solo_event_overview_event_in_progress",
+    "en": "Event in Progress"
+  },
+  {
+    "id": "939",
+    "k": "lng_custom_solo_event_podium_title",
+    "en": "EVENT PODIUM"
+  },
+  {
+    "id": "940",
+    "k": "lng_custom_solo_event_results_combined_title",
+    "en": "COMBINED EVENT RESULTS"
+  },
+  {
+    "id": "941",
+    "k": "lng_custom_solo_event_results_final_leg_title",
+    "en": "EVENT RESULTS - FINAL LEG"
+  },
+  {
+    "id": "942",
+    "k": "lng_custom_solo_event_results_primary_leg_title",
+    "en": "EVENT RESULTS - PRIMARY LEG"
+  },
+  {
+    "id": "943",
+    "k": "lng_custom_solo_event_results_title",
+    "en": "EVENT RESULTS"
+  },
+  {
+    "id": "944",
+    "k": "lng_custom_solo_hub_create_description",
+    "en": "Create a new championship template and test your skills against the AI opponents"
+  },
+  {
+    "id": "945",
+    "k": "lng_custom_solo_hub_create_title",
+    "en": "CREATE"
+  },
+  {
+    "id": "946",
+    "k": "lng_custom_solo_hub_generate_desc",
+    "en": "Create a championship based a set of customisable settings"
+  },
+  {
+    "id": "947",
+    "k": "lng_custom_solo_hub_generate_description",
+    "en": "Generate a new championship template from settings against AI opponents"
+  },
+  {
+    "id": "948",
+    "k": "lng_custom_solo_hub_load_progress_description",
+    "en": "Resume any previously suspended Quick Play Solo championship"
+  },
+  {
+    "id": "949",
+    "k": "lng_custom_solo_hub_load_progress_title",
+    "en": "LOAD PROGRESS"
+  },
+  {
+    "id": "950",
+    "k": "lng_custom_solo_hub_quick_generate_title",
+    "en": "QUICK GENERATE"
+  },
+  {
+    "id": "951",
+    "k": "lng_custom_solo_stage_outro_title",
+    "en": "STAGE OUTRO"
+  },
+  {
+    "id": "952",
+    "k": "lng_custom_solo_stage_overview_stage_in_progress",
+    "en": "Stage In Progress"
+  },
+  {
+    "id": "953",
+    "k": "lng_custom_solo_stage_results_title",
+    "en": "STAGE RESULTS"
+  },
+  {
+    "id": "954",
+    "k": "lng_custom_solo_stage_select_missing_entitlements_body_landing_screen",
+    "en": " After completing your purchase you will be returned to this screen."
+  },
+  {
+    "id": "955",
+    "k": "lng_custom_time_of_day_selector_label",
+    "en": "Time of Day"
+  },
+  {
+    "id": "956",
+    "k": "lng_custom_weather_condition_selector_label",
+    "en": "Weather (Track Conditions)"
+  },
+  {
+    "id": "957",
+    "k": "lng_customise_driver_profile_description",
+    "en": "Change your driver details information and customise your drivers appearance"
+  },
+  {
+    "id": "958",
+    "k": "lng_customise_driver_profile_title",
+    "en": "DRIVER DETAILS"
+  },
+  {
+    "id": "959",
+    "k": "lng_customise_rally_pass_description",
+    "en": "Unlock customisation items for your driver and vehicles"
+  },
+  {
+    "id": "960",
+    "k": "lng_customization_cap",
+    "en": "CAP"
+  },
+  {
+    "id": "961",
+    "k": "lng_customization_gloves",
+    "en": "GLOVES"
+  },
+  {
+    "id": "962",
+    "k": "lng_customization_helmet",
+    "en": "HELMET"
+  },
+  {
+    "id": "963",
+    "k": "lng_customization_overall",
+    "en": "RACE SUIT"
+  },
+  {
+    "id": "964",
+    "k": "lng_customization_pose",
+    "en": "PASSPORT POSE"
+  },
+  {
+    "id": "965",
+    "k": "lng_customization_vehicle",
+    "en": "VEHICLE"
+  },
+  {
+    "id": "966",
+    "k": "lng_cvaa_multiplayer_2024split_pc",
+    "en": "Multiplayer sessions use either 2023 or 2024 season content. Use the directional keys to highlight a season and press the press the Enter key to continue. Note you need to have access to then 2024 content to select it."
+  },
+  {
+    "id": "967",
+    "k": "lng_cvaa_multiplayer_2024split_playstation",
+    "en": "Multiplayer sessions use either 2023 or 2024 season content. Use the Directional Buttons to highlight a season and press the X \"cross\" button to continue. Note, you need to have access to the 2024 content to select it."
+  },
+  {
+    "id": "968",
+    "k": "lng_cvaa_multiplayer_2024split_xbox",
+    "en": "Multiplayer sessions use either 2023 or 2024 season content. Use the D-Pad to highlight a season and press the A button to continue. Note, you need to have access to the 2024 content to select it."
+  },
+  {
+    "id": "969",
+    "k": "lng_damage_body_desc_1",
+    "en": "Minor body damage."
+  },
+  {
+    "id": "970",
+    "k": "lng_damage_body_desc_4",
+    "en": "Body damage."
+  },
+  {
+    "id": "971",
+    "k": "lng_damage_body_desc_5",
+    "en": "Severe body damage."
+  },
+  {
+    "id": "972",
+    "k": "lng_damage_brakes_desc_1",
+    "en": "Minor brake wear."
+  },
+  {
+    "id": "973",
+    "k": "lng_damage_brakes_desc_2",
+    "en": "Moderate brake wear."
+  },
+  {
+    "id": "974",
+    "k": "lng_damage_brakes_desc_3",
+    "en": "Squealing brakes."
+  },
+  {
+    "id": "975",
+    "k": "lng_damage_brakes_desc_4",
+    "en": "Grinding brakes."
+  },
+  {
+    "id": "976",
+    "k": "lng_damage_brakes_desc_5",
+    "en": "Brakes fully worn."
+  },
+  {
+    "id": "977",
+    "k": "lng_damage_clutch_desc_2",
+    "en": "Clutch slipping intermittently."
+  },
+  {
+    "id": "978",
+    "k": "lng_damage_clutch_desc_3",
+    "en": "Clutch slipping."
+  },
+  {
+    "id": "979",
+    "k": "lng_damage_clutch_desc_4",
+    "en": "Severe clutch slipping."
+  },
+  {
+    "id": "980",
+    "k": "lng_damage_dampers_desc_2",
+    "en": "Damper damage."
+  },
+  {
+    "id": "981",
+    "k": "lng_damage_dampers_desc_4",
+    "en": "Damper fluid leaking."
+  },
+  {
+    "id": "982",
+    "k": "lng_damage_dampers_desc_5",
+    "en": "Severe damper fluid leak."
+  },
+  {
+    "id": "983",
+    "k": "lng_damage_differential_desc_2",
+    "en": "Differential whining."
+  },
+  {
+    "id": "984",
+    "k": "lng_damage_differential_desc_4",
+    "en": "Differential gear binding."
+  },
+  {
+    "id": "985",
+    "k": "lng_damage_differential_desc_5",
+    "en": "Differential locking."
+  },
+  {
+    "id": "986",
+    "k": "lng_damage_engine_desc_1",
+    "en": "Drop in engine power."
+  },
+  {
+    "id": "987",
+    "k": "lng_damage_engine_desc_4",
+    "en": "Engine misfiring."
+  },
+  {
+    "id": "988",
+    "k": "lng_damage_engine_desc_5",
+    "en": "Engine failure."
+  },
+  {
+    "id": "989",
+    "k": "lng_damage_exhaust_desc_1",
+    "en": "Damaged exhaust."
+  },
+  {
+    "id": "990",
+    "k": "lng_damage_exhaust_desc_3",
+    "en": "Severely damaged exhaust."
+  },
+  {
+    "id": "991",
+    "k": "lng_damage_exhaust_desc_4",
+    "en": "Loose exhaust."
+  },
+  {
+    "id": "992",
+    "k": "lng_damage_exhaust_desc_5",
+    "en": "Lost exhaust."
+  },
+  {
+    "id": "993",
+    "k": "lng_damage_forced_induction_desc_1",
+    "en": "Slight loss of turbo pressure."
+  },
+  {
+    "id": "994",
+    "k": "lng_damage_forced_induction_desc_2",
+    "en": "Cracked turbo pipe."
+  },
+  {
+    "id": "995",
+    "k": "lng_damage_forced_induction_desc_3",
+    "en": "Loss of turbo pressure."
+  },
+  {
+    "id": "996",
+    "k": "lng_damage_forced_induction_desc_4",
+    "en": "Blown turbo pipe."
+  },
+  {
+    "id": "997",
+    "k": "lng_damage_forced_induction_desc_5",
+    "en": "Major loss of turbo pressure."
+  },
+  {
+    "id": "998",
+    "k": "lng_damage_gearbox_desc_1",
+    "en": "Gearbox whining."
+  },
+  {
+    "id": "999",
+    "k": "lng_damage_gearbox_desc_2",
+    "en": "Gearbox damage."
+  },
+  {
+    "id": "1000",
+    "k": "lng_damage_gearbox_desc_4",
+    "en": "Major gearbox damage."
+  },
+  {
+    "id": "1001",
+    "k": "lng_damage_lights_desc_1",
+    "en": "Broken headlight."
+  },
+  {
+    "id": "1002",
+    "k": "lng_damage_lights_desc_2",
+    "en": "Broken headlights."
+  },
+  {
+    "id": "1003",
+    "k": "lng_damage_lights_desc_5",
+    "en": "All lights broken."
+  },
+  {
+    "id": "1004",
+    "k": "lng_damage_radiator_desc_1",
+    "en": "High engine temperature."
+  },
+  {
+    "id": "1005",
+    "k": "lng_damage_radiator_desc_4",
+    "en": "Radiator steaming."
+  },
+  {
+    "id": "1006",
+    "k": "lng_damage_radiator_desc_5",
+    "en": "Radiator blown."
+  },
+  {
+    "id": "1007",
+    "k": "lng_damage_springs_desc_1",
+    "en": "Anti-roll links damaged."
+  },
+  {
+    "id": "1008",
+    "k": "lng_damage_springs_desc_2",
+    "en": "Bent anti-roll bar."
+  },
+  {
+    "id": "1009",
+    "k": "lng_damage_springs_desc_3",
+    "en": "Suspension damage."
+  },
+  {
+    "id": "1010",
+    "k": "lng_damage_springs_desc_4",
+    "en": "Major suspension damage."
+  },
+  {
+    "id": "1011",
+    "k": "lng_damage_springs_desc_5",
+    "en": "Springs snapped."
+  },
+  {
+    "id": "1012",
+    "k": "lng_damage_suspension_desc_1",
+    "en": "Minor Suspension Damage"
+  },
+  {
+    "id": "1013",
+    "k": "lng_damage_suspension_desc_3",
+    "en": "Major Suspension Damage"
+  },
+  {
+    "id": "1014",
+    "k": "lng_damage_suspension_desc_5",
+    "en": "Critical Suspension Damage"
+  },
+  {
+    "id": "1015",
+    "k": "lng_damage_tyres_desc_1",
+    "en": "Punctured tire."
+  },
+  {
+    "id": "1016",
+    "k": "lng_damage_tyres_desc_1",
+    "en": "Punctured tyre."
+  },
+  {
+    "id": "1017",
+    "k": "lng_damage_tyres_desc_2",
+    "en": "Punctured tires."
+  },
+  {
+    "id": "1018",
+    "k": "lng_damage_tyres_desc_2",
+    "en": "Punctured tyres."
+  },
+  {
+    "id": "1019",
+    "k": "lng_damage_tyres_desc_3",
+    "en": "Blown tire."
+  },
+  {
+    "id": "1020",
+    "k": "lng_damage_tyres_desc_3",
+    "en": "Blown tyre."
+  },
+  {
+    "id": "1021",
+    "k": "lng_damage_tyres_desc_4",
+    "en": "Blown tires."
+  },
+  {
+    "id": "1022",
+    "k": "lng_damage_tyres_desc_4",
+    "en": "Blown tyres."
+  },
+  {
+    "id": "1023",
+    "k": "lng_damage_tyres_desc_5",
+    "en": "All driven tires blown."
+  },
+  {
+    "id": "1024",
+    "k": "lng_damage_tyres_desc_5",
+    "en": "All driven tyres blown."
+  },
+  {
+    "id": "1025",
+    "k": "lng_damage_wheels_desc_1",
+    "en": "Wheel wobbling."
+  },
+  {
+    "id": "1026",
+    "k": "lng_damage_wheels_desc_2",
+    "en": "Track rod damage."
+  },
+  {
+    "id": "1027",
+    "k": "lng_damage_wheels_desc_3",
+    "en": "Track rod snapped."
+  },
+  {
+    "id": "1028",
+    "k": "lng_damage_wheels_desc_4",
+    "en": "Lost wheel."
+  },
+  {
+    "id": "1029",
+    "k": "lng_damage_wheels_desc_5",
+    "en": "Loose wheels."
+  },
+  {
+    "id": "1030",
+    "k": "lng_day_stage_of_stage_count",
+    "en": "DAY {0} - STAGE {1} OF {2}"
+  },
+  {
+    "id": "1031",
+    "k": "lng_debrief_extra_repairs_panel_title",
+    "en": "POST EVENT REPAIRS"
+  },
+  {
+    "id": "1032",
+    "k": "lng_decal_pack_name_decal_pack_1",
+    "en": "Decal Pack 1"
+  },
+  {
+    "id": "1033",
+    "k": "lng_decal_pack_name_decal_pack_2",
+    "en": "Decal Pack 2"
+  },
+  {
+    "id": "1034",
+    "k": "lng_decal_pack_name_decal_pack_3",
+    "en": "Decal Pack 3"
+  },
+  {
+    "id": "1035",
+    "k": "lng_decal_pack_name_decal_pack_4",
+    "en": "Decal Pack 4"
+  },
+  {
+    "id": "1036",
+    "k": "lng_decal_pack_name_decal_pack_5",
+    "en": "Decal Pack 5"
+  },
+  {
+    "id": "1037",
+    "k": "lng_decal_pack_name_decal_pack_6",
+    "en": "Decal Pack 6"
+  },
+  {
+    "id": "1038",
+    "k": "lng_decal_pack_name_decal_pack_7",
+    "en": "Decal Pack 7"
+  },
+  {
+    "id": "1039",
+    "k": "lng_decal_pack_name_decal_pack_8",
+    "en": "Decal Pack 8"
+  },
+  {
+    "id": "1040",
+    "k": "lng_decal_pack_name_decal_pack_9",
+    "en": "Decal Pack 9"
+  },
+  {
+    "id": "1041",
+    "k": "lng_default_championship_name",
+    "en": "DEFAULT CHAMPIONSHIP"
+  },
+  {
+    "id": "1042",
+    "k": "lng_default_codriver_first_name",
+    "en": "Co"
+  },
+  {
+    "id": "1043",
+    "k": "lng_default_player_first_name",
+    "en": "Rally"
+  },
+  {
+    "id": "1044",
+    "k": "lng_default_player_last_name",
+    "en": "Driver"
+  },
+  {
+    "id": "1045",
+    "k": "lng_device_driver",
+    "en": "Device Driver"
+  },
+  {
+    "id": "1046",
+    "k": "lng_device_input_throttle",
+    "en": "Throttle"
+  },
+  {
+    "id": "1047",
+    "k": "lng_device_is_calibrated",
+    "en": "Calibrated"
+  },
+  {
+    "id": "1048",
+    "k": "lng_device_not_calibrated",
+    "en": "Not Calibrated"
+  },
+  {
+    "id": "1049",
+    "k": "lng_device_setting_deadzone",
+    "en": "Deadzone"
+  },
+  {
+    "id": "1050",
+    "k": "lng_device_setting_input_reporting",
+    "en": "Input Reporting"
+  },
+  {
+    "id": "1051",
+    "k": "lng_device_setting_main_all_inputs",
+    "en": "ALL INPUTS"
+  },
+  {
+    "id": "1052",
+    "k": "lng_device_setting_main_input_reporting",
+    "en": "INPUT REPORTING"
+  },
+  {
+    "id": "1053",
+    "k": "lng_device_setting_main_selected_device_input",
+    "en": "SELECTED DEVICE"
+  },
+  {
+    "id": "1054",
+    "k": "lng_device_status_primary",
+    "en": "Primary Device"
+  },
+  {
+    "id": "1055",
+    "k": "lng_devicetype_joystick",
+    "en": "Joystick"
+  },
+  {
+    "id": "1056",
+    "k": "lng_devicetype_pedal",
+    "en": "Pedals"
+  },
+  {
+    "id": "1057",
+    "k": "lng_devicetype_shifter",
+    "en": "Shifter"
+  },
+  {
+    "id": "1058",
+    "k": "lng_devicetype_wheel",
+    "en": "Wheel"
+  },
+  {
+    "id": "1059",
+    "k": "lng_dialog-leaderboard_failure_title",
+    "en": "FAILED TO DOWNLOAD LEADERBOARD"
+  },
+  {
+    "id": "1060",
+    "k": "lng_dialog_are_you_sure_body",
+    "en": "Any unsaved progress will be lost"
+  },
+  {
+    "id": "1061",
+    "k": "lng_dialog_are_you_sure_title",
+    "en": "ARE YOU SURE?"
+  },
+  {
+    "id": "1062",
+    "k": "lng_dialog_calendar_event_skip_body",
+    "en": "If you continue you will not earn Championship points for this Event."
+  },
+  {
+    "id": "1063",
+    "k": "lng_dialog_calendar_event_skip_title",
+    "en": "ARE YOU SURE YOU WANT TO SKIP THIS EVENT?"
+  },
+  {
+    "id": "1064",
+    "k": "lng_dialog_cancel_add_event_body",
+    "en": "Leaving this screen without 'Confirming' the Championship will undo all recent changes and remove the event that has been added. Are you sure you wish to continue?"
+  },
+  {
+    "id": "1065",
+    "k": "lng_dialog_cancel_add_event_title",
+    "en": "CANCEL ADD EVENT"
+  },
+  {
+    "id": "1066",
+    "k": "lng_dialog_career_builder_purchase_vehicle_will_exceed_budgets_body",
+    "en": "By purchasing this vehicle you will exceed your weekly vehicle budget. If you do not sell this or another vehicle before progressing to the next calendar week you will harm your relationship with your benefactor."
+  },
+  {
+    "id": "1067",
+    "k": "lng_dialog_career_calendar_garage_expansion_already_max_body",
+    "en": "Congratulations, the Garage is fully upgraded; further expansion is not possible."
+  },
+  {
+    "id": "1068",
+    "k": "lng_dialog_career_calendar_garage_expansion_already_max_title",
+    "en": "Expansion Complete"
+  },
+  {
+    "id": "1069",
+    "k": "lng_dialog_career_calendar_missing_first_week_of_marquee_championship_title",
+    "en": "\t<cf>WARNING"
+  },
+  {
+    "id": "1070",
+    "k": "lng_dialog_career_calendar_missing_first_week_of_marquee_jwrc_championship_body",
+    "en": "The Junior WRC competition starts this week and your benefactor has set a target for it. Are you sure that you want to skip this event?"
+  },
+  {
+    "id": "1071",
+    "k": "lng_dialog_career_calendar_missing_first_week_of_marquee_wrc2_championship_body",
+    "en": "The WRC2 competition starts this week and your benefactor has set a target for it. Are you sure that you want to skip this event?"
+  },
+  {
+    "id": "1072",
+    "k": "lng_dialog_career_calendar_missing_first_week_of_marquee_wrc_championship_body",
+    "en": "The WRC competition starts this week and your benefactor has set a target for it. Are you sure that you want to skip this event?"
+  },
+  {
+    "id": "1073",
+    "k": "lng_dialog_career_calendar_missing_teammate_for_benefactor_target_body",
+    "en": "One of your targets focuses on the Team Competition for this Championship but you do not currently have a Teammate. They can be hired through a Talent Scout activity in the Calendar and can join you for later events in the championship. Would you like to continue to the event anyway?"
+  },
+  {
+    "id": "1074",
+    "k": "lng_dialog_career_calendar_missing_teammate_not_for_benefactor_target_body",
+    "en": "You had a teammate for this championship but you do not currently have a teammate. They can be hired through a Talent Scout activity in the Calandar and can join you for later events in the championship. Would you like to continue to the event anyway?"
+  },
+  {
+    "id": "1075",
+    "k": "lng_dialog_career_calendar_missing_teammate_vehicle_for_class_for_activity_target_body",
+    "en": "One of your targets focuses on the Team Competition for this Championship but you do not currently have an applicable vehicle for your Teammate. Teammate vehicles can be added via the Garage. Would you like to continue to the event anyway?"
+  },
+  {
+    "id": "1076",
+    "k": "lng_dialog_career_calendar_missing_teammate_vehicle_for_class_for_activity_target_not_for_benefactor_body",
+    "en": "You do not currently have an applicable vehicle for your Teammate. Teammate vehicles can be added via the Garage. Would you like to continue to the event anyway?"
+  },
+  {
+    "id": "1077",
+    "k": "lng_dialog_career_calendar_missing_vehicle_in_class_body",
+    "en": "You don't own a vehicle of the required class to enter this event. You must purchase or build a vehicle in the required class."
+  },
+  {
+    "id": "1078",
+    "k": "lng_dialog_career_calendar_over_budget_warning_body",
+    "en": "The team is currently over spending in one or more of its Budgets. Progressing with this week's activity, whilst over Budget, will displease the Benefactor and impact your relationship."
+  },
+  {
+    "id": "1079",
+    "k": "lng_dialog_career_calendar_resigned_from_championship_body",
+    "en": "You have previously entered and resigned from this competition. However, you will be able to try again next season."
+  },
+  {
+    "id": "1080",
+    "k": "lng_dialog_career_calendar_resigned_from_championship_title",
+    "en": "CHAMPIONSHIP UNAVAILABLE"
+  },
+  {
+    "id": "1081",
+    "k": "lng_dialog_career_calendar_staff_expansion_already_max_body",
+    "en": "Congratulations, the Engineer Roster is fully upgraded; further expansion is not possible."
+  },
+  {
+    "id": "1082",
+    "k": "lng_dialog_career_garage_not_enough_space_body",
+    "en": "All available Garage spaces are full. Selling a vehicle will free up a space; or you can expand your Garage by selecting one of the Garage Expansion activities, in the Calendar, when they appear in the current week."
+  },
+  {
+    "id": "1083",
+    "k": "lng_dialog_career_garage_not_enough_space_title",
+    "en": "Not Enough Space"
+  },
+  {
+    "id": "1084",
+    "k": "lng_dialog_career_garage_over_budget_body",
+    "en": "Your team is currently over spending in the Vehicle Budget and so cannot add or build any new vehicles. Removing vehicles from your Garage will free up some of the Budget."
+  },
+  {
+    "id": "1085",
+    "k": "lng_dialog_career_garage_over_budget_title",
+    "en": "Over Budget"
+  },
+  {
+    "id": "1086",
+    "k": "lng_dialog_career_garage_purchase_teammate_confirm_body",
+    "en": "The vehicle for your teammate will cost Cr {0}. Are you sure you wish to continue?"
+  },
+  {
+    "id": "1087",
+    "k": "lng_dialog_career_garage_purchase_teammate_confirm_title",
+    "en": "ADD TEAMMATE VEHICLE?"
+  },
+  {
+    "id": "1088",
+    "k": "lng_dialog_career_garage_sell_in_use_player_vehicle_confirm_body",
+    "en": "Selling a vehicle that you're using in an ongoing championship resigns you from that competition. No further progress will be possible in that championship, it cannot be re-entered and any incomplete target relating to it will be failed. Are you sure you wish to continue?"
+  },
+  {
+    "id": "1089",
+    "k": "lng_dialog_career_garage_sell_in_use_player_vehicle_confirm_title",
+    "en": "Sell Championship Vehicle?"
+  },
+  {
+    "id": "1090",
+    "k": "lng_dialog_career_garage_sell_in_use_teammate_vehicle_confirm_body",
+    "en": "Selling a vehicle used by a team mate, in an ongoing championship, means they will not be able to earn championship points for the team until the vehicle is repurchased. Are you sure you wish to continue?"
+  },
+  {
+    "id": "1091",
+    "k": "lng_dialog_career_garage_sell_in_use_teammate_vehicle_confirm_title",
+    "en": "Sell Teammate Championship Vehicle?"
+  },
+  {
+    "id": "1092",
+    "k": "lng_dialog_career_garage_sell_player_vehicle_confirm_body",
+    "en": "This will remove the vehicle from your Garage and restore its value to your vehicle budget. Are you sure you wish to continue?"
+  },
+  {
+    "id": "1093",
+    "k": "lng_dialog_career_garage_sell_player_vehicle_confirm_title",
+    "en": "Sell Vehicle?"
+  },
+  {
+    "id": "1094",
+    "k": "lng_dialog_career_garage_sell_teammate_vehicle_confirm_body",
+    "en": "This will remove the teammate's vehicle from your Garage and restore its value to your vehicle budget. Are you sure you wish to continue?"
+  },
+  {
+    "id": "1095",
+    "k": "lng_dialog_career_garage_sell_teammate_vehicle_confirm_title",
+    "en": "Sell Teammate Vehicle?"
+  },
+  {
+    "id": "1096",
+    "k": "lng_dialog_career_hospitality_repairs_warning_body",
+    "en": "Repairs to this loaned vehicle must be paid for during the Hospitality event. Severe damage may cost {0} or more. Are you sure you wish to enter the competition?"
+  },
+  {
+    "id": "1097",
+    "k": "lng_dialog_career_team_hub_has_no_engineers_body",
+    "en": "You currently have no Engineers available, visit the Talent Scout in the Calendar to hire some."
+  },
+  {
+    "id": "1098",
+    "k": "lng_dialog_career_team_hub_has_no_teammate_body",
+    "en": "You currently have no Teammate available, visit the Talent Scout in the Calendar to hire one."
+  },
+  {
+    "id": "1099",
+    "k": "lng_dialog_career_vehicle_select_no_team_entry_description",
+    "en": "One of your targets focuses on this championship's team competition but selecting a single vehicle means you'll race in this event alone. In order for a teammate to join you please select one of the grouped vehicle pairs. You can add additional vehicles for your teammate via the Garage."
+  },
+  {
+    "id": "1100",
+    "k": "lng_dialog_career_vehicle_select_no_teammate_description",
+    "en": "You are entering two vehicles into this team championship but currently lack a teammate to drive the second vehicle in the group. They can be added through a Talent Scout activity in the Calendar and can join you for later events in the championship. Would you like to continue to the event anyway?"
+  },
+  {
+    "id": "1101",
+    "k": "lng_dialog_change_event_location_body",
+    "en": "This new event will replace the existing one at this point in the Championship. All unsaved event details will be lost. Are you sure?"
+  },
+  {
+    "id": "1102",
+    "k": "lng_dialog_clubs_abandon_champ_fail_body",
+    "en": "Failed to abandon the selected Club Championship"
+  },
+  {
+    "id": "1103",
+    "k": "lng_dialog_clubs_abandon_champ_fail_title",
+    "en": "ABANDON CHAMPIONSHIP"
+  },
+  {
+    "id": "1104",
+    "k": "lng_dialog_clubs_champ_ending_soon_body",
+    "en": "This Club event has less than 60 minutes remaining. For any stages that you do not complete a maximum stage time will be applied. Are you sure you want to continue?"
+  },
+  {
+    "id": "1105",
+    "k": "lng_dialog_clubs_ft_sharing_allowed_body",
+    "en": "Club championship data can be exported and used outside of EA SPORTS™ WRC. Do you want to allow your EA Account ID to be exported with this data? If you opt not to allow this, your EA Account ID will be hidden. This setting can also be changed via Game Preferences."
+  },
+  {
+    "id": "1106",
+    "k": "lng_dialog_clubs_ft_sharing_not_allowed_body",
+    "en": "Club championship data can be exported and used outside of EA SPORTS™ WRC. This is currently set to Not Allowed meaning that your EA Account ID will be hidden on any exported data. This setting can be changed via Game Preferences."
+  },
+  {
+    "id": "1107",
+    "k": "lng_dialog_clubs_ft_sharing_title",
+    "en": "EA ACCOUNT ID PRIVACY"
+  },
+  {
+    "id": "1108",
+    "k": "lng_dialog_confirm_chief_engineer_perks_body",
+    "en": "Are you sure you want to continue with the selected Chief Engineer Perks?"
+  },
+  {
+    "id": "1109",
+    "k": "lng_dialog_crossplatform_setting_confirm_kick_body",
+    "en": "Disabling Cross Platform racing will kick players using other platforms from your session. Are you sure that you want to continue?"
+  },
+  {
+    "id": "1110",
+    "k": "lng_dialog_crossplatform_setting_confirm_kick_title",
+    "en": "END CROSS PLATFORM RACING"
+  },
+  {
+    "id": "1111",
+    "k": "lng_dialog_custom_events_clear_event_body",
+    "en": "Are you sure you want to clear this event? All unsaved changes will be lost."
+  },
+  {
+    "id": "1112",
+    "k": "lng_dialog_custom_stages_back_out_body",
+    "en": "Are you sure you want to quit from selecting stages? All recent changes will be lost."
+  },
+  {
+    "id": "1113",
+    "k": "lng_dialog_delete_device_body",
+    "en": "Are you sure you want to delete this device? All previously saved bindings and settings will be lost. "
+  },
+  {
+    "id": "1114",
+    "k": "lng_dialog_device_calibrate_body",
+    "en": "A supported device had been detected, would you like to calibrate this now? You can calibrate any connected device via the Controls menu in Options and Extras at anytime."
+  },
+  {
+    "id": "1115",
+    "k": "lng_dialog_device_calibrate_title",
+    "en": "CALIBRATE DEVICE?"
+  },
+  {
+    "id": "1116",
+    "k": "lng_dialog_device_dual_bound_body",
+    "en": "There are inputs which are dual bound. This may have an effect on your gameplay experience. Are you sure you want to continue?"
+  },
+  {
+    "id": "1117",
+    "k": "lng_dialog_device_saturation_and_deadzone_body",
+    "en": "Adjust this devices' Deadzone and Saturation."
+  },
+  {
+    "id": "1118",
+    "k": "lng_dialog_device_unknown_body",
+    "en": "The device type is uknown. To ensure your connected device functions correctly it is recommended that you define what type of device it is first."
+  },
+  {
+    "id": "1119",
+    "k": "lng_dialog_device_unknown_body",
+    "en": "The device type is unknown. To ensure your connected device functions correctly it is recommended that you define what type of device it is first."
+  },
+  {
+    "id": "1120",
+    "k": "lng_dialog_esports_champ_ending_soon_body",
+    "en": "This Esports event has less than 60 minutes remaining. For any stages that you do not complete a maximum stage time will be applied. Are you sure you want to continue?"
+  },
+  {
+    "id": "1121",
+    "k": "lng_dialog_esports_cross_platform_required_body",
+    "en": "Cross-Platform is required to be enabled for Esports."
+  },
+  {
+    "id": "1122",
+    "k": "lng_dialog_esports_data_sharing_required_body",
+    "en": "Clubs Data Sharing must be set to 'allowed' to enter Esports."
+  },
+  {
+    "id": "1123",
+    "k": "lng_dialog_esports_ft_sharing_allowed_body",
+    "en": "Esports championship data can be exported and used outside of EA SPORTS™ WRC. Do you want to allow your EA Account ID to be exported with this data? If you opt not to allow this, your EA Account ID will be hidden. This setting can also be changed via Game Preferences."
+  },
+  {
+    "id": "1124",
+    "k": "lng_dialog_esports_ft_sharing_not_allowed_body",
+    "en": "Esports championship data can be exported and used outside of EA SPORTS™ WRC. This is currently set to Not Allowed meaning that your EA Account ID will be hidden on any exported data. This setting can be changed via Game Preferences."
+  },
+  {
+    "id": "1125",
+    "k": "lng_dialog_esports_ghost_sharing_required_body",
+    "en": "Ghost Sharing is required to be enabled for Esports."
+  },
+  {
+    "id": "1126",
+    "k": "lng_dialog_esports_ugc_required_body",
+    "en": "User generated content must be set to 'visible' to enter Esports."
+  },
+  {
+    "id": "1127",
+    "k": "lng_dialog_eula_declined_gdpr_body",
+    "en": "You must accept the User Agreement to continue. You understand EA’s Privacy & Cookie Policy applies."
+  },
+  {
+    "id": "1128",
+    "k": "lng_dialog_eula_declined_row_body",
+    "en": "You must accept the User Agreement and EA’s Privacy and Cookie Policy to continue."
+  },
+  {
+    "id": "1129",
+    "k": "lng_dialog_feature_functionality_input_limited_body",
+    "en": "Some functionality of this feature cannot be used with the connected input devices. Please connect a controller to get the full functionality restored."
+  },
+  {
+    "id": "1130",
+    "k": "lng_dialog_feature_functionality_input_limited_title",
+    "en": "FUNCTIONALITY LIMITED"
+  },
+  {
+    "id": "1131",
+    "k": "lng_dialog_generation_settings_discard_changes_body",
+    "en": "You are about to discard changes made to generation filters, are you sure?"
+  },
+  {
+    "id": "1132",
+    "k": "lng_dialog_generation_settings_revert_to_default_body",
+    "en": "Are you sure you want to reset generation filter settings to default?"
+  },
+  {
+    "id": "1133",
+    "k": "lng_dialog_generic_quit_are_you_sure_body",
+    "en": "Are you sure you want to quit?"
+  },
+  {
+    "id": "1134",
+    "k": "lng_dialog_generic_quit_with_unsaved_progress_body",
+    "en": "Are you sure you want to quit? Any unsaved progress will be lost."
+  },
+  {
+    "id": "1135",
+    "k": "lng_dialog_generic_stagetime_exceeded_title",
+    "en": "STAGE MAXIMUM EXCEEDED"
+  },
+  {
+    "id": "1136",
+    "k": "lng_dialog_go_to_rally_school_body",
+    "en": "As a new player we recommend attending the Rally School. The Rally School will teach you the basics of how to rally, and will increase your control and confidence with the car."
+  },
+  {
+    "id": "1137",
+    "k": "lng_dialog_go_to_rally_school_title",
+    "en": "GO TO RALLY SCHOOL?"
+  },
+  {
+    "id": "1138",
+    "k": "lng_dialog_has_repairable_damage_body",
+    "en": "Your vehicle currently has damage which may impact its performance on stage. Are you sure you want to continue?"
+  },
+  {
+    "id": "1139",
+    "k": "lng_dialog_has_terminal_damage_body",
+    "en": "Your vehicle currently has a failed part and cannot continue to stage. You will need to repair the part to continue or if there is not enough time have to retire from the event."
+  },
+  {
+    "id": "1140",
+    "k": "lng_dialog_le_abandon_body",
+    "en": "Are you sure you want to leave the Livery Editor? All unsaved livery progress will be lost. "
+  },
+  {
+    "id": "1141",
+    "k": "lng_dialog_le_delete_confirm_body",
+    "en": "Are you sure you want to delete this Livery?"
+  },
+  {
+    "id": "1142",
+    "k": "lng_dialog_le_overwrite_confirm_body",
+    "en": "Are you sure you want to overwrite this Livery Template? The existing template will be lost."
+  },
+  {
+    "id": "1143",
+    "k": "lng_dialog_leaderboard_failure_title",
+    "en": "LEADERBOARD FAILED TO DOWNLOAD"
+  },
+  {
+    "id": "1144",
+    "k": "lng_dialog_leaderboard_ghost_private_body",
+    "en": "This player has made their ghosts private and so they cannot be downloaded. "
+  },
+  {
+    "id": "1145",
+    "k": "lng_dialog_leaderboard_no_entries_body",
+    "en": "There are no leaderboard entries."
+  },
+  {
+    "id": "1146",
+    "k": "lng_dialog_livery_editor_no_save_slots_available_body",
+    "en": "Save slots full. Are you sure you want to save this livery design? It will overwrite the selected entry."
+  },
+  {
+    "id": "1147",
+    "k": "lng_dialog_multiplayer_leave_session_body",
+    "en": "Are you sure you wish to leave the session?"
+  },
+  {
+    "id": "1148",
+    "k": "lng_dialog_no_shakedown_damage_repair_body",
+    "en": "If you repair your vehicle you will no longer be able to access Shakedown anymore. Are you sure you want to continue?"
+  },
+  {
+    "id": "1149",
+    "k": "lng_dialog_no_shakedowns_completed_body",
+    "en": "You have not participated in Shakedown and will not receive an extra set of tires for the event."
+  },
+  {
+    "id": "1150",
+    "k": "lng_dialog_no_shakedowns_completed_body",
+    "en": "You have not participated in Shakedown and will not receive an extra set of tyres for the event."
+  },
+  {
+    "id": "1151",
+    "k": "lng_dialog_option_abandon",
+    "en": "ABANDON"
+  },
+  {
+    "id": "1152",
+    "k": "lng_dialog_option_allow",
+    "en": "ALLOW"
+  },
+  {
+    "id": "1153",
+    "k": "lng_dialog_option_applytuning",
+    "en": "APPLY TUNING"
+  },
+  {
+    "id": "1154",
+    "k": "lng_dialog_option_buyone",
+    "en": "ADD ONE VEHICLE"
+  },
+  {
+    "id": "1155",
+    "k": "lng_dialog_option_buytwo",
+    "en": "ADD TWO VEHICLES"
+  },
+  {
+    "id": "1156",
+    "k": "lng_dialog_option_calibratelater",
+    "en": "CALIBRATE LATER"
+  },
+  {
+    "id": "1157",
+    "k": "lng_dialog_option_calibratenow",
+    "en": "CALIBRATE NOW"
+  },
+  {
+    "id": "1158",
+    "k": "lng_dialog_option_cancel",
+    "en": "CANCEL"
+  },
+  {
+    "id": "1159",
+    "k": "lng_dialog_option_changefilter",
+    "en": "CHANGE FILTERS"
+  },
+  {
+    "id": "1160",
+    "k": "lng_dialog_option_closed",
+    "en": "CLOSED"
+  },
+  {
+    "id": "1161",
+    "k": "lng_dialog_option_clubname",
+    "en": "INAPPROPRIATE CLUB NAME"
+  },
+  {
+    "id": "1162",
+    "k": "lng_dialog_option_continuealone",
+    "en": "CONTINUE ALONE"
+  },
+  {
+    "id": "1163",
+    "k": "lng_dialog_option_continuedontshowagainthissession",
+    "en": "CONTINUE WITHOUT REMINDERS"
+  },
+  {
+    "id": "1164",
+    "k": "lng_dialog_option_continuedontshowmethisagain",
+    "en": "CONTINUE AND DON'T SHOW ME THIS AGAIN"
+  },
+  {
+    "id": "1165",
+    "k": "lng_dialog_option_createnew",
+    "en": "CREATE NEW"
+  },
+  {
+    "id": "1166",
+    "k": "lng_dialog_option_createnewsession",
+    "en": "CREATE NEW SESSION"
+  },
+  {
+    "id": "1167",
+    "k": "lng_dialog_option_disable",
+    "en": "DISABLE"
+  },
+  {
+    "id": "1168",
+    "k": "lng_dialog_option_discardtuning",
+    "en": "DISCARD TUNING"
+  },
+  {
+    "id": "1169",
+    "k": "lng_dialog_option_disruptivegameplay",
+    "en": "Disruptive Gameplay"
+  },
+  {
+    "id": "1170",
+    "k": "lng_dialog_option_donotallow",
+    "en": "DON'T ALLOW"
+  },
+  {
+    "id": "1171",
+    "k": "lng_dialog_option_ealogin",
+    "en": "Sign Up"
+  },
+  {
+    "id": "1172",
+    "k": "lng_dialog_option_endseasonandcontinue",
+    "en": "END SEASON AND CONTINUE"
+  },
+  {
+    "id": "1173",
+    "k": "lng_dialog_option_exit",
+    "en": "EXIT"
+  },
+  {
+    "id": "1174",
+    "k": "lng_dialog_option_fireteammate",
+    "en": "FIRE"
+  },
+  {
+    "id": "1175",
+    "k": "lng_dialog_option_gotoinputoptions",
+    "en": "GO TO INPUT OPTIONS"
+  },
+  {
+    "id": "1176",
+    "k": "lng_dialog_option_gotorepairs",
+    "en": "GO TO REPAIRS"
+  },
+  {
+    "id": "1177",
+    "k": "lng_dialog_option_gotostore",
+    "en": "GO TO STORE"
+  },
+  {
+    "id": "1178",
+    "k": "lng_dialog_option_harassmentthreats",
+    "en": "Harassment or Threats"
+  },
+  {
+    "id": "1179",
+    "k": "lng_dialog_option_inappropriatecontent",
+    "en": "Inappropriate Content"
+  },
+  {
+    "id": "1180",
+    "k": "lng_dialog_option_inviteplayers",
+    "en": "INVITE PLAYERS"
+  },
+  {
+    "id": "1181",
+    "k": "lng_dialog_option_jumptogarage",
+    "en": "GO TO GARAGE"
+  },
+  {
+    "id": "1182",
+    "k": "lng_dialog_option_leaderboard",
+    "en": "GO TO LEADERBOARD"
+  },
+  {
+    "id": "1183",
+    "k": "lng_dialog_option_makesessionpublic",
+    "en": "MAKE SESSION PUBLIC"
+  },
+  {
+    "id": "1184",
+    "k": "lng_dialog_option_no",
+    "en": "NO"
+  },
+  {
+    "id": "1185",
+    "k": "lng_dialog_option_ok",
+    "en": "OK"
+  },
+  {
+    "id": "1186",
+    "k": "lng_dialog_option_overwrite",
+    "en": "CREATE NEW SAVE GAME"
+  },
+  {
+    "id": "1187",
+    "k": "lng_dialog_option_playername",
+    "en": "INAPPROPRIATE PLAYER NAME"
+  },
+  {
+    "id": "1188",
+    "k": "lng_dialog_option_quitclubs",
+    "en": "QUIT CLUBS"
+  },
+  {
+    "id": "1189",
+    "k": "lng_dialog_option_quitquickplay",
+    "en": "QUIT QUICK PLAY"
+  },
+  {
+    "id": "1190",
+    "k": "lng_dialog_option_quitwithoutsaving",
+    "en": "QUIT WITHOUT SAVING"
+  },
+  {
+    "id": "1191",
+    "k": "lng_dialog_option_recover",
+    "en": "REMOVE CONTENT AND CONTINUE "
+  },
+  {
+    "id": "1192",
+    "k": "lng_dialog_option_report",
+    "en": "REPORT"
+  },
+  {
+    "id": "1193",
+    "k": "lng_dialog_option_report_livery",
+    "en": "INAPPROPRIATE LIVERY"
+  },
+  {
+    "id": "1194",
+    "k": "lng_dialog_option_restore",
+    "en": "RESTORE"
+  },
+  {
+    "id": "1195",
+    "k": "lng_dialog_option_retire",
+    "en": "RETIRE"
+  },
+  {
+    "id": "1196",
+    "k": "lng_dialog_option_retry",
+    "en": "RETRY"
+  },
+  {
+    "id": "1197",
+    "k": "lng_dialog_option_return",
+    "en": "RETURN"
+  },
+  {
+    "id": "1198",
+    "k": "lng_dialog_option_saveandquit",
+    "en": "SAVE AND QUIT"
+  },
+  {
+    "id": "1199",
+    "k": "lng_dialog_option_saveandretrylater",
+    "en": "SAVE AND RETRY LATER"
+  },
+  {
+    "id": "1200",
+    "k": "lng_dialog_option_send",
+    "en": "SEND"
+  },
+  {
+    "id": "1201",
+    "k": "lng_dialog_option_sessionbrowser",
+    "en": "SESSION BROWSER"
+  },
+  {
+    "id": "1202",
+    "k": "lng_dialog_option_skip",
+    "en": "SKIP"
+  },
+  {
+    "id": "1203",
+    "k": "lng_dialog_option_skipevent",
+    "en": "SKIP EVENT"
+  },
+  {
+    "id": "1204",
+    "k": "lng_dialog_option_tryagain",
+    "en": "TRY AGAIN"
+  },
+  {
+    "id": "1205",
+    "k": "lng_dialog_option_visitmotorshow",
+    "en": "VISIT MOTOR SHOW"
+  },
+  {
+    "id": "1206",
+    "k": "lng_dialog_option_yes",
+    "en": "YES"
+  },
+  {
+    "id": "1207",
+    "k": "lng_dialog_overwrite_existing_event_body",
+    "en": "Generating a new event will replace the current one. All unsaved changes will be lost. Do you wish to continue?"
+  },
+  {
+    "id": "1208",
+    "k": "lng_dialog_overwrite_existing_event_stages_body",
+    "en": "Are you sure want to overwrite the existing event? All unsaved changes will be lost."
+  },
+  {
+    "id": "1209",
+    "k": "lng_dialog_platform_overlay_not_available_body",
+    "en": "Unable to display overlay. Please ensure it is enabled in the Platform Client settings and restart the game."
+  },
+  {
+    "id": "1210",
+    "k": "lng_dialog_platform_overlay_not_available_title",
+    "en": "OVERLAY NOT ENABLED"
+  },
+  {
+    "id": "1211",
+    "k": "lng_dialog_quit_game_confirm_body",
+    "en": "Are you sure you want to exit to desktop?"
+  },
+  {
+    "id": "1212",
+    "k": "lng_dialog_quit_game_confirm_title",
+    "en": "QUIT GAME"
+  },
+  {
+    "id": "1213",
+    "k": "lng_dialog_quit_rally_school_body",
+    "en": "Are you sure you want to leave the Rally School?"
+  },
+  {
+    "id": "1214",
+    "k": "lng_dialog_race_flow_no_shakedown_body",
+    "en": "Are you sure you want to return to the service area? If you do not complete a shakedown run you will forfeit gaining an extra set of tires for this event. You have {0} shakedown attempts remaining."
+  },
+  {
+    "id": "1215",
+    "k": "lng_dialog_race_flow_no_shakedown_body",
+    "en": "Are you sure you want to return to the service area? If you do not complete a shakedown run you will forfeit gaining an extra set of tyres for this event. You have {0} shakedown attempts remaining."
+  },
+  {
+    "id": "1216",
+    "k": "lng_dialog_race_flow_restart_body",
+    "en": "Are you sure you want to restart the stage? You have {0} {0}|plural(one=restart,other=restarts) available."
+  },
+  {
+    "id": "1217",
+    "k": "lng_dialog_race_flow_unlimited_restart_body",
+    "en": "Are you sure you want to restart the stage? You will lose all current stage progress."
+  },
+  {
+    "id": "1218",
+    "k": "lng_dialog_recommended_repairs_warning_body",
+    "en": "Any repairs you have selected will be replaced with the Recommended Repairs. "
+  },
+  {
+    "id": "1219",
+    "k": "lng_dialog_report_sent_fail_body",
+    "en": "There has been an error with your player report and it has not been submitted successfully. Please check your network connection or try again later.<cf><cf>Go to ea.com/unable-to-connect to find out more."
+  },
+  {
+    "id": "1220",
+    "k": "lng_dialog_report_sent_fail_title",
+    "en": "REPORT FAILED"
+  },
+  {
+    "id": "1221",
+    "k": "lng_dialog_report_sent_success_body",
+    "en": "Your player report has been successfully submitted and will be reviewed by the EA Customer Service Team to determine appropriate action. Thank you for ensuring that we can all play together safely and fairly."
+  },
+  {
+    "id": "1222",
+    "k": "lng_dialog_report_sent_success_title",
+    "en": "REPORT SUCCESS"
+  },
+  {
+    "id": "1223",
+    "k": "lng_dialog_reset_weather_body",
+    "en": "Are you sure you want to change this event's season? One or more of the stages will have their weather condition reset to the default."
+  },
+  {
+    "id": "1224",
+    "k": "lng_dialog_reset_weather_title",
+    "en": "CHANGE SEASON"
+  },
+  {
+    "id": "1225",
+    "k": "lng_dialog_results_hub_recovertonextday_body",
+    "en": "If you recover to the next day, you will receive the maximum penalty for the {0} missed stages."
+  },
+  {
+    "id": "1226",
+    "k": "lng_dialog_results_hub_retire_from_the_last_day_body",
+    "en": "If you retire from the event, you will receive no Championship Points for this event."
+  },
+  {
+    "id": "1227",
+    "k": "lng_dialog_results_hub_retirefrom_primaryleg_body",
+    "en": "Are you sure you want to retire from the Primary Leg?"
+  },
+  {
+    "id": "1228",
+    "k": "lng_dialog_results_hub_retirefromscenarioevent_body",
+    "en": "If you retire from the event, this Moment will be failed."
+  },
+  {
+    "id": "1229",
+    "k": "lng_dialog_scenario_ea_play_failed_body",
+    "en": "Failed to retrieve profile from EA Play"
+  },
+  {
+    "id": "1230",
+    "k": "lng_dialog_scenario_ea_play_failed_title",
+    "en": "CONNECTION ERROR"
+  },
+  {
+    "id": "1231",
+    "k": "lng_dialog_settings_discard_changes_body",
+    "en": "Are you sure you want to discard your changes? Settings will be reverted to their prior state."
+  },
+  {
+    "id": "1232",
+    "k": "lng_dialog_settings_revert_to_default_body",
+    "en": "Are you sure you want to revert your settings to default? Any changes you have made will be lost."
+  },
+  {
+    "id": "1233",
+    "k": "lng_dialog_shakedown_tyre_change_body",
+    "en": "If you change your tires, you will not be able to attempt anymore shakedown runs, are you sure?"
+  },
+  {
+    "id": "1234",
+    "k": "lng_dialog_shakedown_tyre_change_body",
+    "en": "If you change your tyres, you will not be able to attempt anymore shakedown runs, are you sure?"
+  },
+  {
+    "id": "1235",
+    "k": "lng_dialog_shakedown_tyre_change_title",
+    "en": "CONFIRM TIRES CHANGE"
+  },
+  {
+    "id": "1236",
+    "k": "lng_dialog_shakedown_tyre_change_title",
+    "en": "CONFIRM TYRES CHANGE"
+  },
+  {
+    "id": "1237",
+    "k": "lng_dialog_shakedowns_disabled_warning_body",
+    "en": "You will not be able to complete anymore shakedown runs if you opt to repair your vehicle. Are you sure you want to continue?"
+  },
+  {
+    "id": "1238",
+    "k": "lng_dialog_stagetime_exceeded_nextday_body",
+    "en": "You have exceeded the stage maximum time, and cannot complete this stage. You can either restart the stage if available or recover to the next day."
+  },
+  {
+    "id": "1239",
+    "k": "lng_dialog_stagetime_exceeded_nonextday_body",
+    "en": "You have exceeded the stage maximum time and cannot complete this stage. You can either restart the stage if available or retire from the event."
+  },
+  {
+    "id": "1240",
+    "k": "lng_dialog_stagetime_exceeded_primaryleg_body",
+    "en": "You have exceeded the stage maximum time, and cannot complete this stage. You can either restart the stage if available or recover to the Final Leg."
+  },
+  {
+    "id": "1241",
+    "k": "lng_dialog_terminal_damage_multiplayer_body",
+    "en": "Your car has suffered terminal damage and cannot complete this stage. You will have to retire from the stage."
+  },
+  {
+    "id": "1242",
+    "k": "lng_dialog_terminal_damage_nonextday_body",
+    "en": "Your car has suffered terminal damage and cannot complete this stage. You can either restart the stage if available, or retire from the event."
+  },
+  {
+    "id": "1243",
+    "k": "lng_dialog_terminal_damage_notenoughtime_body",
+    "en": "Your car has suffered terminal damage and there is not enough time to fix it in the next day’s service area. You can either restart the stage if available or retire from the event."
+  },
+  {
+    "id": "1244",
+    "k": "lng_dialog_terminal_damage_primaryleg_body",
+    "en": "Your car has suffered terminal damage and cannot complete this stage. You can either restart the stage if available or recover to the Final Leg."
+  },
+  {
+    "id": "1245",
+    "k": "lng_dialog_terminal_damage_timetorepair_body",
+    "en": "Your car has suffered terminal damage and cannot complete this stage. You can either restart the stage if available or recover to the next day."
+  },
+  {
+    "id": "1246",
+    "k": "lng_dialog_time_trial_no_ghosts_body",
+    "en": "You have not yet set a time on this stage and do not have any ghost data. However you can add ghosts to compete against via Player Options on the leaderboard."
+  },
+  {
+    "id": "1247",
+    "k": "lng_dialog_time_trial_no_ghosts_title",
+    "en": "NO GHOSTS"
+  },
+  {
+    "id": "1248",
+    "k": "lng_dialog_tuning_not_applied_body",
+    "en": "The tuning adjustments you have made have not been applied to your vehicle. If you opt to discard your adjustments they will be lost."
+  },
+  {
+    "id": "1249",
+    "k": "lng_dialog_update_has_reset_bindings_body",
+    "en": "Your input bindings have been reset due to an update. You can edit these again via the Controls menu in Options and Extras."
+  },
+  {
+    "id": "1250",
+    "k": "lng_dialog_vb_abandon_body",
+    "en": "Are you sure you want to abandon this build? You will lose all current build progress."
+  },
+  {
+    "id": "1251",
+    "k": "lng_dialog_vb_abandon_title",
+    "en": "ABANDON BUILD?"
+  },
+  {
+    "id": "1252",
+    "k": "lng_dialog_vb_back_out_body",
+    "en": "All build progress will be lost"
+  },
+  {
+    "id": "1253",
+    "k": "lng_dialog_vb_back_out_title",
+    "en": "ARE YOU SURE YOU WANT TO LEAVE THE BUILDER?"
+  },
+  {
+    "id": "1254",
+    "k": "lng_dialog_vb_cannot_afford_bodywork_part_body",
+    "en": "You do not have enough budget to afford adding this bodywork."
+  },
+  {
+    "id": "1255",
+    "k": "lng_dialog_vb_cannot_afford_bodywork_part_title",
+    "en": "CANNOT AFFORD THIS BODYWORK"
+  },
+  {
+    "id": "1256",
+    "k": "lng_dialog_vb_cannot_afford_build_body",
+    "en": "You do not have enough budget to afford building a vehicle with this drivetrain."
+  },
+  {
+    "id": "1257",
+    "k": "lng_dialog_vb_cannot_afford_build_body",
+    "en": "You do not have enough budget to afford building a vehicle with this drivetrain. "
+  },
+  {
+    "id": "1258",
+    "k": "lng_dialog_vb_cannot_afford_build_title",
+    "en": "CANNOT AFFORD DRIVETRAIN"
+  },
+  {
+    "id": "1259",
+    "k": "lng_dialog_vb_cannot_afford_exterior_part_body",
+    "en": "You do not have enough budget to afford adding this exterior part."
+  },
+  {
+    "id": "1260",
+    "k": "lng_dialog_vb_cannot_afford_exterior_part_title",
+    "en": "CANNOT AFFORD EXTERIOR PART"
+  },
+  {
+    "id": "1261",
+    "k": "lng_dialog_vb_cannot_afford_mech_part_body",
+    "en": "You do not have enough budget to afford adding this mechanical part."
+  },
+  {
+    "id": "1262",
+    "k": "lng_dialog_vb_cannot_afford_mech_part_title",
+    "en": "CANNOT AFFORD MECHANICAL PART"
+  },
+  {
+    "id": "1263",
+    "k": "lng_dialog_vb_drivetrain_unavailable_body",
+    "en": "If you want to change the drivetrain on your Builder vehicle you will need to abandon your current build and create a new one."
+  },
+  {
+    "id": "1264",
+    "k": "lng_dialog_vb_locked_part_warning_body",
+    "en": "This part is currently unavailable for selection. It can be unlocked by successfully completing the associated Builder Part Trial, found in the Calendar."
+  },
+  {
+    "id": "1265",
+    "k": "lng_dialog_vb_overwrite_confirm_body",
+    "en": "Are you sure you want to overwrite this Builder vehicle?"
+  },
+  {
+    "id": "1266",
+    "k": "lng_dialog_vb_restart_build_body",
+    "en": "Are you sure you want to leave the Builder? Your current build progress will be lost."
+  },
+  {
+    "id": "1267",
+    "k": "lng_dialog_vehicle_settings_revert_to_default_body",
+    "en": "Are you sure you want to revert the filters to their defaults?"
+  },
+  {
+    "id": "1268",
+    "k": "lng_dialog_waiting_for_players",
+    "en": "WAITING FOR PLAYERS"
+  },
+  {
+    "id": "1269",
+    "k": "lng_dialog_you_have_chosen",
+    "en": "You have chosen the {0}. Please wait for the other players to make their selection."
+  },
+  {
+    "id": "1270",
+    "k": "lng_dialogue_overwrite_existing_event_body",
+    "en": "Are you sure you want to overwrite this event? All currently added stages will be lost."
+  },
+  {
+    "id": "1271",
+    "k": "lng_dialvismode_onallviews",
+    "en": "On - All Cameras"
+  },
+  {
+    "id": "1272",
+    "k": "lng_dialvismode_onexceptheadcam",
+    "en": "On - Except Interior"
+  },
+  {
+    "id": "1273",
+    "k": "lng_direct_input",
+    "en": "Direct Input"
+  },
+  {
+    "id": "1274",
+    "k": "lng_dirt_team_target",
+    "en": "DiRT TEAM"
+  },
+  {
+    "id": "1275",
+    "k": "lng_dont_brake_description",
+    "en": "Do not brake before the braking point"
+  },
+  {
+    "id": "1276",
+    "k": "lng_dont_hit_cones_description",
+    "en": "Stay within the course boundaries"
+  },
+  {
+    "id": "1277",
+    "k": "lng_drive_to_line_co_driver_name",
+    "en": "CO-DRIVER NAME"
+  },
+  {
+    "id": "1278",
+    "k": "lng_drive_to_line_driver_name",
+    "en": "DRIVER NAME"
+  },
+  {
+    "id": "1279",
+    "k": "lng_drive_to_line_next_on_stage",
+    "en": "NEXT ON STAGE"
+  },
+  {
+    "id": "1280",
+    "k": "lng_drive_to_line_running_order",
+    "en": "RUNNING ORDER {0}/{1}"
+  },
+  {
+    "id": "1281",
+    "k": "lng_driver_cap_name_free_a",
+    "en": "Cap 1"
+  },
+  {
+    "id": "1282",
+    "k": "lng_driver_cap_name_free_b",
+    "en": "Cap 2"
+  },
+  {
+    "id": "1283",
+    "k": "lng_driver_cap_name_free_c",
+    "en": "Cap 3"
+  },
+  {
+    "id": "1284",
+    "k": "lng_driver_cap_name_free_d",
+    "en": "Cap 4  "
+  },
+  {
+    "id": "1285",
+    "k": "lng_driver_cap_name_free_d",
+    "en": "Cap 4  "
+  },
+  {
+    "id": "1286",
+    "k": "lng_driver_cap_name_free_e",
+    "en": "Cap 5"
+  },
+  {
+    "id": "1287",
+    "k": "lng_driver_cap_name_free_e",
+    "en": "Cap 5 "
+  },
+  {
+    "id": "1288",
+    "k": "lng_driver_cap_name_free_f",
+    "en": "Cap 6"
+  },
+  {
+    "id": "1289",
+    "k": "lng_driver_cap_name_free_g",
+    "en": "Cap 7"
+  },
+  {
+    "id": "1290",
+    "k": "lng_driver_cap_name_free_h",
+    "en": "Cap 8"
+  },
+  {
+    "id": "1291",
+    "k": "lng_driver_cap_name_gradient_cap",
+    "en": "Gradient Cap"
+  },
+  {
+    "id": "1292",
+    "k": "lng_driver_cap_name_green_contour_cap",
+    "en": "Green Contour Cap"
+  },
+  {
+    "id": "1293",
+    "k": "lng_driver_cap_name_lightning_bolt_cap",
+    "en": "Lighning Bolt Cap"
+  },
+  {
+    "id": "1294",
+    "k": "lng_driver_cap_name_manga_cap",
+    "en": "Manga Cap"
+  },
+  {
+    "id": "1295",
+    "k": "lng_driver_cap_name_no_cap",
+    "en": "No Cap"
+  },
+  {
+    "id": "1296",
+    "k": "lng_driver_cap_name_pre_order_champ_cap_ford",
+    "en": "Pre-Order Cap 01"
+  },
+  {
+    "id": "1297",
+    "k": "lng_driver_cap_name_pre_order_champ_cap_hyundai",
+    "en": "Pre-Order Cap 02"
+  },
+  {
+    "id": "1298",
+    "k": "lng_driver_cap_name_pre_order_champ_cap_toyota",
+    "en": "Pre-Order Cap 03"
+  },
+  {
+    "id": "1299",
+    "k": "lng_driver_details_appearance",
+    "en": "Appearance"
+  },
+  {
+    "id": "1300",
+    "k": "lng_driver_details_codriverlanguage",
+    "en": "Co-Driver Language"
+  },
+  {
+    "id": "1301",
+    "k": "lng_driver_details_details_title",
+    "en": "DETAILS"
+  },
+  {
+    "id": "1302",
+    "k": "lng_driver_details_forename",
+    "en": "Forename"
+  },
+  {
+    "id": "1303",
+    "k": "lng_driver_details_nickname",
+    "en": "Nickname"
+  },
+  {
+    "id": "1304",
+    "k": "lng_driver_details_surname",
+    "en": "Surname"
+  },
+  {
+    "id": "1305",
+    "k": "lng_driver_gloves_name_3d_gloves",
+    "en": "3D Gloves"
+  },
+  {
+    "id": "1306",
+    "k": "lng_driver_gloves_name_blue_hatch_gloves",
+    "en": "Blue Hatch Gloves"
+  },
+  {
+    "id": "1307",
+    "k": "lng_driver_gloves_name_cybernet_gloves",
+    "en": "Cybernet Gloves"
+  },
+  {
+    "id": "1308",
+    "k": "lng_driver_gloves_name_expressway_gloves",
+    "en": "Expressway Gloves"
+  },
+  {
+    "id": "1309",
+    "k": "lng_driver_gloves_name_free_a",
+    "en": "Gloves 1"
+  },
+  {
+    "id": "1310",
+    "k": "lng_driver_gloves_name_free_b",
+    "en": "Gloves 2"
+  },
+  {
+    "id": "1311",
+    "k": "lng_driver_gloves_name_free_c",
+    "en": "Gloves 3"
+  },
+  {
+    "id": "1312",
+    "k": "lng_driver_gloves_name_free_d",
+    "en": "Gloves 4"
+  },
+  {
+    "id": "1313",
+    "k": "lng_driver_gloves_name_free_e",
+    "en": "Gloves 5"
+  },
+  {
+    "id": "1314",
+    "k": "lng_driver_gloves_name_free_f",
+    "en": "Gloves 6"
+  },
+  {
+    "id": "1315",
+    "k": "lng_driver_gloves_name_free_g",
+    "en": "Gloves 7"
+  },
+  {
+    "id": "1316",
+    "k": "lng_driver_gloves_name_free_h",
+    "en": "Gloves 8"
+  },
+  {
+    "id": "1317",
+    "k": "lng_driver_gloves_name_gold_bank_gloves",
+    "en": "Gold Band Gloves"
+  },
+  {
+    "id": "1318",
+    "k": "lng_driver_gloves_name_gradient_gloves",
+    "en": "Gradient Gloves"
+  },
+  {
+    "id": "1319",
+    "k": "lng_driver_gloves_name_green_strike_gloves",
+    "en": "Green Strike Gloves"
+  },
+  {
+    "id": "1320",
+    "k": "lng_driver_gloves_name_lightning_bolt_gloves",
+    "en": "Lightning Bolt Gloves"
+  },
+  {
+    "id": "1321",
+    "k": "lng_driver_gloves_name_limelight_gloves",
+    "en": "Limelight Gloves"
+  },
+  {
+    "id": "1322",
+    "k": "lng_driver_gloves_name_logjam_gloves",
+    "en": "Logjam Gloves"
+  },
+  {
+    "id": "1323",
+    "k": "lng_driver_gloves_name_molecular_gloves",
+    "en": "Molecular Gloves"
+  },
+  {
+    "id": "1324",
+    "k": "lng_driver_gloves_name_oil-slick_gloves",
+    "en": "Oil-Slick Gloves"
+  },
+  {
+    "id": "1325",
+    "k": "lng_driver_gloves_name_paint_splatter_gloves",
+    "en": "Paint Splatter Gloves"
+  },
+  {
+    "id": "1326",
+    "k": "lng_driver_gloves_name_pre_order_champ_gloves_ford",
+    "en": "Pre-Order Gloves 01"
+  },
+  {
+    "id": "1327",
+    "k": "lng_driver_gloves_name_pre_order_champ_gloves_hyundai",
+    "en": "Pre-Order Gloves 02"
+  },
+  {
+    "id": "1328",
+    "k": "lng_driver_gloves_name_pre_order_champ_gloves_toyota",
+    "en": "Pre-Order Gloves 03"
+  },
+  {
+    "id": "1329",
+    "k": "lng_driver_gloves_name_psychedelic_gloves",
+    "en": "Psychedelic Gloves"
+  },
+  {
+    "id": "1330",
+    "k": "lng_driver_gloves_name_purple_geo_gloves",
+    "en": "Purple Geo Gloves"
+  },
+  {
+    "id": "1331",
+    "k": "lng_driver_gloves_name_racing_classic_gloves",
+    "en": "Racing Classic Gloves"
+  },
+  {
+    "id": "1332",
+    "k": "lng_driver_gloves_name_racing_line_gloves",
+    "en": "Racing Line Gloves"
+  },
+  {
+    "id": "1333",
+    "k": "lng_driver_gloves_name_racing_red_gloves",
+    "en": "Racing Red Gloves"
+  },
+  {
+    "id": "1334",
+    "k": "lng_driver_gloves_name_rallyosaurus_gloves",
+    "en": "Rallyosaurus Gloves"
+  },
+  {
+    "id": "1335",
+    "k": "lng_driver_gloves_name_serengeti_gloves",
+    "en": "Serengeti Gloves"
+  },
+  {
+    "id": "1336",
+    "k": "lng_driver_gloves_name_tie-dye_gloves",
+    "en": "Tie-Dye Gloves"
+  }
+]

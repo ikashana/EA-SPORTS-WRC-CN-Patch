@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "2777",
+    "k": "lng_preferences_settings_label_codriver_call_timing",
+    "en": "Co-Driver Call Timing"
+  },
+  {
+    "id": "2778",
+    "k": "lng_preferences_settings_label_codriver_commentary",
+    "en": "Co-Driver Voice"
+  },
+  {
+    "id": "2779",
+    "k": "lng_preferences_settings_label_crossplatform_play",
+    "en": "Cross Platform Play"
+  },
+  {
+    "id": "2780",
+    "k": "lng_preferences_settings_label_ea_friend_notification",
+    "en": "EA Friend Notifications"
+  },
+  {
+    "id": "2781",
+    "k": "lng_preferences_settings_label_ghost_visible",
+    "en": "Ghost Sharing"
+  },
+  {
+    "id": "2782",
+    "k": "lng_preferences_settings_label_leaderboards",
+    "en": "Cross Network Leaderboards"
+  },
+  {
+    "id": "2783",
+    "k": "lng_preferences_settings_label_look_to_apex",
+    "en": "Look to Apex (Head Camera)"
+  },
+  {
+    "id": "2784",
+    "k": "lng_preferences_settings_label_rally_passport_visibility",
+    "en": "Rally Passport Visibility"
+  },
+  {
+    "id": "2785",
+    "k": "lng_preferences_settings_label_session_invite_alert",
+    "en": "Session Invite Alert"
+  },
+  {
+    "id": "2786",
+    "k": "lng_preracetimer_time10minutes",
+    "en": "10 Minutes"
+  },
+  {
+    "id": "2787",
+    "k": "lng_preracetimer_time150seconds",
+    "en": "150 Seconds"
+  },
+  {
+    "id": "2788",
+    "k": "lng_preracetimer_time1minute",
+    "en": "1 Minute"
+  },
+  {
+    "id": "2789",
+    "k": "lng_preracetimer_time4minutes",
+    "en": "4 Minutes"
+  },
+  {
+    "id": "2790",
+    "k": "lng_preracetimer_time90seconds",
+    "en": "90 Seconds"
+  },
+  {
+    "id": "2791",
+    "k": "lng_preracetimer_timeunlimited",
+    "en": "Unlimited Debug "
+  },
+  {
+    "id": "2792",
+    "k": "lng_press_start",
+    "en": "Press"
+  },
+  {
+    "id": "2793",
+    "k": "lng_press_start_connect_controller",
+    "en": "Please connect a controller"
+  },
+  {
+    "id": "2794",
+    "k": "lng_ps4_pad",
+    "en": "DUALSHOCK®4 wireless controller"
+  },
+  {
+    "id": "2795",
+    "k": "lng_ps5_edge_pad",
+    "en": "DualSense Edge™ wireless controller"
+  },
+  {
+    "id": "2796",
+    "k": "lng_ps5_pad",
+    "en": "DualSense™ wireless controller"
+  },
+  {
+    "id": "2797",
+    "k": "lng_ps5_pad_remote",
+    "en": "PlayStation Remote Play Controller"
+  },
+  {
+    "id": "2798",
+    "k": "lng_pso_loading",
+    "en": "Optimising Environment"
+  },
+  {
+    "id": "2799",
+    "k": "lng_qualityoptionswithoff_ultra",
+    "en": "Ultra"
+  },
+  {
+    "id": "2800",
+    "k": "lng_qualityoptionswithoff_ultralow",
+    "en": "Ultra Low"
+  },
+  {
+    "id": "2801",
+    "k": "lng_quickplay_runningorder_chanceofrain",
+    "en": "Chance of Rain"
+  },
+  {
+    "id": "2802",
+    "k": "lng_quickplay_searching_prompt",
+    "en": "Looking for session"
+  },
+  {
+    "id": "2803",
+    "k": "lng_quickplay_solo_confirm_save_title",
+    "en": "CONFIRM SAVE"
+  },
+  {
+    "id": "2804",
+    "k": "lng_race_end_timer",
+    "en": "Stage ends in"
+  },
+  {
+    "id": "2805",
+    "k": "lng_raceendtimer_time2minutes",
+    "en": "2 Minutes"
+  },
+  {
+    "id": "2806",
+    "k": "lng_raceendtimer_time30seconds",
+    "en": "30 Seconds"
+  },
+  {
+    "id": "2807",
+    "k": "lng_raceendtimer_time3minutes",
+    "en": "3 Minutes"
+  },
+  {
+    "id": "2808",
+    "k": "lng_raceendtimer_time5minutes",
+    "en": "5 Minutes"
+  },
+  {
+    "id": "2809",
+    "k": "lng_raceendtimer_timeunlimited",
+    "en": "Unlimited Debug"
+  },
+  {
+    "id": "2810",
+    "k": "lng_racing_line_name",
+    "en": "ROAD POSITIONING & RACING LINE"
+  },
+  {
+    "id": "2811",
+    "k": "lng_rallyschool_lesson",
+    "en": "LESSON"
+  },
+  {
+    "id": "2812",
+    "k": "lng_reaction_time_description",
+    "en": "Accelerate off the start line within {0}"
+  },
+  {
+    "id": "2813",
+    "k": "lng_regularity_complete_sector_description",
+    "en": "Complete each sector as close to the target time as possible"
+  },
+  {
+    "id": "2814",
+    "k": "lng_regularity_rally_name",
+    "en": "REGULARITY RALLY"
+  },
+  {
+    "id": "2815",
+    "k": "lng_regularity_speed_average_label",
+    "en": "TARGET SPEED"
+  },
+  {
+    "id": "2816",
+    "k": "lng_regularity_speed_maximum_label",
+    "en": "MAXIMUM SPEED"
+  },
+  {
+    "id": "2817",
+    "k": "lng_regularity_speed_minimum_label",
+    "en": "MINIMUM SPEED"
+  },
+  {
+    "id": "2818",
+    "k": "lng_regularity_speed_target_title",
+    "en": "SPEED TARGET"
+  },
+  {
+    "id": "2819",
+    "k": "lng_repair_category_not_available",
+    "en": "Not Available"
+  },
+  {
+    "id": "2820",
+    "k": "lng_repair_penalty_points_format",
+    "en": "{0} pts"
+  },
+  {
+    "id": "2821",
+    "k": "lng_repair_penalty_title",
+    "en": "PENALTY"
+  },
+  {
+    "id": "2822",
+    "k": "lng_repair_screen_confirm_description",
+    "en": "Are you sure you want to confirm these repairs? No further repairs will be available in this service period once repairs are confirmed."
+  },
+  {
+    "id": "2823",
+    "k": "lng_repair_screen_confirm_penalty_description",
+    "en": "Your current repair time is over the allocated time for this service period. Are you sure you want to continue? "
+  },
+  {
+    "id": "2824",
+    "k": "lng_repair_screen_no_repairs_description",
+    "en": "No repairs needed."
+  },
+  {
+    "id": "2825",
+    "k": "lng_repair_screen_not_available_description",
+    "en": "Repairs Unavailable"
+  },
+  {
+    "id": "2826",
+    "k": "lng_repair_summary_cost_title",
+    "en": "COST"
+  },
+  {
+    "id": "2827",
+    "k": "lng_repair_summary_inspection_time_title",
+    "en": "TOTAL INSPECTION TIME"
+  },
+  {
+    "id": "2828",
+    "k": "lng_repair_summary_part_title",
+    "en": "PART"
+  },
+  {
+    "id": "2829",
+    "k": "lng_repair_summary_penalty_description",
+    "en": "You will receive this time penalty for going over the service area limit."
+  },
+  {
+    "id": "2830",
+    "k": "lng_repair_summary_penalty_points_description",
+    "en": "You will receive this points penalty for going over the service area limit."
+  },
+  {
+    "id": "2831",
+    "k": "lng_repair_summary_repair_time_title",
+    "en": "REPAIR TIME"
+  },
+  {
+    "id": "2832",
+    "k": "lng_repair_summary_text_title",
+    "en": "DAMAGE/FIX"
+  },
+  {
+    "id": "2833",
+    "k": "lng_repair_summary_total_title",
+    "en": "TOTAL:"
+  },
+  {
+    "id": "2834",
+    "k": "lng_replay_fast_forward",
+    "en": "FORWARD"
+  },
+  {
+    "id": "2835",
+    "k": "lng_replay_next_camera",
+    "en": "NEXT CAMERA"
+  },
+  {
+    "id": "2836",
+    "k": "lng_replay_options_broadcast_mode",
+    "en": "Broadcast Mode"
+  },
+  {
+    "id": "2837",
+    "k": "lng_replay_options_camera_preferences",
+    "en": "Camera Preferences"
+  },
+  {
+    "id": "2838",
+    "k": "lng_replay_options_ghost",
+    "en": "Ghost"
+  },
+  {
+    "id": "2839",
+    "k": "lng_replay_options_hud",
+    "en": "HUD"
+  },
+  {
+    "id": "2840",
+    "k": "lng_replay_options_music",
+    "en": "MUSIC"
+  },
+  {
+    "id": "2841",
+    "k": "lng_replay_options_music_track_format",
+    "en": "Track {0}"
+  },
+  {
+    "id": "2842",
+    "k": "lng_replay_options_timer",
+    "en": "TIMER"
+  },
+  {
+    "id": "2843",
+    "k": "lng_replay_options_volume",
+    "en": "MUSIC VOLUME"
+  },
+  {
+    "id": "2844",
+    "k": "lng_replay_orbit_camera",
+    "en": "Orbit Camera"
+  },
+  {
+    "id": "2845",
+    "k": "lng_replay_photo_mode",
+    "en": "Photomode"
+  },
+  {
+    "id": "2846",
+    "k": "lng_replay_play_pause",
+    "en": "PLAY/PAUSE"
+  },
+  {
+    "id": "2847",
+    "k": "lng_replay_playback_speed",
+    "en": "PLAYBACK SPEED"
+  },
+  {
+    "id": "2848",
+    "k": "lng_replay_previous_camera",
+    "en": "PREVIOUS CAMERA"
+  },
+  {
+    "id": "2849",
+    "k": "lng_replay_rewind",
+    "en": "REWIND"
+  },
+  {
+    "id": "2850",
+    "k": "lng_reporting_club_name_blocked_body",
+    "en": "Your Club Name {0} has been flagged for inappropriate content."
+  },
+  {
+    "id": "2851",
+    "k": "lng_reporting_content_blocked_title",
+    "en": "CONTENT WARNING"
+  },
+  {
+    "id": "2852",
+    "k": "lng_reporting_custom_livery_blocked_body",
+    "en": "Your custom livery {0} has been flagged for inappropriate content."
+  },
+  {
+    "id": "2853",
+    "k": "lng_reporting_sso_name_blocked_body",
+    "en": "Your EA Account ID {0} has been flagged for inappropriate content."
+  },
+  {
+    "id": "2854",
+    "k": "lng_results_finish_retired",
+    "en": "RETIRED"
+  },
+  {
+    "id": "2855",
+    "k": "lng_results_header_shakedown_run",
+    "en": "Shakedown Run"
+  },
+  {
+    "id": "2856",
+    "k": "lng_results_hub_end_event",
+    "en": "FINISH EVENT"
+  },
+  {
+    "id": "2857",
+    "k": "lng_results_hub_events_overview",
+    "en": "EVENTS OVERVIEW"
+  },
+  {
+    "id": "2858",
+    "k": "lng_results_hub_go_to_finalleg",
+    "en": "GO TO FINAL LEG"
+  },
+  {
+    "id": "2859",
+    "k": "lng_results_hub_go_to_next_day",
+    "en": "GO TO NEXT DAY"
+  },
+  {
+    "id": "2860",
+    "k": "lng_results_hub_new_target_time",
+    "en": "NEW TARGET TIME"
+  },
+  {
+    "id": "2861",
+    "k": "lng_results_hub_options_and_extras",
+    "en": "Game Settings"
+  },
+  {
+    "id": "2862",
+    "k": "lng_results_hub_recover_to_next_day",
+    "en": "RECOVER TO NEXT DAY"
+  },
+  {
+    "id": "2863",
+    "k": "lng_results_hub_select_lesson",
+    "en": "SELECT LESSON"
+  },
+  {
+    "id": "2864",
+    "k": "lng_results_hub_spectate",
+    "en": "SPECTATE"
+  },
+  {
+    "id": "2865",
+    "k": "lng_results_hub_view_replay",
+    "en": "REPLAY"
+  },
+  {
+    "id": "2866",
+    "k": "lng_results_missed_stages_count",
+    "en": "After {0} missed {0}|plural(one=stage,other=stages)"
+  },
+  {
+    "id": "2867",
+    "k": "lng_results_screen_header_bonus_points",
+    "en": "BONUS POINTS"
+  },
+  {
+    "id": "2868",
+    "k": "lng_results_screen_header_damage_notes",
+    "en": "NOTES"
+  },
+  {
+    "id": "2869",
+    "k": "lng_results_screen_header_diff",
+    "en": "DIFF."
+  },
+  {
+    "id": "2870",
+    "k": "lng_results_screen_header_event_time",
+    "en": "EVENT TIME"
+  },
+  {
+    "id": "2871",
+    "k": "lng_results_screen_header_penalty_points",
+    "en": "PENALTY POINTS"
+  },
+  {
+    "id": "2872",
+    "k": "lng_results_screen_header_points",
+    "en": "POINTS"
+  },
+  {
+    "id": "2873",
+    "k": "lng_results_screen_header_power_stage",
+    "en": "POWER STAGE"
+  },
+  {
+    "id": "2874",
+    "k": "lng_results_screen_header_split10",
+    "en": "SPLIT 10"
+  },
+  {
+    "id": "2875",
+    "k": "lng_results_screen_header_split11",
+    "en": "SPLIT 11"
+  },
+  {
+    "id": "2876",
+    "k": "lng_results_screen_header_split12",
+    "en": "SPLIT 12"
+  },
+  {
+    "id": "2877",
+    "k": "lng_results_screen_header_split13",
+    "en": "SPLIT 13"
+  },
+  {
+    "id": "2878",
+    "k": "lng_results_screen_header_split14",
+    "en": "SPLIT 14"
+  },
+  {
+    "id": "2879",
+    "k": "lng_results_screen_header_split15",
+    "en": "SPLIT 15"
+  },
+  {
+    "id": "2880",
+    "k": "lng_results_screen_header_split16",
+    "en": "SPLIT 16"
+  },
+  {
+    "id": "2881",
+    "k": "lng_results_screen_header_split17",
+    "en": "SPLIT 17"
+  },
+  {
+    "id": "2882",
+    "k": "lng_results_screen_header_split18",
+    "en": "SPLIT 18"
+  },
+  {
+    "id": "2883",
+    "k": "lng_results_screen_header_split19",
+    "en": "SPLIT 19"
+  },
+  {
+    "id": "2884",
+    "k": "lng_results_screen_header_split2",
+    "en": "SPLIT 2"
+  },
+  {
+    "id": "2885",
+    "k": "lng_results_screen_header_split20",
+    "en": "SPLIT 20"
+  },
+  {
+    "id": "2886",
+    "k": "lng_results_screen_header_split4",
+    "en": "SPLIT 4"
+  },
+  {
+    "id": "2887",
+    "k": "lng_results_screen_header_split5",
+    "en": "SPLIT 5"
+  },
+  {
+    "id": "2888",
+    "k": "lng_results_screen_header_split6",
+    "en": "SPLIT 6"
+  },
+  {
+    "id": "2889",
+    "k": "lng_results_screen_header_split7",
+    "en": "SPLIT 7"
+  },
+  {
+    "id": "2890",
+    "k": "lng_results_screen_header_split8",
+    "en": "SPLIT 8"
+  },
+  {
+    "id": "2891",
+    "k": "lng_results_screen_header_split9",
+    "en": "SPLIT 9"
+  },
+  {
+    "id": "2892",
+    "k": "lng_results_screen_header_team",
+    "en": "TEAM "
+  },
+  {
+    "id": "2893",
+    "k": "lng_results_screen_header_time",
+    "en": "TIME"
+  },
+  {
+    "id": "2894",
+    "k": "lng_results_screen_header_total",
+    "en": "TOTAL"
+  },
+  {
+    "id": "2895",
+    "k": "lng_results_screen_tab_splits",
+    "en": "SPLITS"
+  },
+  {
+    "id": "2896",
+    "k": "lng_results_screen_tab_splits1",
+    "en": "SPLIT 1"
+  },
+  {
+    "id": "2897",
+    "k": "lng_results_screen_tab_splits3",
+    "en": "SPLIT 3"
+  },
+  {
+    "id": "2898",
+    "k": "lng_results_screen_tab_splits_13_16",
+    "en": "SPLITS 13-16"
+  },
+  {
+    "id": "2899",
+    "k": "lng_results_screen_tab_splits_1_4",
+    "en": "SPLITS 1-4"
+  },
+  {
+    "id": "2900",
+    "k": "lng_results_screen_tab_splits_1_6",
+    "en": "SPLITS 1-6"
+  },
+  {
+    "id": "2901",
+    "k": "lng_results_screen_tab_splits_5_8",
+    "en": "SPLITS 5-8"
+  },
+  {
+    "id": "2902",
+    "k": "lng_results_screen_tab_splits_7_12",
+    "en": "SPLITS 7-12"
+  },
+  {
+    "id": "2903",
+    "k": "lng_results_screen_tab_splits_9_12",
+    "en": "SPLITS 9-12"
+  },
+  {
+    "id": "2904",
+    "k": "lng_results_screen_theoretical_best",
+    "en": "THEORETICAL BEST"
+  },
+  {
+    "id": "2905",
+    "k": "lng_results_table_filter",
+    "en": "Filter:"
+  },
+  {
+    "id": "2906",
+    "k": "lng_results_timer",
+    "en": "Next Stage Starts In"
+  },
+  {
+    "id": "2907",
+    "k": "lng_resume_custom_championship",
+    "en": "RESUME CHAMPIONSHIP"
+  },
+  {
+    "id": "2908",
+    "k": "lng_reward_type_custom_livery_decal",
+    "en": "DECAL"
+  },
+  {
+    "id": "2909",
+    "k": "lng_reward_type_decal_pack",
+    "en": "Decal"
+  },
+  {
+    "id": "2910",
+    "k": "lng_reward_type_driver_cap",
+    "en": "Cap"
+  },
+  {
+    "id": "2911",
+    "k": "lng_reward_type_driver_gloves",
+    "en": "Gloves"
+  },
+  {
+    "id": "2912",
+    "k": "lng_reward_type_driver_helmet",
+    "en": "Helmet"
+  },
+  {
+    "id": "2913",
+    "k": "lng_reward_type_driver_overalls",
+    "en": "Race Suit"
+  },
+  {
+    "id": "2914",
+    "k": "lng_reward_type_paint_pattern",
+    "en": "Paint Pattern"
+  },
+  {
+    "id": "2915",
+    "k": "lng_reward_type_vehicle_livery_group",
+    "en": "Livery Pack"
+  },
+  {
+    "id": "2916",
+    "k": "lng_rich_presence_body_builder",
+    "en": "In Builder"
+  },
+  {
+    "id": "2917",
+    "k": "lng_rich_presence_body_career",
+    "en": "In Career"
+  },
+  {
+    "id": "2918",
+    "k": "lng_rich_presence_body_champioship",
+    "en": "In Championship"
+  },
+  {
+    "id": "2919",
+    "k": "lng_rich_presence_body_clubs",
+    "en": "In Clubs"
+  },
+  {
+    "id": "2920",
+    "k": "lng_rich_presence_body_esports",
+    "en": "In Esports"
+  },
+  {
+    "id": "2921",
+    "k": "lng_rich_presence_body_liveryeditor",
+    "en": "In Livery Editor"
+  },
+  {
+    "id": "2922",
+    "k": "lng_rich_presence_body_menus",
+    "en": "In Menus"
+  },
+  {
+    "id": "2923",
+    "k": "lng_rich_presence_body_moments",
+    "en": "In Moments"
+  },
+  {
+    "id": "2924",
+    "k": "lng_rich_presence_body_qpmulti",
+    "en": "In Quick Play Multiplayer"
+  },
+  {
+    "id": "2925",
+    "k": "lng_rich_presence_body_qpsolo",
+    "en": "In Quick Play Solo"
+  },
+  {
+    "id": "2926",
+    "k": "lng_rich_presence_body_rallyschool",
+    "en": "In Rally School"
+  },
+  {
+    "id": "2927",
+    "k": "lng_rich_presence_body_timetrial",
+    "en": "In Time Trial"
+  },
+  {
+    "id": "2928",
+    "k": "lng_rich_presence_title",
+    "en": "EA SPORTS™ WRC"
+  },
+  {
+    "id": "2929",
+    "k": "lng_rock_and_roll_title",
+    "en": "Rock and Roll"
+  },
+  {
+    "id": "2930",
+    "k": "lng_route",
+    "en": "Route"
+  },
+  {
+    "id": "2931",
+    "k": "lng_rs_failed",
+    "en": "FAILED"
+  },
+  {
+    "id": "2932",
+    "k": "lng_rs_mapkey_acceleration",
+    "en": "Acceleration Zone"
+  },
+  {
+    "id": "2933",
+    "k": "lng_rs_mapkey_brake",
+    "en": "Brake Zone"
+  },
+  {
+    "id": "2934",
+    "k": "lng_rs_mapkey_fail",
+    "en": "Fail Zone"
+  },
+  {
+    "id": "2935",
+    "k": "lng_rs_mapkey_gate",
+    "en": "Split Marker"
+  },
+  {
+    "id": "2936",
+    "k": "lng_rs_mapkey_handbrake",
+    "en": "Handbrake Zone"
+  },
+  {
+    "id": "2937",
+    "k": "lng_rs_mapkey_jump",
+    "en": "Jump"
+  },
+  {
+    "id": "2938",
+    "k": "lng_rs_mapkey_parking",
+    "en": "Pass Zone"
+  },
+  {
+    "id": "2939",
+    "k": "lng_rs_mapkey_stop",
+    "en": "Stage Finish"
+  },
+  {
+    "id": "2940",
+    "k": "lng_rs_mapkey_stopzone",
+    "en": "Stop Zone"
+  },
+  {
+    "id": "2941",
+    "k": "lng_rs_mapkey_technique",
+    "en": "Detection Zone"
+  },
+  {
+    "id": "2942",
+    "k": "lng_rs_mapkey_water",
+    "en": "Water Splash"
+  },
+  {
+    "id": "2943",
+    "k": "lng_rs_passed",
+    "en": "PASSED"
+  },
+  {
+    "id": "2944",
+    "k": "lng_running_order_header_crew",
+    "en": "CREW"
+  },
+  {
+    "id": "2945",
+    "k": "lng_running_order_header_tyre",
+    "en": "TIRE"
+  },
+  {
+    "id": "2946",
+    "k": "lng_running_order_header_tyre",
+    "en": "TYRE"
+  },
+  {
+    "id": "2947",
+    "k": "lng_running_order_screen_day_title",
+    "en": "DAY - {0}"
+  },
+  {
+    "id": "2948",
+    "k": "lng_running_order_screen_filter_label",
+    "en": "FILTER:"
+  },
+  {
+    "id": "2949",
+    "k": "lng_running_order_screen_filter_type_all",
+    "en": "ALL"
+  },
+  {
+    "id": "2950",
+    "k": "lng_running_order_screen_filter_type_vehicle",
+    "en": "CLASS"
+  },
+  {
+    "id": "2951",
+    "k": "lng_running_order_screen_order_standing",
+    "en": "ORDER BASED ON CHAMPIONSHIP STANDING"
+  },
+  {
+    "id": "2952",
+    "k": "lng_running_order_screen_title",
+    "en": "RUNNING ORDER"
+  },
+  {
+    "id": "2953",
+    "k": "lng_rz_raiju_mobile_pad",
+    "en": "Razer Raiju Mobile"
+  },
+  {
+    "id": "2954",
+    "k": "lng_saturation_deadzone_apply_label",
+    "en": "Apply"
+  },
+  {
+    "id": "2955",
+    "k": "lng_saturation_deadzone_reset_defaults_label",
+    "en": "Revert to Default"
+  },
+  {
+    "id": "2956",
+    "k": "lng_save_championship_template_slots_full_body",
+    "en": "Save slots are full. Are you sure you want to save this Championship template? It will overwrite the selected save."
+  },
+  {
+    "id": "2957",
+    "k": "lng_save_championship_template_title",
+    "en": "SAVE TEMPLATE"
+  },
+  {
+    "id": "2958",
+    "k": "lng_save_custom_progress_template_title",
+    "en": "SAVE"
+  },
+  {
+    "id": "2959",
+    "k": "lng_save_event_slot_delete_confirm_body",
+    "en": "Are you sure you want to permanently delete this event?"
+  },
+  {
+    "id": "2960",
+    "k": "lng_save_event_slot_delete_confirm_title",
+    "en": "DELETE EVENT"
+  },
+  {
+    "id": "2961",
+    "k": "lng_save_event_template_slots_full_body",
+    "en": "Would you like to select a slot to overwrite?"
+  },
+  {
+    "id": "2962",
+    "k": "lng_save_event_template_slots_full_title",
+    "en": "EVENT TEMPLATE SLOTS FULL"
+  },
+  {
+    "id": "2963",
+    "k": "lng_save_event_template_title",
+    "en": "SAVE EVENT TEMPLATE"
+  },
+  {
+    "id": "2964",
+    "k": "lng_save_livery_editor_template_text",
+    "en": "No Save Present<cf>Respect the rights of others. Provide only content (1) that is not defamatory, obscene, offensive or indecent, (2) that is not confidential or proprietary and (3) that does not violate or infringe any third-party rights. By providing content, you grant EA all licenses needed to enable EA’s use of the content for any purpose. EA’s User Agreement applies, this can be found via Policies in the Main Menu."
+  },
+  {
+    "id": "2965",
+    "k": "lng_save_profile_title",
+    "en": "Save Profile"
+  },
+  {
+    "id": "2966",
+    "k": "lng_save_slot_championship_delete_confirm_body",
+    "en": "Are you sure you want to delete this saved Championship Template?"
+  },
+  {
+    "id": "2967",
+    "k": "lng_save_slot_championship_delete_confirm_title",
+    "en": "Warning"
+  },
+  {
+    "id": "2968",
+    "k": "lng_save_slot_championship_empty_slot_description",
+    "en": "Save your Championship Template to use it again in future Quick Play and Club sessions."
+  },
+  {
+    "id": "2969",
+    "k": "lng_save_slot_championship_empty_slot_title",
+    "en": "Save Championship Template"
+  },
+  {
+    "id": "2970",
+    "k": "lng_save_slot_championship_no_slot_description",
+    "en": "No Championship Templates to load. You can save a Championship Template via the Championships Options menu on Championship Overview."
+  },
+  {
+    "id": "2971",
+    "k": "lng_save_slot_championship_no_slot_title",
+    "en": "Load Championship Template"
+  },
+  {
+    "id": "2972",
+    "k": "lng_save_slot_championship_overwrite_confirm_body",
+    "en": "Are you sure you want to overwrite this Championship? All progress will be lost. "
+  },
+  {
+    "id": "2973",
+    "k": "lng_save_slot_delete_confirm_body",
+    "en": "Are you sure you want to permanently delete this championship?"
+  },
+  {
+    "id": "2974",
+    "k": "lng_save_slot_empty_slot_title",
+    "en": "Empty Slot"
+  },
+  {
+    "id": "2975",
+    "k": "lng_save_slot_event_empty_slot_description",
+    "en": "Save your Event Template to use it again in future Quick Play and Club Championships."
+  },
+  {
+    "id": "2976",
+    "k": "lng_save_slot_event_empty_slot_title",
+    "en": "Save Event Template"
+  },
+  {
+    "id": "2977",
+    "k": "lng_save_slot_event_no_slot_description",
+    "en": "No Event Templates to load. You can save an Event Template via the Event Options menu on Events."
+  },
+  {
+    "id": "2978",
+    "k": "lng_save_slot_event_no_slot_title",
+    "en": "Load Event Template"
+  },
+  {
+    "id": "2979",
+    "k": "lng_save_slot_event_overwrite_confirm_body",
+    "en": "Save slots full. Are you sure you want to save this event template? It will overwrite the selected entry."
+  },
+  {
+    "id": "2980",
+    "k": "lng_save_slot_livery_legal_disclaimer",
+    "en": "Respect the rights of others. Provide only content (1) that is not defamatory, obscene, offensive or indecent, (2) that is not confidential or proprietary and (3) that does not violate or infringe any third-party rights. By providing content, you grant EA all licenses needed to enable EA’s use of the content for any purpose. EA’s User Agreement applies, this can be found via Policies in the Main Menu."
+  },
+  {
+    "id": "2981",
+    "k": "lng_save_slot_load_confirm_body",
+    "en": "Are you sure you want to load this championship? It will replace the current one."
+  },
+  {
+    "id": "2982",
+    "k": "lng_save_slot_load_confirm_title",
+    "en": "LOAD CHAMPIONSHIP"
+  },
+  {
+    "id": "2983",
+    "k": "lng_save_slot_overwrite_confirm_body",
+    "en": "Are you sure you want to save this championship template? It will replace the current one."
+  },
+  {
+    "id": "2984",
+    "k": "lng_save_slot_progress_empty_slot_description",
+    "en": "Save your Championship Progress to continue your championship in future Quick Play sessions."
+  },
+  {
+    "id": "2985",
+    "k": "lng_save_slot_progress_empty_slot_title",
+    "en": "Save Championship Progress"
+  },
+  {
+    "id": "2986",
+    "k": "lng_save_slot_quickplay_progress_delete_confirm_body",
+    "en": "Are you sure you want to permanently delete the progress for this Quick Play Championship?"
+  },
+  {
+    "id": "2987",
+    "k": "lng_save_slot_tuning_delete_confirm_body",
+    "en": "Are you sure you want to permanently delete this tuning setup?"
+  },
+  {
+    "id": "2988",
+    "k": "lng_save_slot_tuning_empty_slot_description",
+    "en": "Save your Tuning setup to use it again in future stages."
+  },
+  {
+    "id": "2989",
+    "k": "lng_save_slot_tuning_empty_slot_title",
+    "en": "Save Tuning Setup"
+  },
+  {
+    "id": "2990",
+    "k": "lng_save_slot_tuning_no_slot_description",
+    "en": "No Tuning setups to load. You can save a Tuning setup from the Tuning Hub."
+  },
+  {
+    "id": "2991",
+    "k": "lng_save_slot_tuning_no_slot_title",
+    "en": "Load Tuning Setup"
+  },
+  {
+    "id": "2992",
+    "k": "lng_save_slot_tuning_overwrite_confirm_body",
+    "en": "Are you sure you want to overwrite this tuning setup? The previous tuning setup will be lost."
+  },
+  {
+    "id": "2993",
+    "k": "lng_save_slot_tuning_surface_type_label",
+    "en": "Surface Type"
+  },
+  {
+    "id": "2994",
+    "k": "lng_save_slot_vehicle_build_delete_confirm_body",
+    "en": "Are you sure you want to permanently delete this Builder vehicle?"
+  },
+  {
+    "id": "2995",
+    "k": "lng_save_tuning_slots_full_body",
+    "en": "Save slots are full. Are you sure you want to save this tuning setup? It will overwrite the selected save."
+  },
+  {
+    "id": "2996",
+    "k": "lng_save_tuning_template_title",
+    "en": "SAVE TUNING TEMPLATE"
+  },
+  {
+    "id": "2997",
+    "k": "lng_save_vehicle_builder_template_text",
+    "en": "No Save Present"
+  },
+  {
+    "id": "2998",
+    "k": "lng_savemanagement_resetall_button",
+    "en": "Reset All"
+  },
+  {
+    "id": "2999",
+    "k": "lng_savemanagement_resetdialogs_button",
+    "en": "Reset Dialogs"
+  },
+  {
+    "id": "3000",
+    "k": "lng_savemanagement_resetoptionssettings_button",
+    "en": "Reset Options And Extras"
+  },
+  {
+    "id": "3001",
+    "k": "lng_savemanagement_resetstats_button",
+    "en": "Reset Rally Passport Stats"
+  },
+  {
+    "id": "3002",
+    "k": "lng_savemanagement_resettutorials_button",
+    "en": "Reset Tutorials"
+  },
+  {
+    "id": "3003",
+    "k": "lng_savemanagement_warningmessage_category_dialog",
+    "en": "This will reset all dialogs. Are you sure you want to continue?"
+  },
+  {
+    "id": "3004",
+    "k": "lng_savemanagement_warningmessage_category_dialog",
+    "en": "This will reset dialogs. Are you sure you want to continue?"
+  },
+  {
+    "id": "3005",
+    "k": "lng_savemanagement_warningmessage_category_everything",
+    "en": "This will reset all saved data. Are you sure you want to continue?"
+  },
+  {
+    "id": "3006",
+    "k": "lng_savemanagement_warningmessage_category_setting",
+    "en": "This will reset all options and settings. Are you sure you want to continue?"
+  },
+  {
+    "id": "3007",
+    "k": "lng_savemanagement_warningmessage_category_stats",
+    "en": "This will reset all game stats. Are you sure you want to continue?"
+  },
+  {
+    "id": "3008",
+    "k": "lng_savemanagement_warningmessage_category_tutorial",
+    "en": "This will reset all tutorials. Are you sure you want to continue?"
+  },
+  {
+    "id": "3009",
+    "k": "lng_savemanagement_warningmessage_second_confirm_body",
+    "en": "Are you sure? This operation cannot be undone."
+  },
+  {
+    "id": "3010",
+    "k": "lng_scenarioauthenticity_fictional",
+    "en": "Fictional"
+  },
+  {
+    "id": "3011",
+    "k": "lng_scenarioauthenticity_inspired",
+    "en": "Inspired"
+  },
+  {
+    "id": "3012",
+    "k": "lng_scenarioauthenticity_real",
+    "en": "Real"
+  },
+  {
+    "id": "3013",
+    "k": "lng_scenariofrequency_daily",
+    "en": "Daily"
+  },
+  {
+    "id": "3014",
+    "k": "lng_scenariofrequency_monthly",
+    "en": "Monthly"
+  },
+  {
+    "id": "3015",
+    "k": "lng_scenariofrequency_weekly",
+    "en": "Weekly"
+  },
+  {
+    "id": "3016",
+    "k": "lng_scenariomedal_bronze",
+    "en": "Bronze"
+  },
+  {
+    "id": "3017",
+    "k": "lng_scenariomedal_gold",
+    "en": "Gold"
+  },
+  {
+    "id": "3018",
+    "k": "lng_scenariomedal_silver",
+    "en": "Silver"
+  },
+  {
+    "id": "3019",
+    "k": "lng_scenarios_archive_title",
+    "en": "ARCHIVE"
+  },
+  {
+    "id": "3020",
+    "k": "lng_scenarios_complete_label",
+    "en": "Complete"
+  },
+  {
+    "id": "3021",
+    "k": "lng_scenarios_current_season_title",
+    "en": "CURRENT SEASON"
+  },
+  {
+    "id": "3022",
+    "k": "lng_scenarios_decade_label",
+    "en": "DECADE"
+  },
+  {
+    "id": "3023",
+    "k": "lng_scenarios_dialog_no_ea_account_body",
+    "en": "An EA Account is required to access Moments mode."
+  },
+  {
+    "id": "3024",
+    "k": "lng_scenarios_dialog_no_ea_account_title",
+    "en": "NO EA ACCOUNT FOUND"
+  },
+  {
+    "id": "3025",
+    "k": "lng_scenarios_discard_confirm_body",
+    "en": "Confirming will delete all current progress for this Moment."
+  },
+  {
+    "id": "3026",
+    "k": "lng_scenarios_discard_progress_body",
+    "en": "You already have a Moment in progress, if you start a new one your progress will be lost. Are you sure you want to continue?"
+  },
+  {
+    "id": "3027",
+    "k": "lng_scenarios_ea_play_dialog",
+    "en": "An EA Play membership is required to access this content."
+  },
+  {
+    "id": "3028",
+    "k": "lng_scenarios_ea_play_dialog_go_to_store",
+    "en": "Go To Store"
+  },
+  {
+    "id": "3029",
+    "k": "lng_scenarios_ea_play_dialog_return",
+    "en": "Cancel"
+  },
+  {
+    "id": "3030",
+    "k": "lng_scenarios_filters_medals",
+    "en": "Medal Earned"
+  },
+  {
+    "id": "3031",
+    "k": "lng_scenarios_filters_screen_title",
+    "en": "FILTERS"
+  },
+  {
+    "id": "3032",
+    "k": "lng_scenarios_filters_vehicle_class",
+    "en": "Vehicle class"
+  },
+  {
+    "id": "3033",
+    "k": "lng_scenarios_in_progress_label",
+    "en": "IN PROGRESS"
+  },
+  {
+    "id": "3034",
+    "k": "lng_scenarios_length_label",
+    "en": "LENGTH"
+  },
+  {
+    "id": "3035",
+    "k": "lng_scenarios_long_event",
+    "en": "LONG EVENT"
+  },
+  {
+    "id": "3036",
+    "k": "lng_scenarios_objectives_title",
+    "en": "OBJECTIVES"
+  },
+  {
+    "id": "3037",
+    "k": "lng_scenarios_out_of_time_dialog_body",
+    "en": "This Moment has expired as the current season has ended. You can attempt it again from the archive tab."
+  },
+  {
+    "id": "3038",
+    "k": "lng_scenarios_season_one_title",
+    "en": "Season 1"
+  },
+  {
+    "id": "3039",
+    "k": "lng_scenarios_start_scenario_button",
+    "en": "START"
+  },
+  {
+    "id": "3040",
+    "k": "lng_scenarios_type_label",
+    "en": "TYPE"
+  },
+  {
+    "id": "3041",
+    "k": "lng_scenarios_wrc23_archive",
+    "en": "WRC23 ARCHIVE"
+  },
+  {
+    "id": "3042",
+    "k": "lng_scenarios_wrc24_archive",
+    "en": "WRC24 ARCHIVE"
+  },
+  {
+    "id": "3043",
+    "k": "lng_scoringsystem_flexible",
+    "en": "Flexible"
+  },
+  {
+    "id": "3044",
+    "k": "lng_screen_livery_editor_decal_colour_title",
+    "en": "DECAL COLOUR"
+  },
+  {
+    "id": "3045",
+    "k": "lng_screen_livery_editor_decal_libray_title",
+    "en": "DECAL LIBRARY"
+  },
+  {
+    "id": "3046",
+    "k": "lng_screen_subtitle_scenarios_result",
+    "en": "RESULTS"
+  },
+  {
+    "id": "3047",
+    "k": "lng_screen_subtitle_scenarios_results",
+    "en": "Result"
+  },
+  {
+    "id": "3048",
+    "k": "lng_screen_subtitle_scenarios_update",
+    "en": "Update"
+  },
+  {
+    "id": "3049",
+    "k": "lng_screen_title_ai_performance",
+    "en": "PLAY EXPERIENCE"
+  },
+  {
+    "id": "3050",
+    "k": "lng_screen_title_audio",
+    "en": "AUDIO"
+  },
+  {
+    "id": "3051",
+    "k": "lng_screen_title_calibrate",
+    "en": "CALIBRATE - {0}"
+  },
+  {
+    "id": "3052",
+    "k": "lng_screen_title_career_difficulty",
+    "en": "DIFFICULTY"
+  },
+  {
+    "id": "3053",
+    "k": "lng_screen_title_clubs_championshipresults",
+    "en": "CHAMPIONSHIP RESULTS"
+  },
+  {
+    "id": "3054",
+    "k": "lng_screen_title_clubs_championshipstandings",
+    "en": "CHAMPIONSHIP STANDINGS"
+  },
+  {
+    "id": "3055",
+    "k": "lng_screen_title_clubs_event_results",
+    "en": "Event Results"
+  },
+  {
+    "id": "3056",
+    "k": "lng_screen_title_clubs_event_standings",
+    "en": "EVENT STANDINGS"
+  },
+  {
+    "id": "3057",
+    "k": "lng_screen_title_cross_play",
+    "en": "CROSS PLATFORM PLAY"
+  },
+  {
+    "id": "3058",
+    "k": "lng_screen_title_edit_device",
+    "en": "EDIT DEVICE"
+  },
+  {
+    "id": "3059",
+    "k": "lng_screen_title_leaderboard",
+    "en": "LEADERBOARD"
+  },
+  {
+    "id": "3060",
+    "k": "lng_screen_title_livery_editor_add_decal",
+    "en": "ADD DECAL"
+  },
+  {
+    "id": "3061",
+    "k": "lng_screen_title_livery_editor_decal_hub",
+    "en": "DECAL HUB"
+  },
+  {
+    "id": "3062",
+    "k": "lng_screen_title_livery_editor_decal_placement",
+    "en": "DECAL PLACEMENT"
+  },
+  {
+    "id": "3063",
+    "k": "lng_screen_title_livery_editor_paint_hub",
+    "en": "PAINT HUB"
+  },
+  {
+    "id": "3064",
+    "k": "lng_screen_title_livery_editor_paint_select",
+    "en": "PAINT SELECT"
+  },
+  {
+    "id": "3065",
+    "k": "lng_screen_title_livery_editor_pattern_select",
+    "en": "PATTERN SELECT"
+  },
+  {
+    "id": "3066",
+    "k": "lng_screen_title_livery_select",
+    "en": "LIVERY SELECT"
+  },
+  {
+    "id": "3067",
+    "k": "lng_screen_title_load_device_preset",
+    "en": "LOAD DEVICE PRESET"
+  },
+  {
+    "id": "3068",
+    "k": "lng_screen_title_location_select",
+    "en": "LOCATION SELECT"
+  },
+  {
+    "id": "3069",
+    "k": "lng_screen_title_main_menu",
+    "en": "MAIN MENU"
+  },
+  {
+    "id": "3070",
+    "k": "lng_screen_title_pause_menu",
+    "en": "PAUSE MENU"
+  },
+  {
+    "id": "3071",
+    "k": "lng_screen_title_policies",
+    "en": "POLICIES"
+  },
+  {
+    "id": "3072",
+    "k": "lng_screen_title_race_result",
+    "en": "RACE RESULT"
+  },
+  {
+    "id": "3073",
+    "k": "lng_screen_title_rally_profile",
+    "en": "RALLY PASSPORT"
+  },
+  {
+    "id": "3074",
+    "k": "lng_screen_title_rally_school_lesson_select",
+    "en": "LESSON SELECT"
+  },
+  {
+    "id": "3075",
+    "k": "lng_screen_title_recent_results",
+    "en": "RECENT RESULTS"
+  },
+  {
+    "id": "3076",
+    "k": "lng_screen_title_results_hub",
+    "en": "RESULTS HUB"
+  },
+  {
+    "id": "3077",
+    "k": "lng_screen_title_screen_advanced_graphics",
+    "en": "ADVANCED GRAPHIC SETTINGS"
+  },
+  {
+    "id": "3078",
+    "k": "lng_screen_title_screen_basic_graphics",
+    "en": "BASIC GRAPHICS SETTINGS"
+  },
+  {
+    "id": "3079",
+    "k": "lng_screen_title_screen_brightness",
+    "en": "BRIGHTNESS AND HDR"
+  },
+  {
+    "id": "3080",
+    "k": "lng_screen_title_screen_preferences",
+    "en": "PREFERENCES"
+  },
+  {
+    "id": "3081",
+    "k": "lng_screen_title_seasonal_league_events",
+    "en": "SEASONAL LEAGUE EVENTS"
+  },
+  {
+    "id": "3082",
+    "k": "lng_screen_title_service_area",
+    "en": "SERVICE AREA"
+  },
+  {
+    "id": "3083",
+    "k": "lng_screen_title_team_hub",
+    "en": "TEAM HUB - WEEK {0}"
+  },
+  {
+    "id": "3084",
+    "k": "lng_screen_title_time_trial_results",
+    "en": "TIME TRIAL RESULTS"
+  },
+  {
+    "id": "3085",
+    "k": "lng_screen_title_vehicle_select",
+    "en": "VEHICLE SELECT"
+  },
+  {
+    "id": "3086",
+    "k": "lng_season_archived_warning",
+    "en": "This season has been archived, rewards will be reduced."
+  },
+  {
+    "id": "3087",
+    "k": "lng_season_eighteen_moments",
+    "en": "Season Eighteen"
+  },
+  {
+    "id": "3088",
+    "k": "lng_season_eleven_moments",
+    "en": "Season Eleven"
+  },
+  {
+    "id": "3089",
+    "k": "lng_season_nineteen_moments",
+    "en": "Season Nineteen"
+  },
+  {
+    "id": "3090",
+    "k": "lng_season_seventeen_moments",
+    "en": "Season Seventeen"
+  },
+  {
+    "id": "3091",
+    "k": "lng_season_sixteen_moments",
+    "en": "Season Sixteen"
+  },
+  {
+    "id": "3092",
+    "k": "lng_season_ten_moments",
+    "en": "Season Ten"
+  },
+  {
+    "id": "3093",
+    "k": "lng_secto_rally_chile_moments_announcent_description",
+    "en": "Hello Rally Drivers,<cf><cf>Head over to Moments and take on the stages of Rally Chile Bio Bío, reliving the heart-pounding action from the most recent WRC weekend. Navigate the long and flowing Chile stages, as you fight to keep your rivals at bay. Compare your progression on the competitive Leaderboards, where you can compare your performance with that of your friends and the wider community.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "3094",
+    "k": "lng_secto_rally_chile_moments_announcent_title",
+    "en": "Rally Chile Bio Bío Moments are Now Live"
+  },
+  {
+    "id": "3095",
+    "k": "lng_secto_rally_finland_moments_announcent_description",
+    "en": "Hello Drivers,<cf><cf>Head over to Moments and take on the stages of Secto Rally Finland, reliving the heart-pounding action from the most recent WRC weekend. Face the same challenges the pros encountered, as you navigate the superfast and gruelling Finnish stages. Compare your progression on the competitive Leaderboards, where you can compare your performance with that of your friends and the wider community.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "3096",
+    "k": "lng_secto_rally_finland_moments_announcent_title",
+    "en": "Secto Rally Finland Moments are Now Live"
+  },
+  {
+    "id": "3097",
+    "k": "lng_selector_option_off",
+    "en": "Off"
+  },
+  {
+    "id": "3098",
+    "k": "lng_selector_option_on",
+    "en": "On"
+  },
+  {
+    "id": "3099",
+    "k": "lng_service_area_abandon_trial",
+    "en": "ABANDON TRIAL"
+  },
+  {
+    "id": "3100",
+    "k": "lng_service_area_benefactor",
+    "en": "Benefactor"
+  },
+  {
+    "id": "3101",
+    "k": "lng_service_area_calendar",
+    "en": "Calendar"
+  },
+  {
+    "id": "3102",
+    "k": "lng_service_area_change_vehicle",
+    "en": "CHANGE VEHICLE"
+  },
+  {
+    "id": "3103",
+    "k": "lng_service_area_customisation",
+    "en": "Customisation"
+  },
+  {
+    "id": "3104",
+    "k": "lng_service_area_end_session",
+    "en": "END SESSION"
+  },
+  {
+    "id": "3105",
+    "k": "lng_service_area_entrants",
+    "en": "ENTRANTS"
+  },
+  {
+    "id": "3106",
+    "k": "lng_service_area_garage",
+    "en": "Garage"
+  },
+  {
+    "id": "3107",
+    "k": "lng_service_area_leaderboards",
+    "en": "LEADERBOARDS"
+  },
+  {
+    "id": "3108",
+    "k": "lng_service_area_office",
+    "en": "EVENT DETAILS"
+  },
+  {
+    "id": "3109",
+    "k": "lng_service_area_player_list",
+    "en": "PLAYER LIST"
+  },
+  {
+    "id": "3110",
+    "k": "lng_service_area_retire_from_event",
+    "en": "RETIRE FROM EVENT"
+  },
+  {
+    "id": "3111",
+    "k": "lng_service_area_retire_from_stage",
+    "en": "RETIRE FROM STAGE"
+  },
+  {
+    "id": "3112",
+    "k": "lng_service_area_season_stats",
+    "en": "Season Stats"
+  },
+  {
+    "id": "3113",
+    "k": "lng_service_area_shakedown",
+    "en": "SHAKEDOWN"
+  },
+  {
+    "id": "3114",
+    "k": "lng_service_area_timer",
+    "en": "Stage Starts In "
+  },
+  {
+    "id": "3115",
+    "k": "lng_service_area_vehicle_preparation",
+    "en": "VEHICLE SETUP"
+  },
+  {
+    "id": "3116",
+    "k": "lng_session_browser_invites_category",
+    "en": "Invited"
+  },
+  {
+    "id": "3117",
+    "k": "lng_session_browser_list_header_ai",
+    "en": "AI"
+  },
+  {
+    "id": "3118",
+    "k": "lng_session_browser_list_header_assists",
+    "en": "ASSISTS"
+  },
+  {
+    "id": "3119",
+    "k": "lng_session_browser_list_header_damage",
+    "en": "DAMAGE"
+  },
+  {
+    "id": "3120",
+    "k": "lng_session_browser_list_header_format",
+    "en": "FORMAT"
+  },
+  {
+    "id": "3121",
+    "k": "lng_session_browser_list_header_progress",
+    "en": "PROGRESS"
+  },
+  {
+    "id": "3122",
+    "k": "lng_session_browser_list_header_session_host",
+    "en": "SESSION HOST"
+  },
+  {
+    "id": "3123",
+    "k": "lng_session_browser_list_header_skill",
+    "en": "SKILL"
+  },
+  {
+    "id": "3124",
+    "k": "lng_session_browser_no_sessions_found_question_body",
+    "en": "Would you like to create one?"
+  },
+  {
+    "id": "3125",
+    "k": "lng_session_private_body",
+    "en": "Session visibility is set to private"
+  },
+  {
+    "id": "3126",
+    "k": "lng_session_settings",
+    "en": "SESSION SETTINGS"
+  },
+  {
+    "id": "3127",
+    "k": "lng_session_settings_label_race_end_timer",
+    "en": "Stage End Timer"
+  },
+  {
+    "id": "3128",
+    "k": "lng_sessionbrowser_timer",
+    "en": "Sessions Refreshing In: {0}"
+  },
+  {
+    "id": "3129",
+    "k": "lng_set_time_trial_target_time",
+    "en": "SET TARGET TIME"
+  },
+  {
+    "id": "3130",
+    "k": "lng_setting_detected_devices",
+    "en": "DETECTED DEVICES"
+  },
+  {
+    "id": "3131",
+    "k": "lng_setting_device_type",
+    "en": "SET DEVICE TYPE"
+  },
+  {
+    "id": "3132",
+    "k": "lng_setting_edit_device",
+    "en": "EDIT DEVICE SETTINGS"
+  },
+  {
+    "id": "3133",
+    "k": "lng_settings_label_championship_length",
+    "en": "Championship Length"
+  },
+  {
+    "id": "3134",
+    "k": "lng_settings_label_event_length",
+    "en": "Event Length"
+  },
+  {
+    "id": "3135",
+    "k": "lng_setup_time_trial_desc",
+    "en": "Aim to set the fastest times in any stage or location"
+  },
+  {
+    "id": "3136",
+    "k": "lng_setup_time_trial_title",
+    "en": "SETUP TIME TRIAL"
+  },
+  {
+    "id": "3137",
+    "k": "lng_shakedown_personal_best",
+    "en": "PERSONAL BEST"
+  },
+  {
+    "id": "3138",
+    "k": "lng_shakedown_result_title",
+    "en": "Shakedown Result"
+  },
+  {
+    "id": "3139",
+    "k": "lng_shakedown_results_title",
+    "en": "RUN HISTORY"
+  },
+  {
+    "id": "3140",
+    "k": "lng_shakedown_run_number",
+    "en": "Run {0}"
+  },
+  {
+    "id": "3141",
+    "k": "lng_shakedown_run_number_header",
+    "en": "Shakedown {0}"
+  },
+  {
+    "id": "3142",
+    "k": "lng_signed_out_warning_body",
+    "en": "A sign-in change occurred. You will be returned to the title screen."
+  },
+  {
+    "id": "3143",
+    "k": "lng_sim_steering",
+    "en": "SimSteering"
+  },
+  {
+    "id": "3144",
+    "k": "lng_simagic_base",
+    "en": "Simagic Wheelbase"
+  },
+  {
+    "id": "3145",
+    "k": "lng_simagic_pedals",
+    "en": "Simagic P2000 Pedals"
+  },
+  {
+    "id": "3146",
+    "k": "lng_simucube2_pro",
+    "en": "Simucube"
+  },
+  {
+    "id": "3147",
+    "k": "lng_simxperience_accuforce_pro",
+    "en": "SimXperience AccuForce Pro"
+  },
+  {
+    "id": "3148",
+    "k": "lng_sl_strikefx",
+    "en": "SPEEDLINK Strike FX Gamepad"
+  },
+  {
+    "id": "3149",
+    "k": "lng_sl_torid",
+    "en": "SPEEDLINK TORID Gamepad"
+  },
+  {
+    "id": "3150",
+    "k": "lng_slot_eventname_title",
+    "en": "Event Name"
+  },
+  {
+    "id": "3151",
+    "k": "lng_slot_name_championship",
+    "en": "Championship {0}"
+  },
+  {
+    "id": "3152",
+    "k": "lng_slot_name_event",
+    "en": "Event {0}"
+  },
+  {
+    "id": "3153",
+    "k": "lng_slot_name_livery_editor",
+    "en": "Custom {0}"
+  },
+  {
+    "id": "3154",
+    "k": "lng_slot_name_quick_play_championship_in_progress",
+    "en": "Progress {0}"
+  },
+  {
+    "id": "3155",
+    "k": "lng_slot_name_tuning",
+    "en": "Tuning {0}"
+  },
+  {
+    "id": "3156",
+    "k": "lng_slot_position_title",
+    "en": "CURRENT POSITION"
+  },
+  {
+    "id": "3157",
+    "k": "lng_slot_rename_label",
+    "en": "Rename Slot"
+  },
+  {
+    "id": "3158",
+    "k": "lng_slot_save_date",
+    "en": "DATE"
+  },
+  {
+    "id": "3159",
+    "k": "lng_slot_tuningname_title",
+    "en": "TUNING NAME"
+  },
+  {
+    "id": "3160",
+    "k": "lng_spectate",
+    "en": "Spectate"
+  },
+  {
+    "id": "3161",
+    "k": "lng_spectate_panel_change_camera",
+    "en": "Change Camera"
+  },
+  {
+    "id": "3162",
+    "k": "lng_spectate_panel_change_player",
+    "en": "Change Player"
+  },
+  {
+    "id": "3163",
+    "k": "lng_spectate_panel_exit",
+    "en": "Exit"
+  },
+  {
+    "id": "3164",
+    "k": "lng_spectate_panel_hide_controls",
+    "en": "Hide Controls"
+  },
+  {
+    "id": "3165",
+    "k": "lng_spectate_panel_hide_ui",
+    "en": "Hide UI"
+  },
+  {
+    "id": "3166",
+    "k": "lng_spectate_panel_player_list",
+    "en": "Player List"
+  },
+  {
+    "id": "3167",
+    "k": "lng_spectate_panel_player_profile",
+    "en": "Player Profile"
+  },
+  {
+    "id": "3168",
+    "k": "lng_spectate_panel_show_controls",
+    "en": "Show Controls"
+  },
+  {
+    "id": "3169",
+    "k": "lng_spectate_panel_standings",
+    "en": "STANDINGS"
+  },
+  {
+    "id": "3170",
+    "k": "lng_speed_limit_description",
+    "en": "Do not exceed a speed of {0}"
+  },
+  {
+    "id": "3171",
+    "k": "lng_speed_target_brake_zone_description",
+    "en": "Achieve a speed of {0} by the marked braking point"
+  },
+  {
+    "id": "3172",
+    "k": "lng_speed_target_corner_description",
+    "en": "Reach a speed of {0} before the corner"
+  },
+  {
+    "id": "3173",
+    "k": "lng_speed_target_description",
+    "en": "Achieve a speed of {0} before the 1st jump"
+  },
+  {
+    "id": "3174",
+    "k": "lng_sponsor_name_apracing",
+    "en": "AP Racing"
+  },
+  {
+    "id": "3175",
+    "k": "lng_sponsor_name_brembo",
+    "en": "Brembo"
+  },
+  {
+    "id": "3176",
+    "k": "lng_sponsor_name_cte_race_exhausts",
+    "en": "CTE Race Exhausts"
+  },
+  {
+    "id": "3177",
+    "k": "lng_sponsor_name_eibach",
+    "en": "Eibach"
+  },
+  {
+    "id": "3178",
+    "k": "lng_sponsor_name_mishimoto",
+    "en": "Mishimoto"
+  },
+  {
+    "id": "3179",
+    "k": "lng_sponsor_name_msport",
+    "en": "M-Sport"
+  },
+  {
+    "id": "3180",
+    "k": "lng_sponsor_name_sadev",
+    "en": "Sadev"
+  },
+  {
+    "id": "3181",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_bodywork_aero",
+    "en": "Bodywork/Aero Total:"
+  },
+  {
+    "id": "3182",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_brakes",
+    "en": "Brakes Total:"
+  },
+  {
+    "id": "3183",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_clutch",
+    "en": "Clutch Total:"
+  },
+  {
+    "id": "3184",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_differential",
+    "en": "Differentials Total:"
+  },
+  {
+    "id": "3185",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_engine_and_forced_induction",
+    "en": "Engine and Induction Total:"
+  },
+  {
+    "id": "3186",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_exhaust",
+    "en": "Exhaust Total:"
+  },
+  {
+    "id": "3187",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_gearbox",
+    "en": "Gearbox Total:"
+  },
+  {
+    "id": "3188",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_lights",
+    "en": "Lights Total: "
+  },
+  {
+    "id": "3189",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_radiator",
+    "en": "Radiator Total:"
+  },
+  {
+    "id": "3190",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_wheels",
+    "en": "Suspension Total:"
+  },
+  {
+    "id": "3191",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_repair_wheels_suspension",
+    "en": "Wheels Total:"
+  },
+  {
+    "id": "3192",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_service_crew_productivity_increase",
+    "en": "Crew Productivity Increase Total:"
+  },
+  {
+    "id": "3193",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_stamina_usage_decrease",
+    "en": "Crew Stamina Usage Reduction Total:"
+  },
+  {
+    "id": "3194",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_description_vehicle_parts_discount",
+    "en": "Total Discount:"
+  },
+  {
+    "id": "3195",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_bodywork_aero",
+    "en": "Reduces the cost of Bodywork/Aero repairs by:"
+  },
+  {
+    "id": "3196",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_brakes",
+    "en": "Reduces the cost of Brakes repairs by:"
+  },
+  {
+    "id": "3197",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_clutch",
+    "en": "Reduces the cost of Clutch repairs by:"
+  },
+  {
+    "id": "3198",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_differential",
+    "en": "Reduces the cost of Differential repairs by:"
+  },
+  {
+    "id": "3199",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_engine_and_forced_induction",
+    "en": "Reduces the cost of Engine and Induction repairs by:"
+  },
+  {
+    "id": "3200",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_exhaust",
+    "en": "Reduces the cost of Exhaust repairs by:"
+  },
+  {
+    "id": "3201",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_gearbox",
+    "en": "Reduces the cost of Gearbox repairs by:"
+  },
+  {
+    "id": "3202",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_lights",
+    "en": "Reduces the cost of Lights repairs by:"
+  },
+  {
+    "id": "3203",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_radiator",
+    "en": "Reduces the cost of Radiator repairs by:"
+  },
+  {
+    "id": "3204",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_suspension",
+    "en": "Reduces the cost of Suspension repairs by:"
+  },
+  {
+    "id": "3205",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_repair_wheels_suspension",
+    "en": "Reduces the cost of Wheels repairs by:"
+  },
+  {
+    "id": "3206",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_service_crew_productivity_increase",
+    "en": "Increases the Crew Productivity by:"
+  },
+  {
+    "id": "3207",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_stamina_usage_decrease",
+    "en": "Reduces Crew Stamina Usage by:"
+  },
+  {
+    "id": "3208",
+    "k": "lng_staff_chief_engineer_upgrade_effect_type_upgrade_description_vehicle_parts_discount",
+    "en": "Reduces the cost of Builder parts by: "
+  },
+  {
+    "id": "3209",
+    "k": "lng_staff_chief_engineer_upgrade_path_effect_chassis_supplier",
+    "en": "Repair"
+  },
+  {
+    "id": "3210",
+    "k": "lng_staff_chief_engineer_upgrade_path_effect_hands_on",
+    "en": "Crew Productivity"
+  },
+  {
+    "id": "3211",
+    "k": "lng_staff_chief_engineer_upgrade_path_effect_parts_guru",
+    "en": "Builder"
+  },
+  {
+    "id": "3212",
+    "k": "lng_staff_chief_engineer_upgrade_path_effect_team_leader",
+    "en": "Crew Stamina"
+  },
+  {
+    "id": "3213",
+    "k": "lng_staff_chief_engineer_upgrade_path_effects_header_chassis_supplier",
+    "en": "Chassis Supplier Summary"
+  },
+  {
+    "id": "3214",
+    "k": "lng_staff_chief_engineer_upgrade_path_effects_header_drivetrain_supplier",
+    "en": "Drivetrain Supplier Summary"
+  },
+  {
+    "id": "3215",
+    "k": "lng_staff_chief_engineer_upgrade_path_effects_header_general_supplier",
+    "en": "General Supplier Summary"
+  },
+  {
+    "id": "3216",
+    "k": "lng_staff_chief_engineer_upgrade_path_effects_header_hands_on",
+    "en": "Hands On Summary"
+  },
+  {
+    "id": "3217",
+    "k": "lng_staff_chief_engineer_upgrade_path_effects_header_parts_guru",
+    "en": "Parts Guru Summary"
+  },
+  {
+    "id": "3218",
+    "k": "lng_staff_chief_engineer_upgrade_path_effects_header_power_unit_supplier",
+    "en": "Power Unit Supplier Summary"
+  },
+  {
+    "id": "3219",
+    "k": "lng_staff_chief_engineer_upgrade_path_effects_header_team_leader",
+    "en": "Team Leader Summary"
+  },
+  {
+    "id": "3220",
+    "k": "lng_staff_chief_engineer_upgrade_path_name_chassis_supplier",
+    "en": "Chassis Supplier"
+  },
+  {
+    "id": "3221",
+    "k": "lng_staff_chief_engineer_upgrade_path_name_drivetrain_supplier",
+    "en": "Drivetrain Supplier"
+  },
+  {
+    "id": "3222",
+    "k": "lng_staff_chief_engineer_upgrade_path_name_general_supplier",
+    "en": "General Supplier"
+  },
+  {
+    "id": "3223",
+    "k": "lng_staff_chief_engineer_upgrade_path_name_hands_on",
+    "en": "Hands On"
+  },
+  {
+    "id": "3224",
+    "k": "lng_staff_chief_engineer_upgrade_path_name_parts_guru",
+    "en": "Parts Guru"
+  },
+  {
+    "id": "3225",
+    "k": "lng_staff_chief_engineer_upgrade_path_name_power_unit_supplier",
+    "en": "Power Unit Supplier"
+  },
+  {
+    "id": "3226",
+    "k": "lng_staff_chief_engineer_upgrade_path_name_team_leader",
+    "en": "Team Leader"
+  },
+  {
+    "id": "3227",
+    "k": "lng_staff_engineer_perk_description_awd_knowledge",
+    "en": "4WD Vehicle Repair Time decreased."
+  },
+  {
+    "id": "3228",
+    "k": "lng_staff_engineer_perk_description_bodywork_aero_repair_expert",
+    "en": "Bodywork/Aero Repair Time decreased."
+  },
+  {
+    "id": "3229",
+    "k": "lng_staff_engineer_perk_description_brakes_repair_expert",
+    "en": "Brakes Repair Time decreased."
+  },
+  {
+    "id": "3230",
+    "k": "lng_staff_engineer_perk_description_clutch_repair_expert",
+    "en": "Clutch Repair Time decreased."
+  },
+  {
+    "id": "3231",
+    "k": "lng_staff_engineer_perk_description_differential_repair_expert",
+    "en": "Differentials Repair Time decreased."
+  },
+  {
+    "id": "3232",
+    "k": "lng_staff_engineer_perk_description_engine_repair_expert",
+    "en": "Engine Repair Time decreased."
+  },
+  {
+    "id": "3233",
+    "k": "lng_staff_engineer_perk_description_exhaust_repair_expert",
+    "en": "Exhaust Repair Time decreased."
+  },
+  {
+    "id": "3234",
+    "k": "lng_staff_engineer_perk_description_forced_induction_repair_expert",
+    "en": "Forced Induction Repair Time decreased."
+  },
+  {
+    "id": "3235",
+    "k": "lng_staff_engineer_perk_description_fwd_knowledge",
+    "en": "FWD Vehicle Repair Time decreased."
+  },
+  {
+    "id": "3236",
+    "k": "lng_staff_engineer_perk_description_gearbox_repair_expert",
+    "en": "Gearbox Repair Time decreased."
+  },
+  {
+    "id": "3237",
+    "k": "lng_staff_engineer_perk_description_lights_repair_expert",
+    "en": "Lights Repair Time decreased."
+  },
+  {
+    "id": "3238",
+    "k": "lng_staff_engineer_perk_description_radiator_repair_expert",
+    "en": "Radiator Repair Time decreased."
+  },
+  {
+    "id": "3239",
+    "k": "lng_staff_engineer_perk_description_resistant",
+    "en": "Stamina cannot fall below 'Standard'. "
+  },
+  {
+    "id": "3240",
+    "k": "lng_staff_engineer_perk_description_rwd_knowledge",
+    "en": "RWD Vehicle Repair Time decreased."
+  },
+  {
+    "id": "3241",
+    "k": "lng_staff_engineer_perk_description_suspension_repair_expert",
+    "en": "Suspension Repair Time decreased."
+  },
+  {
+    "id": "3242",
+    "k": "lng_staff_engineer_perk_name_awd_knowledge",
+    "en": "4WD Knowledge"
+  },
+  {
+    "id": "3243",
+    "k": "lng_staff_engineer_perk_name_bodywork_aero_repair_expert",
+    "en": "Bodywork / Aero Repair Expert"
+  },
+  {
+    "id": "3244",
+    "k": "lng_staff_engineer_perk_name_brakes_repair_expert",
+    "en": "Brakes Repair Expert"
+  },
+  {
+    "id": "3245",
+    "k": "lng_staff_engineer_perk_name_clutch_repair_expert",
+    "en": "Clutch Repair Expert"
+  },
+  {
+    "id": "3246",
+    "k": "lng_staff_engineer_perk_name_differential_repair_expert",
+    "en": "Differential Repair Expert"
+  },
+  {
+    "id": "3247",
+    "k": "lng_staff_engineer_perk_name_electrics_repair_expert",
+    "en": "Electrics Repair Expert"
+  },
+  {
+    "id": "3248",
+    "k": "lng_staff_engineer_perk_name_engine_repair_expert",
+    "en": "Engine Repair Expert        "
+  },
+  {
+    "id": "3249",
+    "k": "lng_staff_engineer_perk_name_exhaust_repair_expert",
+    "en": "Exhaust Repair Expert"
+  },
+  {
+    "id": "3250",
+    "k": "lng_staff_engineer_perk_name_forced_induction_repair_expert",
+    "en": "Forced Induction Repair Expert"
+  },
+  {
+    "id": "3251",
+    "k": "lng_staff_engineer_perk_name_fwd_knowledge",
+    "en": "FWD Knowledge"
+  },
+  {
+    "id": "3252",
+    "k": "lng_staff_engineer_perk_name_gearbox_repair_expert",
+    "en": "Gearbox Repair Expert"
+  },
+  {
+    "id": "3253",
+    "k": "lng_staff_engineer_perk_name_lights_repair_expert",
+    "en": "Lights Repair Expert"
+  },
+  {
+    "id": "3254",
+    "k": "lng_staff_engineer_perk_name_radiator_repair_expert",
+    "en": "Radiator Repair Expert"
+  },
+  {
+    "id": "3255",
+    "k": "lng_staff_engineer_perk_name_resistant",
+    "en": "Resistant"
+  },
+  {
+    "id": "3256",
+    "k": "lng_staff_engineer_perk_name_rwd_knowledge",
+    "en": "RWD Knowledge"
+  }
+]

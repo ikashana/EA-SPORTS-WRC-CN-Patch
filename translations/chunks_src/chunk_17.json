@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "6380",
+    "k": "lng_mechanical_part_description_lc_fr_lsd_ra2_l",
+    "en": "This differential from XER is the least durable and cheapest differential on the market for Rally2 cars, due to its used condition and low quality. It offers no custom tuning abilities and should only be purchased if you are on an extremely tight budget."
+  },
+  {
+    "id": "6381",
+    "k": "lng_mechanical_part_description_lc_fr_lsd_ra2_m",
+    "en": "Esto Perpetua's refurbished differential is a bit more durable than the used XER part. It also allows you to tune the preload of the differential too. However, this does mean it is more expensive than the used part."
+  },
+  {
+    "id": "6382",
+    "k": "lng_mechanical_part_description_lc_fr_lsd_ra2_vh",
+    "en": "Avolo's brand new Rally2 differential is the most durable LSD there is. Avolo also offer full custom tuning abilities with this part too. Preload, driving lock and braking lock can all be adjusted. This part is the most expensive out of the four though."
+  },
+  {
+    "id": "6383",
+    "k": "lng_mechanical_part_description_sp_2r_rad_ra3_h",
+    "en": "Sújú's radiator is a very durable option, stronger than the 7even and X-Förmig radiators, for a slightly increased price."
+  },
+  {
+    "id": "6384",
+    "k": "lng_mechanical_part_description_sp_2r_rad_ra3_l",
+    "en": "This X-Förmig Radiator is the least durable radiator on the market, but is it also the cheapest too."
+  },
+  {
+    "id": "6385",
+    "k": "lng_mechanical_part_description_sp_2r_rad_ra3_m",
+    "en": "7even offer a refurbished radiator which is more durable than the X-Förmig part. It's a bit more expensive though."
+  },
+  {
+    "id": "6386",
+    "k": "lng_mechanical_part_description_sp_2r_rad_ra3_vh",
+    "en": "The Tri Star radiator is the strongest and most durable radiator available. This does cost more but Tri Star offer a significant improvement in durability compared to the other radiators on the market."
+  },
+  {
+    "id": "6387",
+    "k": "lng_mechanical_part_description_sp_3r_rad_ra1_h",
+    "en": "Esto Perpetua's radiator is a very durable option, stronger than the Xenon and 7even radiators, for a slightly increased price."
+  },
+  {
+    "id": "6388",
+    "k": "lng_mechanical_part_description_sp_3r_rad_ra1_m",
+    "en": "7even offer a refurbished radiator which is more durable than the Xenon part. It's slightly more expensive however."
+  },
+  {
+    "id": "6389",
+    "k": "lng_mechanical_part_description_sp_3r_rad_ra2_h",
+    "en": "Polor's radiator is a very durable option, stronger than the Xenon and Esto Perpetua radiators, for a slightly increased price."
+  },
+  {
+    "id": "6390",
+    "k": "lng_mechanical_part_description_sp_3r_rad_ra2_l",
+    "en": "This Xenon Dynamics radiator is the least durable radiator on the market, but is it also the cheapest too."
+  },
+  {
+    "id": "6391",
+    "k": "lng_mechanical_part_description_sp_3r_rad_ra2_m",
+    "en": "Esto Perpetua offer a refurbished radiator which is more durable than the Xenon part. It's slightly more expensive however."
+  },
+  {
+    "id": "6392",
+    "k": "lng_mechanical_part_description_suspension_kit_ra1_h",
+    "en": "The new suspension kit manufactured by Esto Perpetua is more durable than the Polor kit but does come at an increased price. This Esto Perpetua kit also allows you to adjust both ride height and dampers."
+  },
+  {
+    "id": "6393",
+    "k": "lng_mechanical_part_description_suspension_kit_ra1_l",
+    "en": "XER offer a low quality used suspension kit for Rally1 cars. This kit does not allow for any tuning capabilities and is the least durable kit out of the four on the market."
+  },
+  {
+    "id": "6394",
+    "k": "lng_mechanical_part_description_suspension_kit_ra1_m",
+    "en": "The suspension kit from Polor has been refurbished and as a result is more durable than the used kit from XER. The kit from Polor also allows you to tune the ride height of your car."
+  },
+  {
+    "id": "6395",
+    "k": "lng_mechanical_part_description_suspension_kit_ra1_vh",
+    "en": "JPB have made the most durable suspension kit available for Rally1 cars. It is the most expensive kit but has all of the custom tuning abilities that you could ask for. This kit allows you to adjust ride height, springs and dampers."
+  },
+  {
+    "id": "6396",
+    "k": "lng_mechanical_part_description_suspension_kit_ra2_h",
+    "en": "The new suspension kit manufactured by Euterpe is more durable than the Asiatic Dynamics kit but does come at an increased price. This Euterpe kit also allows you to adjust both ride height and dampers."
+  },
+  {
+    "id": "6397",
+    "k": "lng_mechanical_part_description_suspension_kit_ra2_l",
+    "en": "Avolo offer a low quality used suspension kit for Rally2 cars. This kit does not allow for any tuning capabilities and is the least durable kit out of the four on the market."
+  },
+  {
+    "id": "6398",
+    "k": "lng_mechanical_part_description_suspension_kit_ra2_m",
+    "en": "The suspension kit from Asiatic Dynamics has been refurbished and as a result is more durable than the used kit from Avolo. The kit from Asiatic Dynamics also allows you to tune the ride height of your car."
+  },
+  {
+    "id": "6399",
+    "k": "lng_mechanical_part_description_suspension_kit_ra2_vh",
+    "en": "JPB have made the most durable suspension kit available for Rally2 cars. It is the most expensive kit but has all of the custom tuning abilities that you could ever ask for. This kit allows you to adjust ride height, springs and dampers."
+  },
+  {
+    "id": "6400",
+    "k": "lng_mechanical_part_description_suspension_kit_ra3_h",
+    "en": "The new suspension kit manufactured by Loop is more durable than the Echo kit but does come at an increased price. This Loop kit also allows you to adjust both ride height and dampers."
+  },
+  {
+    "id": "6401",
+    "k": "lng_mechanical_part_description_suspension_kit_ra3_l",
+    "en": "Equinox offer a low quality used suspension kit for Rally3 cars. This kit does not allow for any tuning capabilities and is the least durable kit out of the four on the market."
+  },
+  {
+    "id": "6402",
+    "k": "lng_mechanical_part_description_suspension_kit_ra3_m",
+    "en": "The suspension kit from Echo has been refurbished and as a result is more durable than the used kit from Equinox. The kit from Echo also allows you to tune the ride height of your car."
+  },
+  {
+    "id": "6403",
+    "k": "lng_mechanical_part_description_suspension_kit_ra3_vh",
+    "en": "JPB have made the most durable suspension kit available for Rally3 cars. It is the most expensive kit but has all of the custom tuning abilities that you could ever ask for. This kit allows you to adjust ride height, springs and dampers."
+  },
+  {
+    "id": "6404",
+    "k": "lng_mechanical_part_description_t15l_engine_ra3_h",
+    "en": "This 1.5L turbocharged engine from A+F has been refurbished and is more durable than the used Duotone counterpart. Factoring in price and quality, this is the most all-round option out of the three 1.5L turbo engines. All engines provide the same level of performance."
+  },
+  {
+    "id": "6405",
+    "k": "lng_mechanical_part_description_t15l_engine_ra3_m",
+    "en": "Duotone's used 1.5L turbocharged engine will be much less durable than the refurbished-high or new-very high variants, as it is only of medium quality. However, this does mean it's the cheapest. All engines provide the same level of performance."
+  },
+  {
+    "id": "6406",
+    "k": "lng_mechanical_part_description_t15l_engine_ra3_vh",
+    "en": "The brand new 1.5L turbocharged engine from Tri Star is the most durable 1.5L turbo engine on the market, this makes it the strongest and longest lasting engine of the three variants, but this does come at a greater cost. All engines provide the same level of performance."
+  },
+  {
+    "id": "6407",
+    "k": "lng_mechanical_part_description_t16_engine_ra2_h",
+    "en": "The brand new 1.6L turbocharged engine from Esto Perpetua is the most durable 1.6L turbo engine on the Rally2 market, this makes it one of the strongest and longest lasting engine of the four variants, but this does come at a greater cost. All engines provide the same level of performance."
+  },
+  {
+    "id": "6408",
+    "k": "lng_mechanical_part_description_t16_engine_ra2_l",
+    "en": "Duotone's used 1.6L turbocharged engine will be much less durable than the refurbished-high or new-very high variants, as it is only of medium quality. However, this does mean it's the cheapest. All engines provide the same level of performance."
+  },
+  {
+    "id": "6409",
+    "k": "lng_mechanical_part_description_t16_engine_ra2_m",
+    "en": "This 1.6L turbocharged engine from Loop has been refurbished and is more durable than its used counterpart. Factoring in price and quality, this is the most all-round option out of the four 1.6L turbo engines. All engines provide the same level of performance."
+  },
+  {
+    "id": "6410",
+    "k": "lng_mechanical_part_description_t16_engine_ra2_vh",
+    "en": "Achevée's new 1.6L turbocharged engine will be much more durable than the refurbished or used variants or the new Esto Perpetua engine, as it is of very high quality. However, this does mean it costs the most. All engines provide the same level of performance."
+  },
+  {
+    "id": "6411",
+    "k": "lng_mechanical_part_description_t16l_engine_ra1_h",
+    "en": "The new 1.6L turbocharged hybrid engine from Asiatic Dynamics is one of the most durable on the Rally1 market. Factoring in price and quality, this is the most all-round option out of the 1.6L turbo hybrid engines. All engines provide the same level of performance."
+  },
+  {
+    "id": "6412",
+    "k": "lng_mechanical_part_description_t16l_engine_ra1_l",
+    "en": "Duotone's used 1.6L turbocharged hybrid engine will be much less durable than the refurbished or new variants. However, this does mean it's the cheapest. All engines provide the same level of performance."
+  },
+  {
+    "id": "6413",
+    "k": "lng_mechanical_part_description_t16l_engine_ra1_m",
+    "en": "This 1.6L turbocharged hybrid engine from Sújú has been refurbished and is more durable than its used counterpart. All engines provide the same level of performance."
+  },
+  {
+    "id": "6414",
+    "k": "lng_mechanical_part_description_t16l_engine_ra1_vh_ford",
+    "en": "This brand new 1.6L turbo-hybrid engine is the same engine that is used in the M-Sport Ford Puma Rally1, making it one of the best engines on the market. All engines provide the same level of performance."
+  },
+  {
+    "id": "6415",
+    "k": "lng_mechanical_part_description_t16l_engine_ra1_vh_hyundai",
+    "en": "Hyundai Motorsport's 1.6L turbo-hybrid engine is the same engine that they run in their Hyundai I20 N Rally1 in the World Rally Championship. This engine has durability that is rated best in class. All engines provide the same level of performance."
+  },
+  {
+    "id": "6416",
+    "k": "lng_mechanical_part_description_t16l_engine_ra1_vh_toyota",
+    "en": "The 1.6L turbocharged hybrid engine from Toyota Gazoo Racing has great durability and is also rated best in class. This engine is used in Toyota's GR Yaris Rally1 that is currently being used to compete in the World Rally Championship. All engines provide the same level of performance."
+  },
+  {
+    "id": "6417",
+    "k": "lng_mechanical_part_description_t1l_engine_ra3_h",
+    "en": "This 1L turbocharged engine from Equinox has been refurbished and is more durable than its used counterpart. Factoring in price and quality, this is the most all-round option out of the three 1L turbo engines. All engines provide the same level of performance."
+  },
+  {
+    "id": "6418",
+    "k": "lng_mechanical_part_description_t1l_engine_ra3_m",
+    "en": "Asiatic Dynamics' used 1L turbocharged engine will be much less durable than the refurbished-high or new-very high variants, as it is only of medium quality. However, this does mean it's the cheapest. All engines provide the same level of performance."
+  },
+  {
+    "id": "6419",
+    "k": "lng_mechanical_part_description_t1l_engine_ra3_vh",
+    "en": "The brand new 1L turbocharged engine from Achevée is the most durable 1L turbo engine on the market, this makes it the strongest and longest lasting engine of the three variants, but this does come at a greater cost. All engines provide the same level of performance."
+  },
+  {
+    "id": "6420",
+    "k": "lng_mechanical_part_name_1600cc_f2_kit_car_engine",
+    "en": "1.6L F2 Kit Car Engine"
+  },
+  {
+    "id": "6421",
+    "k": "lng_mechanical_part_name_1600cc_turbo_charged_engine_with_32mm_fia_regulated_restrictor",
+    "en": "1.6L Turbo Charged Engine (32mm FIA Regulated Restrictor)"
+  },
+  {
+    "id": "6422",
+    "k": "lng_mechanical_part_name_16l_engine",
+    "en": "1.6L Straight 4-Cylinder Petrol Engine"
+  },
+  {
+    "id": "6423",
+    "k": "lng_mechanical_part_name_16l_engine_ra3",
+    "en": "1600cc Naturally Aspirated Engine"
+  },
+  {
+    "id": "6424",
+    "k": "lng_mechanical_part_name_16l_engine_ra3_vh",
+    "en": "1.6L Naturally Aspirated Engine"
+  },
+  {
+    "id": "6425",
+    "k": "lng_mechanical_part_name_184_sp_clutch",
+    "en": "184mm Single Plate Clutch"
+  },
+  {
+    "id": "6426",
+    "k": "lng_mechanical_part_name_184_tp_cera_clutch_ra2_m",
+    "en": "184mm Twin Plate Cerametallic Clutch"
+  },
+  {
+    "id": "6427",
+    "k": "lng_mechanical_part_name_184_tp_clutch",
+    "en": "184mm Twin Plate Clutch"
+  },
+  {
+    "id": "6428",
+    "k": "lng_mechanical_part_name_2000cc_rally_engine",
+    "en": "<2000cc Rally Engine"
+  },
+  {
+    "id": "6429",
+    "k": "lng_mechanical_part_name_2000cc_t_grpa_engine",
+    "en": "2L W/Turbo Group A Engine"
+  },
+  {
+    "id": "6430",
+    "k": "lng_mechanical_part_name_2_disc_clutch_ra3_vh",
+    "en": "Two Disc Plate Clutch"
+  },
+  {
+    "id": "6431",
+    "k": "lng_mechanical_part_name_2l_engine",
+    "en": "2L S2000 Straight 4-Cylinder Petrol Engine"
+  },
+  {
+    "id": "6432",
+    "k": "lng_mechanical_part_name_2l_engine_ra3",
+    "en": "2000cc Naturally Aspirated Engine"
+  },
+  {
+    "id": "6433",
+    "k": "lng_mechanical_part_name_2l_engine_ra3_m",
+    "en": "2L Naturally Aspirated Engine"
+  },
+  {
+    "id": "6434",
+    "k": "lng_mechanical_part_name_5_seq_gearbox_plsd",
+    "en": "5-Speed Sequential Gearbox with Plated LSD"
+  },
+  {
+    "id": "6435",
+    "k": "lng_mechanical_part_name_5_seq_gearbox_ra2_m",
+    "en": "5-Speed Sequential"
+  },
+  {
+    "id": "6436",
+    "k": "lng_mechanical_part_name_6_seq_gearbox",
+    "en": "6-Speed Sequential Gearbox"
+  },
+  {
+    "id": "6437",
+    "k": "lng_mechanical_part_name_6_spd_h_gearbox",
+    "en": "6-Speed H-Pattern Gearbox"
+  },
+  {
+    "id": "6438",
+    "k": "lng_mechanical_part_name_brake_kit_ra2_m",
+    "en": "Rally Brake Kit"
+  },
+  {
+    "id": "6439",
+    "k": "lng_mechanical_part_name_cte_exhaust_kit",
+    "en": "CTE Exhaust Kit"
+  },
+  {
+    "id": "6440",
+    "k": "lng_mechanical_part_name_dp_sc_ra1_h",
+    "en": "Double Plate Sintered Clutch"
+  },
+  {
+    "id": "6441",
+    "k": "lng_mechanical_part_name_exhaust_kit_ra2_m",
+    "en": "Rally Exhaust Kit"
+  },
+  {
+    "id": "6442",
+    "k": "lng_mechanical_part_name_f_lsd",
+    "en": "Front LSD Clutch"
+  },
+  {
+    "id": "6443",
+    "k": "lng_mechanical_part_name_fcr_lsd",
+    "en": "Front/Centre/Rear LSD Clutch"
+  },
+  {
+    "id": "6444",
+    "k": "lng_mechanical_part_name_fcr_lsd_ac",
+    "en": "Front/Centre/Rear LSD Clutch + Active Centre"
+  },
+  {
+    "id": "6445",
+    "k": "lng_mechanical_part_name_fcrv_ac",
+    "en": "Front/Centre/Rear Viscous + Active Centre"
+  },
+  {
+    "id": "6446",
+    "k": "lng_mechanical_part_name_fr_lsd_ra3_m",
+    "en": "Front + Rear Limited Slip Differential"
+  },
+  {
+    "id": "6447",
+    "k": "lng_mechanical_part_name_fr_mech_ra1_l",
+    "en": "Front + Rear Mechanical Differential"
+  },
+  {
+    "id": "6448",
+    "k": "lng_mechanical_part_name_lc_fr_lsd",
+    "en": "Locked Centre + Front/Rear LSD Clutch"
+  },
+  {
+    "id": "6449",
+    "k": "lng_mechanical_part_name_lc_fr_lsd_ra2_m",
+    "en": "Locked Centre + Front/ Rear LSD Clutch"
+  },
+  {
+    "id": "6450",
+    "k": "lng_mechanical_part_name_m-sport_1596cc_straight_4_cylinder_petrol_engine",
+    "en": "1.6L M-Sport Straight 4-Cylinder Petrol Engine"
+  },
+  {
+    "id": "6451",
+    "k": "lng_mechanical_part_name_m-sport_1600cc_engine_w/_turbo_(with_fia_regulated_restrictor)",
+    "en": "1.6L M-Sport Engine W/Turbo (FIA Regulated Restrictor)"
+  },
+  {
+    "id": "6452",
+    "k": "lng_mechanical_part_name_m-sport_1997cc_straight_4_cylinder_petrol_engine_w/_turbo_(with_32mm_turbo_restrictor)",
+    "en": "2L M-Sport Straight 4-Cylinder Petrol Engine W/Turbo (32mm Turbo Restrictor)"
+  },
+  {
+    "id": "6453",
+    "k": "lng_mechanical_part_name_m-sport_1998cc_s2000_straight_4_cylinder_petrol_engine",
+    "en": "2L M-Sport S2000 Straight 4-Cylinder Petrol Engine"
+  },
+  {
+    "id": "6454",
+    "k": "lng_mechanical_part_name_m-sport_2000cc_naturally_aspirated_engine",
+    "en": "2L M-Sport Naturally Aspirated Engine"
+  },
+  {
+    "id": "6455",
+    "k": "lng_mechanical_part_name_m-sport_developed_1600cc_turbo_charged_engine_with_32mm_fia_regulated_restrictor",
+    "en": "1.6L M-Sport Developed Turbo Charged Engine (FIA Regulated Restrictor)"
+  },
+  {
+    "id": "6456",
+    "k": "lng_mechanical_part_name_m-sport_turbo_charged_1199cc_3_cylinder_engine",
+    "en": "1.2L M-Sport Turbo Charged 3-Cylinder Engine"
+  },
+  {
+    "id": "6457",
+    "k": "lng_mechanical_part_name_m-sport_turbo_charged_999cc_ford_ecoboost_technology_12v_in_line_3_cylinder_engine",
+    "en": "1L M-Sport Turbo Charged Ford Ecoboost Technology 12v Inline 3- Cylinder Engine"
+  },
+  {
+    "id": "6458",
+    "k": "lng_mechanical_part_name_m-sport_turbo_charged_999cc_ford_ecoboost_technology_12v_in_line_3_cylinder_engine",
+    "en": "1L M-Sport Turbo Charged Ford Ecoboost Technology 12v Inline 3-Cylinder Engine"
+  },
+  {
+    "id": "6459",
+    "k": "lng_mechanical_part_name_rally_gearbox",
+    "en": "Rally Gearbox"
+  },
+  {
+    "id": "6460",
+    "k": "lng_mechanical_part_name_sp_2r_rad_ra3_m",
+    "en": "Single Pass 2-Row Race Aluminium Radiator"
+  },
+  {
+    "id": "6461",
+    "k": "lng_mechanical_part_name_sp_3r_rad_ra2_l",
+    "en": "Single Pass 3-Row Race Aluminium Radiator"
+  },
+  {
+    "id": "6462",
+    "k": "lng_mechanical_part_name_suspension_kit_ra1_m",
+    "en": "Rally1 Suspension Kit"
+  },
+  {
+    "id": "6463",
+    "k": "lng_mechanical_part_name_suspension_kit_ra2_m",
+    "en": "Rally2 Suspension Kit"
+  },
+  {
+    "id": "6464",
+    "k": "lng_mechanical_part_name_suspension_kit_ra3_m",
+    "en": "Rally3 Suspension Kit"
+  },
+  {
+    "id": "6465",
+    "k": "lng_mechanical_part_name_t12l_engine_ra4",
+    "en": "1.2L Turbo Charged 3-Cylinder Engine"
+  },
+  {
+    "id": "6466",
+    "k": "lng_mechanical_part_name_t15l_engine_ra3",
+    "en": "1497cc Turbocharged Engine"
+  },
+  {
+    "id": "6467",
+    "k": "lng_mechanical_part_name_t15l_engine_ra3_m",
+    "en": "1.5L Turbocharged Engine"
+  },
+  {
+    "id": "6468",
+    "k": "lng_mechanical_part_name_t16_engine_ra2_vh",
+    "en": "1.6L Rally2 Engine W/Turbo (FIA Regulated Restrictor)"
+  },
+  {
+    "id": "6469",
+    "k": "lng_mechanical_part_name_t16l_engine_nr4",
+    "en": "1.6L R4 Engine W/Turbo (FIA Regulated Restrictor)"
+  },
+  {
+    "id": "6470",
+    "k": "lng_mechanical_part_name_t16l_engine_ra1_ford",
+    "en": "1600cc Turbocharged Hybrid Engine"
+  },
+  {
+    "id": "6471",
+    "k": "lng_mechanical_part_name_t16l_engine_ra1_vh_hyundai",
+    "en": "1.6L Turbocharged Hybrid Rally1 Engine"
+  },
+  {
+    "id": "6472",
+    "k": "lng_mechanical_part_name_t1l_engine_ra3",
+    "en": "999cc Turbocharged Engine"
+  },
+  {
+    "id": "6473",
+    "k": "lng_mechanical_part_name_t1l_engine_ra3_m",
+    "en": "1L Turbocharged Engine"
+  },
+  {
+    "id": "6474",
+    "k": "lng_mechanical_part_name_t1l_engine_ra4",
+    "en": "1L Turbo Charged 12v Inline 3-Cylinder Engine"
+  },
+  {
+    "id": "6475",
+    "k": "lng_mechanical_part_name_t2l_engine_nr4",
+    "en": "2L Straight 4-Cylinder Petrol Engine W/Turbo (32mm Turbo Restrictor)"
+  },
+  {
+    "id": "6476",
+    "k": "lng_mechanical_part_name_vc_fr_afcr",
+    "en": "Viscous Centre + Front/Rear LSD Clutch + Active Front/Centre/Rear"
+  },
+  {
+    "id": "6477",
+    "k": "lng_mechanical_part_name_vc_fr_lsd",
+    "en": "Viscous Centre + Front/Rear LSD Clutch"
+  },
+  {
+    "id": "6478",
+    "k": "lng_mechanical_part_short_name_16l_engine_ra3_h",
+    "en": "1.6L Engine"
+  },
+  {
+    "id": "6479",
+    "k": "lng_mechanical_part_short_name_184_sp_clutch",
+    "en": "184mm Single Plate"
+  },
+  {
+    "id": "6480",
+    "k": "lng_mechanical_part_short_name_184_tp_cera_clutch_ra2_h",
+    "en": "184mm Twin Plate"
+  },
+  {
+    "id": "6481",
+    "k": "lng_mechanical_part_short_name_184_tp_clutch",
+    "en": "Twin Plate Clutch"
+  },
+  {
+    "id": "6482",
+    "k": "lng_mechanical_part_short_name_1997cc_straight_4_cylinder_petrol_engine_w/_turbo_(with_32mm_turbo_restrictor)",
+    "en": "2L Turbo Engine"
+  },
+  {
+    "id": "6483",
+    "k": "lng_mechanical_part_short_name_2000cc_w/_turbo_group_a_engine",
+    "en": "2000cc W/Turbo Group A Engine"
+  },
+  {
+    "id": "6484",
+    "k": "lng_mechanical_part_short_name_2l_engine_ra3_vh",
+    "en": "2L Engine"
+  },
+  {
+    "id": "6485",
+    "k": "lng_mechanical_part_short_name_2l_engine_ra4",
+    "en": "2L NA Engine"
+  },
+  {
+    "id": "6486",
+    "k": "lng_mechanical_part_short_name_5_seq_gearbox_ra2_m",
+    "en": "5-Speed Seq"
+  },
+  {
+    "id": "6487",
+    "k": "lng_mechanical_part_short_name_5_spd_dogbox",
+    "en": "5-Speed Dogbox"
+  },
+  {
+    "id": "6488",
+    "k": "lng_mechanical_part_short_name_6_seq_gearbox",
+    "en": "6-Speed Seq"
+  },
+  {
+    "id": "6489",
+    "k": "lng_mechanical_part_short_name_brake_kit_ra2_h",
+    "en": "Brake Kit"
+  },
+  {
+    "id": "6490",
+    "k": "lng_mechanical_part_short_name_dp_sc_ra1_m",
+    "en": "Sintered Clutch"
+  },
+  {
+    "id": "6491",
+    "k": "lng_mechanical_part_short_name_exhaust_kit_ra2_l",
+    "en": "Exhaust Kit"
+  },
+  {
+    "id": "6492",
+    "k": "lng_mechanical_part_short_name_f2_kit_car_radiator",
+    "en": "F2 Kit Car Radiator"
+  },
+  {
+    "id": "6493",
+    "k": "lng_mechanical_part_short_name_fcr_ac",
+    "en": "Front/Centre/Rear Clutch + Active Centre"
+  },
+  {
+    "id": "6494",
+    "k": "lng_mechanical_part_short_name_fcr_afcr",
+    "en": "Front/Centre/Rear Clutch + Active Front/Centre/Rear"
+  },
+  {
+    "id": "6495",
+    "k": "lng_mechanical_part_short_name_fcr_lsd",
+    "en": "F/C/R LSD Clutch"
+  },
+  {
+    "id": "6496",
+    "k": "lng_mechanical_part_short_name_fcr_lsd_ac",
+    "en": "LSD Active Centre"
+  },
+  {
+    "id": "6497",
+    "k": "lng_mechanical_part_short_name_fcrv_afcr",
+    "en": "Front/Centre/Rear Viscous + Active Front/Centre/Rear"
+  },
+  {
+    "id": "6498",
+    "k": "lng_mechanical_part_short_name_fr_lsd_ra3_h",
+    "en": "Front + Rear LSD"
+  },
+  {
+    "id": "6499",
+    "k": "lng_mechanical_part_short_name_fr_mech_ra1_h",
+    "en": "Front + Rear Diff"
+  },
+  {
+    "id": "6500",
+    "k": "lng_mechanical_part_short_name_group_a_radiator",
+    "en": "Group A Radiator"
+  },
+  {
+    "id": "6501",
+    "k": "lng_mechanical_part_short_name_lc_fr_lsd_ra2_m",
+    "en": "F/R LSD Clutch"
+  },
+  {
+    "id": "6502",
+    "k": "lng_mechanical_part_short_name_m-sport_1596cc_straight_4_cylinder_petrol_engine",
+    "en": "1.6L S1600 Engine"
+  },
+  {
+    "id": "6503",
+    "k": "lng_mechanical_part_short_name_m-sport_1998cc_s2000_straight_4_cylinder_petrol_engine",
+    "en": "2L S2000 Engine"
+  },
+  {
+    "id": "6504",
+    "k": "lng_mechanical_part_short_name_r_lsd",
+    "en": "Rear LSD Clutch"
+  },
+  {
+    "id": "6505",
+    "k": "lng_mechanical_part_short_name_rally_clutch",
+    "en": "Rally Clutch"
+  },
+  {
+    "id": "6506",
+    "k": "lng_mechanical_part_short_name_rally_radiator",
+    "en": "Rally Radiator"
+  },
+  {
+    "id": "6507",
+    "k": "lng_mechanical_part_short_name_sp_3r_rad_ra2_vh",
+    "en": "Aluminium Radiator"
+  },
+  {
+    "id": "6508",
+    "k": "lng_mechanical_part_short_name_suspension_kit_ra2_m",
+    "en": "Suspension Kit"
+  },
+  {
+    "id": "6509",
+    "k": "lng_mechanical_part_short_name_t15l_engine_ra3_m",
+    "en": "1.5L Turbo Engine"
+  },
+  {
+    "id": "6510",
+    "k": "lng_mechanical_part_short_name_t16_engine_nr4",
+    "en": "1.6L Turbo Engine"
+  },
+  {
+    "id": "6511",
+    "k": "lng_mechanical_part_short_name_t16_engine_ra2_l",
+    "en": "1.6L Turbo Rally2 Engine"
+  },
+  {
+    "id": "6512",
+    "k": "lng_mechanical_part_short_name_t16l_engine_nr4",
+    "en": "1.6L Turbo R4 Engine"
+  },
+  {
+    "id": "6513",
+    "k": "lng_mechanical_part_short_name_t16l_engine_ra1_h",
+    "en": "1.6L Turbo Hybrid"
+  },
+  {
+    "id": "6514",
+    "k": "lng_mechanical_part_short_name_t1l_engine_ra3_h",
+    "en": "1L Turbo Engine"
+  },
+  {
+    "id": "6515",
+    "k": "lng_mechanical_part_short_name_t2l_engine_nr4",
+    "en": "2L NR4 Turbo Engine"
+  },
+  {
+    "id": "6516",
+    "k": "lng_mechanical_part_short_name_turbo_charged_1199cc_3_cylinder_engine",
+    "en": "1.2L Turbo Engine"
+  },
+  {
+    "id": "6517",
+    "k": "lng_mechanical_part_short_name_vc_fr_afcr",
+    "en": "Viscous Centre + Front/Rear Clutch + Active Front Front/Centre/Rear"
+  },
+  {
+    "id": "6518",
+    "k": "lng_vehicle_builder_build_cost",
+    "en": "Build Cost"
+  },
+  {
+    "id": "6519",
+    "k": "lng_vehicle_builder_confirm_interior",
+    "en": "CONFIRM PARTS"
+  },
+  {
+    "id": "6520",
+    "k": "lng_vehicle_builder_remaining_budget",
+    "en": "Remaining Budget"
+  },
+  {
+    "id": "6521",
+    "k": "lng_vehicle_builder_settings_make_name",
+    "en": "Vehicle Brand"
+  },
+  {
+    "id": "6522",
+    "k": "lng_vehicle_builder_settings_model_name",
+    "en": "Vehicle Model"
+  },
+  {
+    "id": "6523",
+    "k": "lng_vehicle_builder_total_budget",
+    "en": "Total Vehicle Budget"
+  },
+  {
+    "id": "6524",
+    "k": "lng_vehicle_builder_total_budget",
+    "en": "Total Vehicle BudgetShown in the top right 'costs' panel during the whole Builder flow when there is a budget involved (i.e. in career)"
+  },
+  {
+    "id": "6525",
+    "k": "lng_vehicle_class_name_2000cc",
+    "en": "World Rally Car 1997 - 2011"
+  },
+  {
+    "id": "6526",
+    "k": "lng_vehicle_class_name_f2kitcar",
+    "en": "F2 Kit Car"
+  },
+  {
+    "id": "6527",
+    "k": "lng_vehicle_class_name_groupa",
+    "en": "Group A"
+  },
+  {
+    "id": "6528",
+    "k": "lng_vehicle_class_name_groupb_4wd",
+    "en": "Group B (4WD)"
+  },
+  {
+    "id": "6529",
+    "k": "lng_vehicle_class_name_groupb_rwd",
+    "en": "Group B (RWD)"
+  },
+  {
+    "id": "6530",
+    "k": "lng_vehicle_class_name_h1fwd",
+    "en": "H1 (FWD)"
+  },
+  {
+    "id": "6531",
+    "k": "lng_vehicle_class_name_h2fwd",
+    "en": "H2 (FWD)"
+  },
+  {
+    "id": "6532",
+    "k": "lng_vehicle_class_name_h2rwd",
+    "en": "H2 (RWD)"
+  },
+  {
+    "id": "6533",
+    "k": "lng_vehicle_class_name_h3rwd",
+    "en": "H3 (RWD)"
+  },
+  {
+    "id": "6534",
+    "k": "lng_vehicle_class_name_jwrc",
+    "en": "JWRC"
+  },
+  {
+    "id": "6535",
+    "k": "lng_vehicle_class_name_nr4r4",
+    "en": "NR4/R4"
+  },
+  {
+    "id": "6536",
+    "k": "lng_vehicle_class_name_open",
+    "en": "World Rally Car 2017 - 2021"
+  },
+  {
+    "id": "6537",
+    "k": "lng_vehicle_class_name_rally2",
+    "en": "Rally2"
+  },
+  {
+    "id": "6538",
+    "k": "lng_vehicle_class_name_rally3",
+    "en": "Rally3"
+  },
+  {
+    "id": "6539",
+    "k": "lng_vehicle_class_name_rally4",
+    "en": "Rally4"
+  },
+  {
+    "id": "6540",
+    "k": "lng_vehicle_class_name_s1600",
+    "en": "S1600"
+  },
+  {
+    "id": "6541",
+    "k": "lng_vehicle_class_name_s2000",
+    "en": "S2000"
+  },
+  {
+    "id": "6542",
+    "k": "lng_vehicle_class_name_wrc_12_16",
+    "en": "World Rally Car 2012 - 2016"
+  },
+  {
+    "id": "6543",
+    "k": "lng_vehicle_class_name_wrc_3",
+    "en": "WRC 3"
+  },
+  {
+    "id": "6544",
+    "k": "lng_vehicle_class_screen_title",
+    "en": "VEHICLE CLASS SELECT"
+  },
+  {
+    "id": "6545",
+    "k": "lng_vehicle_class_select_screen_vehicle_builder",
+    "en": "BUILDER VEHICLES"
+  },
+  {
+    "id": "6546",
+    "k": "lng_vehicle_cylinders_label",
+    "en": "Cylinders"
+  },
+  {
+    "id": "6547",
+    "k": "lng_vehicle_engine_size_label",
+    "en": "Engine"
+  },
+  {
+    "id": "6548",
+    "k": "lng_vehicle_livery_group_name_limelight",
+    "en": "Limelight Liveries"
+  },
+  {
+    "id": "6549",
+    "k": "lng_vehicle_livery_group_name_psychedelic",
+    "en": "Psychedelic Liveries"
+  },
+  {
+    "id": "6550",
+    "k": "lng_vehicle_livery_group_name_rallyosaurus",
+    "en": "Rallyosaurus Liveries"
+  },
+  {
+    "id": "6551",
+    "k": "lng_vehicle_livery_group_name_serengeti",
+    "en": "Serengeti Liveries"
+  },
+  {
+    "id": "6552",
+    "k": "lng_vehicle_livery_group_name_topographic",
+    "en": "Topographic Liveries"
+  },
+  {
+    "id": "6553",
+    "k": "lng_vehicle_livery_name_alp110_00",
+    "en": "Alpine Renault 1974"
+  },
+  {
+    "id": "6554",
+    "k": "lng_vehicle_livery_name_aus1e2_00",
+    "en": "Audi Team 1986"
+  },
+  {
+    "id": "6555",
+    "k": "lng_vehicle_livery_name_bmwe30_00",
+    "en": "BMW Fina 1989"
+  },
+  {
+    "id": "6556",
+    "k": "lng_vehicle_livery_name_bmwm1p_00",
+    "en": "BMW Motul 1983"
+  },
+  {
+    "id": "6557",
+    "k": "lng_vehicle_livery_name_citc35_00",
+    "en": "Rossel 2023"
+  },
+  {
+    "id": "6558",
+    "k": "lng_vehicle_livery_name_citc35_01",
+    "en": "Johnston 2023"
+  },
+  {
+    "id": "6559",
+    "k": "lng_vehicle_livery_name_citc35_02",
+    "en": "Lefebvre 2023"
+  },
+  {
+    "id": "6560",
+    "k": "lng_vehicle_livery_name_citc35_03",
+    "en": "Cachon 2023"
+  },
+  {
+    "id": "6561",
+    "k": "lng_vehicle_livery_name_citc35_05",
+    "en": "Bulacia 2024"
+  },
+  {
+    "id": "6562",
+    "k": "lng_vehicle_livery_name_citc35_06",
+    "en": "Rossel 2024"
+  },
+  {
+    "id": "6563",
+    "k": "lng_vehicle_livery_name_citc35_07",
+    "en": "Gryazin 2024"
+  },
+  {
+    "id": "6564",
+    "k": "lng_vehicle_livery_name_citds3_00",
+    "en": "Citroën 2012"
+  },
+  {
+    "id": "6565",
+    "k": "lng_vehicle_livery_name_citds3_01",
+    "en": "Ogier 2011"
+  },
+  {
+    "id": "6566",
+    "k": "lng_vehicle_livery_name_citkit_00",
+    "en": "Citroën 1999"
+  },
+  {
+    "id": "6567",
+    "k": "lng_vehicle_livery_name_citr2m_00",
+    "en": "Neuville 2009"
+  },
+  {
+    "id": "6568",
+    "k": "lng_vehicle_livery_name_citr2m_01",
+    "en": "Launch Livery"
+  },
+  {
+    "id": "6569",
+    "k": "lng_vehicle_livery_name_citrc2_00",
+    "en": "Citroën 2005"
+  },
+  {
+    "id": "6570",
+    "k": "lng_vehicle_livery_name_citrc2_01",
+    "en": "Ogier 2008"
+  },
+  {
+    "id": "6571",
+    "k": "lng_vehicle_livery_name_citrc3_00",
+    "en": "Citroën 2018"
+  },
+  {
+    "id": "6572",
+    "k": "lng_vehicle_livery_name_citrc3_02",
+    "en": "Ogier 2019"
+  },
+  {
+    "id": "6573",
+    "k": "lng_vehicle_livery_name_citrc4_00",
+    "en": "Solberg 2010"
+  },
+  {
+    "id": "6574",
+    "k": "lng_vehicle_livery_name_citrc4_01",
+    "en": "Citroën 2010"
+  },
+  {
+    "id": "6575",
+    "k": "lng_vehicle_livery_name_citrc4_02",
+    "en": "Ogier 2010"
+  },
+  {
+    "id": "6576",
+    "k": "lng_vehicle_livery_name_citsax_00",
+    "en": "Citroën 2001"
+  },
+  {
+    "id": "6577",
+    "k": "lng_vehicle_livery_name_citxar_00",
+    "en": "McRae 2003"
+  },
+  {
+    "id": "6578",
+    "k": "lng_vehicle_livery_name_citxar_01",
+    "en": "Privateer 2006"
+  },
+  {
+    "id": "6579",
+    "k": "lng_vehicle_livery_name_citxar_04",
+    "en": "Kronos Racing 2006"
+  },
+  {
+    "id": "6580",
+    "k": "lng_vehicle_livery_name_fit131_00",
+    "en": "Fiat 1980"
+  },
+  {
+    "id": "6581",
+    "k": "lng_vehicle_livery_name_fit131_01",
+    "en": "Fiat 1976"
+  },
+  {
+    "id": "6582",
+    "k": "lng_vehicle_livery_name_fitpun_00",
+    "en": "Fiat 2006"
+  },
+  {
+    "id": "6583",
+    "k": "lng_vehicle_livery_name_foesco_00",
+    "en": "Ford 1993"
+  },
+  {
+    "id": "6584",
+    "k": "lng_vehicle_livery_name_foesco_02",
+    "en": "Wilson 1993"
+  },
+  {
+    "id": "6585",
+    "k": "lng_vehicle_livery_name_foesm1_00",
+    "en": "Team Esso 1973"
+  },
+  {
+    "id": "6586",
+    "k": "lng_vehicle_livery_name_foesm1_01",
+    "en": "Ford 1973"
+  },
+  {
+    "id": "6587",
+    "k": "lng_vehicle_livery_name_foesm2_00",
+    "en": "Andrews Heat for Hire 1979"
+  },
+  {
+    "id": "6588",
+    "k": "lng_vehicle_livery_name_foesm2_02",
+    "en": "Ford 1979"
+  },
+  {
+    "id": "6589",
+    "k": "lng_vehicle_livery_name_fof2r5_00",
+    "en": "Fourmaux 2023"
+  },
+  {
+    "id": "6590",
+    "k": "lng_vehicle_livery_name_fof2r5_01",
+    "en": "Virves 2023"
+  },
+  {
+    "id": "6591",
+    "k": "lng_vehicle_livery_name_fof2r5_02",
+    "en": "Munster 2023"
+  },
+  {
+    "id": "6592",
+    "k": "lng_vehicle_livery_name_fof2r5_05",
+    "en": "Creighton 2024"
+  },
+  {
+    "id": "6593",
+    "k": "lng_vehicle_livery_name_fofi19_00",
+    "en": "Lappi 2021"
+  },
+  {
+    "id": "6594",
+    "k": "lng_vehicle_livery_name_fofi19_01",
+    "en": "Ogier 2018"
+  },
+  {
+    "id": "6595",
+    "k": "lng_vehicle_livery_name_fofi19_31",
+    "en": "S6 Limelight"
+  },
+  {
+    "id": "6596",
+    "k": "lng_vehicle_livery_name_fofi19_33",
+    "en": "S6 Psychedelic"
+  },
+  {
+    "id": "6597",
+    "k": "lng_vehicle_livery_name_fofo01_00",
+    "en": "McRae Fictional"
+  },
+  {
+    "id": "6598",
+    "k": "lng_vehicle_livery_name_fofo01_01",
+    "en": "Ford 'RS' 2002"
+  },
+  {
+    "id": "6599",
+    "k": "lng_vehicle_livery_name_fofo08_00",
+    "en": "Solberg 2008"
+  },
+  {
+    "id": "6600",
+    "k": "lng_vehicle_livery_name_fofo08_01",
+    "en": "Wilson 2010"
+  },
+  {
+    "id": "6601",
+    "k": "lng_vehicle_livery_name_fofo08_02",
+    "en": "Grönholm 2006"
+  },
+  {
+    "id": "6602",
+    "k": "lng_vehicle_livery_name_fofo08_30",
+    "en": "S6 Rallyosaurus"
+  },
+  {
+    "id": "6603",
+    "k": "lng_vehicle_livery_name_fofo99_00",
+    "en": "McRae 1999"
+  },
+  {
+    "id": "6604",
+    "k": "lng_vehicle_livery_name_fofr3e_01",
+    "en": "Domínguez 2024"
+  },
+  {
+    "id": "6605",
+    "k": "lng_vehicle_livery_name_fofr3e_02",
+    "en": "Maior 2024"
+  },
+  {
+    "id": "6606",
+    "k": "lng_vehicle_livery_name_fofr3e_03",
+    "en": "Jürgenson 2024"
+  },
+  {
+    "id": "6607",
+    "k": "lng_vehicle_livery_name_fofr3e_04",
+    "en": "Kelly 2024"
+  },
+  {
+    "id": "6608",
+    "k": "lng_vehicle_livery_name_fofr3e_05",
+    "en": "Matulka 2024"
+  },
+  {
+    "id": "6609",
+    "k": "lng_vehicle_livery_name_fofr3e_06",
+    "en": "Schwarz 2024"
+  },
+  {
+    "id": "6610",
+    "k": "lng_vehicle_livery_name_fofr3e_07",
+    "en": "Rensonnet 2024"
+  },
+  {
+    "id": "6611",
+    "k": "lng_vehicle_livery_name_fofr3e_08",
+    "en": "Gill 2024"
+  },
+  {
+    "id": "6612",
+    "k": "lng_vehicle_livery_name_fofr3e_09",
+    "en": "Bruun 2024"
+  },
+  {
+    "id": "6613",
+    "k": "lng_vehicle_livery_name_fofr3e_10",
+    "en": "Borodin 2024"
+  },
+  {
+    "id": "6614",
+    "k": "lng_vehicle_livery_name_fofr3e_11",
+    "en": "Al-Rawahi 2024"
+  },
+  {
+    "id": "6615",
+    "k": "lng_vehicle_livery_name_fofr3e_12",
+    "en": "Rosselot 2024"
+  },
+  {
+    "id": "6616",
+    "k": "lng_vehicle_livery_name_fofr3e_13",
+    "en": "Caparó 2024"
+  },
+  {
+    "id": "6617",
+    "k": "lng_vehicle_livery_name_fofr3e_14",
+    "en": "Smart 2024"
+  },
+  {
+    "id": "6618",
+    "k": "lng_vehicle_livery_name_fofr3e_15",
+    "en": "Türkkan 2024"
+  },
+  {
+    "id": "6619",
+    "k": "lng_vehicle_livery_name_fofr3e_16",
+    "en": "Blach 2024"
+  },
+  {
+    "id": "6620",
+    "k": "lng_vehicle_livery_name_fofra3_00",
+    "en": "Creighton 2023"
+  },
+  {
+    "id": "6621",
+    "k": "lng_vehicle_livery_name_fofra3_01",
+    "en": "Pellier 2023"
+  },
+  {
+    "id": "6622",
+    "k": "lng_vehicle_livery_name_fofra3_02",
+    "en": "Domínguez 2023"
+  },
+  {
+    "id": "6623",
+    "k": "lng_vehicle_livery_name_fofra3_03",
+    "en": "Kelly 2023"
+  },
+  {
+    "id": "6624",
+    "k": "lng_vehicle_livery_name_fofra3_04",
+    "en": "Hernandez 2023"
+  },
+  {
+    "id": "6625",
+    "k": "lng_vehicle_livery_name_fofra3_05",
+    "en": "Rensonnet 2023"
+  },
+  {
+    "id": "6626",
+    "k": "lng_vehicle_livery_name_fofra3_06",
+    "en": "Blach 2023"
+  },
+  {
+    "id": "6627",
+    "k": "lng_vehicle_livery_name_fofra3_07",
+    "en": "Anwar 2023"
+  },
+  {
+    "id": "6628",
+    "k": "lng_vehicle_livery_name_fofra3_08",
+    "en": "Armstrong 2022"
+  },
+  {
+    "id": "6629",
+    "k": "lng_vehicle_livery_name_fofra4_00",
+    "en": "Armstrong 2021"
+  },
+  {
+    "id": "6630",
+    "k": "lng_vehicle_livery_name_fofra4_01",
+    "en": "M-Sport Livery"
+  },
+  {
+    "id": "6631",
+    "k": "lng_vehicle_livery_name_fofra4_02",
+    "en": "Williams 2019"
+  },
+  {
+    "id": "6632",
+    "k": "lng_vehicle_livery_name_fopuma_00",
+    "en": "Ford 2002"
+  },
+  {
+    "id": "6633",
+    "k": "lng_vehicle_livery_name_for200_00",
+    "en": "Grundel 1986"
+  },
+  {
+    "id": "6634",
+    "k": "lng_vehicle_livery_name_for200_01",
+    "en": "Ford Team 1986"
+  },
+  {
+    "id": "6635",
+    "k": "lng_vehicle_livery_name_forcme_00",
+    "en": "McRae Motorsport"
+  },
+  {
+    "id": "6636",
+    "k": "lng_vehicle_livery_name_formax_00",
+    "en": "Fictional Livery"
+  },
+  {
+    "id": "6637",
+    "k": "lng_vehicle_livery_name_forw24_00",
+    "en": "Fourmaux 2024"
+  },
+  {
+    "id": "6638",
+    "k": "lng_vehicle_livery_name_forw24_01",
+    "en": "Munster 2024"
+  },
+  {
+    "id": "6639",
+    "k": "lng_vehicle_livery_name_forwrc_00",
+    "en": "Tänak 2023"
+  },
+  {
+    "id": "6640",
+    "k": "lng_vehicle_livery_name_forwrc_01",
+    "en": "Loubet 2023"
+  },
+  {
+    "id": "6641",
+    "k": "lng_vehicle_livery_name_forwrc_02",
+    "en": "Serderidis 2023"
+  },
+  {
+    "id": "6642",
+    "k": "lng_vehicle_livery_name_forwrc_10",
+    "en": "S4 Legendary"
+  },
+  {
+    "id": "6643",
+    "k": "lng_vehicle_livery_name_forwrc_11",
+    "en": "S4 Epic"
+  },
+  {
+    "id": "6644",
+    "k": "lng_vehicle_livery_name_forwrc_12",
+    "en": "S4 Rare"
+  },
+  {
+    "id": "6645",
+    "k": "lng_vehicle_livery_name_forwrc_13",
+    "en": "S4 Uncommon"
+  },
+  {
+    "id": "6646",
+    "k": "lng_vehicle_livery_name_forwrc_14",
+    "en": "S4 Common"
+  },
+  {
+    "id": "6647",
+    "k": "lng_vehicle_livery_name_forwrc_15",
+    "en": "S5 Legendary"
+  },
+  {
+    "id": "6648",
+    "k": "lng_vehicle_livery_name_forwrc_16",
+    "en": "S5 Epic"
+  },
+  {
+    "id": "6649",
+    "k": "lng_vehicle_livery_name_forwrc_17",
+    "en": "S5 Rare"
+  },
+  {
+    "id": "6650",
+    "k": "lng_vehicle_livery_name_forwrc_18",
+    "en": "S5 Uncommon"
+  },
+  {
+    "id": "6651",
+    "k": "lng_vehicle_livery_name_forwrc_19",
+    "en": "S5 Common"
+  },
+  {
+    "id": "6652",
+    "k": "lng_vehicle_livery_name_forwrc_21",
+    "en": "Special Livery 01"
+  },
+  {
+    "id": "6653",
+    "k": "lng_vehicle_livery_name_forwrc_29",
+    "en": "Special Livery 02"
+  },
+  {
+    "id": "6654",
+    "k": "lng_vehicle_livery_name_forwrc_30",
+    "en": "S1 Legendary"
+  },
+  {
+    "id": "6655",
+    "k": "lng_vehicle_livery_name_forwrc_31",
+    "en": "S1 Epic"
+  },
+  {
+    "id": "6656",
+    "k": "lng_vehicle_livery_name_forwrc_32",
+    "en": "S1 Rare"
+  },
+  {
+    "id": "6657",
+    "k": "lng_vehicle_livery_name_forwrc_33",
+    "en": "S1 Uncommon"
+  },
+  {
+    "id": "6658",
+    "k": "lng_vehicle_livery_name_forwrc_34",
+    "en": "S1 Common"
+  },
+  {
+    "id": "6659",
+    "k": "lng_vehicle_livery_name_forwrc_40",
+    "en": "S2 Legendary"
+  },
+  {
+    "id": "6660",
+    "k": "lng_vehicle_livery_name_forwrc_41",
+    "en": "S2 Epic"
+  },
+  {
+    "id": "6661",
+    "k": "lng_vehicle_livery_name_forwrc_42",
+    "en": "S2 Rare"
+  },
+  {
+    "id": "6662",
+    "k": "lng_vehicle_livery_name_forwrc_43",
+    "en": "S2 Uncommon"
+  },
+  {
+    "id": "6663",
+    "k": "lng_vehicle_livery_name_forwrc_44",
+    "en": "S2 Common"
+  },
+  {
+    "id": "6664",
+    "k": "lng_vehicle_livery_name_forwrc_50",
+    "en": "S3 Legendary"
+  },
+  {
+    "id": "6665",
+    "k": "lng_vehicle_livery_name_forwrc_51",
+    "en": "S3 Epic"
+  },
+  {
+    "id": "6666",
+    "k": "lng_vehicle_livery_name_forwrc_52",
+    "en": "S3 Rare"
+  },
+  {
+    "id": "6667",
+    "k": "lng_vehicle_livery_name_forwrc_53",
+    "en": "S3 Uncommon"
+  },
+  {
+    "id": "6668",
+    "k": "lng_vehicle_livery_name_forwrc_54",
+    "en": "S3 Common"
+  },
+  {
+    "id": "6669",
+    "k": "lng_vehicle_livery_name_fosco_00",
+    "en": "McRae 1989"
+  },
+  {
+    "id": "6670",
+    "k": "lng_vehicle_livery_name_hy21r2_00",
+    "en": "Suninen 2023"
+  },
+  {
+    "id": "6671",
+    "k": "lng_vehicle_livery_name_hy21r2_01",
+    "en": "Lopez 2023"
+  },
+  {
+    "id": "6672",
+    "k": "lng_vehicle_livery_name_hy21r2_02",
+    "en": "Linnamäe 2023"
+  },
+  {
+    "id": "6673",
+    "k": "lng_vehicle_livery_name_hy21r2_03",
+    "en": "Zaldivar 2023"
+  },
+  {
+    "id": "6674",
+    "k": "lng_vehicle_livery_name_hy21r2_04",
+    "en": "McErlean 2023"
+  },
+  {
+    "id": "6675",
+    "k": "lng_vehicle_livery_name_hy21r2_05",
+    "en": "Paddon 2023"
+  },
+  {
+    "id": "6676",
+    "k": "lng_vehicle_livery_name_hy21r2_06",
+    "en": "Ciamin 2024"
+  },
+  {
+    "id": "6677",
+    "k": "lng_vehicle_livery_name_hy21r2_07",
+    "en": "Lindholm 2024"
+  },
+  {
+    "id": "6678",
+    "k": "lng_vehicle_livery_name_hy21r2_08",
+    "en": "Suninen 2024"
+  },
+  {
+    "id": "6679",
+    "k": "lng_vehicle_livery_name_hy21rc_00",
+    "en": "Hyundai #11 2021"
+  },
+  {
+    "id": "6680",
+    "k": "lng_vehicle_livery_name_hy21rc_01",
+    "en": "Hyundai #6 2021"
+  },
+  {
+    "id": "6681",
+    "k": "lng_vehicle_livery_name_hy21rc_02",
+    "en": "Hyundai #42 2021"
+  },
+  {
+    "id": "6682",
+    "k": "lng_vehicle_livery_name_hy23r1_00",
+    "en": "Neuville 2023"
+  },
+  {
+    "id": "6683",
+    "k": "lng_vehicle_livery_name_hy23r1_01",
+    "en": "Sordo 2023"
+  },
+  {
+    "id": "6684",
+    "k": "lng_vehicle_livery_name_hy23r1_02",
+    "en": "Breen 2023"
+  },
+  {
+    "id": "6685",
+    "k": "lng_vehicle_livery_name_hy23r1_03",
+    "en": "Lappi 2023"
+  },
+  {
+    "id": "6686",
+    "k": "lng_vehicle_livery_name_hy24r1_00",
+    "en": "Tänak 2024"
+  },
+  {
+    "id": "6687",
+    "k": "lng_vehicle_livery_name_hy24r1_01",
+    "en": "Neuville 2024"
+  },
+  {
+    "id": "6688",
+    "k": "lng_vehicle_livery_name_hy24r1_02",
+    "en": "Sordo 2024"
+  },
+  {
+    "id": "6689",
+    "k": "lng_vehicle_livery_name_hy24r1_03",
+    "en": "Mikkelsen 2024"
+  },
+  {
+    "id": "6690",
+    "k": "lng_vehicle_livery_name_hy24r1_04",
+    "en": "Lappi 2024"
+  },
+  {
+    "id": "6691",
+    "k": "lng_vehicle_livery_name_lanful_00",
+    "en": "Lancia 1972"
+  },
+  {
+    "id": "6692",
+    "k": "lng_vehicle_livery_name_lanint_01",
+    "en": "Privateer 1993"
+  },
+  {
+    "id": "6693",
+    "k": "lng_vehicle_livery_name_lanint_02",
+    "en": "Repsol 1993"
+  },
+  {
+    "id": "6694",
+    "k": "lng_vehicle_livery_name_lanstr_00",
+    "en": "Lancia 1978"
+  },
+  {
+    "id": "6695",
+    "k": "lng_vehicle_livery_name_mgm6r4_00",
+    "en": "Factory Livery"
+  },
+  {
+    "id": "6696",
+    "k": "lng_vehicle_livery_name_mincoo_00",
+    "en": "MINI 1964"
+  },
+  {
+    "id": "6697",
+    "k": "lng_vehicle_livery_name_minic2_00",
+    "en": "MINI 2012"
+  },
+  {
+    "id": "6698",
+    "k": "lng_vehicle_livery_name_minicm_00",
+    "en": "Test Livery"
+  },
+  {
+    "id": "6699",
+    "k": "lng_vehicle_livery_name_minicm_32",
+    "en": "S6 Topographic"
+  },
+  {
+    "id": "6700",
+    "k": "lng_vehicle_livery_name_mitev6_00",
+    "en": "Stohl 1999"
+  },
+  {
+    "id": "6701",
+    "k": "lng_vehicle_livery_name_mitev6_01",
+    "en": "Factory 2001"
+  },
+  {
+    "id": "6702",
+    "k": "lng_vehicle_livery_name_mitev6_34",
+    "en": "S6 Serengeti"
+  },
+  {
+    "id": "6703",
+    "k": "lng_vehicle_livery_name_mitgal_00",
+    "en": "Ralliart 1991"
+  },
+  {
+    "id": "6704",
+    "k": "lng_vehicle_livery_name_opadr2_00",
+    "en": "Opel Motorsport"
+  },
+  {
+    "id": "6705",
+    "k": "lng_vehicle_livery_name_opasco_00",
+    "en": "Opel Motorsport 1980"
+  },
+  {
+    "id": "6706",
+    "k": "lng_vehicle_livery_name_opm400_00",
+    "en": "Andrews Heat for Hire"
+  },
+  {
+    "id": "6707",
+    "k": "lng_vehicle_livery_name_polo13_00",
+    "en": "Ogier 2013"
+  },
+  {
+    "id": "6708",
+    "k": "lng_vehicle_livery_name_porscr_01",
+    "en": "Safari Livery"
+  },
+  {
+    "id": "6709",
+    "k": "lng_vehicle_livery_name_pug205_00",
+    "en": "McRae 1988"
+  },
+  {
+    "id": "6710",
+    "k": "lng_vehicle_livery_name_pug206_00",
+    "en": "Burns 2002"
+  },
+  {
+    "id": "6711",
+    "k": "lng_vehicle_livery_name_pug206_01",
+    "en": "Privateer 2002"
+  },
+  {
+    "id": "6712",
+    "k": "lng_vehicle_livery_name_pug206_04",
+    "en": "Panizzi 2003"
+  },
+  {
+    "id": "6713",
+    "k": "lng_vehicle_livery_name_pug206_05",
+    "en": "Grönholm 1999"
+  },
+  {
+    "id": "6714",
+    "k": "lng_vehicle_livery_name_pug306_00",
+    "en": "Panizzi 1996"
+  },
+  {
+    "id": "6715",
+    "k": "lng_vehicle_livery_name_pug8r5_00",
+    "en": "Gulf Livery"
+  },
+  {
+    "id": "6716",
+    "k": "lng_vehicle_livery_name_pug8r5_03",
+    "en": "Breen 2015"
+  },
+  {
+    "id": "6717",
+    "k": "lng_vehicle_livery_name_pugs16_00",
+    "en": "Total Livery"
+  },
+  {
+    "id": "6718",
+    "k": "lng_vehicle_livery_name_pugt16_00",
+    "en": "Peugeot Team 1986"
+  },
+  {
+    "id": "6719",
+    "k": "lng_vehicle_livery_name_ra3srt_common",
+    "en": "Builder Livery"
+  },
+  {
+    "id": "6720",
+    "k": "lng_vehicle_livery_name_ren5tu_00",
+    "en": "Ragnotti 1983"
+  },
+  {
+    "id": "6721",
+    "k": "lng_vehicle_livery_name_rencl3_01",
+    "en": "Chatillon 2024"
+  },
+  {
+    "id": "6722",
+    "k": "lng_vehicle_livery_name_renmeg_00",
+    "en": "Renault Sport Livery"
+  },
+  {
+    "id": "6723",
+    "k": "lng_vehicle_livery_name_setcor_00",
+    "en": "Factory 1999"
+  },
+  {
+    "id": "6724",
+    "k": "lng_vehicle_livery_name_setcor_01",
+    "en": "Privateer 2001"
+  },
+  {
+    "id": "6725",
+    "k": "lng_vehicle_livery_name_setibk_00",
+    "en": "Seat 1998"
+  },
+  {
+    "id": "6726",
+    "k": "lng_vehicle_livery_name_skofa2_01",
+    "en": "Solberg 2023"
+  },
+  {
+    "id": "6727",
+    "k": "lng_vehicle_livery_name_skofa2_02",
+    "en": "Ingram 2023"
+  },
+  {
+    "id": "6728",
+    "k": "lng_vehicle_livery_name_skofa2_03",
+    "en": "Cais 2023"
+  },
+  {
+    "id": "6729",
+    "k": "lng_vehicle_livery_name_skofa2_05",
+    "en": "Delecour 2023"
+  },
+  {
+    "id": "6730",
+    "k": "lng_vehicle_livery_name_skofa2_06",
+    "en": "Pajari 2023"
+  },
+  {
+    "id": "6731",
+    "k": "lng_vehicle_livery_name_skofa2_07",
+    "en": "Lindholm 2023"
+  },
+  {
+    "id": "6732",
+    "k": "lng_vehicle_livery_name_skofa2_08",
+    "en": "Al-Rashed 2023"
+  },
+  {
+    "id": "6733",
+    "k": "lng_vehicle_livery_name_skofa2_09",
+    "en": "Greensmith 2023"
+  },
+  {
+    "id": "6734",
+    "k": "lng_vehicle_livery_name_skofa2_10",
+    "en": "Mikkelsen 2023"
+  },
+  {
+    "id": "6735",
+    "k": "lng_vehicle_livery_name_skofa2_11",
+    "en": "Solberg 2024"
+  },
+  {
+    "id": "6736",
+    "k": "lng_vehicle_livery_name_skofa2_12",
+    "en": "Ingram 2024"
+  },
+  {
+    "id": "6737",
+    "k": "lng_vehicle_livery_name_skofa2_13",
+    "en": "Lopez 2024"
+  },
+  {
+    "id": "6738",
+    "k": "lng_vehicle_livery_name_skofa2_14",
+    "en": "Greensmith 2024"
+  },
+  {
+    "id": "6739",
+    "k": "lng_vehicle_livery_name_skofa2_16",
+    "en": "Joona 2024"
+  },
+  {
+    "id": "6740",
+    "k": "lng_vehicle_livery_name_skofa2_17",
+    "en": "Zaldivar 2024"
+  },
+  {
+    "id": "6741",
+    "k": "lng_vehicle_livery_name_skofa2_20",
+    "en": "McErlean 2024"
+  },
+  {
+    "id": "6742",
+    "k": "lng_vehicle_livery_name_skofa2_21",
+    "en": "Loubet 2024"
+  },
+  {
+    "id": "6743",
+    "k": "lng_vehicle_livery_name_skofa5_01",
+    "en": "Kaur 2023"
+  },
+  {
+    "id": "6744",
+    "k": "lng_vehicle_livery_name_skofa5_02",
+    "en": "Bulacia 2023"
+  },
+  {
+    "id": "6745",
+    "k": "lng_vehicle_livery_name_skofa5_03",
+    "en": "Guerra 2023"
+  },
+  {
+    "id": "6746",
+    "k": "lng_vehicle_livery_name_skofa5_04",
+    "en": "Kajetanowicz 2023"
+  },
+  {
+    "id": "6747",
+    "k": "lng_vehicle_livery_name_skofa5_05",
+    "en": "Joona 2023"
+  },
+  {
+    "id": "6748",
+    "k": "lng_vehicle_livery_name_skofa5_06",
+    "en": "Keferböck 2023"
+  },
+  {
+    "id": "6749",
+    "k": "lng_vehicle_livery_name_skofa5_07",
+    "en": "Huttunen 2023"
+  },
+  {
+    "id": "6750",
+    "k": "lng_vehicle_livery_name_skofa5_08",
+    "en": "Mauro 2024"
+  },
+  {
+    "id": "6751",
+    "k": "lng_vehicle_livery_name_skofa5_r2_00",
+    "en": "Solberg 2020"
+  },
+  {
+    "id": "6752",
+    "k": "lng_vehicle_livery_name_skofab_00",
+    "en": "McRae 2005"
+  },
+  {
+    "id": "6753",
+    "k": "lng_vehicle_livery_name_skofab_01",
+    "en": "Red Bull 2006"
+  },
+  {
+    "id": "6754",
+    "k": "lng_vehicle_livery_name_skofab_02",
+    "en": "Factory 2003"
+  },
+  {
+    "id": "6755",
+    "k": "lng_vehicle_livery_name_sub555_00",
+    "en": "McRae 1995"
+  },
+  {
+    "id": "6756",
+    "k": "lng_vehicle_livery_name_subi01_00",
+    "en": "Solberg 2001"
+  },
+  {
+    "id": "6757",
+    "k": "lng_vehicle_livery_name_subi01_01",
+    "en": "Burns 2001"
+  },
+  {
+    "id": "6758",
+    "k": "lng_vehicle_livery_name_subi98_00",
+    "en": "McRae 1998"
+  },
+  {
+    "id": "6759",
+    "k": "lng_vehicle_livery_name_subleg_00",
+    "en": "McRae 1992"
+  },
+  {
+    "id": "6760",
+    "k": "lng_vehicle_livery_name_subnr4_00",
+    "en": "JRM Livery"
+  },
+  {
+    "id": "6761",
+    "k": "lng_vehicle_livery_name_tallot_00",
+    "en": "Talbot 1981"
+  },
+  {
+    "id": "6762",
+    "k": "lng_vehicle_livery_name_toy224_00",
+    "en": "Pajari 2024"
+  },
+  {
+    "id": "6763",
+    "k": "lng_vehicle_livery_name_toy224_01",
+    "en": "Lefebvre 2024"
+  },
+  {
+    "id": "6764",
+    "k": "lng_vehicle_livery_name_toy224_02",
+    "en": "Solans 2024"
+  },
+  {
+    "id": "6765",
+    "k": "lng_vehicle_livery_name_toy224_03",
+    "en": "Linnamäe 2024"
+  },
+  {
+    "id": "6766",
+    "k": "lng_vehicle_livery_name_toy224_04",
+    "en": "Yamamoto 2024"
+  },
+  {
+    "id": "6767",
+    "k": "lng_vehicle_livery_name_toy224_05",
+    "en": "Kogure 2024"
+  },
+  {
+    "id": "6768",
+    "k": "lng_vehicle_livery_name_toy224_06",
+    "en": "Korhonen 2024"
+  },
+  {
+    "id": "6769",
+    "k": "lng_vehicle_livery_name_toyy23_00",
+    "en": "Ogier 2023"
+  },
+  {
+    "id": "6770",
+    "k": "lng_vehicle_livery_name_toyy23_01",
+    "en": "Rovanperä 2023"
+  },
+  {
+    "id": "6771",
+    "k": "lng_vehicle_livery_name_toyy23_02",
+    "en": "Evans 2023"
+  },
+  {
+    "id": "6772",
+    "k": "lng_vehicle_livery_name_toyy23_03",
+    "en": "Katsuta 2023"
+  },
+  {
+    "id": "6773",
+    "k": "lng_vehicle_livery_name_toyy23_04",
+    "en": "Bertelli 2023"
+  },
+  {
+    "id": "6774",
+    "k": "lng_vehicle_livery_name_toyy24_00",
+    "en": "Ogier 2024"
+  },
+  {
+    "id": "6775",
+    "k": "lng_vehicle_livery_name_toyy24_01",
+    "en": "Evans 2024"
+  },
+  {
+    "id": "6776",
+    "k": "lng_vehicle_livery_name_toyy24_02",
+    "en": "Rovanperä 2024"
+  },
+  {
+    "id": "6777",
+    "k": "lng_vehicle_livery_name_toyy24_03",
+    "en": "Katsuta 2024"
+  },
+  {
+    "id": "6778",
+    "k": "lng_vehicle_livery_name_toyy24_04",
+    "en": "Bertelli 2024"
+  },
+  {
+    "id": "6779",
+    "k": "lng_vehicle_livery_name_vwgolf_00",
+    "en": "Volkswagen 1987"
+  },
+  {
+    "id": "6780",
+    "k": "lng_vehicle_livery_name_vwgolk_00",
+    "en": "Higgins 1999"
+  },
+  {
+    "id": "6781",
+    "k": "lng_vehicle_livery_name_vwgolk_01",
+    "en": "Castrol Livery"
+  },
+  {
+    "id": "6782",
+    "k": "lng_vehicle_livery_name_vwpol5_00",
+    "en": "Veiby 2023"
+  },
+  {
+    "id": "6783",
+    "k": "lng_vehicle_livery_name_vwpol5_r2_00",
+    "en": "Solberg 2019"
+  },
+  {
+    "id": "6784",
+    "k": "lng_vehicle_livery_name_vxastk_00",
+    "en": "Vauxhall 2000"
+  },
+  {
+    "id": "6785",
+    "k": "lng_vehicle_livery_name_vxnova_00",
+    "en": "McRae 1987"
+  },
+  {
+    "id": "6786",
+    "k": "lng_vehicle_model_namet_talbot_sunbeam_lotus_79_tallot",
+    "en": "Talbot Sunbeam Lotus"
+  },
+  {
+    "id": "6787",
+    "k": "lng_vehicle_name_short_ford_fiesta_rally3_21_forfra3",
+    "en": "Ford Fiesta Rally3"
+  },
+  {
+    "id": "6788",
+    "k": "lng_vehicle_power_label",
+    "en": "Power"
+  },
+  {
+    "id": "6789",
+    "k": "lng_vehicle_preparation_hub_screen_title",
+    "en": "VEHICLE PREPARATION"
+  },
+  {
+    "id": "6790",
+    "k": "lng_vehicle_repairs_bodywork_description",
+    "en": "Damage to the bodywork can majorly affect the amount of downforce generated by the aero resulting in less grip."
+  },
+  {
+    "id": "6791",
+    "k": "lng_vehicle_repairs_brakes",
+    "en": "Brakes"
+  },
+  {
+    "id": "6792",
+    "k": "lng_vehicle_repairs_brakes_description",
+    "en": "Worn brakes will cause brake fade, making them less effective."
+  },
+  {
+    "id": "6793",
+    "k": "lng_vehicle_repairs_clutch",
+    "en": "Clutch"
+  },
+  {
+    "id": "6794",
+    "k": "lng_vehicle_repairs_clutch_description",
+    "en": "A worn clutch results in a reduced amount of friction, causing it to slip, and therefore wear at a faster rate."
+  },
+  {
+    "id": "6795",
+    "k": "lng_vehicle_repairs_critical_damage",
+    "en": "Critical Damage"
+  },
+  {
+    "id": "6796",
+    "k": "lng_vehicle_repairs_differential",
+    "en": "Differential"
+  },
+  {
+    "id": "6797",
+    "k": "lng_vehicle_repairs_differential_description",
+    "en": "Differential damage can result in gears becoming seized together or a loss of fluid, severely impairing cornering."
+  },
+  {
+    "id": "6798",
+    "k": "lng_vehicle_repairs_electrics",
+    "en": "Electrics"
+  },
+  {
+    "id": "6799",
+    "k": "lng_vehicle_repairs_engine_description",
+    "en": "Damage to the engine can cause a major loss of power and could result in complete engine failure."
+  },
+  {
+    "id": "6800",
+    "k": "lng_vehicle_repairs_exhaust",
+    "en": "Exhaust"
+  },
+  {
+    "id": "6801",
+    "k": "lng_vehicle_repairs_exhaust_description",
+    "en": "A damaged exhaust system will result in a minor drop in engine power."
+  },
+  {
+    "id": "6802",
+    "k": "lng_vehicle_repairs_forced_induction_description",
+    "en": "A damaged turbo will result in a catastrophic decrease in engine power."
+  },
+  {
+    "id": "6803",
+    "k": "lng_vehicle_repairs_forcedinduction",
+    "en": "Forced Induction"
+  },
+  {
+    "id": "6804",
+    "k": "lng_vehicle_repairs_gearbox",
+    "en": "Gearbox"
+  },
+  {
+    "id": "6805",
+    "k": "lng_vehicle_repairs_gearbox_description",
+    "en": "Damage to the gearbox could result in a loss of certain gears, longer shift time or complete failure of the gearbox."
+  },
+  {
+    "id": "6806",
+    "k": "lng_vehicle_repairs_heavy_damage",
+    "en": "Heavy Damage"
+  },
+  {
+    "id": "6807",
+    "k": "lng_vehicle_repairs_inspection_time",
+    "en": "Inspection Time"
+  },
+  {
+    "id": "6808",
+    "k": "lng_vehicle_repairs_light_damage",
+    "en": "Light Damage"
+  },
+  {
+    "id": "6809",
+    "k": "lng_vehicle_repairs_lights",
+    "en": "Lights"
+  },
+  {
+    "id": "6810",
+    "k": "lng_vehicle_repairs_lights_description",
+    "en": "Damage to the lights can result in a reduction in visibility in low light stages. "
+  },
+  {
+    "id": "6811",
+    "k": "lng_vehicle_repairs_medium_damage",
+    "en": "Medium Damage"
+  },
+  {
+    "id": "6812",
+    "k": "lng_vehicle_repairs_no_damage",
+    "en": "No Damage"
+  },
+  {
+    "id": "6813",
+    "k": "lng_vehicle_repairs_quick_fix",
+    "en": "Quick Fix"
+  },
+  {
+    "id": "6814",
+    "k": "lng_vehicle_repairs_radiator",
+    "en": "Radiator"
+  },
+  {
+    "id": "6815",
+    "k": "lng_vehicle_repairs_radiator_description",
+    "en": "Radiator damage can cause the engine to overheat and start to wear at a faster rate."
+  },
+  {
+    "id": "6816",
+    "k": "lng_vehicle_repairs_repair_time",
+    "en": "Repair Time"
+  },
+  {
+    "id": "6817",
+    "k": "lng_vehicle_repairs_repair_type_title",
+    "en": "REPAIR TYPE"
+  },
+  {
+    "id": "6818",
+    "k": "lng_vehicle_repairs_replace_fix",
+    "en": "Replace Part"
+  },
+  {
+    "id": "6819",
+    "k": "lng_vehicle_repairs_replace_time",
+    "en": "Replace Time"
+  },
+  {
+    "id": "6820",
+    "k": "lng_vehicle_repairs_screen_title",
+    "en": "VEHICLE REPAIRS"
+  },
+  {
+    "id": "6821",
+    "k": "lng_vehicle_repairs_steering",
+    "en": "Steering"
+  },
+  {
+    "id": "6822",
+    "k": "lng_vehicle_repairs_steering_description",
+    "en": "Damage to the steering will affect front wheel alignment, making precise cornering more difficult."
+  },
+  {
+    "id": "6823",
+    "k": "lng_vehicle_repairs_summary_screen_title",
+    "en": "VEHICLE REPAIRS SUMMARY"
+  },
+  {
+    "id": "6824",
+    "k": "lng_vehicle_repairs_suspension",
+    "en": "Suspension"
+  },
+  {
+    "id": "6825",
+    "k": "lng_vehicle_repairs_suspension_description",
+    "en": "A damaged suspension will majorly affect corner capabilities and make the car difficult to keep under control."
+  },
+  {
+    "id": "6826",
+    "k": "lng_vehicle_repairs_time_penalty",
+    "en": "Time Penalty"
+  },
+  {
+    "id": "6827",
+    "k": "lng_vehicle_repairs_time_remaining",
+    "en": "Time Remaining"
+  },
+  {
+    "id": "6828",
+    "k": "lng_vehicle_repairs_wheelgeometry",
+    "en": "Wheel Geometry"
+  },
+  {
+    "id": "6829",
+    "k": "lng_vehicle_select_livery_selector_label",
+    "en": "Livery"
+  },
+  {
+    "id": "6830",
+    "k": "lng_vehicle_select_screen_vehicle_too_expensive_dialog_body",
+    "en": "This vehicle's Workshop build cost exceeds the limit for this Championship. Please select a different vehicle for this event."
+  },
+  {
+    "id": "6831",
+    "k": "lng_vehicle_select_screen_vehicle_too_expensive_dialog_title",
+    "en": "UNABLE TO SELECT VEHICLE"
+  },
+  {
+    "id": "6832",
+    "k": "lng_vehicle_select_vb_body",
+    "en": "Here you can build your own personalised vehicle for the selected class. You can customise everything from the drivetrain, engine and mechanical parts, to the way the vehicle looks from both the exterior and interior.<cf><cf>Vehicles created here will be saved so that you can use them again in different modes, or edit the existing designs that you have made."
+  },
+  {
+    "id": "6833",
+    "k": "lng_vehicle_select_vb_title",
+    "en": "BUILD YOUR OWN VEHICLE"
+  },
+  {
+    "id": "6834",
+    "k": "lng_vehicle_vendor_buy_team_mate_body",
+    "en": "Would you like to also add a second vehicle, for a Team Mate, for the same price? The total cost for both becomes {0}"
+  },
+  {
+    "id": "6835",
+    "k": "lng_vehicle_vendor_buy_team_mate_title",
+    "en": "ONE TIME OFFER"
+  },
+  {
+    "id": "6836",
+    "k": "lng_vehicle_vendor_garage_full_body",
+    "en": "Your Garage is currently full. To make a new purchase from the Motor Show you'll need to make space by selling a vehicle. You can access your Garage from Motor Show, but visiting the Motor Show will advance to the next Calendar week."
+  },
+  {
+    "id": "6837",
+    "k": "lng_vehicle_vendor_garage_full_title",
+    "en": "GARAGE FULL"
+  },
+  {
+    "id": "6838",
+    "k": "lng_vehicle_vendor_no_slots_available_body",
+    "en": "Your Garage is currently full. To make a new purchase from the Vendor you'll need to make space by selling a vehicle. You can do this from the Garage. "
+  },
+  {
+    "id": "6839",
+    "k": "lng_vehicle_vendor_screen_title",
+    "en": "VENDOR"
+  },
+  {
+    "id": "6840",
+    "k": "lng_vehicle_vendor_testdrive_screen_title",
+    "en": "TEST DRIVE"
+  },
+  {
+    "id": "6841",
+    "k": "lng_vehicle_weight_label",
+    "en": "Weight"
+  },
+  {
+    "id": "6842",
+    "k": "lng_location_description_buildzerorally",
+    "en": "The Build Zero Rally."
+  },
+  {
+    "id": "6843",
+    "k": "lng_location_description_chile",
+    "en": "A challenging and versatile gravel rally set within stunning natural vistas"
+  },
+  {
+    "id": "6844",
+    "k": "lng_location_description_corsica",
+    "en": "An historic asphalt rally with unforgiving obstacles and extreme drops"
+  },
+  {
+    "id": "6845",
+    "k": "lng_location_description_croatia",
+    "en": "A fast and technical asphalt rally through rustic villages and winding mountain roads"
+  },
+  {
+    "id": "6846",
+    "k": "lng_location_description_czech_republic",
+    "en": "An unforgiving asphalt rally blasting through the countryside of the Czech Republic, Germany, and Austria."
+  },
+  {
+    "id": "6847",
+    "k": "lng_location_description_estonia",
+    "en": "A blazingly fast rally through big jumps, wide gravel roads, and tight stages"
+  },
+  {
+    "id": "6848",
+    "k": "lng_location_description_finland",
+    "en": "Competitors fly through stages of big jumps and wide roads in this gravel rally"
+  },
+  {
+    "id": "6849",
+    "k": "lng_location_description_greece",
+    "en": "High temperatures, twisting mountain roads, and abrasive gravel surfaces make this rally a battle of attrition"
+  },
+  {
+    "id": "6850",
+    "k": "lng_location_description_indonesia",
+    "en": "A tricky gravel rally set within the humid and tropical jungles of South East Asia"
+  },
+  {
+    "id": "6851",
+    "k": "lng_location_description_ivory_coast",
+    "en": "Rough roads and difficult conditions make this the most gruelling rally on the planet"
+  },
+  {
+    "id": "6852",
+    "k": "lng_location_description_japan",
+    "en": "A fast flowing asphalt rally with plenty of verticality through the mountainous Chubu region"
+  },
+  {
+    "id": "6853",
+    "k": "lng_location_description_kenya",
+    "en": "This gravel rally is both visually stunning and ruggedly harsh as it cuts through the African wilderness"
+  },
+  {
+    "id": "6854",
+    "k": "lng_location_description_latvia",
+    "en": "A rally blasting along high speed, ditch lined, gravel roads near the Baltic coast"
+  },
+  {
+    "id": "6855",
+    "k": "lng_location_description_mexico",
+    "en": "A highly technical desert rally run on extreme and hazardous terrain"
+  },
+  {
+    "id": "6856",
+    "k": "lng_location_description_monte_carlo",
+    "en": "A classic mountainous asphalt rally complicated with wintry and icy conditions"
+  },
+  {
+    "id": "6857",
+    "k": "lng_location_description_new_zealand",
+    "en": "Rolling hills and sweeping vistas characterise this iconic gravel rally"
+  },
+  {
+    "id": "6858",
+    "k": "lng_location_description_norway",
+    "en": "An uncompromising snow rally taking place in the freezing cold Nordic forests"
+  },
+  {
+    "id": "6859",
+    "k": "lng_location_description_poland",
+    "en": "High speed gravel roads mix with technical asphalt villages at this historic rally"
+  }
+]

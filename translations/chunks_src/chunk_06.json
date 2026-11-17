@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "2297",
+    "k": "lng_nationality_name_afghanistan",
+    "en": "Afghan"
+  },
+  {
+    "id": "2298",
+    "k": "lng_nationality_name_albania",
+    "en": "Albanian"
+  },
+  {
+    "id": "2299",
+    "k": "lng_nationality_name_algeria",
+    "en": "Algerian"
+  },
+  {
+    "id": "2300",
+    "k": "lng_nationality_name_andorra",
+    "en": "Andorran"
+  },
+  {
+    "id": "2301",
+    "k": "lng_nationality_name_angola",
+    "en": "\tAngolan"
+  },
+  {
+    "id": "2302",
+    "k": "lng_nationality_name_armenia",
+    "en": "Armenian"
+  },
+  {
+    "id": "2303",
+    "k": "lng_nationality_name_authorised_neutral_athlete",
+    "en": "ANA"
+  },
+  {
+    "id": "2304",
+    "k": "lng_nationality_name_bangladesh",
+    "en": "Bangladeshi"
+  },
+  {
+    "id": "2305",
+    "k": "lng_nationality_name_barbados",
+    "en": "Barbadian"
+  },
+  {
+    "id": "2306",
+    "k": "lng_nationality_name_belarus",
+    "en": "Belarusian"
+  },
+  {
+    "id": "2307",
+    "k": "lng_nationality_name_belize",
+    "en": "Belizean"
+  },
+  {
+    "id": "2308",
+    "k": "lng_nationality_name_benin",
+    "en": "Beninese"
+  },
+  {
+    "id": "2309",
+    "k": "lng_nationality_name_bosnia_and_herzegovina",
+    "en": "Bosnian"
+  },
+  {
+    "id": "2310",
+    "k": "lng_nationality_name_botswana",
+    "en": "Motswana"
+  },
+  {
+    "id": "2311",
+    "k": "lng_nationality_name_brunei",
+    "en": "\tBruneian"
+  },
+  {
+    "id": "2312",
+    "k": "lng_nationality_name_burkina_faso",
+    "en": "Burkinabè"
+  },
+  {
+    "id": "2313",
+    "k": "lng_nationality_name_burundi",
+    "en": "\tBurundian"
+  },
+  {
+    "id": "2314",
+    "k": "lng_nationality_name_cambodia",
+    "en": "Cambodian"
+  },
+  {
+    "id": "2315",
+    "k": "lng_nationality_name_cape_verde",
+    "en": "Cape Verdean"
+  },
+  {
+    "id": "2316",
+    "k": "lng_nationality_name_central_african_republic",
+    "en": "Central African"
+  },
+  {
+    "id": "2317",
+    "k": "lng_nationality_name_central_europe",
+    "en": "European"
+  },
+  {
+    "id": "2318",
+    "k": "lng_nationality_name_chad",
+    "en": "Chadian"
+  },
+  {
+    "id": "2319",
+    "k": "lng_nationality_name_comoros",
+    "en": "Comorian"
+  },
+  {
+    "id": "2320",
+    "k": "lng_nationality_name_cuba",
+    "en": "Cuban"
+  },
+  {
+    "id": "2321",
+    "k": "lng_nationality_name_dominican_republic",
+    "en": "Dominican Republic"
+  },
+  {
+    "id": "2322",
+    "k": "lng_nationality_name_egypt",
+    "en": "Egyptian"
+  },
+  {
+    "id": "2323",
+    "k": "lng_nationality_name_el_salvador",
+    "en": "Salvadoran"
+  },
+  {
+    "id": "2324",
+    "k": "lng_nationality_name_equatorial_guinea",
+    "en": "Equatorial Guinean"
+  },
+  {
+    "id": "2325",
+    "k": "lng_nationality_name_eritrea",
+    "en": "Eritrean"
+  },
+  {
+    "id": "2326",
+    "k": "lng_nationality_name_ethiopia",
+    "en": "Ethiopia"
+  },
+  {
+    "id": "2327",
+    "k": "lng_nationality_name_fiji",
+    "en": "Fijian"
+  },
+  {
+    "id": "2328",
+    "k": "lng_nationality_name_gabon",
+    "en": "Gabonese"
+  },
+  {
+    "id": "2329",
+    "k": "lng_nationality_name_gambia",
+    "en": "\tGambian"
+  },
+  {
+    "id": "2330",
+    "k": "lng_nationality_name_georgia",
+    "en": "Georgian"
+  },
+  {
+    "id": "2331",
+    "k": "lng_nationality_name_guatemala",
+    "en": "Guatemalan"
+  },
+  {
+    "id": "2332",
+    "k": "lng_nationality_name_guernsey",
+    "en": "Guernsey"
+  },
+  {
+    "id": "2333",
+    "k": "lng_nationality_name_guinea",
+    "en": "Guinean"
+  },
+  {
+    "id": "2334",
+    "k": "lng_nationality_name_guinea_bissau",
+    "en": "Bissau-Guinean"
+  },
+  {
+    "id": "2335",
+    "k": "lng_nationality_name_haiti",
+    "en": "Haitian"
+  },
+  {
+    "id": "2336",
+    "k": "lng_nationality_name_honduras",
+    "en": "Honduran"
+  },
+  {
+    "id": "2337",
+    "k": "lng_nationality_name_iran",
+    "en": "Iranian"
+  },
+  {
+    "id": "2338",
+    "k": "lng_nationality_name_iraq",
+    "en": "Iraqi"
+  },
+  {
+    "id": "2339",
+    "k": "lng_nationality_name_jersey",
+    "en": "Jersey"
+  },
+  {
+    "id": "2340",
+    "k": "lng_nationality_name_kazakhstan",
+    "en": "Kazakhstan"
+  },
+  {
+    "id": "2341",
+    "k": "lng_nationality_name_kosovo",
+    "en": "Kosovar"
+  },
+  {
+    "id": "2342",
+    "k": "lng_nationality_name_krygyzstan",
+    "en": "Kyrgyz"
+  },
+  {
+    "id": "2343",
+    "k": "lng_nationality_name_laos",
+    "en": "Laos"
+  },
+  {
+    "id": "2344",
+    "k": "lng_nationality_name_lebanon",
+    "en": "Lebanese"
+  },
+  {
+    "id": "2345",
+    "k": "lng_nationality_name_lesotho",
+    "en": "Mosotho"
+  },
+  {
+    "id": "2346",
+    "k": "lng_nationality_name_liberia",
+    "en": "Liberian"
+  },
+  {
+    "id": "2347",
+    "k": "lng_nationality_name_libya",
+    "en": "Libyan"
+  },
+  {
+    "id": "2348",
+    "k": "lng_nationality_name_liechtenstein",
+    "en": "Liechtensteiner"
+  },
+  {
+    "id": "2349",
+    "k": "lng_nationality_name_madagascar",
+    "en": "\tMalagasy"
+  },
+  {
+    "id": "2350",
+    "k": "lng_nationality_name_malawi",
+    "en": "Malawian"
+  },
+  {
+    "id": "2351",
+    "k": "lng_nationality_name_mali",
+    "en": "\tMalian"
+  },
+  {
+    "id": "2352",
+    "k": "lng_nationality_name_malta",
+    "en": "Maltese"
+  },
+  {
+    "id": "2353",
+    "k": "lng_nationality_name_mauritania",
+    "en": "Mauritanian"
+  },
+  {
+    "id": "2354",
+    "k": "lng_nationality_name_moldova",
+    "en": "Moldovan"
+  },
+  {
+    "id": "2355",
+    "k": "lng_nationality_name_mongolia",
+    "en": "Mongolian"
+  },
+  {
+    "id": "2356",
+    "k": "lng_nationality_name_montenegro",
+    "en": "Montenegrin"
+  },
+  {
+    "id": "2357",
+    "k": "lng_nationality_name_morocco",
+    "en": "Moroccan"
+  },
+  {
+    "id": "2358",
+    "k": "lng_nationality_name_mozambique",
+    "en": "Mozambican"
+  },
+  {
+    "id": "2359",
+    "k": "lng_nationality_name_myanmar",
+    "en": "Myanmar"
+  },
+  {
+    "id": "2360",
+    "k": "lng_nationality_name_namibia",
+    "en": "\tNamibian"
+  },
+  {
+    "id": "2361",
+    "k": "lng_nationality_name_nepal",
+    "en": "Nepalese"
+  },
+  {
+    "id": "2362",
+    "k": "lng_nationality_name_nicaragua",
+    "en": "Nicaraguan"
+  },
+  {
+    "id": "2363",
+    "k": "lng_nationality_name_niger",
+    "en": "Nigerien"
+  },
+  {
+    "id": "2364",
+    "k": "lng_nationality_name_north_korea",
+    "en": "North Korean"
+  },
+  {
+    "id": "2365",
+    "k": "lng_nationality_name_panama",
+    "en": "Panamanian"
+  },
+  {
+    "id": "2366",
+    "k": "lng_nationality_name_philippines",
+    "en": "Filipino"
+  },
+  {
+    "id": "2367",
+    "k": "lng_nationality_name_republic_of_the_congo",
+    "en": "Congolese"
+  },
+  {
+    "id": "2368",
+    "k": "lng_nationality_name_rwanda",
+    "en": "Rwandan"
+  },
+  {
+    "id": "2369",
+    "k": "lng_nationality_name_san_marino",
+    "en": "Sammarinese"
+  },
+  {
+    "id": "2370",
+    "k": "lng_nationality_name_senegal",
+    "en": "Senegalese"
+  },
+  {
+    "id": "2371",
+    "k": "lng_nationality_name_sierra_leone",
+    "en": "Sierra Leonean"
+  },
+  {
+    "id": "2372",
+    "k": "lng_nationality_name_singapore",
+    "en": "Singaporean"
+  },
+  {
+    "id": "2373",
+    "k": "lng_nationality_name_somalia",
+    "en": "Somali"
+  },
+  {
+    "id": "2374",
+    "k": "lng_nationality_name_south_sudan",
+    "en": "South Sudanese"
+  },
+  {
+    "id": "2375",
+    "k": "lng_nationality_name_sri_lanka",
+    "en": "\tSri Lankan"
+  },
+  {
+    "id": "2376",
+    "k": "lng_nationality_name_sudan",
+    "en": "Sudanese"
+  },
+  {
+    "id": "2377",
+    "k": "lng_nationality_name_suriname",
+    "en": "Surinamese"
+  },
+  {
+    "id": "2378",
+    "k": "lng_nationality_name_syria",
+    "en": "Syrian"
+  },
+  {
+    "id": "2379",
+    "k": "lng_nationality_name_tajikistan",
+    "en": "\tTajikistani"
+  },
+  {
+    "id": "2380",
+    "k": "lng_nationality_name_tanzania",
+    "en": "\tTanzanian"
+  },
+  {
+    "id": "2381",
+    "k": "lng_nationality_name_togo",
+    "en": "Togolese"
+  },
+  {
+    "id": "2382",
+    "k": "lng_nationality_name_tonga",
+    "en": "\tTongan"
+  },
+  {
+    "id": "2383",
+    "k": "lng_nationality_name_trinidad_and_tobago",
+    "en": "Trinidadian & Tobagonian"
+  },
+  {
+    "id": "2384",
+    "k": "lng_nationality_name_tunisia",
+    "en": "Tunisian"
+  },
+  {
+    "id": "2385",
+    "k": "lng_nationality_name_turkmenistan",
+    "en": "Turkmenistani"
+  },
+  {
+    "id": "2386",
+    "k": "lng_nationality_name_uganda",
+    "en": "Ugandan"
+  },
+  {
+    "id": "2387",
+    "k": "lng_nationality_name_uzbekistan",
+    "en": "Uzbekistani"
+  },
+  {
+    "id": "2388",
+    "k": "lng_nationality_name_vietnam",
+    "en": "Vietnamese"
+  },
+  {
+    "id": "2389",
+    "k": "lng_nationality_name_zimbabwe",
+    "en": "Zimbabwean"
+  },
+  {
+    "id": "2390",
+    "k": "lng_nationality_netherlands",
+    "en": "Dutch"
+  },
+  {
+    "id": "2391",
+    "k": "lng_nationality_newzealand",
+    "en": "New Zealander"
+  },
+  {
+    "id": "2392",
+    "k": "lng_nationality_nigeria",
+    "en": "Nigerian"
+  },
+  {
+    "id": "2393",
+    "k": "lng_nationality_northernireland",
+    "en": "Northern Irish"
+  },
+  {
+    "id": "2394",
+    "k": "lng_nationality_norway",
+    "en": "Norwegian"
+  },
+  {
+    "id": "2395",
+    "k": "lng_nationality_oman",
+    "en": "Omani"
+  },
+  {
+    "id": "2396",
+    "k": "lng_nationality_pakistan",
+    "en": "Pakistani"
+  },
+  {
+    "id": "2397",
+    "k": "lng_nationality_palestine",
+    "en": "Palestinian"
+  },
+  {
+    "id": "2398",
+    "k": "lng_nationality_paraguay",
+    "en": "Paraguayan"
+  },
+  {
+    "id": "2399",
+    "k": "lng_nationality_peru",
+    "en": "Peruvian"
+  },
+  {
+    "id": "2400",
+    "k": "lng_nationality_poland",
+    "en": "Polish"
+  },
+  {
+    "id": "2401",
+    "k": "lng_nationality_portugal",
+    "en": "Portuguese"
+  },
+  {
+    "id": "2402",
+    "k": "lng_nationality_puertorico",
+    "en": "Puerto Rican"
+  },
+  {
+    "id": "2403",
+    "k": "lng_nationality_qatar",
+    "en": "Qatari"
+  },
+  {
+    "id": "2404",
+    "k": "lng_nationality_romania",
+    "en": "Romanian"
+  },
+  {
+    "id": "2405",
+    "k": "lng_nationality_russia",
+    "en": "Russian"
+  },
+  {
+    "id": "2406",
+    "k": "lng_nationality_saudiarabia",
+    "en": "Saudi"
+  },
+  {
+    "id": "2407",
+    "k": "lng_nationality_scotland",
+    "en": "Scottish"
+  },
+  {
+    "id": "2408",
+    "k": "lng_nationality_serbia",
+    "en": "Serbian"
+  },
+  {
+    "id": "2409",
+    "k": "lng_nationality_slovakia",
+    "en": "Slovakian"
+  },
+  {
+    "id": "2410",
+    "k": "lng_nationality_slovenia",
+    "en": "Slovenian"
+  },
+  {
+    "id": "2411",
+    "k": "lng_nationality_southafrica",
+    "en": "South African"
+  },
+  {
+    "id": "2412",
+    "k": "lng_nationality_southkorea",
+    "en": "South Korean"
+  },
+  {
+    "id": "2413",
+    "k": "lng_nationality_sweden",
+    "en": "Swedish"
+  },
+  {
+    "id": "2414",
+    "k": "lng_nationality_switzerland",
+    "en": "Swiss"
+  },
+  {
+    "id": "2415",
+    "k": "lng_nationality_thailand",
+    "en": "Thai"
+  },
+  {
+    "id": "2416",
+    "k": "lng_nationality_turkey",
+    "en": "Turkish"
+  },
+  {
+    "id": "2417",
+    "k": "lng_nationality_uae",
+    "en": "Emirian"
+  },
+  {
+    "id": "2418",
+    "k": "lng_nationality_uruguay",
+    "en": "Uruguayan"
+  },
+  {
+    "id": "2419",
+    "k": "lng_nationality_usa",
+    "en": "American"
+  },
+  {
+    "id": "2420",
+    "k": "lng_nationality_venezuela",
+    "en": "Venezuelan"
+  },
+  {
+    "id": "2421",
+    "k": "lng_nationality_wales",
+    "en": "Welsh"
+  },
+  {
+    "id": "2422",
+    "k": "lng_nationality_yemen",
+    "en": "Yemeni"
+  },
+  {
+    "id": "2423",
+    "k": "lng_nationality_zambia",
+    "en": "Zambian"
+  },
+  {
+    "id": "2424",
+    "k": "lng_net_error_create_room_failed_body",
+    "en": "The session couldn't be created. Would you like to Retry?"
+  },
+  {
+    "id": "2425",
+    "k": "lng_net_error_create_room_failed_title",
+    "en": "Unable to Create Session"
+  },
+  {
+    "id": "2426",
+    "k": "lng_net_error_join_invited_session_failed_body",
+    "en": "Unknown error when joining session. Would you like to Continue to the Session Browser?"
+  },
+  {
+    "id": "2427",
+    "k": "lng_net_error_join_invited_session_failed_noexist_body",
+    "en": "The session has ended. Would you like to Continue to the Session Browser?"
+  },
+  {
+    "id": "2428",
+    "k": "lng_net_error_joining_session_failed_body",
+    "en": "Failed to connect to the session. Would you like to Retry or Continue to the Session Browser?<cf><cf>Go to ea.com/unable-to-connect to find out more."
+  },
+  {
+    "id": "2429",
+    "k": "lng_net_error_joining_session_failed_full_body",
+    "en": "The session is full. Would you like to Retry or Continue to the Session Browser?"
+  },
+  {
+    "id": "2430",
+    "k": "lng_net_error_joining_session_failed_invalid_invite_body",
+    "en": "The session is no longer available"
+  },
+  {
+    "id": "2431",
+    "k": "lng_net_error_joining_session_failed_noexist_body",
+    "en": "The session has ended."
+  },
+  {
+    "id": "2432",
+    "k": "lng_net_error_joining_session_failed_title",
+    "en": "UNABLE TO JOIN"
+  },
+  {
+    "id": "2433",
+    "k": "lng_net_error_platform_authentication_failed",
+    "en": "Failed to retrieve a platform authentication token."
+  },
+  {
+    "id": "2434",
+    "k": "lng_net_error_read_join_token_failed_body",
+    "en": "Failed to connect to the session. Would you like to Continue to the Session Browser?<cf><cf>Go to ea.com/unable-to-connect to find out more."
+  },
+  {
+    "id": "2435",
+    "k": "lng_net_error_read_join_token_failed_bodyf",
+    "en": "Failed to connect to your friend's session. Would you like to Continue to the Session Browser?<cf><cf>Go to ea.com/unable-to-connect to find out more."
+  },
+  {
+    "id": "2436",
+    "k": "lng_net_error_watson_auth_body",
+    "en": "Both the text to speech and speech to text services are temporarily unavailable."
+  },
+  {
+    "id": "2437",
+    "k": "lng_net_error_watson_stt_auth_body",
+    "en": "The speech to text service is temporarily unavailable."
+  },
+  {
+    "id": "2438",
+    "k": "lng_net_error_watson_tts_auth_body",
+    "en": "The text to speech service is temporarily unavailable."
+  },
+  {
+    "id": "2439",
+    "k": "lng_net_leave_multiplayer_offline_body",
+    "en": "You lost your connection to the network."
+  },
+  {
+    "id": "2440",
+    "k": "lng_net_leave_multiplayer_offline_title",
+    "en": "CONNECTION FAILED"
+  },
+  {
+    "id": "2441",
+    "k": "lng_net_no_match_found_body",
+    "en": "Quick Match was unable to find a suitable session at the moment. Would you like to try again or open the Session Browser?"
+  },
+  {
+    "id": "2442",
+    "k": "lng_net_privilege_check_failed_account_title",
+    "en": "WARNING"
+  },
+  {
+    "id": "2443",
+    "k": "lng_net_privilege_check_failed_age_restricted_body",
+    "en": "This profile is not allowed to play the game online due to parental control restrictions. Leaderboard times will not be automatically uploaded after each stage."
+  },
+  {
+    "id": "2444",
+    "k": "lng_net_privilege_check_failed_age_restricted_title",
+    "en": "AGE RESTRICTIONS"
+  },
+  {
+    "id": "2445",
+    "k": "lng_net_privilege_check_failed_system_update_body",
+    "en": "Certain game modes and features are only available with the latest game updates. Please ensure that you have the latest version."
+  },
+  {
+    "id": "2446",
+    "k": "lng_net_privilege_check_failed_system_update_title",
+    "en": "UPDATE REQUIRED"
+  },
+  {
+    "id": "2447",
+    "k": "lng_net_privilege_check_failed_to_check_body",
+    "en": "Unable to connect to the EA servers. Please check your Internet connection, make sure the Platform Client is online and try again. <cf><cf>Please see ea.com/unable-to-connect for more information"
+  },
+  {
+    "id": "2448",
+    "k": "lng_net_privilege_check_failed_to_check_body",
+    "en": "Unable to connect to the EA servers. Please check your Internet connection, make sure the Platform Client is online and try again.<cf><cf>Please see ea.com/unable-to-connect for more information"
+  },
+  {
+    "id": "2449",
+    "k": "lng_net_privilege_check_failed_ugc_body",
+    "en": "Your profile does not have the correct permissions to share or receive user generated content."
+  },
+  {
+    "id": "2450",
+    "k": "lng_net_privilege_check_failed_ugc_title",
+    "en": "YOU'RE NOT ALLOWED"
+  },
+  {
+    "id": "2451",
+    "k": "lng_net_privilege_check_insufficient_body",
+    "en": "Your profile does not have the correct permissions to access Steam functionality."
+  },
+  {
+    "id": "2452",
+    "k": "lng_net_privilege_check_player_offline_body",
+    "en": "Unable to connect to the EA servers. Please check your Internet connection, make sure the Platform Client is online and try again. <cf><cf>Please see ea.com/unable-to-connect for more information."
+  },
+  {
+    "id": "2453",
+    "k": "lng_net_privilege_check_player_offline_title",
+    "en": "FAILED TO CONNECT"
+  },
+  {
+    "id": "2454",
+    "k": "lng_net_privilege_check_rate_limited_body",
+    "en": "Rate limit exceeded"
+  },
+  {
+    "id": "2455",
+    "k": "lng_net_privilege_check_rate_limited_title",
+    "en": "NETWORK ERROR"
+  },
+  {
+    "id": "2456",
+    "k": "lng_net_session_create_failed_body",
+    "en": "You must be signed into Steam. Please ensure that you're signed in, check your network connection, and try again.<cf><cf>Go to ea.com/unable-to-connect to find out more."
+  },
+  {
+    "id": "2457",
+    "k": "lng_network_error_code",
+    "en": "Error: {0}"
+  },
+  {
+    "id": "2458",
+    "k": "lng_network_error_failed_to_connect_body",
+    "en": "Unable to connect to the game server. Please try again later.<cf><cf>Go to ea.com/unable-to-connect to find out more."
+  },
+  {
+    "id": "2459",
+    "k": "lng_network_error_failed_to_connect_title",
+    "en": "Failed to Connect"
+  },
+  {
+    "id": "2460",
+    "k": "lng_network_error_timeout",
+    "en": "Timed Out"
+  },
+  {
+    "id": "2461",
+    "k": "lng_network_platform_type_ea",
+    "en": "EA App"
+  },
+  {
+    "id": "2462",
+    "k": "lng_network_platform_type_generic_pc",
+    "en": "PC"
+  },
+  {
+    "id": "2463",
+    "k": "lng_network_platform_type_psn",
+    "en": "PlayStation™Network"
+  },
+  {
+    "id": "2464",
+    "k": "lng_network_platform_type_steam",
+    "en": "Steam"
+  },
+  {
+    "id": "2465",
+    "k": "lng_network_platform_type_xbox",
+    "en": "Xbox"
+  },
+  {
+    "id": "2466",
+    "k": "lng_new_career_overwrite_body",
+    "en": "Are you sure you want to overwrite the current Career save? All progress will be lost."
+  },
+  {
+    "id": "2467",
+    "k": "lng_new_championship_overwrite_body",
+    "en": "Are you sure you want to overwrite the current Championship Mode Save? All progress will be lost."
+  },
+  {
+    "id": "2468",
+    "k": "lng_new_wrc_championship_desc",
+    "en": "Begin a new Championship"
+  },
+  {
+    "id": "2469",
+    "k": "lng_newcomer",
+    "en": "Newcomer"
+  },
+  {
+    "id": "2470",
+    "k": "lng_next_stage",
+    "en": "NEXT STAGE"
+  },
+  {
+    "id": "2471",
+    "k": "lng_nimble",
+    "en": "Nimble"
+  },
+  {
+    "id": "2472",
+    "k": "lng_no_brake_in_corner_description",
+    "en": "Do not apply the brake in the blue zone"
+  },
+  {
+    "id": "2473",
+    "k": "lng_no_game_invites_found",
+    "en": "No Game Invites Found"
+  },
+  {
+    "id": "2474",
+    "k": "lng_no_handbrake_description",
+    "en": "Do not apply the handbrake in the blue zone"
+  },
+  {
+    "id": "2475",
+    "k": "lng_notification_ai_difficulty_settings_changed",
+    "en": "AI Difficulty is now set to [0]"
+  },
+  {
+    "id": "2476",
+    "k": "lng_notification_championship_settings_changed",
+    "en": "Championship Settings Changed"
+  },
+  {
+    "id": "2477",
+    "k": "lng_notification_damage_level_default",
+    "en": "Damage level set to Default"
+  },
+  {
+    "id": "2478",
+    "k": "lng_notification_damage_level_hardcore",
+    "en": "Damage level set to Hardcore"
+  },
+  {
+    "id": "2479",
+    "k": "lng_notification_damage_level_visual_only_no_terminal",
+    "en": "Damage level set to Visual Only"
+  },
+  {
+    "id": "2480",
+    "k": "lng_notification_ea_friend_invite_received",
+    "en": "Has Sent You a Friend Request"
+  },
+  {
+    "id": "2481",
+    "k": "lng_notification_ea_friend_invite_sent",
+    "en": "Has been Sent a Friend Request"
+  },
+  {
+    "id": "2482",
+    "k": "lng_notification_ea_game_invite_received",
+    "en": "has sent you an invite"
+  },
+  {
+    "id": "2483",
+    "k": "lng_notification_hardcore_settings_changed_off",
+    "en": "Hardcore Damage is now off"
+  },
+  {
+    "id": "2484",
+    "k": "lng_notification_hardcore_settings_changed_on",
+    "en": "Hardcore Damage is now on"
+  },
+  {
+    "id": "2485",
+    "k": "lng_notification_player_is_now_host",
+    "en": "[0] is now the host"
+  },
+  {
+    "id": "2486",
+    "k": "lng_notification_player_is_waiting",
+    "en": "Waiting For Players..."
+  },
+  {
+    "id": "2487",
+    "k": "lng_notification_player_joined_session",
+    "en": "[0] has joined the Session"
+  },
+  {
+    "id": "2488",
+    "k": "lng_notification_player_jumped_start",
+    "en": "[0] jumped the start"
+  },
+  {
+    "id": "2489",
+    "k": "lng_notification_player_kicked_from_session",
+    "en": "[0] kicked"
+  },
+  {
+    "id": "2490",
+    "k": "lng_notification_player_left_session",
+    "en": "[0] has left the Session"
+  },
+  {
+    "id": "2491",
+    "k": "lng_notification_player_muted",
+    "en": "[0] muted"
+  },
+  {
+    "id": "2492",
+    "k": "lng_notification_player_time_out_loading",
+    "en": "[0] timed out in Loading"
+  },
+  {
+    "id": "2493",
+    "k": "lng_notification_race_in_progress",
+    "en": "Stage in Progress"
+  },
+  {
+    "id": "2494",
+    "k": "lng_notification_race_over",
+    "en": "Event Over - Waiting for next event"
+  },
+  {
+    "id": "2495",
+    "k": "lng_notification_race_starting",
+    "en": "Stage Starting"
+  },
+  {
+    "id": "2496",
+    "k": "lng_notification_session_settings_assists_allowed",
+    "en": "Assists are now allowed"
+  },
+  {
+    "id": "2497",
+    "k": "lng_notification_session_settings_assists_restricted",
+    "en": "Assists are now restricted"
+  },
+  {
+    "id": "2498",
+    "k": "lng_notification_session_settings_changed",
+    "en": "Session Settings Changed"
+  },
+  {
+    "id": "2499",
+    "k": "lng_notification_session_settings_crossplatform_off",
+    "en": "Cross Platform is now off"
+  },
+  {
+    "id": "2500",
+    "k": "lng_notification_session_settings_crossplatform_on",
+    "en": "Cross Platform is now on"
+  },
+  {
+    "id": "2501",
+    "k": "lng_notification_session_settings_race_end_timer_changed",
+    "en": "End race time changed to [0]"
+  },
+  {
+    "id": "2502",
+    "k": "lng_notification_session_settings_visibility_changed",
+    "en": "Session is now [0]"
+  },
+  {
+    "id": "2503",
+    "k": "lng_notificationdialog_saveloadresultincompatible_body",
+    "en": "This {save_type} save is incompatible with this version of the game. Please check for game updates and try again."
+  },
+  {
+    "id": "2504",
+    "k": "lng_notificationdialog_saveloadresultincompatible_title",
+    "en": "INCOMPATIBLE SAVE"
+  },
+  {
+    "id": "2505",
+    "k": "lng_notificationdialog_saveloadresultsavenospace_body",
+    "en": "There is insufficient space to save your game on the selected device."
+  },
+  {
+    "id": "2506",
+    "k": "lng_notificationdialog_saveloadresultsavenospace_title",
+    "en": "INSUFFICIENT SPACE"
+  },
+  {
+    "id": "2507",
+    "k": "lng_objective_airtime_x_seconds_desc",
+    "en": "Achieve a total of {0} seconds of airtime"
+  },
+  {
+    "id": "2508",
+    "k": "lng_objective_damage_less_than_x_on_any_component_desc",
+    "en": "Less than {0} damage on any component"
+  },
+  {
+    "id": "2509",
+    "k": "lng_objective_damage_less_than_x_on_component_y_desc",
+    "en": "Less than {0} damage on {1} component"
+  },
+  {
+    "id": "2510",
+    "k": "lng_objective_disable_co_driver_calls_desc",
+    "en": "With codriver calls disabled"
+  },
+  {
+    "id": "2511",
+    "k": "lng_objective_drive_x_miles_before_y_seconds_time_limit_desc",
+    "en": "Drive {0} before {1} time limit"
+  },
+  {
+    "id": "2512",
+    "k": "lng_objective_finish_greater_or_equal_position_x_desc",
+    "en": "Finish in position {0} or higher"
+  },
+  {
+    "id": "2513",
+    "k": "lng_objective_finish_greater_or_equal_position_x_in_championship_desc",
+    "en": "Finish in {0} position or higher in the championship standings"
+  },
+  {
+    "id": "2514",
+    "k": "lng_objective_finish_within_x_seconds_time_limit_desc",
+    "en": "Finish within {0} time limit"
+  },
+  {
+    "id": "2515",
+    "k": "lng_objective_finish_x_championship_points_or_more_ahead_of_driver_y_desc",
+    "en": "Finish {0} points or more ahead of {1} in the championship standings"
+  },
+  {
+    "id": "2516",
+    "k": "lng_objective_finish_x_championship_points_or_more_ahead_of_position_y_desc",
+    "en": "Finish {0} points or more ahead of {1} position in the championship standings"
+  },
+  {
+    "id": "2517",
+    "k": "lng_objective_finish_x_seconds_or_more_ahead_of_driver_y_desc",
+    "en": "Finish {0} seconds or more ahead of {1}"
+  },
+  {
+    "id": "2518",
+    "k": "lng_objective_finish_x_seconds_or_more_ahead_of_position_y_desc",
+    "en": "Finish {0} seconds or more ahead of {1} position"
+  },
+  {
+    "id": "2519",
+    "k": "lng_objective_maintain_average_speed_of_x_or_more_desc",
+    "en": "Achieve an average speed of {0} or higher"
+  },
+  {
+    "id": "2520",
+    "k": "lng_objective_win_championship_by_x_points_desc",
+    "en": "Win the championship by {0} points or more"
+  },
+  {
+    "id": "2521",
+    "k": "lng_objective_with_time_penalty_desc",
+    "en": "With a {0} time penalty applied"
+  },
+  {
+    "id": "2522",
+    "k": "lng_open_xr",
+    "en": "VR - Bound"
+  },
+  {
+    "id": "2523",
+    "k": "lng_open_xr_left_a_click",
+    "en": "Left A Click"
+  },
+  {
+    "id": "2524",
+    "k": "lng_open_xr_left_a_touch",
+    "en": "Left A Touch"
+  },
+  {
+    "id": "2525",
+    "k": "lng_open_xr_left_b_click",
+    "en": "Left B Click"
+  },
+  {
+    "id": "2526",
+    "k": "lng_open_xr_left_b_touch",
+    "en": "Left B Touch"
+  },
+  {
+    "id": "2527",
+    "k": "lng_open_xr_left_back_click",
+    "en": "Left Back Click"
+  },
+  {
+    "id": "2528",
+    "k": "lng_open_xr_left_menu_click",
+    "en": "Left Menu Click"
+  },
+  {
+    "id": "2529",
+    "k": "lng_open_xr_left_select_click",
+    "en": "Left Select Click"
+  },
+  {
+    "id": "2530",
+    "k": "lng_open_xr_left_shoulder_click",
+    "en": "Left Shoulder Click"
+  },
+  {
+    "id": "2531",
+    "k": "lng_open_xr_left_squeeze_click",
+    "en": "Left Squeeze Click"
+  },
+  {
+    "id": "2532",
+    "k": "lng_open_xr_left_squeeze_force",
+    "en": "Left Squeeze Force"
+  },
+  {
+    "id": "2533",
+    "k": "lng_open_xr_left_squeeze_value",
+    "en": "Left Squeeze Value"
+  },
+  {
+    "id": "2534",
+    "k": "lng_open_xr_left_system_click",
+    "en": "Left System Click"
+  },
+  {
+    "id": "2535",
+    "k": "lng_open_xr_left_system_touch",
+    "en": "Left System Touch"
+  },
+  {
+    "id": "2536",
+    "k": "lng_open_xr_left_thumbrest_touch",
+    "en": "Left Thumbrest Touch"
+  },
+  {
+    "id": "2537",
+    "k": "lng_open_xr_left_thumbstick_click",
+    "en": "Left Thumbstick Click"
+  },
+  {
+    "id": "2538",
+    "k": "lng_open_xr_left_thumbstick_touch",
+    "en": "Left Thumbstick Touch"
+  },
+  {
+    "id": "2539",
+    "k": "lng_open_xr_left_thumbstick_x",
+    "en": "Left Thumbstick X"
+  },
+  {
+    "id": "2540",
+    "k": "lng_open_xr_left_thumbstick_y",
+    "en": "Left Thumbstick Y"
+  },
+  {
+    "id": "2541",
+    "k": "lng_open_xr_left_trackpad_click",
+    "en": "Left Trackpad Click"
+  },
+  {
+    "id": "2542",
+    "k": "lng_open_xr_left_trackpad_force",
+    "en": "Left Trackpad Force"
+  },
+  {
+    "id": "2543",
+    "k": "lng_open_xr_left_trackpad_touch",
+    "en": "Left Trackpad Touch"
+  },
+  {
+    "id": "2544",
+    "k": "lng_open_xr_left_trackpad_x_left",
+    "en": "Left Trackpad X Left"
+  },
+  {
+    "id": "2545",
+    "k": "lng_open_xr_left_trackpad_x_right",
+    "en": "Left Trackpad X Right"
+  },
+  {
+    "id": "2546",
+    "k": "lng_open_xr_left_trackpad_y_down",
+    "en": "Left Trackpad Y Down"
+  },
+  {
+    "id": "2547",
+    "k": "lng_open_xr_left_trackpad_y_up",
+    "en": "Left Trackpad Y Up"
+  },
+  {
+    "id": "2548",
+    "k": "lng_open_xr_left_trigger_click",
+    "en": "Left Trigger Click"
+  },
+  {
+    "id": "2549",
+    "k": "lng_open_xr_left_trigger_touch",
+    "en": "Left Trigger Touch"
+  },
+  {
+    "id": "2550",
+    "k": "lng_open_xr_left_trigger_value",
+    "en": "Left Trigger Value"
+  },
+  {
+    "id": "2551",
+    "k": "lng_open_xr_left_x_click",
+    "en": "Left X Click"
+  },
+  {
+    "id": "2552",
+    "k": "lng_open_xr_left_x_touch",
+    "en": "Left X Touch"
+  },
+  {
+    "id": "2553",
+    "k": "lng_open_xr_left_y_click",
+    "en": "Left Y Click"
+  },
+  {
+    "id": "2554",
+    "k": "lng_open_xr_left_y_touch",
+    "en": "Left Y Touch"
+  },
+  {
+    "id": "2555",
+    "k": "lng_open_xr_right_a_click",
+    "en": "Right A Click"
+  },
+  {
+    "id": "2556",
+    "k": "lng_open_xr_right_a_touch",
+    "en": "Right A Touch"
+  },
+  {
+    "id": "2557",
+    "k": "lng_open_xr_right_b_click",
+    "en": "Right B Click"
+  },
+  {
+    "id": "2558",
+    "k": "lng_open_xr_right_b_touch",
+    "en": "Right B Touch"
+  },
+  {
+    "id": "2559",
+    "k": "lng_open_xr_right_back_click",
+    "en": "Right Back Click"
+  },
+  {
+    "id": "2560",
+    "k": "lng_open_xr_right_menu_click",
+    "en": "Right Menu Click"
+  },
+  {
+    "id": "2561",
+    "k": "lng_open_xr_right_select_click",
+    "en": "Right Select Click"
+  },
+  {
+    "id": "2562",
+    "k": "lng_open_xr_right_shoulder_click",
+    "en": "Right Shoulder Click"
+  },
+  {
+    "id": "2563",
+    "k": "lng_open_xr_right_squeeze_click",
+    "en": "Right Squeeze Click"
+  },
+  {
+    "id": "2564",
+    "k": "lng_open_xr_right_squeeze_force",
+    "en": "Right Squeeze Force"
+  },
+  {
+    "id": "2565",
+    "k": "lng_open_xr_right_squeeze_value",
+    "en": "Right Squeeze Value"
+  },
+  {
+    "id": "2566",
+    "k": "lng_open_xr_right_system_click",
+    "en": "Right System Click"
+  },
+  {
+    "id": "2567",
+    "k": "lng_open_xr_right_system_touch",
+    "en": "Right System Touch"
+  },
+  {
+    "id": "2568",
+    "k": "lng_open_xr_right_thumbrest_touch",
+    "en": "Right Thumbrest Touch"
+  },
+  {
+    "id": "2569",
+    "k": "lng_open_xr_right_thumbstick_click",
+    "en": "Right Thumbstick Click"
+  },
+  {
+    "id": "2570",
+    "k": "lng_open_xr_right_thumbstick_touch",
+    "en": "Right Thumbstick Touch"
+  },
+  {
+    "id": "2571",
+    "k": "lng_open_xr_right_thumbstick_x",
+    "en": "Right Thumbstick X"
+  },
+  {
+    "id": "2572",
+    "k": "lng_open_xr_right_thumbstick_y",
+    "en": "Right Thumbstick Y"
+  },
+  {
+    "id": "2573",
+    "k": "lng_open_xr_right_trackpad_click",
+    "en": "Right Trackpad Click"
+  },
+  {
+    "id": "2574",
+    "k": "lng_open_xr_right_trackpad_force",
+    "en": "Right Trackpad Force"
+  },
+  {
+    "id": "2575",
+    "k": "lng_open_xr_right_trackpad_touch",
+    "en": "Right Trackpad Touch"
+  },
+  {
+    "id": "2576",
+    "k": "lng_open_xr_right_trackpad_x_left",
+    "en": "Right Trackpad X Left"
+  },
+  {
+    "id": "2577",
+    "k": "lng_open_xr_right_trackpad_x_right",
+    "en": "Right Trackpad X Right"
+  },
+  {
+    "id": "2578",
+    "k": "lng_open_xr_right_trackpad_y_down",
+    "en": "Right Trackpad Y Down"
+  },
+  {
+    "id": "2579",
+    "k": "lng_open_xr_right_trackpad_y_up",
+    "en": "Right Trackpad Y Up"
+  },
+  {
+    "id": "2580",
+    "k": "lng_open_xr_right_trigger_click",
+    "en": "Right Trigger Click"
+  },
+  {
+    "id": "2581",
+    "k": "lng_open_xr_right_trigger_touch",
+    "en": "Right Trigger Touch"
+  },
+  {
+    "id": "2582",
+    "k": "lng_open_xr_right_trigger_value",
+    "en": "Right Trigger Value"
+  },
+  {
+    "id": "2583",
+    "k": "lng_open_xr_right_x_click",
+    "en": "Right X Click"
+  },
+  {
+    "id": "2584",
+    "k": "lng_open_xr_right_x_touch",
+    "en": "Right X Touch"
+  },
+  {
+    "id": "2585",
+    "k": "lng_open_xr_right_y_click",
+    "en": "Right Y Click"
+  },
+  {
+    "id": "2586",
+    "k": "lng_open_xr_right_y_touch",
+    "en": "Right Y Touch"
+  },
+  {
+    "id": "2587",
+    "k": "lng_openxr_error_shutdown_body",
+    "en": "OpenXR Session state: XR_SESSION_STATE_LOSS_PENDING. Application will be force closed."
+  },
+  {
+    "id": "2588",
+    "k": "lng_openxr_error_shutdown_title",
+    "en": "ERROR"
+  },
+  {
+    "id": "2589",
+    "k": "lng_options_hub_accessibility",
+    "en": "ACCESSIBILITY"
+  },
+  {
+    "id": "2590",
+    "k": "lng_options_hub_advanced_graphics",
+    "en": "ADVANCED GRAPHICS"
+  },
+  {
+    "id": "2591",
+    "k": "lng_options_hub_basic_graphics",
+    "en": "BASIC GRAPHICS"
+  },
+  {
+    "id": "2592",
+    "k": "lng_options_hub_controls",
+    "en": "CONTROLS"
+  },
+  {
+    "id": "2593",
+    "k": "lng_options_hub_credits",
+    "en": "CREDITS"
+  },
+  {
+    "id": "2594",
+    "k": "lng_options_hub_device_presets",
+    "en": "DEVICE PRESETS"
+  },
+  {
+    "id": "2595",
+    "k": "lng_options_hub_game_preferences",
+    "en": "GAME PREFERENCES"
+  },
+  {
+    "id": "2596",
+    "k": "lng_options_hub_legal",
+    "en": "LEGAL & PRIVACY"
+  },
+  {
+    "id": "2597",
+    "k": "lng_options_hub_osd",
+    "en": "OSD"
+  },
+  {
+    "id": "2598",
+    "k": "lng_options_hub_save_management",
+    "en": "SAVE MANAGEMENT"
+  },
+  {
+    "id": "2599",
+    "k": "lng_options_hub_title",
+    "en": "OPTIONS & EXTRAS"
+  },
+  {
+    "id": "2600",
+    "k": "lng_options_hub_vr_settings",
+    "en": "VR SETTINGS"
+  },
+  {
+    "id": "2601",
+    "k": "lng_options_vr_crash_vignette",
+    "en": "Crash Vignette"
+  },
+  {
+    "id": "2602",
+    "k": "lng_options_vr_custom_hidden_area_mask_offset_x",
+    "en": "Hidden Area Mask X Offset"
+  },
+  {
+    "id": "2603",
+    "k": "lng_options_vr_custom_hidden_area_mask_scale_x",
+    "en": "Hidden Area Mask Width"
+  },
+  {
+    "id": "2604",
+    "k": "lng_options_vr_hud_distance",
+    "en": "HUD Distance"
+  },
+  {
+    "id": "2605",
+    "k": "lng_options_vr_location_reveal",
+    "en": "3D Location Reveal"
+  },
+  {
+    "id": "2606",
+    "k": "lng_options_vr_settings",
+    "en": "VR Settings"
+  },
+  {
+    "id": "2607",
+    "k": "lng_options_vr_toggle_car_in_bonnet",
+    "en": "Toggle Car In Bonnet"
+  },
+  {
+    "id": "2608",
+    "k": "lng_options_vr_toggle_look_back",
+    "en": "Toggle 'Look Back'"
+  },
+  {
+    "id": "2609",
+    "k": "lng_options_vr_virtual_monitor_distance",
+    "en": "Virtual Monitor Distance"
+  },
+  {
+    "id": "2610",
+    "k": "lng_options_vr_virtual_monitor_position",
+    "en": "Virtual Monitor Position"
+  },
+  {
+    "id": "2611",
+    "k": "lng_optionsandextras_audio_label_bassreductionamount",
+    "en": "Bass Reduction Amount"
+  },
+  {
+    "id": "2612",
+    "k": "lng_optionsandextras_audio_label_effects",
+    "en": "Effects"
+  },
+  {
+    "id": "2613",
+    "k": "lng_optionsandextras_audio_label_master",
+    "en": "Master Volume"
+  },
+  {
+    "id": "2614",
+    "k": "lng_optionsandextras_audio_label_microphonevolume",
+    "en": "Microphone Volume"
+  },
+  {
+    "id": "2615",
+    "k": "lng_optionsandextras_audio_label_monobalance",
+    "en": "Mono Balance"
+  },
+  {
+    "id": "2616",
+    "k": "lng_optionsandextras_audio_label_pushtotalk",
+    "en": "Push to Talk"
+  },
+  {
+    "id": "2617",
+    "k": "lng_optionsandextras_audio_label_replaymusic",
+    "en": "Replay Music"
+  },
+  {
+    "id": "2618",
+    "k": "lng_optionsandextras_audio_label_speech",
+    "en": "Speech"
+  },
+  {
+    "id": "2619",
+    "k": "lng_optionsandextras_audio_label_systemeq",
+    "en": "Audio Mastering"
+  },
+  {
+    "id": "2620",
+    "k": "lng_optionsandextras_audio_label_voicechat",
+    "en": "Voice Chat"
+  },
+  {
+    "id": "2621",
+    "k": "lng_optionsandextras_audio_label_voicechataudioducking",
+    "en": "Voice Chat Auto Ducking"
+  },
+  {
+    "id": "2622",
+    "k": "lng_optionsandextras_osd_label_codrivercalls",
+    "en": "Co-Driver Calls"
+  },
+  {
+    "id": "2623",
+    "k": "lng_optionsandextras_osd_label_notificationfeed",
+    "en": "Notification Feed"
+  },
+  {
+    "id": "2624",
+    "k": "lng_optionsandextras_osd_label_onscreenprompts",
+    "en": "On Screen Prompts"
+  },
+  {
+    "id": "2625",
+    "k": "lng_optionsandextras_osd_label_splittimer",
+    "en": "Split Timer"
+  },
+  {
+    "id": "2626",
+    "k": "lng_optionsandextras_osd_label_warningmessages",
+    "en": "Warning Messages"
+  },
+  {
+    "id": "2627",
+    "k": "lng_outro_screen_disqualified",
+    "en": "DISQUALIFIED:"
+  },
+  {
+    "id": "2628",
+    "k": "lng_outro_screen_failed_rally_school_objective_failure_type",
+    "en": "FAILED OBJECTIVE:"
+  },
+  {
+    "id": "2629",
+    "k": "lng_outro_screen_frequent_speeding_failure_type",
+    "en": "FREQUENT SPEEDING"
+  },
+  {
+    "id": "2630",
+    "k": "lng_outro_screen_over_max_speed_failure_type",
+    "en": "EXCEEDED MAXIMUM SPEED"
+  },
+  {
+    "id": "2631",
+    "k": "lng_outro_screen_slow_progress_failure_type",
+    "en": "STATIONARY VEHICLE"
+  },
+  {
+    "id": "2632",
+    "k": "lng_outro_screen_stage_time_exceeded_failure_type",
+    "en": "EXCEEDED STAGE MAXIMUM"
+  },
+  {
+    "id": "2633",
+    "k": "lng_outro_screen_terminal_damage",
+    "en": "TERMINAL DAMAGE"
+  },
+  {
+    "id": "2634",
+    "k": "lng_outro_screen_under_min_speed_failure_type",
+    "en": "UNDER MINIMUM SPEED"
+  },
+  {
+    "id": "2635",
+    "k": "lng_outro_screen_wrong_way_failure_type",
+    "en": "WRONG WAY"
+  },
+  {
+    "id": "2636",
+    "k": "lng_overwrite_championship_confirm_body",
+    "en": "Are you sure you want to overwrite this championship?"
+  },
+  {
+    "id": "2637",
+    "k": "lng_overwrite_event_confirm_body",
+    "en": "Are you sure you want to overwrite this event?"
+  },
+  {
+    "id": "2638",
+    "k": "lng_pad_virtual",
+    "en": "Virtual Controller"
+  },
+  {
+    "id": "2639",
+    "k": "lng_pass_through_gate_description",
+    "en": "Pass through all positioning gates"
+  },
+  {
+    "id": "2640",
+    "k": "lng_pause_end_test_drive",
+    "en": "END TEST DRIVE"
+  },
+  {
+    "id": "2641",
+    "k": "lng_pause_ghost_options",
+    "en": "GHOST OPTIONS"
+  },
+  {
+    "id": "2642",
+    "k": "lng_pause_ghosts",
+    "en": "GHOSTS:"
+  },
+  {
+    "id": "2643",
+    "k": "lng_pause_menu_resume",
+    "en": "RESUME"
+  },
+  {
+    "id": "2644",
+    "k": "lng_pause_reset_vr_view",
+    "en": "RESET VR VIEW"
+  },
+  {
+    "id": "2645",
+    "k": "lng_pause_return_to_service_area",
+    "en": "RETURN TO SERVICE AREA"
+  },
+  {
+    "id": "2646",
+    "k": "lng_pause_scenario_overview",
+    "en": "OVERVIEW"
+  },
+  {
+    "id": "2647",
+    "k": "lng_pause_scenario_update",
+    "en": "OBJECTIVES UPDATE"
+  },
+  {
+    "id": "2648",
+    "k": "lng_pause_screen_continue",
+    "en": "CONTINUE"
+  },
+  {
+    "id": "2649",
+    "k": "lng_pause_screen_end_lesson",
+    "en": "END LESSON"
+  },
+  {
+    "id": "2650",
+    "k": "lng_pause_screen_leave_session",
+    "en": "LEAVE SESSION"
+  },
+  {
+    "id": "2651",
+    "k": "lng_pause_screen_lesson_overview",
+    "en": "LESSON OVERVIEW"
+  },
+  {
+    "id": "2652",
+    "k": "lng_pause_screen_photo_mode",
+    "en": "PHOTO MODE"
+  },
+  {
+    "id": "2653",
+    "k": "lng_pause_screen_quit",
+    "en": "QUIT"
+  },
+  {
+    "id": "2654",
+    "k": "lng_pause_screen_reset_to_track",
+    "en": "RESET TO TRACK"
+  },
+  {
+    "id": "2655",
+    "k": "lng_pause_screen_restart",
+    "en": "RESTART"
+  },
+  {
+    "id": "2656",
+    "k": "lng_pause_title",
+    "en": "PAUSE"
+  },
+  {
+    "id": "2657",
+    "k": "lng_photo_bokeh_circle",
+    "en": "CIRCLE"
+  },
+  {
+    "id": "2658",
+    "k": "lng_photo_bokeh_diamond",
+    "en": "DIAMOND"
+  },
+  {
+    "id": "2659",
+    "k": "lng_photo_bokeh_hexagon",
+    "en": "HEXAGON"
+  },
+  {
+    "id": "2660",
+    "k": "lng_photo_bokeh_octagon",
+    "en": "OCTAGON"
+  },
+  {
+    "id": "2661",
+    "k": "lng_photo_bokeh_pentagon",
+    "en": "PENTAGON"
+  },
+  {
+    "id": "2662",
+    "k": "lng_photo_bokeh_ring",
+    "en": "RING"
+  },
+  {
+    "id": "2663",
+    "k": "lng_photo_filter_black_white",
+    "en": "BLACK & WHITE"
+  },
+  {
+    "id": "2664",
+    "k": "lng_photo_filter_bleach",
+    "en": "BLEACH"
+  },
+  {
+    "id": "2665",
+    "k": "lng_photo_filter_blue",
+    "en": "BLUE"
+  },
+  {
+    "id": "2666",
+    "k": "lng_photo_filter_cool",
+    "en": "COOL"
+  },
+  {
+    "id": "2667",
+    "k": "lng_photo_filter_cyan",
+    "en": "CYAN"
+  },
+  {
+    "id": "2668",
+    "k": "lng_photo_filter_eighties",
+    "en": "80’S"
+  },
+  {
+    "id": "2669",
+    "k": "lng_photo_filter_green",
+    "en": "GREEN"
+  },
+  {
+    "id": "2670",
+    "k": "lng_photo_filter_high_contrast",
+    "en": "HIGH CONTRAST"
+  },
+  {
+    "id": "2671",
+    "k": "lng_photo_filter_low_contrast",
+    "en": "LOW CONTRAST"
+  },
+  {
+    "id": "2672",
+    "k": "lng_photo_filter_orange",
+    "en": "ORANGE"
+  },
+  {
+    "id": "2673",
+    "k": "lng_photo_filter_purple",
+    "en": "PURPLE"
+  },
+  {
+    "id": "2674",
+    "k": "lng_photo_filter_red",
+    "en": "RED"
+  },
+  {
+    "id": "2675",
+    "k": "lng_photo_filter_sepia",
+    "en": "SEPIA"
+  },
+  {
+    "id": "2676",
+    "k": "lng_photo_filter_sepia_high",
+    "en": "SEPIA HIGH"
+  },
+  {
+    "id": "2677",
+    "k": "lng_photo_filter_seventies",
+    "en": "70’S"
+  },
+  {
+    "id": "2678",
+    "k": "lng_photo_filter_sixties",
+    "en": "60’S"
+  },
+  {
+    "id": "2679",
+    "k": "lng_photo_filter_vibrant",
+    "en": "VIBRANT"
+  },
+  {
+    "id": "2680",
+    "k": "lng_photo_filter_vintage",
+    "en": "VINTAGE"
+  },
+  {
+    "id": "2681",
+    "k": "lng_photo_filter_warm",
+    "en": "WARM"
+  },
+  {
+    "id": "2682",
+    "k": "lng_photo_filter_yellow",
+    "en": "YELLOW"
+  },
+  {
+    "id": "2683",
+    "k": "lng_photo_frame_borders",
+    "en": "BORDERS"
+  },
+  {
+    "id": "2684",
+    "k": "lng_photo_frame_film_Strip",
+    "en": "FILM STRIP"
+  },
+  {
+    "id": "2685",
+    "k": "lng_photo_frame_full_borders",
+    "en": "FULL BORDERS"
+  },
+  {
+    "id": "2686",
+    "k": "lng_photo_frame_magazine",
+    "en": "MAGAZINE"
+  },
+  {
+    "id": "2687",
+    "k": "lng_photo_frame_polaroid",
+    "en": "POLAROID"
+  },
+  {
+    "id": "2688",
+    "k": "lng_photo_frame_square_borders",
+    "en": "SQUARE BORDERS"
+  },
+  {
+    "id": "2689",
+    "k": "lng_photo_frame_tyre_tread",
+    "en": "TIRE TREAD"
+  },
+  {
+    "id": "2690",
+    "k": "lng_photo_frame_tyre_tread",
+    "en": "TYRE TREAD"
+  },
+  {
+    "id": "2691",
+    "k": "lng_photo_frame_viewfinder",
+    "en": "VIEW FINDER"
+  },
+  {
+    "id": "2692",
+    "k": "lng_photo_frame_wrc_blue",
+    "en": "WRC BLUE"
+  },
+  {
+    "id": "2693",
+    "k": "lng_photo_frame_wrc_white",
+    "en": "WRC WHITE"
+  },
+  {
+    "id": "2694",
+    "k": "lng_photo_screen_details",
+    "en": "Image Details"
+  },
+  {
+    "id": "2695",
+    "k": "lng_photo_screen_elevation",
+    "en": "ELEVATION"
+  },
+  {
+    "id": "2696",
+    "k": "lng_photo_screen_freecam",
+    "en": "Free Cam"
+  },
+  {
+    "id": "2697",
+    "k": "lng_photo_screen_move",
+    "en": "MOVE CAMERA"
+  },
+  {
+    "id": "2698",
+    "k": "lng_photo_screen_process_motion_blur",
+    "en": "Process Motion Blur"
+  },
+  {
+    "id": "2699",
+    "k": "lng_photo_screen_replay",
+    "en": "Replay"
+  },
+  {
+    "id": "2700",
+    "k": "lng_photo_screen_reset_camera",
+    "en": "RESET CAMERA"
+  },
+  {
+    "id": "2701",
+    "k": "lng_photo_screen_reset_changes",
+    "en": "RESET CHANGES"
+  },
+  {
+    "id": "2702",
+    "k": "lng_photo_screen_roll",
+    "en": "ROLL"
+  },
+  {
+    "id": "2703",
+    "k": "lng_photo_screen_rotate",
+    "en": "ROTATE"
+  },
+  {
+    "id": "2704",
+    "k": "lng_photo_screen_save_share",
+    "en": "Save/Share"
+  },
+  {
+    "id": "2705",
+    "k": "lng_photomode_aperture_selector_label",
+    "en": "FOCUS"
+  },
+  {
+    "id": "2706",
+    "k": "lng_photomode_camera_attach_to_vehicle",
+    "en": "ATTACH TO VEHICLE"
+  },
+  {
+    "id": "2707",
+    "k": "lng_photomode_camera_diaphragm_blades",
+    "en": "BOKEH SHAPE"
+  },
+  {
+    "id": "2708",
+    "k": "lng_photomode_camera_focal_length",
+    "en": "FOCAL LENGTH"
+  },
+  {
+    "id": "2709",
+    "k": "lng_photomode_camera_focus_distance",
+    "en": "FOCUS DISTANCE"
+  },
+  {
+    "id": "2710",
+    "k": "lng_photomode_camera_focus_plane",
+    "en": "FOCUS PLANE"
+  },
+  {
+    "id": "2711",
+    "k": "lng_photomode_camera_fstops",
+    "en": "FOCAL DEPTH"
+  },
+  {
+    "id": "2712",
+    "k": "lng_photomode_camera_rule_of_thirds_guide",
+    "en": "RULE OF THIRDS GUIDE"
+  },
+  {
+    "id": "2713",
+    "k": "lng_photomode_camera_shutter_speed",
+    "en": "SHUTTER SPEED"
+  },
+  {
+    "id": "2714",
+    "k": "lng_photomode_display_dirt",
+    "en": "DIRT"
+  },
+  {
+    "id": "2715",
+    "k": "lng_photomode_display_focus_plane_selector_label",
+    "en": "DISPLAY FOCUS PLANE"
+  },
+  {
+    "id": "2716",
+    "k": "lng_photomode_display_frames",
+    "en": "FRAME"
+  },
+  {
+    "id": "2717",
+    "k": "lng_photomode_display_photo_info",
+    "en": "PHOTO INFORMATION"
+  },
+  {
+    "id": "2718",
+    "k": "lng_photomode_display_photo_info_selector_label",
+    "en": "Image Information"
+  },
+  {
+    "id": "2719",
+    "k": "lng_photomode_display_rule_of_thirds_selector_label",
+    "en": "GUIDELINES"
+  },
+  {
+    "id": "2720",
+    "k": "lng_photomode_display_watermark",
+    "en": "WATERMARK"
+  },
+  {
+    "id": "2721",
+    "k": "lng_photomode_display_watermark_selector_label",
+    "en": "Game Logo"
+  },
+  {
+    "id": "2722",
+    "k": "lng_photomode_display_watermark_true",
+    "en": "ON"
+  },
+  {
+    "id": "2723",
+    "k": "lng_photomode_filmgrain_selector_label",
+    "en": "FILM GRAIN"
+  },
+  {
+    "id": "2724",
+    "k": "lng_photomode_image_chromatic_aberration",
+    "en": "CHROMATIC ABERRATION"
+  },
+  {
+    "id": "2725",
+    "k": "lng_photomode_image_contrast",
+    "en": "CONTRAST"
+  },
+  {
+    "id": "2726",
+    "k": "lng_photomode_image_exposure",
+    "en": "EXPOSURE"
+  },
+  {
+    "id": "2727",
+    "k": "lng_photomode_image_filter_intensity",
+    "en": "FILTER INTENSITY"
+  },
+  {
+    "id": "2728",
+    "k": "lng_photomode_image_photo_filter",
+    "en": "PHOTO FILTER"
+  },
+  {
+    "id": "2729",
+    "k": "lng_photomode_image_saturation",
+    "en": "SATURATION"
+  },
+  {
+    "id": "2730",
+    "k": "lng_photomode_image_vignette",
+    "en": "VIGNETTE"
+  },
+  {
+    "id": "2731",
+    "k": "lng_photomode_lens_presets_selector_label",
+    "en": "LENS"
+  },
+  {
+    "id": "2732",
+    "k": "lng_photomode_none",
+    "en": "NONE"
+  },
+  {
+    "id": "2733",
+    "k": "lng_photomode_shutter_speed_preset_selector_label",
+    "en": "BLUR"
+  },
+  {
+    "id": "2734",
+    "k": "lng_photosensitivity_warning_body",
+    "en": "A very small percentage of people may experience a seizure when exposed to certain visual images, including flashing lights or patterns that may appear in video games. Even people with no history of seizures or epilepsy may have an undiagnosed condition that can cause “photosensitive epileptic seizures” while watching video games. Symptoms can include light-headedness, altered vision, eye or face twitching, jerking or shaking of arms or legs, disorientation, confusion, momentary loss of awareness, and loss of consciousness or convulsions that can lead to injury from falling down or striking nearby objects. Immediately stop playing and consult a doctor if you experience any of these symptoms. Parents, watch for or ask children about these symptoms - children and teenagers are more likely to experience these seizures. The risk may be reduced by being farther from the screen; using a smaller screen; playing in a well-lit room, and not playing when drowsy or fatigued. If you or any relatives have a history of seizures or epilepsy, consult a doctor before playing."
+  },
+  {
+    "id": "2735",
+    "k": "lng_play_experience_alert",
+    "en": "Any settings changed via Options & Extras will overwrite the default set ups"
+  },
+  {
+    "id": "2736",
+    "k": "lng_player_customization_screen_cap_header",
+    "en": "SELECT CAP"
+  },
+  {
+    "id": "2737",
+    "k": "lng_player_customization_screen_gloves_header",
+    "en": "SELECT GLOVES"
+  },
+  {
+    "id": "2738",
+    "k": "lng_player_customization_screen_helmet_header",
+    "en": "SELECT HELMET"
+  },
+  {
+    "id": "2739",
+    "k": "lng_player_customization_screen_overalls_header",
+    "en": "SELECT RACE SUIT"
+  },
+  {
+    "id": "2740",
+    "k": "lng_player_customization_screen_pose_header",
+    "en": "SELECT POSE"
+  },
+  {
+    "id": "2741",
+    "k": "lng_player_ghost",
+    "en": "Player Ghost"
+  },
+  {
+    "id": "2742",
+    "k": "lng_player_input_info_change_camera",
+    "en": "Press to change camera"
+  },
+  {
+    "id": "2743",
+    "k": "lng_player_input_info_hold_handbrake",
+    "en": "Hold Handbrake"
+  },
+  {
+    "id": "2744",
+    "k": "lng_player_input_info_hold_handbrake_and_clutch",
+    "en": "Hold Handbrake and Clutch"
+  },
+  {
+    "id": "2745",
+    "k": "lng_player_input_info_reset_vehicle",
+    "en": "<img id=\"0\"/> Reset Vehicle"
+  },
+  {
+    "id": "2746",
+    "k": "lng_player_list_driver",
+    "en": "Player"
+  },
+  {
+    "id": "2747",
+    "k": "lng_player_list_microphone",
+    "en": "Mic"
+  },
+  {
+    "id": "2748",
+    "k": "lng_player_list_platform",
+    "en": "Platform"
+  },
+  {
+    "id": "2749",
+    "k": "lng_player_list_position",
+    "en": "POS."
+  },
+  {
+    "id": "2750",
+    "k": "lng_player_list_state",
+    "en": "State"
+  },
+  {
+    "id": "2751",
+    "k": "lng_player_list_status",
+    "en": "Status"
+  },
+  {
+    "id": "2752",
+    "k": "lng_player_report_body",
+    "en": "Please select a reason for filing this player report. Once a report has been created, it will be sent to the EA Customer Experience team for review."
+  },
+  {
+    "id": "2753",
+    "k": "lng_player_report_title",
+    "en": "REPORT PLAYER"
+  },
+  {
+    "id": "2754",
+    "k": "lng_player_status_away",
+    "en": "Away"
+  },
+  {
+    "id": "2755",
+    "k": "lng_player_status_finished",
+    "en": "Finished Stage"
+  },
+  {
+    "id": "2756",
+    "k": "lng_player_status_in_lobby",
+    "en": "In Lobby"
+  },
+  {
+    "id": "2757",
+    "k": "lng_player_status_in_service",
+    "en": "In Service"
+  },
+  {
+    "id": "2758",
+    "k": "lng_player_status_loading",
+    "en": "Loading"
+  },
+  {
+    "id": "2759",
+    "k": "lng_player_status_offline",
+    "en": "Offline"
+  },
+  {
+    "id": "2760",
+    "k": "lng_player_status_online",
+    "en": "Online"
+  },
+  {
+    "id": "2761",
+    "k": "lng_player_status_ready",
+    "en": "Ready"
+  },
+  {
+    "id": "2762",
+    "k": "lng_player_status_spectating",
+    "en": "Spectating"
+  },
+  {
+    "id": "2763",
+    "k": "lng_player_unready",
+    "en": "UNREADY"
+  },
+  {
+    "id": "2764",
+    "k": "lng_players_ready_in_lobby_count",
+    "en": "Players Ready: {0}/{1}"
+  },
+  {
+    "id": "2765",
+    "k": "lng_playlistformat_custom",
+    "en": "Custom"
+  },
+  {
+    "id": "2766",
+    "k": "lng_playlistformat_full",
+    "en": "Full"
+  },
+  {
+    "id": "2767",
+    "k": "lng_playlistformat_streamer",
+    "en": "Instrumental"
+  },
+  {
+    "id": "2768",
+    "k": "lng_podium_first_place",
+    "en": "1ST PLACE"
+  },
+  {
+    "id": "2769",
+    "k": "lng_podium_second_place",
+    "en": "2ND PLACE"
+  },
+  {
+    "id": "2770",
+    "k": "lng_podium_third_place",
+    "en": "3RD PLACE"
+  },
+  {
+    "id": "2771",
+    "k": "lng_points_limit_description",
+    "en": "Complete the lesson with fewer than {0} points"
+  },
+  {
+    "id": "2772",
+    "k": "lng_power_slide_name",
+    "en": "POWER-SLIDE & THROTTLE CONTROL"
+  },
+  {
+    "id": "2773",
+    "k": "lng_preferences_settings_label_avatar",
+    "en": "Avatar Visible"
+  },
+  {
+    "id": "2774",
+    "k": "lng_preferences_settings_label_camera_fow_internal",
+    "en": "Camera FOV (Head Cam)"
+  },
+  {
+    "id": "2775",
+    "k": "lng_preferences_settings_label_camera_shake",
+    "en": "Camera Shake"
+  },
+  {
+    "id": "2776",
+    "k": "lng_preferences_settings_label_clubs_id_sharing",
+    "en": "Clubs Data Sharing"
+  }
+]

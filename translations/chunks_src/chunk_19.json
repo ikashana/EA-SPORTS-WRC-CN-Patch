@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "7340",
+    "k": "lng_cd_rally_school_lesson010_part4_1",
+    "en": "In this lesson, you will learn how to deal with such obstacles in a fast and safe way by using the brakes slightly to steady the car. Pay extra attention to the different technique zones before the jumps."
+  },
+  {
+    "id": "7341",
+    "k": "lng_cd_rally_school_lesson010_trigger1_1",
+    "en": "Ok, accelerate up to the stated speed."
+  },
+  {
+    "id": "7342",
+    "k": "lng_cd_rally_school_lesson010_trigger2_1",
+    "en": "Brake at the Jump and then accelerate before take off."
+  },
+  {
+    "id": "7343",
+    "k": "lng_cd_rally_school_lesson010_trigger3a_1",
+    "en": "The road turns left after the next jump."
+  },
+  {
+    "id": "7344",
+    "k": "lng_cd_rally_school_lesson010_trigger3b_1",
+    "en": "The road turns right after the next jump."
+  },
+  {
+    "id": "7345",
+    "k": "lng_cd_rally_school_lesson010_trigger4_1",
+    "en": "Brake before the Watersplash and enter as straight as possible."
+  },
+  {
+    "id": "7346",
+    "k": "lng_cd_rally_school_lesson011_part1_1",
+    "en": "Rally1 cars in the top tier of the WRC use hybrid technology to combine a combustion engine with an electric boost."
+  },
+  {
+    "id": "7347",
+    "k": "lng_cd_rally_school_lesson011_part2_1",
+    "en": "A hybrid unit is fitted to each car, giving a boost of up to 130 horse power during acceleration, which is then regenerated under braking."
+  },
+  {
+    "id": "7348",
+    "k": "lng_cd_rally_school_lesson011_part3_1",
+    "en": "There are 3 different boost options to choose from, that set the access to the boost depending on how far down the throttle has travelled, these can be set in the service area before tackling the upcoming stages."
+  },
+  {
+    "id": "7349",
+    "k": "lng_cd_rally_school_lesson011_part4_1",
+    "en": "On one end of the scale you have the cautious option, that will only deploy boost on throttle input above 70%, allowing more control around technical stages. On the other end of the scale is the agressive option, that is set at a throttle input of just 30%, giving quicker access to the hybrid boost."
+  },
+  {
+    "id": "7350",
+    "k": "lng_cd_rally_school_lesson011_part5_1",
+    "en": "We have managed to get a Rally1 car for you to take for a test drive, use this opportunity to learn how the hybrid boost is deployed when accelerating and how it is regenerated under braking."
+  },
+  {
+    "id": "7351",
+    "k": "lng_cd_rally_school_lesson012_trigger1_1",
+    "en": "Well, you've got all the skills at your disposal now to become a champion rally driver. You just have one final lesson, to put it all into practice on a section of a Rally stage"
+  },
+  {
+    "id": "7352",
+    "k": "lng_cd_rally_school_lesson012_trigger2_1",
+    "en": "Co-driver calls will help you navigate the turns and obstacles, so pay close attention, and try to anticipate your next move."
+  },
+  {
+    "id": "7353",
+    "k": "lng_cd_rally_school_lesson012_trigger3_1",
+    "en": "It will be important to get into a good rhythm from the start, and maintain that throughout the stage by utilising everything in your rallying toolbox. When you cross the finish line, you will need to come to a stop at the marshal control zone. Good luck!"
+  },
+  {
+    "id": "7354",
+    "k": "lng_action_prompt_abandon_build",
+    "en": "Abandon Build"
+  },
+  {
+    "id": "7355",
+    "k": "lng_action_prompt_abandon_custom_livery",
+    "en": "Abandon Livery"
+  },
+  {
+    "id": "7356",
+    "k": "lng_action_prompt_accept_player_invite",
+    "en": "Accept Invite"
+  },
+  {
+    "id": "7357",
+    "k": "lng_action_prompt_accessibility",
+    "en": "Accessibility"
+  },
+  {
+    "id": "7358",
+    "k": "lng_action_prompt_add",
+    "en": "Add"
+  },
+  {
+    "id": "7359",
+    "k": "lng_action_prompt_add_engineer",
+    "en": "Add Engineer"
+  },
+  {
+    "id": "7360",
+    "k": "lng_action_prompt_add_teammate",
+    "en": "Add Teammate"
+  },
+  {
+    "id": "7361",
+    "k": "lng_action_prompt_back",
+    "en": "Back"
+  },
+  {
+    "id": "7362",
+    "k": "lng_action_prompt_back_to_championship",
+    "en": "Back to Championship"
+  },
+  {
+    "id": "7363",
+    "k": "lng_action_prompt_build_breakdown",
+    "en": "Build Breakdown"
+  },
+  {
+    "id": "7364",
+    "k": "lng_action_prompt_career_view_vendor",
+    "en": "View Vendor"
+  },
+  {
+    "id": "7365",
+    "k": "lng_action_prompt_challenge",
+    "en": "Challenge"
+  },
+  {
+    "id": "7366",
+    "k": "lng_action_prompt_championship_options",
+    "en": "Championship Options"
+  },
+  {
+    "id": "7367",
+    "k": "lng_action_prompt_championship_standings",
+    "en": "Championship Standings"
+  },
+  {
+    "id": "7368",
+    "k": "lng_action_prompt_change_filter",
+    "en": "Change Filter"
+  },
+  {
+    "id": "7369",
+    "k": "lng_action_prompt_change_livery",
+    "en": "Livery Options"
+  },
+  {
+    "id": "7370",
+    "k": "lng_action_prompt_claim",
+    "en": "Claim"
+  },
+  {
+    "id": "7371",
+    "k": "lng_action_prompt_clear_recommended_repairs",
+    "en": "Clear Recommended"
+  },
+  {
+    "id": "7372",
+    "k": "lng_action_prompt_clear_stage",
+    "en": "Clear Stage"
+  },
+  {
+    "id": "7373",
+    "k": "lng_action_prompt_club_options",
+    "en": "Club Options"
+  },
+  {
+    "id": "7374",
+    "k": "lng_action_prompt_confirm",
+    "en": "Confirm"
+  },
+  {
+    "id": "7375",
+    "k": "lng_action_prompt_confirmfilters",
+    "en": "Confirm Filters"
+  },
+  {
+    "id": "7376",
+    "k": "lng_action_prompt_confirmsettings",
+    "en": "Confirm Settings"
+  },
+  {
+    "id": "7377",
+    "k": "lng_action_prompt_context_menu",
+    "en": "Options"
+  },
+  {
+    "id": "7378",
+    "k": "lng_action_prompt_decal_controls",
+    "en": "Toggle Controls"
+  },
+  {
+    "id": "7379",
+    "k": "lng_action_prompt_decal_flip",
+    "en": "Flip Decal"
+  },
+  {
+    "id": "7380",
+    "k": "lng_action_prompt_decal_settings",
+    "en": "Decal Colour"
+  },
+  {
+    "id": "7381",
+    "k": "lng_action_prompt_default_livery",
+    "en": "Default Livery"
+  },
+  {
+    "id": "7382",
+    "k": "lng_action_prompt_delete_championship",
+    "en": "Delete"
+  },
+  {
+    "id": "7383",
+    "k": "lng_action_prompt_delete_custom_livery",
+    "en": "Delete Livery"
+  },
+  {
+    "id": "7384",
+    "k": "lng_action_prompt_delete_vehicle",
+    "en": "Delete Vehicle"
+  },
+  {
+    "id": "7385",
+    "k": "lng_action_prompt_device_options",
+    "en": "Device Options"
+  },
+  {
+    "id": "7386",
+    "k": "lng_action_prompt_devpage",
+    "en": "[DEV PAGE]"
+  },
+  {
+    "id": "7387",
+    "k": "lng_action_prompt_discard_changes",
+    "en": "Discard Changes"
+  },
+  {
+    "id": "7388",
+    "k": "lng_action_prompt_eaplayupsell_from_announcements",
+    "en": "Go to Store"
+  },
+  {
+    "id": "7389",
+    "k": "lng_action_prompt_edit",
+    "en": "Edit"
+  },
+  {
+    "id": "7390",
+    "k": "lng_action_prompt_edit_binding",
+    "en": "Edit Binding"
+  },
+  {
+    "id": "7391",
+    "k": "lng_action_prompt_edit_build",
+    "en": "Edit Build"
+  },
+  {
+    "id": "7392",
+    "k": "lng_action_prompt_edit_device",
+    "en": "Edit Device"
+  },
+  {
+    "id": "7393",
+    "k": "lng_action_prompt_esports_from_announcements",
+    "en": "Go to Esports"
+  },
+  {
+    "id": "7394",
+    "k": "lng_action_prompt_esports_legal",
+    "en": "Terms & Conditions "
+  },
+  {
+    "id": "7395",
+    "k": "lng_action_prompt_event_options",
+    "en": "Event Options"
+  },
+  {
+    "id": "7396",
+    "k": "lng_action_prompt_event_overview",
+    "en": "Event Overview"
+  },
+  {
+    "id": "7397",
+    "k": "lng_action_prompt_event_standings",
+    "en": "Event Standings"
+  },
+  {
+    "id": "7398",
+    "k": "lng_action_prompt_find_me",
+    "en": "Find Me"
+  },
+  {
+    "id": "7399",
+    "k": "lng_action_prompt_garage",
+    "en": "Go To Garage"
+  },
+  {
+    "id": "7400",
+    "k": "lng_action_prompt_generate_event_stages",
+    "en": "Generate Event"
+  },
+  {
+    "id": "7401",
+    "k": "lng_action_prompt_go_to_top",
+    "en": "Go To Top"
+  },
+  {
+    "id": "7402",
+    "k": "lng_action_prompt_inspect_part",
+    "en": "Inspect Part"
+  },
+  {
+    "id": "7403",
+    "k": "lng_action_prompt_invite_player",
+    "en": "Invite Player"
+  },
+  {
+    "id": "7404",
+    "k": "lng_action_prompt_leaderboard_filters",
+    "en": "Leaderboard Filters"
+  },
+  {
+    "id": "7405",
+    "k": "lng_action_prompt_leaderboard_filters_reset",
+    "en": "Reset Changes"
+  },
+  {
+    "id": "7406",
+    "k": "lng_action_prompt_leaderboard_options",
+    "en": "Leaderboard Options"
+  },
+  {
+    "id": "7407",
+    "k": "lng_action_prompt_leave_motorshow",
+    "en": "Leave Motorshow"
+  },
+  {
+    "id": "7408",
+    "k": "lng_action_prompt_leave_session",
+    "en": "Leave Session"
+  },
+  {
+    "id": "7409",
+    "k": "lng_action_prompt_leave_talent_scout",
+    "en": "Leave Talent Scout"
+  },
+  {
+    "id": "7410",
+    "k": "lng_action_prompt_livery_editor_clear",
+    "en": "Clear"
+  },
+  {
+    "id": "7411",
+    "k": "lng_action_prompt_livery_editor_move_decal_layer_down",
+    "en": "Move Down Layer"
+  },
+  {
+    "id": "7412",
+    "k": "lng_action_prompt_livery_editor_move_decal_layer_up",
+    "en": "Move Up Layer"
+  },
+  {
+    "id": "7413",
+    "k": "lng_action_prompt_load_championship",
+    "en": "Load"
+  },
+  {
+    "id": "7414",
+    "k": "lng_action_prompt_load_custom_progress",
+    "en": "Load Progress"
+  },
+  {
+    "id": "7415",
+    "k": "lng_action_prompt_load_devicepreset",
+    "en": "Load Device Preset"
+  },
+  {
+    "id": "7416",
+    "k": "lng_action_prompt_load_event",
+    "en": "Load Event"
+  },
+  {
+    "id": "7417",
+    "k": "lng_action_prompt_load_tuning",
+    "en": "Load Tuning"
+  },
+  {
+    "id": "7418",
+    "k": "lng_action_prompt_load_tuning_setup",
+    "en": "Load Setup"
+  },
+  {
+    "id": "7419",
+    "k": "lng_action_prompt_load_vehicle_builder",
+    "en": "Load Vehicle"
+  },
+  {
+    "id": "7420",
+    "k": "lng_action_prompt_mirror_decal",
+    "en": "Mirror Decal"
+  },
+  {
+    "id": "7421",
+    "k": "lng_action_prompt_new_livery",
+    "en": "New Livery"
+  },
+  {
+    "id": "7422",
+    "k": "lng_action_prompt_next",
+    "en": "Next"
+  },
+  {
+    "id": "7423",
+    "k": "lng_action_prompt_next_tab",
+    "en": "Next Tab"
+  },
+  {
+    "id": "7424",
+    "k": "lng_action_prompt_options",
+    "en": "Options & Extras"
+  },
+  {
+    "id": "7425",
+    "k": "lng_action_prompt_photomodestart",
+    "en": "Photo Mode"
+  },
+  {
+    "id": "7426",
+    "k": "lng_action_prompt_place_decal",
+    "en": "Place"
+  },
+  {
+    "id": "7427",
+    "k": "lng_action_prompt_play_music",
+    "en": "Play"
+  },
+  {
+    "id": "7428",
+    "k": "lng_action_prompt_player_options",
+    "en": "Player Options"
+  },
+  {
+    "id": "7429",
+    "k": "lng_action_prompt_previous_tab",
+    "en": "Previous Tab"
+  },
+  {
+    "id": "7430",
+    "k": "lng_action_prompt_quit_game",
+    "en": "Quit Game"
+  },
+  {
+    "id": "7431",
+    "k": "lng_action_prompt_rally_profile",
+    "en": "Rally Passport"
+  },
+  {
+    "id": "7432",
+    "k": "lng_action_prompt_rallypass_from_announcements",
+    "en": "Go to Rally Pass"
+  },
+  {
+    "id": "7433",
+    "k": "lng_action_prompt_randomise_parts",
+    "en": "Randomise Parts"
+  },
+  {
+    "id": "7434",
+    "k": "lng_action_prompt_recommended_repairs",
+    "en": "Recommended Repairs"
+  },
+  {
+    "id": "7435",
+    "k": "lng_action_prompt_remove_engineer",
+    "en": "Remove Engineer"
+  },
+  {
+    "id": "7436",
+    "k": "lng_action_prompt_remove_teammate",
+    "en": "Remove Teammate"
+  },
+  {
+    "id": "7437",
+    "k": "lng_action_prompt_rename",
+    "en": "Rename"
+  },
+  {
+    "id": "7438",
+    "k": "lng_action_prompt_rename_vehicle",
+    "en": "Rename Vehicle"
+  },
+  {
+    "id": "7439",
+    "k": "lng_action_prompt_report_player",
+    "en": "Report Player"
+  },
+  {
+    "id": "7440",
+    "k": "lng_action_prompt_reset",
+    "en": "Reset"
+  },
+  {
+    "id": "7441",
+    "k": "lng_action_prompt_reset_decal",
+    "en": "Reset Decal"
+  },
+  {
+    "id": "7442",
+    "k": "lng_action_prompt_reset_to_default",
+    "en": "Reset to Default"
+  },
+  {
+    "id": "7443",
+    "k": "lng_action_prompt_reset_to_defaults",
+    "en": "Reset to Defaults"
+  },
+  {
+    "id": "7444",
+    "k": "lng_action_prompt_return_to_current_week",
+    "en": "Return to current week"
+  },
+  {
+    "id": "7445",
+    "k": "lng_action_prompt_return_to_default",
+    "en": "Return to Default"
+  },
+  {
+    "id": "7446",
+    "k": "lng_action_prompt_return_to_raceday",
+    "en": "Return to Raceday"
+  },
+  {
+    "id": "7447",
+    "k": "lng_action_prompt_revert_changes",
+    "en": "Revert Changes"
+  },
+  {
+    "id": "7448",
+    "k": "lng_action_prompt_rules",
+    "en": "Result Rules"
+  },
+  {
+    "id": "7449",
+    "k": "lng_action_prompt_save_championship",
+    "en": "Save Championship"
+  },
+  {
+    "id": "7450",
+    "k": "lng_action_prompt_save_custom_livery",
+    "en": "Save Livery"
+  },
+  {
+    "id": "7451",
+    "k": "lng_action_prompt_save_custom_progress",
+    "en": "Save Progress"
+  },
+  {
+    "id": "7452",
+    "k": "lng_action_prompt_save_event",
+    "en": "Save Event"
+  },
+  {
+    "id": "7453",
+    "k": "lng_action_prompt_save_tuning",
+    "en": "Save Tuning"
+  },
+  {
+    "id": "7454",
+    "k": "lng_action_prompt_save_tuning_setup",
+    "en": "Save Setup"
+  },
+  {
+    "id": "7455",
+    "k": "lng_action_prompt_save_vehicle_builder",
+    "en": "Save Builder Vehicle"
+  },
+  {
+    "id": "7456",
+    "k": "lng_action_prompt_scenarios_abandon_progress",
+    "en": "Abandon Progress"
+  },
+  {
+    "id": "7457",
+    "k": "lng_action_prompt_scenarios_filters",
+    "en": "Filters"
+  },
+  {
+    "id": "7458",
+    "k": "lng_action_prompt_scenarios_from_announcements",
+    "en": "Go to Moments"
+  },
+  {
+    "id": "7459",
+    "k": "lng_action_prompt_select_engineer",
+    "en": "Select"
+  },
+  {
+    "id": "7460",
+    "k": "lng_action_prompt_send_player_friend_invite",
+    "en": "Send Invite"
+  },
+  {
+    "id": "7461",
+    "k": "lng_action_prompt_show_next_season",
+    "en": "Show Next Season"
+  },
+  {
+    "id": "7462",
+    "k": "lng_action_prompt_show_previous_season",
+    "en": "Show Previous Season"
+  },
+  {
+    "id": "7463",
+    "k": "lng_action_prompt_show_store_colour_button",
+    "en": "Store Colour"
+  },
+  {
+    "id": "7464",
+    "k": "lng_action_prompt_skip",
+    "en": "Skip"
+  },
+  {
+    "id": "7465",
+    "k": "lng_action_prompt_skip_animation",
+    "en": "Skip Animation"
+  },
+  {
+    "id": "7466",
+    "k": "lng_action_prompt_skip_login",
+    "en": "Skip Login"
+  },
+  {
+    "id": "7467",
+    "k": "lng_action_prompt_skip_to_next_event_day",
+    "en": "Skip to Next Event Day"
+  },
+  {
+    "id": "7468",
+    "k": "lng_action_prompt_spectate_sort_alphabetically",
+    "en": "Sort Alphabetically"
+  },
+  {
+    "id": "7469",
+    "k": "lng_action_prompt_spectate_sort_position",
+    "en": "Sort by Position"
+  },
+  {
+    "id": "7470",
+    "k": "lng_action_prompt_stage_options",
+    "en": "Stage Options"
+  },
+  {
+    "id": "7471",
+    "k": "lng_action_prompt_stage_results",
+    "en": "Stage Results"
+  },
+  {
+    "id": "7472",
+    "k": "lng_action_prompt_switch_player_profile",
+    "en": "Switch Player Profile"
+  },
+  {
+    "id": "7473",
+    "k": "lng_action_prompt_tab_selection",
+    "en": "Tab Selection"
+  },
+  {
+    "id": "7474",
+    "k": "lng_action_prompt_time_extension",
+    "en": "Time Extension"
+  },
+  {
+    "id": "7475",
+    "k": "lng_action_prompt_use_avatar",
+    "en": "Play As Your Driver"
+  },
+  {
+    "id": "7476",
+    "k": "lng_action_prompt_vehicle_filters",
+    "en": "Vehicle Filters"
+  },
+  {
+    "id": "7477",
+    "k": "lng_action_prompt_vehicle_options",
+    "en": "Vehicle Options"
+  },
+  {
+    "id": "7478",
+    "k": "lng_action_prompt_video",
+    "en": "View Video"
+  },
+  {
+    "id": "7479",
+    "k": "lng_action_prompt_view_current_staff",
+    "en": "View Current Staff"
+  },
+  {
+    "id": "7480",
+    "k": "lng_action_prompt_view_full_leaderboard",
+    "en": "View Full Leaderboard"
+  },
+  {
+    "id": "7481",
+    "k": "lng_action_prompt_view_leaderboard",
+    "en": "View Leaderboard"
+  },
+  {
+    "id": "7482",
+    "k": "lng_action_prompt_view_player",
+    "en": "View Player"
+  },
+  {
+    "id": "7483",
+    "k": "lng_action_prompt_view_player_profile",
+    "en": "View Player Profile"
+  },
+  {
+    "id": "7484",
+    "k": "lng_action_prompt_view_player_profile",
+    "en": "View Player Profile "
+  },
+  {
+    "id": "7485",
+    "k": "lng_action_prompt_view_previous_results",
+    "en": "View Previous Results"
+  },
+  {
+    "id": "7486",
+    "k": "lng_input_action_1",
+    "en": "Action 1"
+  },
+  {
+    "id": "7487",
+    "k": "lng_input_action_2",
+    "en": "Action 2"
+  },
+  {
+    "id": "7488",
+    "k": "lng_input_action_3",
+    "en": "Action 3"
+  },
+  {
+    "id": "7489",
+    "k": "lng_input_action_4",
+    "en": "Action 4"
+  },
+  {
+    "id": "7490",
+    "k": "lng_input_action_5",
+    "en": "Action 5"
+  },
+  {
+    "id": "7491",
+    "k": "lng_input_action_6",
+    "en": "Action 6"
+  },
+  {
+    "id": "7492",
+    "k": "lng_input_action_reconnect",
+    "en": "Reconnect"
+  },
+  {
+    "id": "7493",
+    "k": "lng_input_action_special_1",
+    "en": "Action Special 1"
+  },
+  {
+    "id": "7494",
+    "k": "lng_input_action_special_2",
+    "en": "Action Special 2"
+  },
+  {
+    "id": "7495",
+    "k": "lng_input_axis_1",
+    "en": "Axis 1"
+  },
+  {
+    "id": "7496",
+    "k": "lng_input_axis_10",
+    "en": "Axis 10"
+  },
+  {
+    "id": "7497",
+    "k": "lng_input_axis_100",
+    "en": "Axis 100"
+  },
+  {
+    "id": "7498",
+    "k": "lng_input_axis_101",
+    "en": "Axis 101"
+  },
+  {
+    "id": "7499",
+    "k": "lng_input_axis_102",
+    "en": "Axis 102"
+  },
+  {
+    "id": "7500",
+    "k": "lng_input_axis_103",
+    "en": "Axis 103"
+  },
+  {
+    "id": "7501",
+    "k": "lng_input_axis_104",
+    "en": "Axis 104"
+  },
+  {
+    "id": "7502",
+    "k": "lng_input_axis_105",
+    "en": "Axis 105"
+  },
+  {
+    "id": "7503",
+    "k": "lng_input_axis_106",
+    "en": "Axis 106"
+  },
+  {
+    "id": "7504",
+    "k": "lng_input_axis_107",
+    "en": "Axis 107"
+  },
+  {
+    "id": "7505",
+    "k": "lng_input_axis_108",
+    "en": "Axis 108"
+  },
+  {
+    "id": "7506",
+    "k": "lng_input_axis_109",
+    "en": "Axis 109"
+  },
+  {
+    "id": "7507",
+    "k": "lng_input_axis_11",
+    "en": "Axis 11"
+  },
+  {
+    "id": "7508",
+    "k": "lng_input_axis_110",
+    "en": "Axis 110"
+  },
+  {
+    "id": "7509",
+    "k": "lng_input_axis_111",
+    "en": "Axis 111"
+  },
+  {
+    "id": "7510",
+    "k": "lng_input_axis_112",
+    "en": "Axis 112"
+  },
+  {
+    "id": "7511",
+    "k": "lng_input_axis_113",
+    "en": "Axis 113"
+  },
+  {
+    "id": "7512",
+    "k": "lng_input_axis_114",
+    "en": "Axis 114"
+  },
+  {
+    "id": "7513",
+    "k": "lng_input_axis_115",
+    "en": "Axis 115"
+  },
+  {
+    "id": "7514",
+    "k": "lng_input_axis_116",
+    "en": "Axis 116"
+  },
+  {
+    "id": "7515",
+    "k": "lng_input_axis_117",
+    "en": "Axis 117"
+  },
+  {
+    "id": "7516",
+    "k": "lng_input_axis_118",
+    "en": "Axis 118"
+  },
+  {
+    "id": "7517",
+    "k": "lng_input_axis_119",
+    "en": "Axis 119"
+  },
+  {
+    "id": "7518",
+    "k": "lng_input_axis_12",
+    "en": "Axis 12"
+  },
+  {
+    "id": "7519",
+    "k": "lng_input_axis_120",
+    "en": "Axis 120"
+  },
+  {
+    "id": "7520",
+    "k": "lng_input_axis_121",
+    "en": "Axis 121"
+  },
+  {
+    "id": "7521",
+    "k": "lng_input_axis_122",
+    "en": "Axis 122"
+  },
+  {
+    "id": "7522",
+    "k": "lng_input_axis_123",
+    "en": "Axis 123"
+  },
+  {
+    "id": "7523",
+    "k": "lng_input_axis_124",
+    "en": "Axis 124"
+  },
+  {
+    "id": "7524",
+    "k": "lng_input_axis_125",
+    "en": "Axis 125"
+  },
+  {
+    "id": "7525",
+    "k": "lng_input_axis_126",
+    "en": "Axis 126"
+  },
+  {
+    "id": "7526",
+    "k": "lng_input_axis_127",
+    "en": "Axis 127"
+  },
+  {
+    "id": "7527",
+    "k": "lng_input_axis_128",
+    "en": "Axis 128"
+  },
+  {
+    "id": "7528",
+    "k": "lng_input_axis_13",
+    "en": "Axis 13"
+  },
+  {
+    "id": "7529",
+    "k": "lng_input_axis_14",
+    "en": "Axis 14"
+  },
+  {
+    "id": "7530",
+    "k": "lng_input_axis_15",
+    "en": "Axis 15"
+  },
+  {
+    "id": "7531",
+    "k": "lng_input_axis_16",
+    "en": "Axis 16"
+  },
+  {
+    "id": "7532",
+    "k": "lng_input_axis_17",
+    "en": "Axis 17"
+  },
+  {
+    "id": "7533",
+    "k": "lng_input_axis_18",
+    "en": "Axis 18"
+  },
+  {
+    "id": "7534",
+    "k": "lng_input_axis_19",
+    "en": "Axis 19"
+  },
+  {
+    "id": "7535",
+    "k": "lng_input_axis_2",
+    "en": "Axis 2"
+  },
+  {
+    "id": "7536",
+    "k": "lng_input_axis_20",
+    "en": "Axis 20"
+  },
+  {
+    "id": "7537",
+    "k": "lng_input_axis_21",
+    "en": "Axis 21"
+  },
+  {
+    "id": "7538",
+    "k": "lng_input_axis_22",
+    "en": "Axis 22"
+  },
+  {
+    "id": "7539",
+    "k": "lng_input_axis_23",
+    "en": "Axis 23"
+  },
+  {
+    "id": "7540",
+    "k": "lng_input_axis_24",
+    "en": "Axis 24"
+  },
+  {
+    "id": "7541",
+    "k": "lng_input_axis_25",
+    "en": "Axis 25"
+  },
+  {
+    "id": "7542",
+    "k": "lng_input_axis_26",
+    "en": "Axis 26"
+  },
+  {
+    "id": "7543",
+    "k": "lng_input_axis_27",
+    "en": "Axis 27"
+  },
+  {
+    "id": "7544",
+    "k": "lng_input_axis_28",
+    "en": "Axis 28"
+  },
+  {
+    "id": "7545",
+    "k": "lng_input_axis_29",
+    "en": "Axis 29"
+  },
+  {
+    "id": "7546",
+    "k": "lng_input_axis_3",
+    "en": "Axis 3"
+  },
+  {
+    "id": "7547",
+    "k": "lng_input_axis_30",
+    "en": "Axis 30"
+  },
+  {
+    "id": "7548",
+    "k": "lng_input_axis_31",
+    "en": "Axis 31"
+  },
+  {
+    "id": "7549",
+    "k": "lng_input_axis_32",
+    "en": "Axis 32"
+  },
+  {
+    "id": "7550",
+    "k": "lng_input_axis_33",
+    "en": "Axis 33"
+  },
+  {
+    "id": "7551",
+    "k": "lng_input_axis_34",
+    "en": "Axis 34"
+  },
+  {
+    "id": "7552",
+    "k": "lng_input_axis_35",
+    "en": "Axis 35"
+  },
+  {
+    "id": "7553",
+    "k": "lng_input_axis_36",
+    "en": "Axis 36"
+  },
+  {
+    "id": "7554",
+    "k": "lng_input_axis_37",
+    "en": "Axis 37"
+  },
+  {
+    "id": "7555",
+    "k": "lng_input_axis_38",
+    "en": "Axis 38"
+  },
+  {
+    "id": "7556",
+    "k": "lng_input_axis_39",
+    "en": "Axis 39"
+  },
+  {
+    "id": "7557",
+    "k": "lng_input_axis_4",
+    "en": "Axis 4"
+  },
+  {
+    "id": "7558",
+    "k": "lng_input_axis_40",
+    "en": "Axis 40"
+  },
+  {
+    "id": "7559",
+    "k": "lng_input_axis_41",
+    "en": "Axis 41"
+  },
+  {
+    "id": "7560",
+    "k": "lng_input_axis_42",
+    "en": "Axis 42"
+  },
+  {
+    "id": "7561",
+    "k": "lng_input_axis_43",
+    "en": "Axis 43"
+  },
+  {
+    "id": "7562",
+    "k": "lng_input_axis_44",
+    "en": "Axis 44"
+  },
+  {
+    "id": "7563",
+    "k": "lng_input_axis_45",
+    "en": "Axis 45"
+  },
+  {
+    "id": "7564",
+    "k": "lng_input_axis_46",
+    "en": "Axis 46"
+  },
+  {
+    "id": "7565",
+    "k": "lng_input_axis_47",
+    "en": "Axis 47"
+  },
+  {
+    "id": "7566",
+    "k": "lng_input_axis_48",
+    "en": "Axis 48"
+  },
+  {
+    "id": "7567",
+    "k": "lng_input_axis_49",
+    "en": "Axis 49"
+  },
+  {
+    "id": "7568",
+    "k": "lng_input_axis_5",
+    "en": "Axis 5"
+  },
+  {
+    "id": "7569",
+    "k": "lng_input_axis_50",
+    "en": "Axis 50"
+  },
+  {
+    "id": "7570",
+    "k": "lng_input_axis_51",
+    "en": "Axis 51"
+  },
+  {
+    "id": "7571",
+    "k": "lng_input_axis_52",
+    "en": "Axis 52"
+  },
+  {
+    "id": "7572",
+    "k": "lng_input_axis_53",
+    "en": "Axis 53"
+  },
+  {
+    "id": "7573",
+    "k": "lng_input_axis_54",
+    "en": "Axis 54"
+  },
+  {
+    "id": "7574",
+    "k": "lng_input_axis_55",
+    "en": "Axis 55"
+  },
+  {
+    "id": "7575",
+    "k": "lng_input_axis_56",
+    "en": "Axis 56"
+  },
+  {
+    "id": "7576",
+    "k": "lng_input_axis_57",
+    "en": "Axis 57"
+  },
+  {
+    "id": "7577",
+    "k": "lng_input_axis_58",
+    "en": "Axis 58"
+  },
+  {
+    "id": "7578",
+    "k": "lng_input_axis_59",
+    "en": "Axis 59"
+  },
+  {
+    "id": "7579",
+    "k": "lng_input_axis_6",
+    "en": "Axis 6"
+  },
+  {
+    "id": "7580",
+    "k": "lng_input_axis_60",
+    "en": "Axis 60"
+  },
+  {
+    "id": "7581",
+    "k": "lng_input_axis_61",
+    "en": "Axis 61"
+  },
+  {
+    "id": "7582",
+    "k": "lng_input_axis_62",
+    "en": "Axis 62"
+  },
+  {
+    "id": "7583",
+    "k": "lng_input_axis_63",
+    "en": "Axis 63"
+  },
+  {
+    "id": "7584",
+    "k": "lng_input_axis_64",
+    "en": "Axis 64"
+  },
+  {
+    "id": "7585",
+    "k": "lng_input_axis_65",
+    "en": "Axis 65"
+  },
+  {
+    "id": "7586",
+    "k": "lng_input_axis_66",
+    "en": "Axis 66"
+  },
+  {
+    "id": "7587",
+    "k": "lng_input_axis_67",
+    "en": "Axis 67"
+  },
+  {
+    "id": "7588",
+    "k": "lng_input_axis_68",
+    "en": "Axis 68"
+  },
+  {
+    "id": "7589",
+    "k": "lng_input_axis_69",
+    "en": "Axis 69"
+  },
+  {
+    "id": "7590",
+    "k": "lng_input_axis_7",
+    "en": "Axis 7"
+  },
+  {
+    "id": "7591",
+    "k": "lng_input_axis_70",
+    "en": "Axis 70"
+  },
+  {
+    "id": "7592",
+    "k": "lng_input_axis_71",
+    "en": "Axis 71"
+  },
+  {
+    "id": "7593",
+    "k": "lng_input_axis_72",
+    "en": "Axis 72"
+  },
+  {
+    "id": "7594",
+    "k": "lng_input_axis_73",
+    "en": "Axis 73"
+  },
+  {
+    "id": "7595",
+    "k": "lng_input_axis_74",
+    "en": "Axis 74"
+  },
+  {
+    "id": "7596",
+    "k": "lng_input_axis_75",
+    "en": "Axis 75"
+  },
+  {
+    "id": "7597",
+    "k": "lng_input_axis_76",
+    "en": "Axis 76"
+  },
+  {
+    "id": "7598",
+    "k": "lng_input_axis_77",
+    "en": "Axis 77"
+  },
+  {
+    "id": "7599",
+    "k": "lng_input_axis_78",
+    "en": "Axis 78"
+  },
+  {
+    "id": "7600",
+    "k": "lng_input_axis_79",
+    "en": "Axis 79"
+  },
+  {
+    "id": "7601",
+    "k": "lng_input_axis_8",
+    "en": "Axis 8"
+  },
+  {
+    "id": "7602",
+    "k": "lng_input_axis_80",
+    "en": "Axis 80"
+  },
+  {
+    "id": "7603",
+    "k": "lng_input_axis_81",
+    "en": "Axis 81"
+  },
+  {
+    "id": "7604",
+    "k": "lng_input_axis_82",
+    "en": "Axis 82"
+  },
+  {
+    "id": "7605",
+    "k": "lng_input_axis_83",
+    "en": "Axis 83"
+  },
+  {
+    "id": "7606",
+    "k": "lng_input_axis_84",
+    "en": "Axis 84"
+  },
+  {
+    "id": "7607",
+    "k": "lng_input_axis_85",
+    "en": "Axis 85"
+  },
+  {
+    "id": "7608",
+    "k": "lng_input_axis_86",
+    "en": "Axis 86"
+  },
+  {
+    "id": "7609",
+    "k": "lng_input_axis_87",
+    "en": "Axis 87"
+  },
+  {
+    "id": "7610",
+    "k": "lng_input_axis_88",
+    "en": "Axis 88"
+  },
+  {
+    "id": "7611",
+    "k": "lng_input_axis_89",
+    "en": "Axis 89"
+  },
+  {
+    "id": "7612",
+    "k": "lng_input_axis_9",
+    "en": "Axis 9"
+  },
+  {
+    "id": "7613",
+    "k": "lng_input_axis_90",
+    "en": "Axis 90"
+  },
+  {
+    "id": "7614",
+    "k": "lng_input_axis_91",
+    "en": "Axis 91"
+  },
+  {
+    "id": "7615",
+    "k": "lng_input_axis_92",
+    "en": "Axis 92"
+  },
+  {
+    "id": "7616",
+    "k": "lng_input_axis_93",
+    "en": "Axis 93"
+  },
+  {
+    "id": "7617",
+    "k": "lng_input_axis_94",
+    "en": "Axis 94"
+  },
+  {
+    "id": "7618",
+    "k": "lng_input_axis_95",
+    "en": "Axis 95"
+  },
+  {
+    "id": "7619",
+    "k": "lng_input_axis_96",
+    "en": "Axis 96"
+  },
+  {
+    "id": "7620",
+    "k": "lng_input_axis_97",
+    "en": "Axis 97"
+  },
+  {
+    "id": "7621",
+    "k": "lng_input_axis_98",
+    "en": "Axis 98"
+  },
+  {
+    "id": "7622",
+    "k": "lng_input_axis_99",
+    "en": "Axis 99"
+  },
+  {
+    "id": "7623",
+    "k": "lng_input_bindings_missing_body",
+    "en": "Some of the required input bindings for the Transmission or Clutch setting are not bound. Continuing without adding these bindings will result in limited driving functionality."
+  },
+  {
+    "id": "7624",
+    "k": "lng_input_bindings_missing_title",
+    "en": "INPUT BINDINGS MISSING"
+  },
+  {
+    "id": "7625",
+    "k": "lng_input_colour_black_box",
+    "en": "BOX"
+  },
+  {
+    "id": "7626",
+    "k": "lng_input_colour_black_drs",
+    "en": "DRS"
+  },
+  {
+    "id": "7627",
+    "k": "lng_input_colour_black_fl",
+    "en": "FL"
+  },
+  {
+    "id": "7628",
+    "k": "lng_input_colour_black_lsb",
+    "en": "LSB"
+  },
+  {
+    "id": "7629",
+    "k": "lng_input_colour_black_middle_left",
+    "en": "Middle Left"
+  },
+  {
+    "id": "7630",
+    "k": "lng_input_colour_black_middle_right",
+    "en": "Middle Right"
+  },
+  {
+    "id": "7631",
+    "k": "lng_input_colour_black_pl",
+    "en": "PL"
+  },
+  {
+    "id": "7632",
+    "k": "lng_input_colour_black_rsb",
+    "en": "RSB"
+  },
+  {
+    "id": "7633",
+    "k": "lng_input_colour_black_s1",
+    "en": "S1"
+  },
+  {
+    "id": "7634",
+    "k": "lng_input_colour_black_wip",
+    "en": "WIP"
+  },
+  {
+    "id": "7635",
+    "k": "lng_input_colour_brown_bottom_left",
+    "en": "Bottom Left"
+  },
+  {
+    "id": "7636",
+    "k": "lng_input_colour_green_top_left",
+    "en": "Top Left"
+  },
+  {
+    "id": "7637",
+    "k": "lng_input_colour_purple_s2",
+    "en": "S2"
+  },
+  {
+    "id": "7638",
+    "k": "lng_input_colour_red_lt",
+    "en": "LT"
+  },
+  {
+    "id": "7639",
+    "k": "lng_input_colour_red_rt",
+    "en": "RT"
+  },
+  {
+    "id": "7640",
+    "k": "lng_input_colour_yellow_bottom_right",
+    "en": "Bottom Right"
+  },
+  {
+    "id": "7641",
+    "k": "lng_input_colour_yellow_top_right",
+    "en": "Top Right"
+  },
+  {
+    "id": "7642",
+    "k": "lng_input_colour_yellow_tr",
+    "en": "TR"
+  },
+  {
+    "id": "7643",
+    "k": "lng_input_device_arcade_stick_down",
+    "en": "Arcade Stick Down"
+  },
+  {
+    "id": "7644",
+    "k": "lng_input_device_arcade_stick_left",
+    "en": "Arcade Stick Left"
+  },
+  {
+    "id": "7645",
+    "k": "lng_input_device_arcade_stick_right",
+    "en": "Arcade Stick Right"
+  },
+  {
+    "id": "7646",
+    "k": "lng_input_device_arcade_stick_up",
+    "en": "Arcade Stick Up"
+  },
+  {
+    "id": "7647",
+    "k": "lng_input_device_button_l4",
+    "en": "L4"
+  },
+  {
+    "id": "7648",
+    "k": "lng_input_device_button_l5",
+    "en": "L5"
+  },
+  {
+    "id": "7649",
+    "k": "lng_input_device_button_r4",
+    "en": "R4"
+  },
+  {
+    "id": "7650",
+    "k": "lng_input_device_button_r5",
+    "en": "R5"
+  },
+  {
+    "id": "7651",
+    "k": "lng_input_device_flight_stick_fire_primary",
+    "en": "Primary Fire"
+  },
+  {
+    "id": "7652",
+    "k": "lng_input_device_flight_stick_fire_secondary",
+    "en": "Secondary Fire"
+  },
+  {
+    "id": "7653",
+    "k": "lng_input_device_flight_stick_pitch",
+    "en": "Flight Stick Pitch"
+  },
+  {
+    "id": "7654",
+    "k": "lng_input_device_flight_stick_roll",
+    "en": "Flight Stick Roll"
+  },
+  {
+    "id": "7655",
+    "k": "lng_input_device_flight_stick_throttle",
+    "en": "Flight Stick Throttle"
+  },
+  {
+    "id": "7656",
+    "k": "lng_input_device_flight_stick_yaw",
+    "en": "Flight Stick Yaw"
+  },
+  {
+    "id": "7657",
+    "k": "lng_input_device_horn",
+    "en": "Horn"
+  },
+  {
+    "id": "7658",
+    "k": "lng_input_device_small_paddle_left",
+    "en": "Small Paddle Left"
+  },
+  {
+    "id": "7659",
+    "k": "lng_input_device_small_paddle_right",
+    "en": "Small Paddle Right"
+  },
+  {
+    "id": "7660",
+    "k": "lng_input_device_switch_1_0",
+    "en": "Switch 1 Position 1"
+  },
+  {
+    "id": "7661",
+    "k": "lng_input_device_switch_1_1",
+    "en": "Switch 1 Position 2"
+  },
+  {
+    "id": "7662",
+    "k": "lng_input_device_switch_1_10",
+    "en": "Switch 1 Position 11"
+  },
+  {
+    "id": "7663",
+    "k": "lng_input_device_switch_1_11",
+    "en": "Switch 1 Position 12"
+  },
+  {
+    "id": "7664",
+    "k": "lng_input_device_switch_1_2",
+    "en": "Switch 1 Position 3"
+  },
+  {
+    "id": "7665",
+    "k": "lng_input_device_switch_1_3",
+    "en": "Switch 1 Position 4"
+  },
+  {
+    "id": "7666",
+    "k": "lng_input_device_switch_1_4",
+    "en": "Switch 1 Position 5"
+  },
+  {
+    "id": "7667",
+    "k": "lng_input_device_switch_1_5",
+    "en": "Switch 1 Position 6"
+  },
+  {
+    "id": "7668",
+    "k": "lng_input_device_switch_1_6",
+    "en": "Switch 1 Position 7"
+  },
+  {
+    "id": "7669",
+    "k": "lng_input_device_switch_1_7",
+    "en": "Switch 1 Position 8"
+  },
+  {
+    "id": "7670",
+    "k": "lng_input_device_switch_1_8",
+    "en": "Switch 1 Position 9"
+  },
+  {
+    "id": "7671",
+    "k": "lng_input_device_switch_1_9",
+    "en": "Switch 1 Position 10"
+  },
+  {
+    "id": "7672",
+    "k": "lng_input_device_switch_2_0",
+    "en": "Switch 2 Position 1"
+  },
+  {
+    "id": "7673",
+    "k": "lng_input_device_switch_2_1",
+    "en": "Switch 2 Position 2"
+  },
+  {
+    "id": "7674",
+    "k": "lng_input_device_switch_2_10",
+    "en": "Switch 2 Position 11"
+  },
+  {
+    "id": "7675",
+    "k": "lng_input_device_switch_2_11",
+    "en": "Switch 2 Position 12"
+  },
+  {
+    "id": "7676",
+    "k": "lng_input_device_switch_2_2",
+    "en": "Switch 2 Position 3"
+  },
+  {
+    "id": "7677",
+    "k": "lng_input_device_switch_2_3",
+    "en": "Switch 2 Position 4"
+  },
+  {
+    "id": "7678",
+    "k": "lng_input_device_switch_2_4",
+    "en": "Switch 2 Position 5"
+  },
+  {
+    "id": "7679",
+    "k": "lng_input_device_switch_2_5",
+    "en": "Switch 2 Position 6"
+  },
+  {
+    "id": "7680",
+    "k": "lng_input_device_switch_2_6",
+    "en": "Switch 2 Position 7"
+  },
+  {
+    "id": "7681",
+    "k": "lng_input_device_switch_2_7",
+    "en": "Switch 2 Position 8"
+  },
+  {
+    "id": "7682",
+    "k": "lng_input_device_switch_2_8",
+    "en": "Switch 2 Position 9"
+  },
+  {
+    "id": "7683",
+    "k": "lng_input_device_switch_2_9",
+    "en": "Switch 2 Position 10"
+  },
+  {
+    "id": "7684",
+    "k": "lng_input_device_switch_center",
+    "en": "Switch Center"
+  },
+  {
+    "id": "7685",
+    "k": "lng_input_device_switch_down",
+    "en": "Switch Down"
+  },
+  {
+    "id": "7686",
+    "k": "lng_input_device_switch_down_left",
+    "en": "Switch Down Left"
+  },
+  {
+    "id": "7687",
+    "k": "lng_input_device_switch_down_right",
+    "en": "Switch Down Right"
+  },
+  {
+    "id": "7688",
+    "k": "lng_input_device_switch_left",
+    "en": "Switch Left"
+  },
+  {
+    "id": "7689",
+    "k": "lng_input_device_switch_right",
+    "en": "Switch Right"
+  },
+  {
+    "id": "7690",
+    "k": "lng_input_device_switch_up",
+    "en": "Switch Up"
+  },
+  {
+    "id": "7691",
+    "k": "lng_input_device_switch_up_left",
+    "en": "Switch Up Left"
+  },
+  {
+    "id": "7692",
+    "k": "lng_input_device_switch_up_right",
+    "en": "Switch Up Right"
+  },
+  {
+    "id": "7693",
+    "k": "lng_input_device_toggle_1_down",
+    "en": "Toggle 2 Down"
+  },
+  {
+    "id": "7694",
+    "k": "lng_input_device_toggle_1_up",
+    "en": "Toggle 2 Up"
+  },
+  {
+    "id": "7695",
+    "k": "lng_input_device_toggle_down",
+    "en": "Toggle 1 Down"
+  },
+  {
+    "id": "7696",
+    "k": "lng_input_device_toggle_up",
+    "en": "Toggle 1 Up"
+  },
+  {
+    "id": "7697",
+    "k": "lng_input_direct_input_pov_0",
+    "en": "Pov 1"
+  },
+  {
+    "id": "7698",
+    "k": "lng_input_direct_input_pov_1",
+    "en": "Pov 2"
+  },
+  {
+    "id": "7699",
+    "k": "lng_input_direct_input_pov_2",
+    "en": "Pov 3"
+  },
+  {
+    "id": "7700",
+    "k": "lng_input_direct_input_pov_3",
+    "en": "Pov 4"
+  },
+  {
+    "id": "7701",
+    "k": "lng_input_direct_input_slider_0",
+    "en": "Slider 0"
+  },
+  {
+    "id": "7702",
+    "k": "lng_input_direct_input_slider_0_acc",
+    "en": "Slider 0 acc"
+  },
+  {
+    "id": "7703",
+    "k": "lng_input_direct_input_slider_0_force",
+    "en": "Slider 0 force"
+  },
+  {
+    "id": "7704",
+    "k": "lng_input_direct_input_slider_0_vel",
+    "en": "Slider 0 velocity"
+  },
+  {
+    "id": "7705",
+    "k": "lng_input_direct_input_slider_1",
+    "en": "Slider 1"
+  },
+  {
+    "id": "7706",
+    "k": "lng_input_direct_input_slider_1_acc",
+    "en": "Slider 1 acc"
+  },
+  {
+    "id": "7707",
+    "k": "lng_input_direct_input_slider_1_force",
+    "en": "Slider 1 force"
+  },
+  {
+    "id": "7708",
+    "k": "lng_input_direct_input_slider_1_vel",
+    "en": "Slider 1 velocity"
+  },
+  {
+    "id": "7709",
+    "k": "lng_input_direct_input_x_axis",
+    "en": "X-axis"
+  },
+  {
+    "id": "7710",
+    "k": "lng_input_direct_input_x_axis_acc",
+    "en": "X-axis acc"
+  },
+  {
+    "id": "7711",
+    "k": "lng_input_direct_input_x_axis_ang_acc",
+    "en": "X-axis angular acc"
+  },
+  {
+    "id": "7712",
+    "k": "lng_input_direct_input_x_axis_ang_vel",
+    "en": "X-axis angular velocity"
+  },
+  {
+    "id": "7713",
+    "k": "lng_input_direct_input_x_axis_force",
+    "en": "X-axis force"
+  },
+  {
+    "id": "7714",
+    "k": "lng_input_direct_input_x_axis_rotation",
+    "en": "X-axis rotation"
+  },
+  {
+    "id": "7715",
+    "k": "lng_input_direct_input_x_axis_torque",
+    "en": "X-axis torque"
+  },
+  {
+    "id": "7716",
+    "k": "lng_input_direct_input_x_axis_vel",
+    "en": "X-axis velocity"
+  },
+  {
+    "id": "7717",
+    "k": "lng_input_direct_input_y_axis",
+    "en": "Y-axis"
+  },
+  {
+    "id": "7718",
+    "k": "lng_input_direct_input_y_axis_acc",
+    "en": "Y-axis acc"
+  },
+  {
+    "id": "7719",
+    "k": "lng_input_direct_input_y_axis_ang_acc",
+    "en": "Y-axis angular acc"
+  },
+  {
+    "id": "7720",
+    "k": "lng_input_direct_input_y_axis_ang_vel",
+    "en": "Y-axis angular velocity"
+  },
+  {
+    "id": "7721",
+    "k": "lng_input_direct_input_y_axis_force",
+    "en": "Y-axis force"
+  },
+  {
+    "id": "7722",
+    "k": "lng_input_direct_input_y_axis_rotation",
+    "en": "Y-axis rotation"
+  },
+  {
+    "id": "7723",
+    "k": "lng_input_direct_input_y_axis_torque",
+    "en": "Y-axis torque"
+  },
+  {
+    "id": "7724",
+    "k": "lng_input_direct_input_y_axis_vel",
+    "en": "Y-axis velocity"
+  },
+  {
+    "id": "7725",
+    "k": "lng_input_direct_input_z_axis",
+    "en": "Z-axis"
+  },
+  {
+    "id": "7726",
+    "k": "lng_input_direct_input_z_axis_acc",
+    "en": "Z-axis acc"
+  },
+  {
+    "id": "7727",
+    "k": "lng_input_direct_input_z_axis_ang_acc",
+    "en": "Z-axis angular acc"
+  },
+  {
+    "id": "7728",
+    "k": "lng_input_direct_input_z_axis_ang_vel",
+    "en": "Z-axis angular velocity"
+  },
+  {
+    "id": "7729",
+    "k": "lng_input_direct_input_z_axis_force",
+    "en": "Z-axis force"
+  },
+  {
+    "id": "7730",
+    "k": "lng_input_direct_input_z_axis_rotation",
+    "en": "Z-axis rotation"
+  },
+  {
+    "id": "7731",
+    "k": "lng_input_direct_input_z_axis_torque",
+    "en": "Z-axis torque"
+  },
+  {
+    "id": "7732",
+    "k": "lng_input_direct_input_z_axis_vel",
+    "en": "Z-axis velocity"
+  },
+  {
+    "id": "7733",
+    "k": "lng_input_disconnected_body",
+    "en": "Your controller has disconnected from the game. "
+  },
+  {
+    "id": "7734",
+    "k": "lng_input_driving_accelerate",
+    "en": "Accelerate"
+  },
+  {
+    "id": "7735",
+    "k": "lng_input_driving_brake",
+    "en": "Brake/Reverse"
+  },
+  {
+    "id": "7736",
+    "k": "lng_input_driving_change_view",
+    "en": "Change View"
+  },
+  {
+    "id": "7737",
+    "k": "lng_input_driving_gear_down",
+    "en": "Gear Down"
+  },
+  {
+    "id": "7738",
+    "k": "lng_input_driving_gear_h_pattern_1",
+    "en": "H-Pattern 1st Gear"
+  },
+  {
+    "id": "7739",
+    "k": "lng_input_driving_gear_h_pattern_2",
+    "en": "H-Pattern 2nd Gear"
+  },
+  {
+    "id": "7740",
+    "k": "lng_input_driving_gear_h_pattern_3",
+    "en": "H-Pattern 3rd Gear"
+  },
+  {
+    "id": "7741",
+    "k": "lng_input_driving_gear_h_pattern_4",
+    "en": "H-Pattern 4th Gear"
+  },
+  {
+    "id": "7742",
+    "k": "lng_input_driving_gear_h_pattern_5",
+    "en": "H-Pattern 5th Gear"
+  },
+  {
+    "id": "7743",
+    "k": "lng_input_driving_gear_h_pattern_6",
+    "en": "H-Pattern 6th Gear"
+  },
+  {
+    "id": "7744",
+    "k": "lng_input_driving_gear_h_pattern_7",
+    "en": "H-Pattern 7th Gear"
+  },
+  {
+    "id": "7745",
+    "k": "lng_input_driving_gear_h_pattern_reverse",
+    "en": "H-Pattern Reverse Gear"
+  },
+  {
+    "id": "7746",
+    "k": "lng_input_driving_gear_sequential_down",
+    "en": "Sequential Down"
+  },
+  {
+    "id": "7747",
+    "k": "lng_input_driving_gear_sequential_up",
+    "en": "Sequential Up"
+  },
+  {
+    "id": "7748",
+    "k": "lng_input_driving_gear_up",
+    "en": "Gear Up"
+  },
+  {
+    "id": "7749",
+    "k": "lng_input_driving_handbrake",
+    "en": "Handbrake"
+  },
+  {
+    "id": "7750",
+    "k": "lng_input_driving_headlights",
+    "en": "Headlights"
+  },
+  {
+    "id": "7751",
+    "k": "lng_input_driving_look_back",
+    "en": "Look Back"
+  },
+  {
+    "id": "7752",
+    "k": "lng_input_driving_look_camera_chase_down",
+    "en": "Chase Camera Down"
+  },
+  {
+    "id": "7753",
+    "k": "lng_input_driving_look_camera_chase_left",
+    "en": "Chase Camera Left"
+  },
+  {
+    "id": "7754",
+    "k": "lng_input_driving_look_camera_chase_right",
+    "en": "Chase Camera Right"
+  },
+  {
+    "id": "7755",
+    "k": "lng_input_driving_look_camera_chase_up",
+    "en": "Chase Camera Up"
+  },
+  {
+    "id": "7756",
+    "k": "lng_input_driving_look_camera_head_down",
+    "en": "Head Camera Down"
+  },
+  {
+    "id": "7757",
+    "k": "lng_input_driving_look_camera_head_left",
+    "en": "Head Camera Left"
+  },
+  {
+    "id": "7758",
+    "k": "lng_input_driving_look_camera_head_right",
+    "en": "Head Camera Right"
+  },
+  {
+    "id": "7759",
+    "k": "lng_input_driving_look_camera_head_up",
+    "en": "Head Camera Up"
+  },
+  {
+    "id": "7760",
+    "k": "lng_input_driving_look_camera_mounted_down",
+    "en": "Mounted Camera Down"
+  },
+  {
+    "id": "7761",
+    "k": "lng_input_driving_look_camera_mounted_left",
+    "en": "Mounted Camera Left"
+  },
+  {
+    "id": "7762",
+    "k": "lng_input_driving_look_camera_mounted_right",
+    "en": "Mounted Camera Right"
+  },
+  {
+    "id": "7763",
+    "k": "lng_input_driving_look_camera_mounted_up",
+    "en": "Mounted Camera Up"
+  },
+  {
+    "id": "7764",
+    "k": "lng_input_driving_pause",
+    "en": "Pause"
+  },
+  {
+    "id": "7765",
+    "k": "lng_input_driving_reset_vehicle",
+    "en": "Reset Vehicle"
+  },
+  {
+    "id": "7766",
+    "k": "lng_input_driving_roadside_repair",
+    "en": "Puncture Repair"
+  },
+  {
+    "id": "7767",
+    "k": "lng_input_driving_seat_move_backward",
+    "en": "Move Seat Backward"
+  },
+  {
+    "id": "7768",
+    "k": "lng_input_driving_seat_move_down",
+    "en": "Move Seat Down "
+  },
+  {
+    "id": "7769",
+    "k": "lng_input_driving_seat_move_forward",
+    "en": "Move Seat Forward"
+  },
+  {
+    "id": "7770",
+    "k": "lng_input_driving_seat_move_up",
+    "en": "Move Seat Up"
+  },
+  {
+    "id": "7771",
+    "k": "lng_input_driving_seat_reset",
+    "en": "Reset Seat"
+  },
+  {
+    "id": "7772",
+    "k": "lng_input_driving_seat_tilt_down",
+    "en": "Tilt Seat Down"
+  },
+  {
+    "id": "7773",
+    "k": "lng_input_driving_seat_tilt_up",
+    "en": "Tilt Seat Up"
+  },
+  {
+    "id": "7774",
+    "k": "lng_input_driving_steer_left",
+    "en": "Steer Left"
+  },
+  {
+    "id": "7775",
+    "k": "lng_input_driving_steer_right",
+    "en": "Steer Right"
+  },
+  {
+    "id": "7776",
+    "k": "lng_input_driving_wipers",
+    "en": "Wipers"
+  },
+  {
+    "id": "7777",
+    "k": "lng_input_ftec_button_module",
+    "en": "Fanatec Podium Button Module Endurance"
+  },
+  {
+    "id": "7778",
+    "k": "lng_input_ftec_handbrake",
+    "en": "Fanatec ClubSport Handbrake"
+  },
+  {
+    "id": "7779",
+    "k": "lng_input_ftec_pedals_analog",
+    "en": "Fanatec Pedals"
+  },
+  {
+    "id": "7780",
+    "k": "lng_input_ftec_pedals_cslep",
+    "en": "Fanatec CSL Elite Pedals"
+  },
+  {
+    "id": "7781",
+    "k": "lng_input_ftec_pedals_csleplc_direct",
+    "en": "Fanatec CSL Elite Pedals LC"
+  },
+  {
+    "id": "7782",
+    "k": "lng_input_ftec_pedals_cslepv2",
+    "en": "Fanatec CSL Elite Pedals v2"
+  },
+  {
+    "id": "7783",
+    "k": "lng_input_ftec_rim_csleswmcl",
+    "en": "CSL Elite Steering Wheel McLaren GT3"
+  },
+  {
+    "id": "7784",
+    "k": "lng_input_ftec_rim_csleswp1x",
+    "en": "CSL Steering Wheel P1 for Xbox Series X|S"
+  },
+  {
+    "id": "7785",
+    "k": "lng_input_ftec_rim_csswbmwv2",
+    "en": "ClubSport BMW M3 GT2 V2"
+  },
+  {
+    "id": "7786",
+    "k": "lng_input_ftec_rim_csswform",
+    "en": "ClubSport Steering Wheel Formula"
+  },
+  {
+    "id": "7787",
+    "k": "lng_input_ftec_rim_csswporsche",
+    "en": "ClubSport Steering Wheel Porsche 918 RSR"
+  },
+  {
+    "id": "7788",
+    "k": "lng_input_ftec_rim_csswuh",
+    "en": "ClubSport Universal Hub"
+  },
+  {
+    "id": "7789",
+    "k": "lng_input_ftec_rim_csuhv2",
+    "en": "ClubSport Universal Hub v2"
+  },
+  {
+    "id": "7790",
+    "k": "lng_input_ftec_rim_gtswpro",
+    "en": "GranTurismo Steering Wheel Pro"
+  },
+  {
+    "id": "7791",
+    "k": "lng_input_ftec_rim_pswbmw",
+    "en": "Podium Steering Wheel BMW M4 GT3"
+  },
+  {
+    "id": "7792",
+    "k": "lng_input_keyboard_again",
+    "en": "Again"
+  },
+  {
+    "id": "7793",
+    "k": "lng_input_keyboard_alt",
+    "en": "Alt"
+  },
+  {
+    "id": "7794",
+    "k": "lng_input_keyboard_alternate_erase",
+    "en": "Alternate Erase"
+  },
+  {
+    "id": "7795",
+    "k": "lng_input_keyboard_application",
+    "en": "Application"
+  },
+  {
+    "id": "7796",
+    "k": "lng_input_keyboard_browser_back",
+    "en": "Web Back"
+  },
+  {
+    "id": "7797",
+    "k": "lng_input_keyboard_browser_favorites",
+    "en": "Web Favourites"
+  },
+  {
+    "id": "7798",
+    "k": "lng_input_keyboard_browser_forward",
+    "en": "Web Forward"
+  },
+  {
+    "id": "7799",
+    "k": "lng_input_keyboard_browser_home",
+    "en": "Web Home"
+  },
+  {
+    "id": "7800",
+    "k": "lng_input_keyboard_browser_refresh",
+    "en": "Web Refresh"
+  },
+  {
+    "id": "7801",
+    "k": "lng_input_keyboard_browser_search",
+    "en": "Web Search"
+  },
+  {
+    "id": "7802",
+    "k": "lng_input_keyboard_browser_stop",
+    "en": "Web Stop"
+  },
+  {
+    "id": "7803",
+    "k": "lng_input_keyboard_caps_lock",
+    "en": "Caps Lock"
+  },
+  {
+    "id": "7804",
+    "k": "lng_input_keyboard_copy",
+    "en": "Copy"
+  },
+  {
+    "id": "7805",
+    "k": "lng_input_keyboard_cr_sel",
+    "en": "CrSel"
+  },
+  {
+    "id": "7806",
+    "k": "lng_input_keyboard_ctrl",
+    "en": "Ctrl"
+  },
+  {
+    "id": "7807",
+    "k": "lng_input_keyboard_currency_sub_unit",
+    "en": "Currency Sub-Unit"
+  },
+  {
+    "id": "7808",
+    "k": "lng_input_keyboard_currency_unit",
+    "en": "Currency Unit"
+  },
+  {
+    "id": "7809",
+    "k": "lng_input_keyboard_cut",
+    "en": "Cut"
+  },
+  {
+    "id": "7810",
+    "k": "lng_input_keyboard_decimal_separator",
+    "en": "Decimal Separator"
+  },
+  {
+    "id": "7811",
+    "k": "lng_input_keyboard_end",
+    "en": "End"
+  },
+  {
+    "id": "7812",
+    "k": "lng_input_keyboard_esc",
+    "en": "ESC"
+  },
+  {
+    "id": "7813",
+    "k": "lng_input_keyboard_ex_sel",
+    "en": "ExSel"
+  },
+  {
+    "id": "7814",
+    "k": "lng_input_keyboard_execute",
+    "en": "Execute"
+  },
+  {
+    "id": "7815",
+    "k": "lng_input_keyboard_f1",
+    "en": "F1"
+  },
+  {
+    "id": "7816",
+    "k": "lng_input_keyboard_f10",
+    "en": "F10"
+  },
+  {
+    "id": "7817",
+    "k": "lng_input_keyboard_f11",
+    "en": "F11"
+  },
+  {
+    "id": "7818",
+    "k": "lng_input_keyboard_f12",
+    "en": "F12"
+  },
+  {
+    "id": "7819",
+    "k": "lng_input_keyboard_f13",
+    "en": "F13"
+  }
+]

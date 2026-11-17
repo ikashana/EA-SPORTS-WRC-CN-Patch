@@ -1,0 +1,1887 @@
+[
+  {
+    "id": "480",
+    "k": "lng_camera_nochase",
+    "en": "No Chase"
+  },
+  {
+    "id": "481",
+    "k": "lng_camerapreference_helicopter",
+    "en": "Helicopter"
+  },
+  {
+    "id": "482",
+    "k": "lng_camerapreference_interior",
+    "en": "Interior"
+  },
+  {
+    "id": "483",
+    "k": "lng_camerapreference_mixed",
+    "en": "Mixed"
+  },
+  {
+    "id": "484",
+    "k": "lng_camerapreference_trackside",
+    "en": "Trackside"
+  },
+  {
+    "id": "485",
+    "k": "lng_career_benefactor_budgets_column_title_budget",
+    "en": "WEEKLY BUDGET"
+  },
+  {
+    "id": "486",
+    "k": "lng_career_benefactor_budgets_column_title_outgoing",
+    "en": "WEEKLY COSTS"
+  },
+  {
+    "id": "487",
+    "k": "lng_career_benefactor_budgets_column_title_remaining",
+    "en": "REMAINING"
+  },
+  {
+    "id": "488",
+    "k": "lng_career_benefactor_budgets_description_drivers_overbudget",
+    "en": "Allocation of weekly budget for your current Teammate crew"
+  },
+  {
+    "id": "489",
+    "k": "lng_career_benefactor_budgets_description_repairs_overbudget",
+    "en": "Allocation of weekly budget for all vehicle repairs"
+  },
+  {
+    "id": "490",
+    "k": "lng_career_benefactor_budgets_description_staff_overbudget",
+    "en": "Allocation of weekly budget for all team engineers"
+  },
+  {
+    "id": "491",
+    "k": "lng_career_benefactor_budgets_description_vehicle_overbudget",
+    "en": "Allocation of weekly budget for all vehicle purchases"
+  },
+  {
+    "id": "492",
+    "k": "lng_career_benefactor_budgets_title_drivers_overbudget",
+    "en": "TEAMMATE CREW - OVERBUDGET"
+  },
+  {
+    "id": "493",
+    "k": "lng_career_benefactor_budgets_title_drivers_overbudget",
+    "en": "TEAMMATES - OVERBUDGET"
+  },
+  {
+    "id": "494",
+    "k": "lng_career_benefactor_budgets_title_drivers_underbudget",
+    "en": "TEAMMATE CREW"
+  },
+  {
+    "id": "495",
+    "k": "lng_career_benefactor_budgets_title_repairs_overbudget",
+    "en": "REPAIRS - Overbudget"
+  },
+  {
+    "id": "496",
+    "k": "lng_career_benefactor_budgets_title_staff_overbudget",
+    "en": "ENGINEERS - OVERBUDGET"
+  },
+  {
+    "id": "497",
+    "k": "lng_career_benefactor_budgets_title_vehicle_overbudget",
+    "en": "VEHICLE - Overbudget"
+  },
+  {
+    "id": "498",
+    "k": "lng_career_benefactor_debrief_budgets_drivers_label",
+    "en": "Teammates"
+  },
+  {
+    "id": "499",
+    "k": "lng_career_benefactor_debrief_budgets_overbudget_label",
+    "en": "Overbudget"
+  },
+  {
+    "id": "500",
+    "k": "lng_career_benefactor_debrief_budgets_underbudget_label",
+    "en": "Underbudget"
+  },
+  {
+    "id": "501",
+    "k": "lng_career_benefactor_debrief_champ_championship_position_label",
+    "en": "Championship Position"
+  },
+  {
+    "id": "502",
+    "k": "lng_career_benefactor_debrief_champ_event_position_label",
+    "en": "Event Position"
+  },
+  {
+    "id": "503",
+    "k": "lng_career_benefactor_debrief_champ_team_position_label",
+    "en": "Team Position"
+  },
+  {
+    "id": "504",
+    "k": "lng_career_benefactor_debrief_screen_title",
+    "en": "END OF WEEK {1}"
+  },
+  {
+    "id": "505",
+    "k": "lng_career_benefactor_debrief_targets_relationship_label",
+    "en": "Relationship"
+  },
+  {
+    "id": "506",
+    "k": "lng_career_benefactor_debrief_two_weeks_screen_title",
+    "en": "END OF WEEK {1} & {2}"
+  },
+  {
+    "id": "507",
+    "k": "lng_career_benefactor_name",
+    "en": "Max Lucre"
+  },
+  {
+    "id": "508",
+    "k": "lng_career_benefactor_relationship_rating_delighted",
+    "en": "Delighted"
+  },
+  {
+    "id": "509",
+    "k": "lng_career_benefactor_relationship_rating_ecstatic",
+    "en": "Ecstatic"
+  },
+  {
+    "id": "510",
+    "k": "lng_career_benefactor_relationship_rating_happy",
+    "en": "Happy"
+  },
+  {
+    "id": "511",
+    "k": "lng_career_benefactor_relationship_rating_miserable",
+    "en": "Angry"
+  },
+  {
+    "id": "512",
+    "k": "lng_career_benefactor_relationship_rating_unhappy",
+    "en": "Unhappy"
+  },
+  {
+    "id": "513",
+    "k": "lng_career_benefactor_screen_budget_target_count",
+    "en": "{InBudgetCount} / {BudgetCount}"
+  },
+  {
+    "id": "514",
+    "k": "lng_career_benefactor_screen_target_progress",
+    "en": "{TargetProgress} / {TargetThreshold}"
+  },
+  {
+    "id": "515",
+    "k": "lng_career_benefactor_tab_title_budgets",
+    "en": "BUDGETS"
+  },
+  {
+    "id": "516",
+    "k": "lng_career_branding_colours_button_title",
+    "en": "COLOURS"
+  },
+  {
+    "id": "517",
+    "k": "lng_career_branding_default_player_team_name",
+    "en": "{LastName} Racing"
+  },
+  {
+    "id": "518",
+    "k": "lng_career_branding_logo_button_title",
+    "en": "LOGO"
+  },
+  {
+    "id": "519",
+    "k": "lng_career_branding_rename_team_dialog_label",
+    "en": "Team Name"
+  },
+  {
+    "id": "520",
+    "k": "lng_career_branding_rename_team_dialog_title",
+    "en": "EDIT TEAM NAME"
+  },
+  {
+    "id": "521",
+    "k": "lng_career_build_or_purchase_screen_title",
+    "en": "ADD VEHICLE"
+  },
+  {
+    "id": "522",
+    "k": "lng_career_calendar_all_engineers_fully_rested_dialog_description",
+    "en": "All of your Engineers are fully rested, so no-one will gain stamina from resting the team this week. Are you sure you want to continue?"
+  },
+  {
+    "id": "523",
+    "k": "lng_career_calendar_chief_is_fully_trained_dialog_description",
+    "en": "The Chief Engineer has learnt everything they can and is the best they can possibly be. No further perks can be acquired."
+  },
+  {
+    "id": "524",
+    "k": "lng_career_calendar_chief_is_fully_trained_dialog_title",
+    "en": "CHIEF ENGINEER TRAINING COMPLETE"
+  },
+  {
+    "id": "525",
+    "k": "lng_career_calendar_confirm_calendar_time_expenditure_dialog_description",
+    "en": "This activity will take a calendar week to complete. Are you sure you want to continue?"
+  },
+  {
+    "id": "526",
+    "k": "lng_career_calendar_confirm_calendar_time_expenditure_two_week_dialog_description",
+    "en": "This activity will take two calendar weeks to complete. Are you sure you want to continue?"
+  },
+  {
+    "id": "527",
+    "k": "lng_career_calendar_confirm_missing_target_related_activity_dialog_description",
+    "en": "A Benefactor target focuses on one of the other activities this week. Only one activity can be performed each week, skipping the others. Are you sure you want to skip the target activity?"
+  },
+  {
+    "id": "528",
+    "k": "lng_career_calendar_entry_info_reward",
+    "en": "REWARD"
+  },
+  {
+    "id": "529",
+    "k": "lng_career_calendar_garage_expansion_missed_first_week_body",
+    "en": "Garage Expansion takes two weeks and there is only one available. Further opportunities to upgrade will appear in the future."
+  },
+  {
+    "id": "530",
+    "k": "lng_career_calendar_garage_expansion_missed_first_week_title",
+    "en": "GARAGE EXPANSION UNAVAILABLE"
+  },
+  {
+    "id": "531",
+    "k": "lng_career_calendar_no_engineer_slots_dialog_description",
+    "en": "The engineer roster is currently full so you won't be able to add new staff until space is made available."
+  },
+  {
+    "id": "532",
+    "k": "lng_career_calendar_no_engineer_slots_dialog_title",
+    "en": "ENGINEER ROSTER FULL"
+  },
+  {
+    "id": "533",
+    "k": "lng_career_calendar_over_budget_for_talent_scout_dialog_description",
+    "en": "The team is currently over spending in either the Engineer or Teammate Budgets. Whilst this is the case you will not be able to add new Engineers or a new Teammate."
+  },
+  {
+    "id": "534",
+    "k": "lng_career_calendar_race_event_missed_first_week_body",
+    "en": "This Event started last week and is currently ongoing. Events can't be entered after they start."
+  },
+  {
+    "id": "535",
+    "k": "lng_career_calendar_race_event_missed_first_week_title",
+    "en": "Event Ongoing"
+  },
+  {
+    "id": "536",
+    "k": "lng_career_calendar_staff_expansion_missed_first_week_body",
+    "en": "Engineer Roster Expansion takes two weeks and there is only one remaining. Further opportunities to upgrade will appear in the future."
+  },
+  {
+    "id": "537",
+    "k": "lng_career_calendar_staff_expansion_missed_first_week_title",
+    "en": "Roster Expansion Unavailable"
+  },
+  {
+    "id": "538",
+    "k": "lng_career_chief_training_action_prompt_apply_upgrade",
+    "en": "Apply Upgrade"
+  },
+  {
+    "id": "539",
+    "k": "lng_career_chief_training_action_prompt_remove_upgrade",
+    "en": "Remove Upgrade"
+  },
+  {
+    "id": "540",
+    "k": "lng_career_chief_training_confirm_perks",
+    "en": "CONFIRM PERKS"
+  },
+  {
+    "id": "541",
+    "k": "lng_career_chief_training_current_screen_title",
+    "en": "CHIEF ENGINEER TRAINING"
+  },
+  {
+    "id": "542",
+    "k": "lng_career_chief_training_perk_points",
+    "en": "Perk Points - {0}"
+  },
+  {
+    "id": "543",
+    "k": "lng_career_chief_training_tier_1",
+    "en": "TIER I"
+  },
+  {
+    "id": "544",
+    "k": "lng_career_chief_training_tier_2",
+    "en": "TIER II"
+  },
+  {
+    "id": "545",
+    "k": "lng_career_chief_training_tier_2_locked",
+    "en": "{0}x TIER I REQUIRED"
+  },
+  {
+    "id": "546",
+    "k": "lng_career_chief_training_tier_3",
+    "en": "TIER III"
+  },
+  {
+    "id": "547",
+    "k": "lng_career_chief_training_tier_3_locked",
+    "en": "{0}x TIER II REQUIRED"
+  },
+  {
+    "id": "548",
+    "k": "lng_career_competition_select",
+    "en": "COMPETITION SELECT"
+  },
+  {
+    "id": "549",
+    "k": "lng_career_difficulty_label_ai_performance",
+    "en": "AI Performance"
+  },
+  {
+    "id": "550",
+    "k": "lng_career_difficulty_label_benefactor_relationship",
+    "en": "Benefactor Relationship"
+  },
+  {
+    "id": "551",
+    "k": "lng_career_difficulty_label_event_scale",
+    "en": "Event Scale"
+  },
+  {
+    "id": "552",
+    "k": "lng_career_difficulty_label_hardcore_damage",
+    "en": "Damage Difficulty"
+  },
+  {
+    "id": "553",
+    "k": "lng_career_difficulty_label_restarts_per_event",
+    "en": "Restarts"
+  },
+  {
+    "id": "554",
+    "k": "lng_career_difficulty_option_modifier_generous",
+    "en": "Generous"
+  },
+  {
+    "id": "555",
+    "k": "lng_career_difficulty_option_modifier_restrictive",
+    "en": "Restrictive"
+  },
+  {
+    "id": "556",
+    "k": "lng_career_difficulty_restarts_per_event_unlimited",
+    "en": "Unlimited"
+  },
+  {
+    "id": "557",
+    "k": "lng_career_driver_archive_championship_mode_select_title",
+    "en": "CHAMPIONSHIP SELECT"
+  },
+  {
+    "id": "558",
+    "k": "lng_career_driver_archive_championships",
+    "en": "CHAMPIONSHIPS"
+  },
+  {
+    "id": "559",
+    "k": "lng_career_driver_archive_driver_jwrc_stats_title",
+    "en": "JUNIOR WRC STATS"
+  },
+  {
+    "id": "560",
+    "k": "lng_career_driver_archive_driver_select_title",
+    "en": "DRIVER SELECT"
+  },
+  {
+    "id": "561",
+    "k": "lng_career_driver_archive_driver_wrc1_stats_title",
+    "en": "WRC STATS"
+  },
+  {
+    "id": "562",
+    "k": "lng_career_driver_archive_driver_wrc2_stats_title",
+    "en": "WRC2 STATS"
+  },
+  {
+    "id": "563",
+    "k": "lng_career_driver_archive_events",
+    "en": "EVENTS"
+  },
+  {
+    "id": "564",
+    "k": "lng_career_driver_archive_historical_data_update_date",
+    "en": "HISTORICAL DATA CORRECT AS OF {0} {1}"
+  },
+  {
+    "id": "565",
+    "k": "lng_career_driver_archive_in_game",
+    "en": "IN-GAME"
+  },
+  {
+    "id": "566",
+    "k": "lng_career_driver_archive_points_format",
+    "en": "{0}pts"
+  },
+  {
+    "id": "567",
+    "k": "lng_career_driver_archive_real_world",
+    "en": "DRIVER STATS"
+  },
+  {
+    "id": "568",
+    "k": "lng_career_driver_archive_stages",
+    "en": "STAGES"
+  },
+  {
+    "id": "569",
+    "k": "lng_career_engineer_perk_is_unavailable_due_to_low_stamina",
+    "en": "Perk is unavailable due to low stamina"
+  },
+  {
+    "id": "570",
+    "k": "lng_career_fire_teammate_confirm_body",
+    "en": "Removing your Teammate will empty this slot. This slot will remain empty until a new Teammate is added from within the Talent Scout activity."
+  },
+  {
+    "id": "571",
+    "k": "lng_career_fire_teammate_during_championship_confirm_body",
+    "en": "Championship in progress. Firing your Teammate will mean that they abandon this in-progress championship."
+  },
+  {
+    "id": "572",
+    "k": "lng_career_garage_slot_add_vehicle",
+    "en": "Add Vehicle"
+  },
+  {
+    "id": "573",
+    "k": "lng_career_garage_slot_locked_description",
+    "en": "Increase the number of garage slots available through the Garage Expansion Calendar activity."
+  },
+  {
+    "id": "574",
+    "k": "lng_career_garage_slot_locked_title",
+    "en": "LOCKED"
+  },
+  {
+    "id": "575",
+    "k": "lng_career_garage_slots",
+    "en": "Garage Slots"
+  },
+  {
+    "id": "576",
+    "k": "lng_career_garage_vehicle_1",
+    "en": "Vehicle 1"
+  },
+  {
+    "id": "577",
+    "k": "lng_career_garage_vehicle_2",
+    "en": "Vehicle 2"
+  },
+  {
+    "id": "578",
+    "k": "lng_career_garage_vehicle_discounted",
+    "en": "DISCOUNTED"
+  },
+  {
+    "id": "579",
+    "k": "lng_career_garage_vehicle_in_championship",
+    "en": "Vehicle entered in championship"
+  },
+  {
+    "id": "580",
+    "k": "lng_career_hub_benefactor_desc",
+    "en": "View your benefits and objectives"
+  },
+  {
+    "id": "581",
+    "k": "lng_career_hub_benefactor_title",
+    "en": "BENEFACTOR"
+  },
+  {
+    "id": "582",
+    "k": "lng_career_hub_calendar_desc",
+    "en": "Compete in the latest events and progress your rally career"
+  },
+  {
+    "id": "583",
+    "k": "lng_career_hub_garage_desc",
+    "en": "Inspect your currently owned vehicles or add new ones to your garage"
+  },
+  {
+    "id": "584",
+    "k": "lng_career_hub_licence_desc",
+    "en": "View your career progress, licence goals, and completed milestones"
+  },
+  {
+    "id": "585",
+    "k": "lng_career_hub_licence_desc",
+    "en": "View your career progress, license goals, and completed milestones"
+  },
+  {
+    "id": "586",
+    "k": "lng_career_hub_licence_title",
+    "en": "LICENCE"
+  },
+  {
+    "id": "587",
+    "k": "lng_career_hub_licence_title",
+    "en": "LICENSE"
+  },
+  {
+    "id": "588",
+    "k": "lng_career_hub_official_team_desc",
+    "en": "Look over your facilities and the members of your team"
+  },
+  {
+    "id": "589",
+    "k": "lng_career_hub_staff_desc",
+    "en": "Access your staff"
+  },
+  {
+    "id": "590",
+    "k": "lng_career_purchase_sublabel",
+    "en": "Add a vehicle to your garage from the vendor"
+  },
+  {
+    "id": "591",
+    "k": "lng_career_repairs_costs",
+    "en": "Repair Costs"
+  },
+  {
+    "id": "592",
+    "k": "lng_career_season_recap_end_of_season",
+    "en": "End of Season {0}"
+  },
+  {
+    "id": "593",
+    "k": "lng_career_season_recap_offers_accept_confirm_body",
+    "en": "Are you sure you want to accept this contract offer? This can't be changed until the end of the season."
+  },
+  {
+    "id": "594",
+    "k": "lng_career_season_recap_offers_accept_confirm_title",
+    "en": "OFFER ACCEPTED"
+  },
+  {
+    "id": "595",
+    "k": "lng_career_season_recap_offers_budgets_drivers_label",
+    "en": "Teammate"
+  },
+  {
+    "id": "596",
+    "k": "lng_career_season_recap_offers_budgets_repairs_label",
+    "en": "Repairs"
+  },
+  {
+    "id": "597",
+    "k": "lng_career_season_recap_offers_budgets_staff_label",
+    "en": "Engineers"
+  },
+  {
+    "id": "598",
+    "k": "lng_career_season_recap_offers_budgets_staff_label",
+    "en": "Staff"
+  },
+  {
+    "id": "599",
+    "k": "lng_career_season_recap_offers_budgets_title",
+    "en": "WEEKLY BUDGETS"
+  },
+  {
+    "id": "600",
+    "k": "lng_career_season_recap_offers_offer_title",
+    "en": "OFFER {0}"
+  },
+  {
+    "id": "601",
+    "k": "lng_career_season_recap_offers_offer_title_intro",
+    "en": "OFFER"
+  },
+  {
+    "id": "602",
+    "k": "lng_career_season_recap_offers_screen_title",
+    "en": "BENEFACTOR OFFERS"
+  },
+  {
+    "id": "603",
+    "k": "lng_career_season_recap_offers_targets_title",
+    "en": "TARGETS"
+  },
+  {
+    "id": "604",
+    "k": "lng_career_season_recap_season_format",
+    "en": "Season {0}"
+  },
+  {
+    "id": "605",
+    "k": "lng_career_season_recap_season_update_24",
+    "en": "24 season expansion"
+  },
+  {
+    "id": "606",
+    "k": "lng_career_season_report_stats_screen_title",
+    "en": "WRC SEASON REPORT"
+  },
+  {
+    "id": "607",
+    "k": "lng_career_season_report_winning_team",
+    "en": "{0} Winning Team"
+  },
+  {
+    "id": "608",
+    "k": "lng_career_service_crew_assign_engineer",
+    "en": "ASSIGN ENGINEER"
+  },
+  {
+    "id": "609",
+    "k": "lng_career_service_crew_efficiency",
+    "en": "EFFICIENCY"
+  },
+  {
+    "id": "610",
+    "k": "lng_career_service_crew_name_of_crew",
+    "en": "{0}'s Crew"
+  },
+  {
+    "id": "611",
+    "k": "lng_career_service_crew_no_teammate",
+    "en": "No Teammate"
+  },
+  {
+    "id": "612",
+    "k": "lng_career_service_crew_no_teammate_vehicle",
+    "en": "No Teammate Vehicle"
+  },
+  {
+    "id": "613",
+    "k": "lng_career_service_crew_skill",
+    "en": "Skill"
+  },
+  {
+    "id": "614",
+    "k": "lng_career_service_crew_solo_driver_event",
+    "en": "Solo Driver Event"
+  },
+  {
+    "id": "615",
+    "k": "lng_career_service_crew_stamina",
+    "en": "Stamina"
+  },
+  {
+    "id": "616",
+    "k": "lng_career_staff_budget",
+    "en": "Weekly Engineers Budget"
+  },
+  {
+    "id": "617",
+    "k": "lng_career_staff_carousel_add_engineer_label",
+    "en": "RECRUIT ENGINEER"
+  },
+  {
+    "id": "618",
+    "k": "lng_career_staff_carousel_locked_description",
+    "en": "Additional Engineers can be recruited during Talent Scout Calendar Activity. <cf><cf>Increase your Engineer capacity through Roster Expansion activities in the Calendar."
+  },
+  {
+    "id": "619",
+    "k": "lng_career_staff_carousel_locked_label",
+    "en": "SLOT LOCKED"
+  },
+  {
+    "id": "620",
+    "k": "lng_career_staff_cost",
+    "en": "Staff Costs"
+  },
+  {
+    "id": "621",
+    "k": "lng_career_staff_current_screen_title",
+    "en": "CURRENT STAFF"
+  },
+  {
+    "id": "622",
+    "k": "lng_career_staff_engineer_cost_label",
+    "en": "Weekly Salary"
+  },
+  {
+    "id": "623",
+    "k": "lng_career_staff_recruitment_teammates_tab_button",
+    "en": "TEAMMATES"
+  },
+  {
+    "id": "624",
+    "k": "lng_career_staff_slots",
+    "en": "Staff Slots"
+  },
+  {
+    "id": "625",
+    "k": "lng_career_stats_benefactor_status",
+    "en": "Benefactor Status"
+  },
+  {
+    "id": "626",
+    "k": "lng_career_stats_championship_points",
+    "en": "Championships Points"
+  },
+  {
+    "id": "627",
+    "k": "lng_career_stats_championships_won",
+    "en": "Championships Won"
+  },
+  {
+    "id": "628",
+    "k": "lng_career_stats_codriver",
+    "en": "Co-Driver"
+  },
+  {
+    "id": "629",
+    "k": "lng_career_stats_finishing_position",
+    "en": "Finishing Position"
+  },
+  {
+    "id": "630",
+    "k": "lng_career_stats_other_championships",
+    "en": "Other Championships"
+  },
+  {
+    "id": "631",
+    "k": "lng_career_stats_podiums",
+    "en": "Podiums"
+  },
+  {
+    "id": "632",
+    "k": "lng_career_stats_points",
+    "en": "Points"
+  },
+  {
+    "id": "633",
+    "k": "lng_career_stats_power_stage_points",
+    "en": "Power Stage Points"
+  },
+  {
+    "id": "634",
+    "k": "lng_career_stats_tab_jwrc",
+    "en": "Junior WRC"
+  },
+  {
+    "id": "635",
+    "k": "lng_career_stats_tab_other",
+    "en": "Other"
+  },
+  {
+    "id": "636",
+    "k": "lng_career_stats_tab_overall",
+    "en": "Overall"
+  },
+  {
+    "id": "637",
+    "k": "lng_career_stats_tab_wrc2",
+    "en": "WRC2"
+  },
+  {
+    "id": "638",
+    "k": "lng_career_stats_total_events",
+    "en": "Total Events"
+  },
+  {
+    "id": "639",
+    "k": "lng_career_stats_total_stages",
+    "en": "Total Stages"
+  },
+  {
+    "id": "640",
+    "k": "lng_career_talent_scout_cant_hire_engineer_overbudget_body",
+    "en": "The total value of your engineers already exceeds your Engineers Budget. You cannot add any additional engineers until this is rectified in the budgets respective roster."
+  },
+  {
+    "id": "641",
+    "k": "lng_career_talent_scout_no_available_engineer_slots_body",
+    "en": "You currently do not have any space to recruit any more members of staff. You will need to make space in order to recruit new members"
+  },
+  {
+    "id": "642",
+    "k": "lng_career_talent_scout_quit_warning_body",
+    "en": "If you leave the Talent Scout then you will not be able to add any more staff to your team until the next Talent Scout activity. Are you sure you want to continue?"
+  },
+  {
+    "id": "643",
+    "k": "lng_career_talent_scout_quit_warning_with_overbudget_body",
+    "en": "The total value of your staff, including the additions you have just made, exceeds your Staff Budget. You may continue, but progressing to the next week in the Calendar will harm your relationship with the Benefactor."
+  },
+  {
+    "id": "644",
+    "k": "lng_career_target_achieved",
+    "en": "TARGET ACHIEVED"
+  },
+  {
+    "id": "645",
+    "k": "lng_career_target_failed",
+    "en": "TARGET FAILED"
+  },
+  {
+    "id": "646",
+    "k": "lng_career_team_branding_logo_change_style_action_prompt",
+    "en": "Change Style"
+  },
+  {
+    "id": "647",
+    "k": "lng_career_team_branding_select_colour_label_brightness",
+    "en": "Brightness"
+  },
+  {
+    "id": "648",
+    "k": "lng_career_team_branding_select_colour_label_hue",
+    "en": "Hue Picker"
+  },
+  {
+    "id": "649",
+    "k": "lng_career_team_branding_select_colour_label_saturation",
+    "en": "Saturation"
+  },
+  {
+    "id": "650",
+    "k": "lng_career_team_branding_select_colour_screen_title",
+    "en": "COLOUR SELECT"
+  },
+  {
+    "id": "651",
+    "k": "lng_career_team_branding_select_logo_screen_title",
+    "en": "LOGO SELECT"
+  },
+  {
+    "id": "652",
+    "k": "lng_career_team_members_title",
+    "en": "Members"
+  },
+  {
+    "id": "653",
+    "k": "lng_career_teammate_budget",
+    "en": "Weekly Teammate Budget"
+  },
+  {
+    "id": "654",
+    "k": "lng_career_teammate_costs",
+    "en": "Teammate Costs"
+  },
+  {
+    "id": "655",
+    "k": "lng_career_tier_select_jwrc_description",
+    "en": "Start your career in Junior WRC and work your way up to the pinnacle of the sport. Nimble and controllable Rally3 cars offer the perfect starting point for new drivers."
+  },
+  {
+    "id": "656",
+    "k": "lng_career_tier_select_wrc1_description",
+    "en": "Leap straight in and fight for the prestigious WRC title by extracting the best from powerful and agile hybrid Rally1 cars."
+  },
+  {
+    "id": "657",
+    "k": "lng_career_tier_select_wrc2_description",
+    "en": "Begin in the competitive WRC2 championship and drive a Rally2 car, battling it out to prove yourself worthy of a drive in WRC."
+  },
+  {
+    "id": "658",
+    "k": "lng_career_vehicle_budget",
+    "en": "Weekly Vehicle Budget"
+  },
+  {
+    "id": "659",
+    "k": "lng_career_vehicle_costs",
+    "en": "Vehicle Costs"
+  },
+  {
+    "id": "660",
+    "k": "lng_career_vehicle_vendor_discounted_text_format",
+    "en": "{0}% DISCOUNTED"
+  },
+  {
+    "id": "661",
+    "k": "lng_career_week_debrief_budget_boost_per_week",
+    "en": "{0} PER WEEK"
+  },
+  {
+    "id": "662",
+    "k": "lng_career_week_debrief_engineers_budget_boost",
+    "en": "ENGINEERS BUDGET BOOST"
+  },
+  {
+    "id": "663",
+    "k": "lng_career_week_debrief_garage_slots_unlocked",
+    "en": "+{0} GARAGE SLOTS"
+  },
+  {
+    "id": "664",
+    "k": "lng_career_week_debrief_repairs_budget_boost",
+    "en": "REPAIRS BUDGET BOOST"
+  },
+  {
+    "id": "665",
+    "k": "lng_career_week_debrief_staff_rested_count",
+    "en": "STAFF RESTED: {0}"
+  },
+  {
+    "id": "666",
+    "k": "lng_career_week_debrief_staff_rested_stamina_title",
+    "en": "STAMINA"
+  },
+  {
+    "id": "667",
+    "k": "lng_career_week_debrief_staff_rested_status_label",
+    "en": "STATUS"
+  },
+  {
+    "id": "668",
+    "k": "lng_career_week_debrief_staff_slots_unlocked",
+    "en": "+{0} ENGINEER SLOTS"
+  },
+  {
+    "id": "669",
+    "k": "lng_career_week_debrief_staff_total_slots",
+    "en": "Total Slots: {0}"
+  },
+  {
+    "id": "670",
+    "k": "lng_career_week_debrief_teammate_budget_boost",
+    "en": "TEAM MATE BUDGET BOOST"
+  },
+  {
+    "id": "671",
+    "k": "lng_career_week_debrief_teammate_budget_boost",
+    "en": "TEAMMATE BUDGET BOOST"
+  },
+  {
+    "id": "672",
+    "k": "lng_career_week_debrief_vehicle_budget_boost",
+    "en": "DRIVER BUDGET BOOST"
+  },
+  {
+    "id": "673",
+    "k": "lng_career_week_debrief_vehicle_budget_boost",
+    "en": "VEHICLE BUDGET BOOST"
+  },
+  {
+    "id": "674",
+    "k": "lng_career_workshop_sublabel",
+    "en": "Build your own vehicle from scratch"
+  },
+  {
+    "id": "675",
+    "k": "lng_careerbudgettype_btrepairs",
+    "en": "Repairs Budget"
+  },
+  {
+    "id": "676",
+    "k": "lng_careerbudgettype_btstaff",
+    "en": "Engineers Budget"
+  },
+  {
+    "id": "677",
+    "k": "lng_careerbudgettype_btteammate",
+    "en": "Team Mate Budget"
+  },
+  {
+    "id": "678",
+    "k": "lng_careerbudgettype_btvehicle",
+    "en": "Vehicle Budget"
+  },
+  {
+    "id": "679",
+    "k": "lng_cer_moments_announce_24_desc",
+    "en": "Hello Rally Drivers,<cf><cf>Head over to Moments and take to the stages of Central Europe Rally, reliving the action from the most recent WRC event. Face the same challenges the pros encountered, as they fought to stay in contention for the championship. View your progression on the competitive Leaderboards, where you can compare your performance with that of your friends and the wider community.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "680",
+    "k": "lng_cer_moments_announce_24_title",
+    "en": "Central Europe Rally Moments are Now Live"
+  },
+  {
+    "id": "681",
+    "k": "lng_class_leader_entrant",
+    "en": "Class Leader"
+  },
+  {
+    "id": "682",
+    "k": "lng_class_select_contacting_leaderboard",
+    "en": "Contacting Server..."
+  },
+  {
+    "id": "683",
+    "k": "lng_classes_count",
+    "en": "CLASSES"
+  },
+  {
+    "id": "684",
+    "k": "lng_clear_championship_confirm_body",
+    "en": "Are you sure you want to clear this championship? All unsaved details will be lost."
+  },
+  {
+    "id": "685",
+    "k": "lng_closer",
+    "en": "Closer"
+  },
+  {
+    "id": "686",
+    "k": "lng_clubs_championship_overview_ends_in",
+    "en": "Ends In:"
+  },
+  {
+    "id": "687",
+    "k": "lng_clubs_club_owner",
+    "en": "Club Owner"
+  },
+  {
+    "id": "688",
+    "k": "lng_clubs_default_championship_name",
+    "en": "CHAMPIONSHIP"
+  },
+  {
+    "id": "689",
+    "k": "lng_clubs_dialog_no_ea_account_body",
+    "en": "An EA Account is required to access the Clubs mode."
+  },
+  {
+    "id": "690",
+    "k": "lng_clubs_dlc_dialog_body",
+    "en": "This championship uses the following downloadable content: {Entitlements}. However not all players may be able to take part. Are you sure you want to continue?"
+  },
+  {
+    "id": "691",
+    "k": "lng_clubs_dlc_dialog_location_body",
+    "en": "This location uses the following downloadable content: {Entitlements}. However not all players may be able to take part. Are you sure you want to include it in your championship?"
+  },
+  {
+    "id": "692",
+    "k": "lng_clubs_dlc_dialog_stage_body",
+    "en": "This stage uses the following downloadable content: {Entitlements}. However not all players may be able to take part. Are you sure you want to include it in your championship?"
+  },
+  {
+    "id": "693",
+    "k": "lng_clubs_dlc_packs_required",
+    "en": "DLC Packs Required"
+  },
+  {
+    "id": "694",
+    "k": "lng_clubs_enter_event",
+    "en": "ENTER EVENT"
+  },
+  {
+    "id": "695",
+    "k": "lng_clubs_error_body",
+    "en": "There was a problem accessing Clubs"
+  },
+  {
+    "id": "696",
+    "k": "lng_clubs_error_event_has_ended_body",
+    "en": "This Event has already finished, you will be unable to post your result"
+  },
+  {
+    "id": "697",
+    "k": "lng_clubs_error_event_has_ended_title",
+    "en": "EVENT HAS ENDED"
+  },
+  {
+    "id": "698",
+    "k": "lng_clubs_error_event_not_found_body",
+    "en": "The selected Event could not be found for this Championship"
+  },
+  {
+    "id": "699",
+    "k": "lng_clubs_error_event_not_found_title",
+    "en": "CLUBS ERROR"
+  },
+  {
+    "id": "700",
+    "k": "lng_clubs_error_not_member_body",
+    "en": "You are not a member of this Club"
+  },
+  {
+    "id": "701",
+    "k": "lng_clubs_error_stage_not_found_body",
+    "en": "The selected Stage could not be found for this Event"
+  },
+  {
+    "id": "702",
+    "k": "lng_clubs_event_duration_screen_title",
+    "en": "EVENT DURATION"
+  },
+  {
+    "id": "703",
+    "k": "lng_clubs_event_overview_duration",
+    "en": "Duration"
+  },
+  {
+    "id": "704",
+    "k": "lng_clubs_event_select_missing_entitlements_body_landing_screen",
+    "en": " If not you will be returned to this screen."
+  },
+  {
+    "id": "705",
+    "k": "lng_clubs_event_select_missing_entitlements_title",
+    "en": "MISSING ENTITLEMENT"
+  },
+  {
+    "id": "706",
+    "k": "lng_clubs_generic_name",
+    "en": "WRC Club"
+  },
+  {
+    "id": "707",
+    "k": "lng_clubs_hub_title",
+    "en": "CLUB CHAMPIONSHIP"
+  },
+  {
+    "id": "708",
+    "k": "lng_clubs_hubscreen_title",
+    "en": "MY CLUBS HUB"
+  },
+  {
+    "id": "709",
+    "k": "lng_clubs_join_label",
+    "en": "Join Club"
+  },
+  {
+    "id": "710",
+    "k": "lng_clubs_no_champ_body",
+    "en": "There is currently no active Championship available for this Club."
+  },
+  {
+    "id": "711",
+    "k": "lng_clubs_permission_denied_body",
+    "en": "You do not have the correct role for this Club to perform this action"
+  },
+  {
+    "id": "712",
+    "k": "lng_clubs_permission_denied_title",
+    "en": "PERMISSION DENIED"
+  },
+  {
+    "id": "713",
+    "k": "lng_clubs_role_admin_label",
+    "en": "ADMIN"
+  },
+  {
+    "id": "714",
+    "k": "lng_clubs_role_member_label",
+    "en": "MEMBER"
+  },
+  {
+    "id": "715",
+    "k": "lng_clubs_role_owner_label",
+    "en": "OWNER"
+  },
+  {
+    "id": "716",
+    "k": "lng_clubs_settings_label_event_duration",
+    "en": "Event Duration (Days)"
+  },
+  {
+    "id": "717",
+    "k": "lng_clubs_settings_label_starts_in",
+    "en": "Starts In (Days)"
+  },
+  {
+    "id": "718",
+    "k": "lng_clubs_start_date_screen_title",
+    "en": "START DATE"
+  },
+  {
+    "id": "719",
+    "k": "lng_clubs_start_now_label",
+    "en": "Now"
+  },
+  {
+    "id": "720",
+    "k": "lng_clubs_uses_dlc_content_owner",
+    "en": "Uses DLC Content"
+  },
+  {
+    "id": "721",
+    "k": "lng_clubshubcarousel_inprogress_label",
+    "en": "In Progress"
+  },
+  {
+    "id": "722",
+    "k": "lng_clubshubcarousel_startsin_label",
+    "en": "Starts In:"
+  },
+  {
+    "id": "723",
+    "k": "lng_clutchtype_manual",
+    "en": "Manual"
+  },
+  {
+    "id": "724",
+    "k": "lng_clutchtype_manualoverride",
+    "en": "Manual Override"
+  },
+  {
+    "id": "725",
+    "k": "lng_codriver_language_name_english_1",
+    "en": "English #01"
+  },
+  {
+    "id": "726",
+    "k": "lng_codriver_language_name_english_2",
+    "en": "English #02"
+  },
+  {
+    "id": "727",
+    "k": "lng_codriver_language_name_french",
+    "en": "French"
+  },
+  {
+    "id": "728",
+    "k": "lng_codriver_language_name_german",
+    "en": "German"
+  },
+  {
+    "id": "729",
+    "k": "lng_codriver_language_name_italian",
+    "en": "Italian"
+  },
+  {
+    "id": "730",
+    "k": "lng_codrivercalltimings_earlier",
+    "en": "Earlier"
+  },
+  {
+    "id": "731",
+    "k": "lng_codrivercalltimings_earliest",
+    "en": "Earliest"
+  },
+  {
+    "id": "732",
+    "k": "lng_codrivercalltimings_later",
+    "en": "Later"
+  },
+  {
+    "id": "733",
+    "k": "lng_codrivercalltimings_latest",
+    "en": "Latest"
+  },
+  {
+    "id": "734",
+    "k": "lng_codrivercalltype_simple",
+    "en": "Simplified"
+  },
+  {
+    "id": "735",
+    "k": "lng_colourblindmode_deuteranopia",
+    "en": "Deuteranopia"
+  },
+  {
+    "id": "736",
+    "k": "lng_colourblindmode_protanopia",
+    "en": "Protanopia"
+  },
+  {
+    "id": "737",
+    "k": "lng_colourblindmode_tritanopia",
+    "en": "Tritanopia"
+  },
+  {
+    "id": "738",
+    "k": "lng_competitionchampionshiplength_condensedcomp",
+    "en": "Condensed"
+  },
+  {
+    "id": "739",
+    "k": "lng_competitionchampionshiplength_long",
+    "en": "Long"
+  },
+  {
+    "id": "740",
+    "k": "lng_competitionchampionshiplength_short",
+    "en": "Short"
+  },
+  {
+    "id": "741",
+    "k": "lng_competitionchampionshiplength_sprint",
+    "en": "Sprint"
+  },
+  {
+    "id": "742",
+    "k": "lng_competitionchampionshiplength_standard",
+    "en": "Standard"
+  },
+  {
+    "id": "743",
+    "k": "lng_competitioneventlength_standardevent",
+    "en": "Medium"
+  },
+  {
+    "id": "744",
+    "k": "lng_complete_fast_description",
+    "en": "Complete the course as fast as possible"
+  },
+  {
+    "id": "745",
+    "k": "lng_confirm_custom_championship",
+    "en": "CONFIRM CHAMPIONSHIP"
+  },
+  {
+    "id": "746",
+    "k": "lng_confirm_dialog_retire_from_day_body",
+    "en": "Are you sure you want to retire from the day?"
+  },
+  {
+    "id": "747",
+    "k": "lng_confirm_dialog_retire_from_day_title",
+    "en": "RETIRE FROM DAY"
+  },
+  {
+    "id": "748",
+    "k": "lng_confirm_dialog_retire_from_day_with_remaining_stages_body",
+    "en": "Are you sure you want to retire from the day? You will miss {0} stages from the current event"
+  },
+  {
+    "id": "749",
+    "k": "lng_confirm_dialog_retire_from_event_body",
+    "en": "Are you sure you want to retire from the event?"
+  },
+  {
+    "id": "750",
+    "k": "lng_confirm_dialog_retire_from_event_with_remaining_stages_body",
+    "en": "Are you sure you want to retire from the event? You will miss {0} stages from the current event"
+  },
+  {
+    "id": "751",
+    "k": "lng_confirm_dialog_retire_from_stage_body",
+    "en": "Are you sure you want to retire from the stage? A penalty will be applied to your result, but all damage to your current vehicle will be repaired."
+  },
+  {
+    "id": "752",
+    "k": "lng_confirm_event_button",
+    "en": "CONFIRM EVENT"
+  },
+  {
+    "id": "753",
+    "k": "lng_confirm_stage_button",
+    "en": "CONFIRM STAGE"
+  },
+  {
+    "id": "754",
+    "k": "lng_confirmationdialog_corruptautosave_body",
+    "en": "Failed to save {save_type}, do you want to retry?"
+  },
+  {
+    "id": "755",
+    "k": "lng_confirmationdialog_corruptdlcconfirmation_body",
+    "en": "Are you sure you want to modify your save game? This will remove anything granted from unavailable content."
+  },
+  {
+    "id": "756",
+    "k": "lng_confirmationdialog_corruptdlcconfirmation_title",
+    "en": "CONTENT LOST, DATA MODIFICATION NEEDED"
+  },
+  {
+    "id": "757",
+    "k": "lng_confirmationdialog_corruptdlcrecoverfail_body",
+    "en": "Failed to remove content from the save game."
+  },
+  {
+    "id": "758",
+    "k": "lng_confirmationdialog_corruptdlcrecoverfail_title",
+    "en": "CONTENT UNINSTALL FAILED"
+  },
+  {
+    "id": "759",
+    "k": "lng_confirmationdialog_corruptdlcsaveconfirmation_body",
+    "en": "This profile save requires content which is no longer available.<cf><cf>{OPTIONAL_LINE1}<cf><cf>Please download the appropriate content in order to use this save, or select 'Remove Content and Continue' to play without this content installed. Be aware that progress involving that content may be lost.<cf><cf>Creating a new save game will delete your save game."
+  },
+  {
+    "id": "760",
+    "k": "lng_confirmationdialog_corruptdlcsaveconfirmation_title",
+    "en": "CONTENT NOT INSTALLED"
+  },
+  {
+    "id": "761",
+    "k": "lng_confirmationdialog_corruptoverwritesave_body",
+    "en": "Are you sure you want to overwrite your save game?"
+  },
+  {
+    "id": "762",
+    "k": "lng_confirmationdialog_corruptsaverecover_body",
+    "en": "Your {save_type} save data is corrupted. Do you want to attempt a recovery? This may result in a loss of data."
+  },
+  {
+    "id": "763",
+    "k": "lng_confirmationdialog_corruptsaverecover_title",
+    "en": "CORRUPTED SAVE, RECOVERY: {ERROR_CODE_1} - {ERROR_CODE_2} - {ERROR_CODE_3}"
+  },
+  {
+    "id": "764",
+    "k": "lng_confirmationdialog_corruptsaverecoverbackup_body",
+    "en": "Would you like to attempt to restore the available backup data?"
+  },
+  {
+    "id": "765",
+    "k": "lng_confirmationdialog_corruptsaverecoverbackup_title",
+    "en": "CORRUPTED SAVE, BACKUP DETECTED"
+  },
+  {
+    "id": "766",
+    "k": "lng_confirmationdialog_corruptsaverecoverbackupfail_body",
+    "en": "The attempts to restore your save game were unsuccessful."
+  },
+  {
+    "id": "767",
+    "k": "lng_confirmationdialog_corruptsaverecoverbackupfail_title",
+    "en": "CORRUPTED SAVE, RESTORE FAILED: {ERROR_CODE_1} - {ERROR_CODE_2} - {ERROR_CODE_3}"
+  },
+  {
+    "id": "768",
+    "k": "lng_confirmationdialog_corruptsaverecoverfail_body",
+    "en": "The attempts to recover your save game were unsuccessful."
+  },
+  {
+    "id": "769",
+    "k": "lng_confirmationdialog_corruptsaverecoverfail_title",
+    "en": "CORRUPTED SAVE, RECOVERY FAILED: {ERROR_CODE_1} - {ERROR_CODE_2} - {ERROR_CODE_3}"
+  },
+  {
+    "id": "770",
+    "k": "lng_confirmationdialog_corruptsaveupload_body",
+    "en": "Your save game is corrupted.<lf><lf>Before attempting a recovery would you like to submit your corrupt save to the Development Team?"
+  },
+  {
+    "id": "771",
+    "k": "lng_confirmationdialog_corruptsaveupload_title",
+    "en": "CORRUPTED SAVE, UPLOAD: {ERROR_CODE_1} - {ERROR_CODE_2} - {ERROR_CODE_3}"
+  },
+  {
+    "id": "772",
+    "k": "lng_confirmationdialog_deletesavewarning_body",
+    "en": "Are you sure you want to delete this save game?"
+  },
+  {
+    "id": "773",
+    "k": "lng_confirmationdialog_deletesavewarning_title",
+    "en": "DELETE SAVE"
+  },
+  {
+    "id": "774",
+    "k": "lng_confirmationdialog_loadretryautosaveconfirmation_title",
+    "en": "LOAD FAILED"
+  },
+  {
+    "id": "775",
+    "k": "lng_confirmationdialog_loadretryconfirmation_body",
+    "en": "Failed to load {save_type}, do you want to retry?"
+  },
+  {
+    "id": "776",
+    "k": "lng_confirmationdialog_loadretryconfirmation_title",
+    "en": "LOAD FAILED: {ERROR_CODE_1} - {ERROR_CODE_2} - {ERROR_CODE_3}"
+  },
+  {
+    "id": "777",
+    "k": "lng_confirmationdialog_newsave_body",
+    "en": "You’ll need to set up a new profile in order to play EA SPORTS™ WRC. Do you want to set one up now? Selecting 'Cancel' will return you to the title screen."
+  },
+  {
+    "id": "778",
+    "k": "lng_confirmationdialog_newsave_title",
+    "en": "NO SAVE GAME FOUND"
+  },
+  {
+    "id": "779",
+    "k": "lng_confirmationdialog_overwritesave_title",
+    "en": "CORRUPTED SAVE, DATA OVERWRITE"
+  },
+  {
+    "id": "780",
+    "k": "lng_confirmationdialog_savedisable_body",
+    "en": "You can activate the autosave feature at any time from the Save Management screen in the Options & Extras / Profile menu."
+  },
+  {
+    "id": "781",
+    "k": "lng_confirmationdialog_savedisable_title",
+    "en": "CONTINUE WITHOUT SAVING"
+  },
+  {
+    "id": "782",
+    "k": "lng_confirmationdialog_saveenable_body",
+    "en": "Are you sure you want to enable autosaves? This will overwrite any existing save game."
+  },
+  {
+    "id": "783",
+    "k": "lng_confirmationdialog_saveenable_title",
+    "en": "ENABLE AUTOSAVES"
+  },
+  {
+    "id": "784",
+    "k": "lng_confirmationdialog_saveretryconfirmation_body",
+    "en": "Failed to save, do you want to retry?"
+  },
+  {
+    "id": "785",
+    "k": "lng_confirmationdialog_saveretryconfirmation_title",
+    "en": "SAVE FAILED: {ERROR_CODE_1} - {ERROR_CODE_2} - {ERROR_CODE_3}"
+  },
+  {
+    "id": "786",
+    "k": "lng_confirmationdialog_truncatedsaveconfirmation_body",
+    "en": "Your {save_type} is corrupted."
+  },
+  {
+    "id": "787",
+    "k": "lng_confirmationdialog_truncatedsaveconfirmation_title",
+    "en": "CORRUPTED SAVE: {ERROR_CODE_1} - {ERROR_CODE_2} - {ERROR_CODE_3}"
+  },
+  {
+    "id": "788",
+    "k": "lng_connection_error_crossplatform_setting_changed_body",
+    "en": "You cannot access this session as the Cross Network Play setting used does not match your own preference."
+  },
+  {
+    "id": "789",
+    "k": "lng_connection_error_kicked_by_host_body",
+    "en": "You were kicked from the session by the host."
+  },
+  {
+    "id": "790",
+    "k": "lng_connection_error_kicked_for_inactivity_body",
+    "en": "You were kicked from the session due to inactivity."
+  },
+  {
+    "id": "791",
+    "k": "lng_connection_error_kicked_title",
+    "en": "Leaving Session"
+  },
+  {
+    "id": "792",
+    "k": "lng_connection_error_session_end_body",
+    "en": "The Session has ended because the host left."
+  },
+  {
+    "id": "793",
+    "k": "lng_consistency_is_everything",
+    "en": "Consistency is Everything"
+  },
+  {
+    "id": "794",
+    "k": "lng_context_menu_option_abandon",
+    "en": "Abandon"
+  },
+  {
+    "id": "795",
+    "k": "lng_context_menu_option_abandonchampionship",
+    "en": "Abandon Championship"
+  },
+  {
+    "id": "796",
+    "k": "lng_context_menu_option_accept",
+    "en": "Accept"
+  },
+  {
+    "id": "797",
+    "k": "lng_context_menu_option_addeafriend",
+    "en": "Add EA Friend"
+  },
+  {
+    "id": "798",
+    "k": "lng_context_menu_option_addxboxfriend",
+    "en": "Add Xbox Friend"
+  },
+  {
+    "id": "799",
+    "k": "lng_context_menu_option_bind",
+    "en": "Bind"
+  },
+  {
+    "id": "800",
+    "k": "lng_context_menu_option_blockplayer",
+    "en": "Block EA Player"
+  },
+  {
+    "id": "801",
+    "k": "lng_context_menu_option_calibrate",
+    "en": "Calibrate"
+  },
+  {
+    "id": "802",
+    "k": "lng_context_menu_option_championshipgeneratorfilter",
+    "en": "Generation Filters"
+  },
+  {
+    "id": "803",
+    "k": "lng_context_menu_option_changeeventduration",
+    "en": "Change Event Duration"
+  },
+  {
+    "id": "804",
+    "k": "lng_context_menu_option_changelivery",
+    "en": "Change Livery"
+  },
+  {
+    "id": "805",
+    "k": "lng_context_menu_option_changelocation",
+    "en": "Change Location"
+  },
+  {
+    "id": "806",
+    "k": "lng_context_menu_option_changeseason",
+    "en": "Change Season"
+  },
+  {
+    "id": "807",
+    "k": "lng_context_menu_option_changetexture",
+    "en": "Change Decal"
+  },
+  {
+    "id": "808",
+    "k": "lng_context_menu_option_changevehicleclass",
+    "en": "Change Vehicle Class"
+  },
+  {
+    "id": "809",
+    "k": "lng_context_menu_option_deadzoneandsaturation",
+    "en": "Deadzone and Saturation"
+  },
+  {
+    "id": "810",
+    "k": "lng_context_menu_option_decline",
+    "en": "Decline"
+  },
+  {
+    "id": "811",
+    "k": "lng_context_menu_option_downloadghost",
+    "en": "Download Ghost"
+  },
+  {
+    "id": "812",
+    "k": "lng_context_menu_option_duplicate",
+    "en": "Duplicate Decal"
+  },
+  {
+    "id": "813",
+    "k": "lng_context_menu_option_emotorshow",
+    "en": "Motorshow"
+  },
+  {
+    "id": "814",
+    "k": "lng_context_menu_option_epurchaseteammate",
+    "en": "Add Teammate Vehicle"
+  },
+  {
+    "id": "815",
+    "k": "lng_context_menu_option_esellteammate",
+    "en": "Remove Teammate Vehicle"
+  },
+  {
+    "id": "816",
+    "k": "lng_context_menu_option_esellvehicle",
+    "en": "Remove Vehicle"
+  },
+  {
+    "id": "817",
+    "k": "lng_context_menu_option_evendor",
+    "en": "Vendor"
+  },
+  {
+    "id": "818",
+    "k": "lng_context_menu_option_generate",
+    "en": "Generate"
+  },
+  {
+    "id": "819",
+    "k": "lng_context_menu_option_generatechampionship",
+    "en": "Generate Championship"
+  },
+  {
+    "id": "820",
+    "k": "lng_context_menu_option_getnewtargettime",
+    "en": "Generate New Target"
+  },
+  {
+    "id": "821",
+    "k": "lng_context_menu_option_gototop",
+    "en": "Go to Top"
+  },
+  {
+    "id": "822",
+    "k": "lng_context_menu_option_inspectprofile",
+    "en": "Profile"
+  },
+  {
+    "id": "823",
+    "k": "lng_context_menu_option_kick",
+    "en": "Kick Player"
+  },
+  {
+    "id": "824",
+    "k": "lng_context_menu_option_loadchampionship",
+    "en": "Load Championship"
+  },
+  {
+    "id": "825",
+    "k": "lng_context_menu_option_makeprimary",
+    "en": "Make Primary"
+  },
+  {
+    "id": "826",
+    "k": "lng_context_menu_option_move",
+    "en": "Move"
+  },
+  {
+    "id": "827",
+    "k": "lng_context_menu_option_movedown",
+    "en": "Move Down a Layer"
+  },
+  {
+    "id": "828",
+    "k": "lng_context_menu_option_moveup",
+    "en": "Move Up a Layer"
+  },
+  {
+    "id": "829",
+    "k": "lng_context_menu_option_mute",
+    "en": "Mute Player"
+  },
+  {
+    "id": "830",
+    "k": "lng_context_menu_option_pausevoice",
+    "en": "Pause Voice"
+  },
+  {
+    "id": "831",
+    "k": "lng_context_menu_option_purchase",
+    "en": "Purchase"
+  },
+  {
+    "id": "832",
+    "k": "lng_context_menu_option_reject",
+    "en": "Reject"
+  },
+  {
+    "id": "833",
+    "k": "lng_context_menu_option_removeghost",
+    "en": "Remove Ghost"
+  },
+  {
+    "id": "834",
+    "k": "lng_context_menu_option_report",
+    "en": "Report"
+  },
+  {
+    "id": "835",
+    "k": "lng_context_menu_option_resetbindingtodefault",
+    "en": "Reset Binding to Default"
+  },
+  {
+    "id": "836",
+    "k": "lng_context_menu_option_resetprogress",
+    "en": "Reset Progress"
+  },
+  {
+    "id": "837",
+    "k": "lng_context_menu_option_sendfriendinvite",
+    "en": "Send Friend Invite"
+  },
+  {
+    "id": "838",
+    "k": "lng_context_menu_option_sort",
+    "en": "Sort"
+  },
+  {
+    "id": "839",
+    "k": "lng_context_menu_option_unbind",
+    "en": "Unbind"
+  },
+  {
+    "id": "840",
+    "k": "lng_context_menu_option_unbindaction",
+    "en": "Unbind Action"
+  },
+  {
+    "id": "841",
+    "k": "lng_context_menu_option_unblockplayer",
+    "en": "Unblock"
+  },
+  {
+    "id": "842",
+    "k": "lng_context_menu_option_unmute",
+    "en": "Unmute"
+  },
+  {
+    "id": "843",
+    "k": "lng_context_menu_option_unpausevoice",
+    "en": "Unpause Voice"
+  },
+  {
+    "id": "844",
+    "k": "lng_context_menu_option_vieworiginprofile",
+    "en": "View EA Profile"
+  },
+  {
+    "id": "845",
+    "k": "lng_context_menu_option_viewplatformprofile",
+    "en": "View Platform Profile"
+  },
+  {
+    "id": "846",
+    "k": "lng_context_menu_option_viewrallyprofile",
+    "en": "View Rally Passport"
+  },
+  {
+    "id": "847",
+    "k": "lng_context_menu_option_viewsteamprofile",
+    "en": "View Profile"
+  },
+  {
+    "id": "848",
+    "k": "lng_context_menu_option_viewxboxprofile",
+    "en": "View Xbox Profile"
+  },
+  {
+    "id": "849",
+    "k": "lng_continue",
+    "en": "Continue"
+  },
+  {
+    "id": "850",
+    "k": "lng_continue_career_from_intro_missing_entitlements_body_format",
+    "en": "This feature requires the following downloadable content: {Entitlements}. However, the entitlement to that content is currently missing.{Purchase}{Landing}"
+  },
+  {
+    "id": "851",
+    "k": "lng_continue_career_from_intro_missing_entitlements_body_purchase",
+    "en": " Would you like to visit the store to purchase it?"
+  },
+  {
+    "id": "852",
+    "k": "lng_continue_career_missing_entitlements_body_alternative_action",
+    "en": " Alternatively, you can end the current season and continue your career in a new season, using the original 2023 content."
+  },
+  {
+    "id": "853",
+    "k": "lng_continue_wrc_championship_desc",
+    "en": "Continue your in-progress Championship"
+  },
+  {
+    "id": "854",
+    "k": "lng_cost_info_value",
+    "en": "Cost"
+  },
+  {
+    "id": "855",
+    "k": "lng_crash_vignette_option_warning",
+    "en": "Some players may experience discomfort if the Crash Vignette intensity is lowered."
+  },
+  {
+    "id": "856",
+    "k": "lng_credits_legal_info",
+    "en": "With special thanks to:<cf><cf>McRae Family<cf><cf>Drivers:<cf><cf>Benny Melander<cf><cf>Christian Geistdörfer<cf><cf>Derek Ringer<cf><cf>Gilles Panizzi<cf><cf>Henning Solberg <cf><cf>Hervé Panizzi<cf><cf>Ilka Minor<cf><cf>Jean Ragnotti<cf><cf>Jimmy McRae<cf><cf>Jon Armstrong<cf><cf>Kalle Grundel<cf><cf>Katsuhiko Taguchi<cf><cf>Mark Higgins<cf><cf>Oliver Solberg<cf><cf>Peter Diekmann<cf><cf>Petter Solberg<cf><cf>Phil Hall<cf><cf>Phil Mills<cf><cf>Richard Burns<cf><cf>Robert Reid <cf><cf>Russell Brooks<cf><cf><cf>Liveries:<cf><cf>Henning Solberg / Ford Focus RS Rally 2007<cf><cf>JRM Group Limited / SUBARU WRX STI NR4<cf><cf>Kronos Racing / Citroën Xsara Rally<cf><cf>Kronos Racing / Citroën C2 1600<cf><cf>Stohl Racing / Mitsubishi Lancer Evolution VI<cf><cf>PS 110 procent AB / ŠKODA Fabia Rally2 Evo, SUBARU Impreza 2001, SUBARU Impreza 2008, Volkswagen Polo GTI R5<cf><cf>Ryan Champion Rallysport Limited / Porsche 911 SC RS<cf><cf>Tom Williams / Ford Fiesta MK8 Rally4<cf><cf><cf>Manufacturers:<cf><cf>AUDI AG<cf><cf>Automobiles Citroën<cf><cf>Automobiles Peugeot<cf><cf>Bayerische Motoren Werke Aktiengesellschaft<cf><cf>British Motor Heritage Limited<cf><cf>Cosworth Group Holdings Limited. FCA Italy S.p.A.<cf><cf>Ford Motor Company<cf><cf>HYUNDAI MOTOR COMPANY<cf><cf>MG Motor UK Limited<cf><cf>MITSUBISHI MOTORS CORPORATION<cf><cf>M-Sport Ltd.<cf><cf>Opel Automobile GmbH<cf><cf>Porsche AG<cf><cf>Renault sas<cf><cf>SEAT, S.A.<cf><cf>ŠKODA AUTO a.s.<cf><cf>SUBARU CORPORATION<cf><cf>Volkswagen AG<cf><cf><cf>Brands:<cf><cf>Adolf Würth GmbH & Co. KG and Würth International AG<cf><cf>Advanced Clutch Technology, Inc<cf><cf>AIM Motorsport<cf><cf>Aktiebolaget SKF<cf><cf>Alpinestars S.p.A<cf><cf>Andrew Sykes Limited<cf><cf>Arai Helmets (Europe) B.V.<cf><cf>Axalta Coating Systems Germany GmbH & Co. KG<cf><cf>BOS Suspension<cf><cf>BP p.l.c.<cf><cf>Brembo S.p.A<cf><cf>Cartek Automotive Electronics Ltd<cf><cf>Castrol Limited<cf><cf>Certex UK owned by Axel Johnson International AB<cf><cf>Champeau<cf><cf>Chevron Intellectual Property LLC<cf><cf>Compomotive International Limited<cf><cf>Denso Corporation<cf><cf>DT (Automotives) Ltd<cf><cf>Enkei International<cf><cf>Exxon Mobil Corporation<cf><cf>Freeman Automotive UK Lts<cf><cf>Garrett Transportation I Inc.<cf><cf>Gemini Technologies S.r.l<cf><cf>Genesis 3D Design<cf><cf>Gloria S.r.l.<cf><cf>Guillemot Corporation S.A<cf><cf>Gulf Oil International UK Limited<cf><cf>Gulf Oil Limited Partnership<cf><cf>Heinrich Eibach GmbH<cf><cf>Hella GmbH & Co.KGaA<cf><cf>IHI Corporation<cf><cf>JVC Kenwood Corporation<cf><cf>K&N Engineering, Inc.<cf><cf>Keane Design<cf><cf>LAZER LAMPS LIMITED<cf><cf>LM Gianetti Srl<cf><cf>M.I.S Motorsports Ltd<cf><cf>Mad Croc / Ultra Premium Brands LTD<cf><cf>Marelli Europe S.p.A.<cf><cf>McGill Motorsport Ltd<cf><cf>Michelin Lifestyle Limited<cf><cf>Millington Engineering Limited<cf><cf>Mishimoto Automotive<cf><cf>MOMO S.r.l.<cf><cf>MoTeC Pty<cf><cf>Moto-Lita Ltd<cf><cf>Motorsport Network LLC<cf><cf>MOTUL S.A.<cf><cf>Mountney Ltd<cf><cf>Mountune 2 Limited<cf><cf>NSK Europe Ltd<cf><cf>OBP Motorsport Ltd<cf><cf>OIP SARL<cf><cf>Omex Technology Systems Limited<cf><cf>OMV Aktiengesellschaft<cf><cf>OZ Racing S.p.A<cf><cf>P1 Raceware<cf><cf>PIAA UK Ltd<cf><cf>Pirelli Tyre S.p.A.<cf><cf>Prodrive (Holdings) Limited<cf><cf>Proflex UK Limited<cf><cf>Race Logic Limited<cf><cf>Racing Force S.p.A<cf><cf>RECARO Automotive GmbH<cf><cf>Red Bull GmbH<cf><cf>Reiger Suspension BV<cf><cf>Repsol S.A.<cf><cf>Right Track Enterprises Ltd t/a BRANTZ<cf><cf>Rix Engineering (Harleston) Ltd<cf><cf>RML Group Ltd<cf><cf>Ronal Group<cf><cf>Sabelt S.p.A<cf><cf>Schaeffler (UK) Ltd<cf><cf>SHELL BRANDS INTERNATIONAL AG<cf><cf>SHELL TRADEMARK MANAGEMENT B.V.<cf><cf>Shure Incorporated<cf><cf>Simoni Racing S.p.A<cf><cf>Simpson Performance Products, Inc.<cf><cf>Snap-on Incorporated<cf><cf>SPA Design<cf><cf>Sparco S.p.A<cf><cf>Spax Performance SPEC<cf><cf>Stack Limited<cf><cf>Stanley Black and Decker<cf><cf>Stilo S.r.l<cf><cf>Sun Star Model Development Ltd<cf><cf>Teng Tools AB<cf><cf>Tenneco Inc<cf><cf>Terratrip Ltd<cf><cf>THE ROYAL AIR FORCE<cf><cf>THE YOKOHAMA RUBBER COMPANY., LTD<cf><cf>Thyssenkrupp Bilstein GmbH<cf><cf>TMD Friction Services GmbH<cf><cf>Tools<cf><cf>Total Energies<cf><cf>TotalEnergies Marketing España, S.A.U.<cf><cf>Transport Hosike OY<cf><cf>Tyman International-Giesse S.p.A<cf><cf>VALEO (Société Anonyme)<cf><cf>Valvoline LLC<cf><cf>VP Racing Fuels, Inc.<cf><cf>ZF Friedrichshafen AG<cf><cf>ZF Services UK Limited<cf><cf>Manufacturers, cars, names, brands and associated imagery featured in this game in some cases include trademarks and/or copyrighted materials of their respective owners. “WRC” and the “WRC logo” are registered trademarks property of the Fédération Internationale de l'Automobile, and under exclusive license by WRC Promoter GmbH.<cf><cf><img id=\"Alpine\" width=\"128\" height=\"128\"/> <cf><cf>ALPINE Official License Product. Vehicle models and Trademarks are protected by intellectual property laws. Used with permission of Alpine and Renault. All rights reserved.<cf><cf>Trademarks, design patents and copyrights are used with the approval of the owner AUDI AG.<cf>The BMW logo, the MINI Logo, the BMW word mark and the MINI word mark as well as the BMW and MINI model designations are trademarks of BMW AG and are used under License.<cf>The BP letters and the BP IN SHIELD are trade marks and are used with permission from BP p.l.c.<cf><cf>The CASTROL logo and EDGE are trade marks and are used with permission from Castrol Limited<cf><cf>Product under license  <img id=\"Citroen\" width=\"128\" height=\"128\"/><cf><cf>Manufactured under license from Cosworth Group Holdings Limited.<cf><cf>Manufactured under license from Exxon Mobil Corporation<cf><cf>Manufactured under license of FCA Italy S.p.A.  “ABARTH” and “LANCIA” are trademarks of FCA Italy S.p.A. and/or FCA Group Marketing S.p.A.<cf><cf><img id=\"Ford\" width=\"128\" height=\"128\"/><cf><cf>Ford Motor Company Trademarks and Trade Dress used under license to Electronic Arts, Inc.  <cf>The Gulf trademarks are used under license from the Gulf Oil International Group.<cf><cf>Used under license from HYUNDAI MOTOR COMPANY.<cf><cf><img id=\"MG\" width=\"836\" height=\"128\"/><cf> <cf>MITSUBISHI MOTORS CORPORATION trademarks, designs, copyrights and/or other intellectual property rights are used under license.<cf><cf>Mini Cooper S, 33 EJB, from the collection at the British Motor Museum, Gaydon.<cf><cf>MOTUL and the MOTUL LOGO are registered trademarks of MOTUL (SA). All rights reserved<cf><cf>Manufactured by Electronic Arts, Inc under license from M-Sport Ltd.  Images, logos ©2023 M-Sport is a trademark of M-Sport Ltd.  All rights reserved.<cf><cf>Opel Adam R2, Opel Ascona 400, Opel Kadett C GT/E, Opel Manta 400, Opel Corsa S2000, Vauxhall Nova Sport, Vauxhall Astra Kitcar, all related Emblems, and vehicle body designs are Opel Automobile GmbH Trademarks used under license to Electronic Arts, Inc.<cf> <cf>Manufactured under license from Automobiles Peugeot.<cf><cf>PIRELLI and <img id=\"Pirelli\" width=\"140\" height=\"32\"/> are registered trademarks of Pirelli & C. S.p.A. and are used under license.<cf><cf>The trademarks Porsche, Porsche Crest, Porsche Logotype, Carrera, and 911 are used under license of Porsche AG.<cf><cf>“RECARO” is used by way of license received from RECARO Automotive GmbH, Kirchheim / Teck,  Federal Republic of Germany.<cf><cf>“Red Bull® Marks are licensed by Red Bull GmbH/Austria” <cf><cf><img id=\"Renault\" width=\"128\" height=\"128\"/><cf><cf>RENAULT Official License Products. Vehicle models and trademarks protected by intellectual property laws. Used with permission of RENAULT. All rights reserved.<cf><cf>SEAT, S.A. is the owner of SEAT, SEAT Ibiza, SEAT CUPRA and SEAT Sport registered Trademarks. All rights reserved®.<cf><cf>SEAT, S.A, is the owner of the SEAT Ibiza RX car model and the SEAT CÓRDOBA 1999 car model registered Designs. All rights reserved ®.<cf><cf>Shell Trade Marks used with the permission of Shell Brands International AG<cf><cf>ŠKODA and the “winged arrow in the circle” (ŠKODA logo) are registered trademarks owned and licensed by ŠKODA AUTO a.s. www.skoda-auto.com<cf><cf>Snap-on is a trademark of Snap-on Incorporated, registered in the U.S. and other countries. <cf><cf>“SUBARU”, “IMPREZA”, “LEGACY”, “STI”, “WRX””, all other associated marks, emblems and body designs are properties of SUBARU CORPORATION and used with permission.”<cf><cf>TEXACO and the Texaco Logo are Registered Trademarks of Chevron Intellectual Property LLC<cf><cf>Trademarks, design patents and copyrights are used with the permission of the owner Volkswagen AG.<cf><cf>For use of Python<cf>Copyright © 2001-2020 Python Software Foundation; All Rights Reserved.<cf><cf>Licensed under the PSF license agreement for python. <cf><cf>For use of Minizip<cf>Copyright (C) Nathan Moinvaziri<cf><cf>For use of XML-Schema<cf>Copyright © 1994-2002 World Wide Web Consortium, (Massachusetts Institute of Technology, Institut National de Recherche en Informatique et en Automatique, Keio University). All Rights Reserved. <cf><cf>For use of Crunch<cf>Copyright (c) 2010-2016 Richard Geldreich, Jr. and Binomial LLC<cf><cf>For use of Eigen<cf>Copyright © 2012 – present, The Eigen Team. All Rights Reserved.<cf> <cf>Eigen is primarily MPL2 licensed - http://www.mozilla.org/MPL/2.0/<cf>Eigen is available at http://eigen.tuxfamily.org/<cf><cf>For use of libwebsockets <cf>Copyright (C) 2010-2018 Andy Green andy@warmcat.com<cf><cf>This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation:<cf>version 2.1 of the License.<cf> <cf>This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.<cf> <cf>You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,<cf>MA  02110-1301 USA<cf><cf>For use of Simple DirectMedia Layer<cf>Copyright (C) 1997-2019 Sam Lantinga <slouken@libsdl.org><cf><cf>For use of Freetype<cf>Portions of this software are copyright © 2.6 The FreeType Project (www.freetype.org).  All rights reserved.<cf><cf>For use of GLES2<cf>Copyright (C) Silicon Graphics, Inc. All Rights Reserved.<cf><cf>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<cf><cf>The above copyright notice including the dates of first publication and either this permission notice or a reference to http://oss.sgi.com/projects/FreeB/ shall be included in all copies or substantial portions of the Software.<cf><cf>THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL SILICON GRAPHICS, INC. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<cf><cf>Except as contained in this notice, the name of Silicon Graphics, Inc. shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from Silicon Graphics, Inc.<cf><cf>For use of jemalloc<cf>Copyright (C) 2002-present Jason Evans jasone@canonware.com. All rights reserved.<cf>Copyright (C) 2007-2012 Mozilla Foundation.  All rights reserved.<cf>Copyright (C) 2009-present Facebook, Inc.  All rights reserved.<cf><cf>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<cf><cf>1. Redistributions of source code must retain the above copyright notice(s), this list of conditions and the following disclaimer.<cf>2. Redistributions in binary form must reproduce the above copyright notice(s), this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.<cf><cf>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER(S) ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT HOLDER(S) BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<cf><cf>For use of OpenSSL<cf>Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved.<cf><cf>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<cf><cf>1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.<cf>2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.<cf>3. All advertising materials mentioning features or use of this software must display the following acknowledgment: \"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)\"<cf>4. The names \"OpenSSL Toolkit\" and \"OpenSSL Project\" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.<cf>5. Products derived from this software may not be called \"OpenSSL\" nor may \"OpenSSL\" appear in their names without prior written permission of the OpenSSL Project.<cf>6. Redistributions of any form whatsoever must retain the following acknowledgment: \"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)\"<cf><cf>THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<cf>This product includes cryptographic software written by Eric Young (eay@cryptsoft.com).  This product includes software written by Tim Hudson (tjh@cryptsoft.com).<cf><cf>Original SSLeay License<cf>Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)<cf>All rights reserved.<cf><cf>This package is an SSL implementation written by Eric Young (eay@cryptsoft.com). The implementation was written so as to conform with Netscapes SSL.<cf><cf>This library is free for commercial and non-commercial use as long as the following conditions are aheared to.  The following conditions apply to all code found in this distribution, be it the RC4, RSA, lhash, DES, etc., code; not just the SSL code.  The SSL documentation included with this distribution is covered by the same copyright terms except that the holder is Tim Hudson (tjh@cryptsoft.com).<cf><cf>Copyright remains Eric Young's, and as such any Copyright notices in the code are not to be removed. If this package is used in a product, Eric Young should be given attribution as the author of the parts of the library used. This can be in the form of a textual message at program startup or in documentation (online or textual) provided with the package.<cf><cf>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<cf><cf>1. Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer.<cf>2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.<cf>3. All advertising materials mentioning features or use of this software must display the following acknowledgement: \"This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)\" The word 'cryptographic' can be left out if the rouines from the library being used are not cryptographic related :-).<cf>4. If you include any Windows specific code (or a derivative thereof) from the apps directory (application code) you must include an acknowledgement: \"This product includes software written by Tim Hudson (tjh@cryptsoft.com)\"<cf><cf>THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<cf><cf>The licence and distribution terms for any publically available version or derivative of this code cannot be changed.  i.e. this code cannot simply be copied and put under another distribution licence [including the GNU Public Licence.]<cf><cf>For use of ICU<cf>Copyright (c) 1995-2014 International Business Machines Corporation and others <cf>All rights reserved.<cf><cf>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, provided that the above copyright notice(s) and this permission notice appear in all copies of the Software and that both the above copyright notice(s) and this permission notice appear in supporting documentation.<cf><cf>THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.<cf><cf>Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.<cf><cf>                  <cf>APACHE 2.0 LICENSED OPEN SOURCE SOFTWARE<cf><cf>For use of SPIRV-Reflect <cf>Copyright 2017-2018 Google Inc<cf><cf>For use of AWS SDK<cf>Copyright 2009-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.<cf><cf>For use of Embree<cf>Copyright 2009-2018 Intel Corporation <cf><cf>For use of Resonance Audio API<cf>Copyright (c) 2016, Google Inc.<cf><cf>For use of Detex<cf>Copyright (c) 2015 Harm Hanemaaijer <fgenfb@yahoo.com><cf><cf>For use of OpenSubDiv<cf>Copyright 2013 Pixar. All rights reserved.<cf><cf>For use of OpenXR <cf>Copyright (c) 2017-2023, The Khronos Group Inc.<cf><cf>For use of OSVR Client Kit 2015<cf>Copyright 2014, 2015 Sensics, Inc. and contributors<cf><cf>For use of Resonance Audio<cf>Copyright 2016 Google, Inc.<cf><cf>For use of VHACD<cf>Copyright 2020 Unity Technologies<cf><cf>Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at<cf><cf>http://www.apache.org/licenses/LICENSE-2.0<cf><cf>Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.<cf><cf><cf><cf>MIT LICENSED OPEN SOURCE SOFTWARE<cf><cf>For use of RapidJSON<cf>Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip.  All rights reserved.<cf><cf>For use of QR-Code-Generator<cf>Copyright © 2022 Project Nayuki<cf><cf>For use of mtlpp<cf>Copyright (c) 2016-2017 Nikolay Aleksiev<cf><cf>For use of rd_route<cf>Copyright (c) 2014-2015 Dmitry Rodionov<cf><cf>For use of rpclib<cf>Copyright (c) 2015-2017, Tamás Szeleig<cf><cf>For use of Extended Module Player Core Player<cf>Copyright (C) 1996-2018 Claudio Matsuoka<cf><cf>For use of Expat<cf>Copyright (c) 1998, 1999, 2000 Thai Open Source Software Center Ltd and Clark Cooper<cf>Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers<cf><cf>For use of Fake It<cf>Copyright (c) 2013 Eran Pe'er<cf><cf>For use of AMD AGS SDK<cf>Copyright (c) 2017 Advanced Micro Devices, Inc. All rights reserved.<cf><cf>For use of AES<cf>Copyright (c) 2019 SergeyBel<cf><cf>For use of entt<cf>Code and documentation Copyright (c) 2017-2023 Michele Caini.<cf>Colorful logo Copyright (c) 2018-2021 Richard Caseres.<cf><cf>For use of Magic Enums<cf>Copyright (c) 2019 - 2022 Daniil Goncharov<cf><cf>For use of Units<cf>Copyright (c) 2016 Nic Holthaus<cf><cf>For use of RD Route<cf>Copyright © 2023 Contributors<cf><cf>For use of PL Crash Reporter<cf>Copyright (c) Microsoft Corporation.<cf>Copyright (c) 2008 - 2014 Plausible Labs Cooperative, Inc.<cf>All rights reserved.<cf><cf>For use of PuTTY<cf>Copyright 1997-2023 Simon Tatham<cf><cf>For use of RenderDoc<cf>Copyright (c) 2015-2023 Baldur Karlsson<cf>Copyright (c) 2014 Crytek<cf><cf>For use of ShaderConductor<cf>Copyright (c) Microsoft Corporation. All rights reserved<cf><cf>For use of Vulkan SDK<cf>Copyright (c) 2016-2017, ARM Limited and Contributors<cf><cf>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:<cf><cf>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<cf><cf>THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<cf><cf><cf>BSD 3 CLAUSE LICENSED OPEN SOURCE SOFTWARE<cf><cf>For use of libogg<cf>Copyright (c) 2002, Xiph.org Foundation<cf><cf>For use of KissFFT<cf>Copyright (c) 2003-2010, Mark Borgerding<cf><cf>For use of Breakpad<cf>Copyright (C) 2006, Google Inc.<cf>All rights reserved. <cf><cf>For use of libvorbis<cf>Copyright (c) 2002-2015 Xiph.org Foundation<cf><cf>For use of CEF3<cf>Copyright (c) 2008-2014 Marshall A. Greenblatt. Portions Copyright (c)<cf>2006-2009 Google Inc. All rights reserved.<cf><cf>For use of Angle<cf>Copyright (C) 2002-2013 The ANGLE Project Authors. <cf> All rights reserved.<cf><cf>For use of libc++ abi<cf>University of Illinois/NCSA (c) 2009-2014. All rights reserved. <cf><cf>For use of protobuf<cf>Copyright 2008 Google Inc. All rights reserved.<cf><cf>For use of OpenVR<cf>Copyright (c) 2015, Valve Corporation<cf>All rights reserved.<cf><cf>For use of OpenEXR<cf>Copyright (c) Contributors to the OpenEXR Project. All rights reserved.<cf><cf>For use of OpenGL head<cf>Copyright ©1997-2023 The Khronos® Group Inc. All rights reserved.<cf><cf>For use of vbAccelerator<cf>Copyright (c) 2002 vbAccelerator.com<cf><cf>Redistribution and use in source and binary forms, with or without  modification, are permitted provided that the following conditions<cf>are met:<cf><cf>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.<cf><cf>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.<cf><cf>Neither the name of the authors nor the names of their contributors may be used to endorse or promote products derived from this software without specific prior written permission.<cf><cf>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<cf><cf><cf>BSD-2 Clause Licensed Open-Source Software<cf><cf>For use of p4api.net<cf>Copyright (c) 2011-2015, Perforce Software, Inc.  All rights reserved.<cf><cf>For use of xxHash<cf>Copyright (c) 2012-2021 Yann Collet<cf><cf>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:<cf>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.<cf>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.<cf><cf>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.<cf><cf><cf>Zlib Licensed Open-Source Software<cf><cf>For use of Zlib<cf>Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler<cf> <cf>Jean-loup Gailly    \tMark Adler<cf>jloup@gzip.org      \tmadler@alumni.caltech.edu<cf><cf>For use of SDL2<cf>Copyright (C) 1997-2023 Sam Lantinga<cf><cf>For use of Tri Stripper<cf>Copyright (C) 2004 Tanguy Fautré<cf><cf>This software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software.<cf><cf>Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:<cf>1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required. <cf>2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.<cf>3. This notice may not be removed or altered from any source distribution."
+  }
+]

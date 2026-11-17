@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "0",
+    "k": "1.5_announcement_body",
+    "en": "Hello drivers, <cf>EA Sports WRC’s 1.5 update is now live!<cf>This update contains many changes to improve the game-play experience of EA Sports WRC, addressing on-stage stutters, framerate, corner cutting, and more…<cf>Also included in this update is the livery of 2023 WRC2 Champion Andreas Mikkelsen, available on the Škoda Fabia RS Rally2 found in the WRC2 class.<cf>To review the full patch notes please scan the QR code or visit EA Answers HQ."
+  },
+  {
+    "id": "1",
+    "k": "1.5_announcement_title",
+    "en": "1.5 Update Now Live!"
+  },
+  {
+    "id": "2",
+    "k": "1.6_announcement_body",
+    "en": "Hello Drivers,<cf>EA Sports WRC’s 1.6 update is now live!<cf>This update includes a variety of bug fixes, with key work including a fix to a recurring crash when playing Rallye Monte-Carlo in cockpit camera, and improvements to stability and reduced stuttering to multiple other locations.<cf>Additionally we have added official support for the Turtle Beach VelocityOne Race Wheel and Pedals.<cf>You can view the full patch notes by scanning the QR Code or by going to EA Answers HQ.<cf>See you on the stages!"
+  },
+  {
+    "id": "3",
+    "k": "1.6_announcement_title",
+    "en": "1.6 Update Now Live!"
+  },
+  {
+    "id": "4",
+    "k": "1.7_announcement_body",
+    "en": "Hello Drivers,<cf>EA Sports WRC’s 1.7 update is now live!<cf>This update includes a variety of bug fixes, with key work including improvements to rain VFX, fixes to dust and snow kickups in Replays, and framerate improvements to all locations. <cf>Additionally we have addressed an issue affecting Vibration & Feedback settings on PS5 controllers. <cf>You can view the full patch notes by scanning the QR Code or by going to EA Answers HQ.<cf>See you on the stages!"
+  },
+  {
+    "id": "5",
+    "k": "1.7_announcement_title",
+    "en": "1.7 Update Now Live!"
+  },
+  {
+    "id": "6",
+    "k": "1.8_announcement_body_PC",
+    "en": "Hello Drivers,<cf>EA Sports WRC’s 1.8 update is now live!<cf>This update contains the highly anticipated inclusion of VR Beta for all PC players, in addition to a variety of fixes to Clubs and other features across the game!<cf>You can view the full patch notes, and the VR Beta FAQ, by scanning the QR Code or by going to EA Answers HQ.<cf>See you on the stages!"
+  },
+  {
+    "id": "7",
+    "k": "1.8_announcement_body_console",
+    "en": "Hello Drivers,<cf>EA Sports WRC’s 1.8 update is now live!<cf>This update contains a variety of bug fixes, with key work addressing Retirement and Service Area Repairs in Clubs, in addition to general performance improvements across the game.<cf>You can now view the full patch notes, by scanning the QR Code or by going to EA Answers HQ.<cf>See you on the stages!"
+  },
+  {
+    "id": "8",
+    "k": "1.8_announcement_body_console",
+    "en": "Hello Drivers,<cf>EA Sports WRC’s 1.8 update is now live!<cf>This update contains a variety of bug fixes, with key work addressing Retirement and Service Area Repairs in Clubs, in addition to general performance improvements across the game.<cf>You can view the full patch notes, by scanning the QR Code or by going to EA Answers HQ.<cf>See you on the stages!"
+  },
+  {
+    "id": "9",
+    "k": "1.8_announcement_title_PC",
+    "en": "WRC VR Beta has arrived!"
+  },
+  {
+    "id": "10",
+    "k": "1.8_announcement_title_PC",
+    "en": "WRC VR has arrived!"
+  },
+  {
+    "id": "11",
+    "k": "1.8_announcement_title_console",
+    "en": "1.8 Update Now Live!"
+  },
+  {
+    "id": "12",
+    "k": "1.9_announcement_body",
+    "en": "Hello Drivers,<cf>EA Sports WRC’s 1.9 update is now live! This update contains a variety of bug fixes, with key updates including additional preparatory work on esports, as well as addressing issues with VR Beta<cf>You can view the full patch notes, by scanning the QR Code or by going to EA Answers HQ. See you on the stages!"
+  },
+  {
+    "id": "13",
+    "k": "1.9_announcment_title",
+    "en": "1.9 Update Now Live!"
+  },
+  {
+    "id": "14",
+    "k": "2.1.5_announcement_body",
+    "en": "Hello Rally Drivers,<cf><cf>EA SPORTS WRC’s 2.1.5 update is now live! This update includes the addition of native support for MOZA wheels and peripherals on PC and Xbox, along with several crash fixes and general improvements to the game.<cf><cf>You can view the full patch notes by scanning the QR Code or by going to EA Answers HQ.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "15",
+    "k": "2.1.5_announcement_title",
+    "en": "EA SPORTS WRC’s 2.1.5 update is now live!"
+  },
+  {
+    "id": "16",
+    "k": "2.1.6_rally_schools_body",
+    "en": "Hello EA Play Members,<cf><cf>Head to the Rally School for in-depth, hands-on lessons designed to help you master every surface type. These lessons will also teach important driving techniques from the real world of rallying. Perfectly tailored for newcomers, these lessons are the ultimate way to sharpen your skills.<cf><cf>Select 'Go to Rally School' to get started, or enter the Rally School by selecting it from the main garage menu.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "17",
+    "k": "2.1.6_rally_schools_body",
+    "en": "Hello EA Play Members,<cf><cf>Head to the Rally School for in-depth, hands-on lessons designed to help you master every surface type. These lessons will also teach important driving techniques from the real world of rallying. Perfectly tailored for newcomers, these lessons are the ultimate way to sharpen your skills.<cf><cf>To get started, or enter the Rally School by selecting it from the main garage menu.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "18",
+    "k": "2.1.6_rally_schools_title",
+    "en": "Rally School"
+  },
+  {
+    "id": "19",
+    "k": "2.2.1_announcement_body",
+    "en": "Hello Rally Drivers,<cf><cf>EA SPORTS WRC’s 2.2.1 update is now live! This update includes a variety of fixes and improvements following the release of the Le Maestros DLC Pack. <cf><cf>You can view the full patch notes by scanning the QR Code or by going to EA Answers HQ.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "20",
+    "k": "2.5.6_announcement_body",
+    "en": "Hello Rally Drivers,<cf><cf>EA SPORTS WRC’s 2.1.6 update is now live! This update includes the addition of the Visual Only damage option to the game, improvements to the assists system, along with several crash fixes and general improvements to the game.<cf><cf>You can view the full patch notes by scanning the QR Code or by going to EA Answers HQ.<cf><cf>See you on the stages!<cf><cf>"
+  },
+  {
+    "id": "21",
+    "k": "24_season_car_list",
+    "en": "#EASPORTSWRC 2024 Season Car List"
+  },
+  {
+    "id": "22",
+    "k": "24_season_car_reveal_body",
+    "en": "Hello rally drivers,<cf><cf>We’re excited to announce the #EASPORTSWRC 2024 Season Expansion will include 5 New Cars and 52 Liveries & Crews from the current 2024 season, giving you the chance to relive this years rally season. <cf><cf>For more details visit our social channels.<cf><cf>The next chapter of #EASPORTSWRC begins on October 8th.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "23",
+    "k": "24_season_full_reveal_title",
+    "en": "#EASPORTSWRC 2024 Season Expansion Reveal"
+  },
+  {
+    "id": "24",
+    "k": "24_season_location_reveal_body",
+    "en": "Hello rally drivers,<cf><cf>Get ready to take to the stages of two brand new locations in the #EASPORTSWRC 2024 Season Expansion, with the fast and flowing Tet Rally Latvia and ORLEN 80th Rally Poland events making their debut in-game. <cf><cf>For more details visit our social channels.<cf><cf>The next chapter of #EASPORTSWRC begins on October 8th.<cf><cf>See you on the stages!<cf>"
+  },
+  {
+    "id": "25",
+    "k": "24_season_location_reveal_title",
+    "en": "#EASPORTSWRC 2024 Season New Locations"
+  },
+  {
+    "id": "26",
+    "k": "24_season_reveal_body",
+    "en": "Hello rally drivers,<cf><cf>The upcoming #EASPORTSWRC 2024 Season Expansion has been revealed to players for the first time.<cf><cf>The 2024 Season Expansion will contain 5 New Cars, 2 New Locations, 52 Liveries & Crews, with more to come!<cf><cf>The next chapter of #EASPORTSWRC starts on October 8th. For more details scan the QR code.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "27",
+    "k": "25_season_1_moment_classic_sweden_body",
+    "en": "Take on this classic 1986 Rally Sweden, where the greats of the sport battled tirelessly for victory, taking these Group B monsters to the limits in the snow."
+  },
+  {
+    "id": "28",
+    "k": "25_season_1_moment_classic_sweden_title",
+    "en": "Classic Sweden"
+  },
+  {
+    "id": "29",
+    "k": "Acute Corner L",
+    "en": "Acute Corner Left"
+  },
+  {
+    "id": "30",
+    "k": "Acute Corner R",
+    "en": "Acute Corner Right"
+  },
+  {
+    "id": "31",
+    "k": "Hairpin Corner L",
+    "en": "Hairpin Corner Left"
+  },
+  {
+    "id": "32",
+    "k": "Hairpin Corner R",
+    "en": "Hairpin Corner Right"
+  },
+  {
+    "id": "33",
+    "k": "Ing_dialog_custom_stages_back_out_body",
+    "en": "Are you sure you want to leave without saving this event template? All unsaved progress will be lost. "
+  },
+  {
+    "id": "34",
+    "k": "Ing_dialog_custom_stages_clear_stage_body",
+    "en": "Are you sure you want to clear this stage from the event?"
+  },
+  {
+    "id": "35",
+    "k": "Ing_dialog_le_abandon_body",
+    "en": "Are you sure you want to abandon this Livery? All unsaved progress will be lost. "
+  },
+  {
+    "id": "36",
+    "k": "Ing_liveryeditor_current_colour_will_be_overwritten_body",
+    "en": "Are you sure you want to overwrite this colour? The previously saved colour will be lost."
+  },
+  {
+    "id": "37",
+    "k": "Ing_rally_profile_is_private_body",
+    "en": "This players Rally Profile is set to private and so you cannot view it."
+  },
+  {
+    "id": "38",
+    "k": "Square Corner L",
+    "en": "Square Corner Left"
+  },
+  {
+    "id": "39",
+    "k": "Square Corner R",
+    "en": "Square Corner Right"
+  },
+  {
+    "id": "40",
+    "k": "announcement_24_season_out_body",
+    "en": "Hello rally drivers,<cf><cf>The #EASPORTSWRC 24 Season Expansion is out now! <cf><cf>The new expansion contains 5 new cars, 2 new locations and 52 liveries and crews, with more to come!  <cf><cf>The next chapter of #EASPORTSWRC has begun.<cf><cf>See you on the stages!<cf>"
+  },
+  {
+    "id": "41",
+    "k": "announcement_24_season_out_title",
+    "en": "#EASPORTSWRC 24 Season Expansion Out Now"
+  },
+  {
+    "id": "42",
+    "k": "announcement_DR_24_title",
+    "en": "#EASPORTSWRC 24: Drivers React"
+  },
+  {
+    "id": "43",
+    "k": "announcement_ea_play_live_body",
+    "en": "Welcome EA Play Members!<cf><cf>To support you on your new EA SPORTS WRC journey and to familiarise you with the exciting world of rallying, we want to highlight a few key features to get you started. We have a complete suite of Driving Assists (in Options & Extras) to tailor the on-stage experience to your liking. In addition, there is a Damage Difficulty option where you can set the vehicle damage to Visual Only, removing the need to worry about your vehicle's mechanical wear and tear.<cf><cf>Lastly, we have the EA SPORTS WRC - The Ultimate Beginner’s Guide that contains a host of handy tips, covering everything you will need to know to hit the stages fast and secure those podium finishes!<cf><cf>Simply scan the QR code to access the full guide.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "44",
+    "k": "announcement_ea_play_live_title",
+    "en": "Welcome EA Play Members"
+  },
+  {
+    "id": "45",
+    "k": "announcement_gdd_body",
+    "en": "Hello rally drivers,<cf><cf>Check out the latest Gameplay Deep Dive video on the official #EASPORTSWRC channel to see in-depth everything that we have in store for the 2024 Season Expansion.<cf><cf>The next chapter of #EASPORTSWRC begins on October 8th. To see the Gameplay Deep Dive video in full; scan the QR code.<cf><cf>See you on the stages!<cf>"
+  },
+  {
+    "id": "46",
+    "k": "announcement_gdd_title",
+    "en": "#EASPORTSWRC 24: Gameplay Deep Dive"
+  },
+  {
+    "id": "47",
+    "k": "announcement_rally_sweden_25_body",
+    "en": "Hello Rally Drivers, <cf><cf>Head over to Moments and take on the stages of Rally Sweden, reliving the heart-pounding action from the most recent WRC winter weekend. Face the same challenges the pros encountered, as you navigate the snowy Swedish forests. Compare your progression on the competitive Leaderboards, where you can compare your performance with that of your friends and the wider community.<cf>See you on the stages!<cf><cf>The EA Sports WRC Team"
+  },
+  {
+    "id": "48",
+    "k": "announcement_rally_sweden_25_title",
+    "en": "Rally Sweden Moments Now Live"
+  },
+  {
+    "id": "49",
+    "k": "announcements_DR_24_body",
+    "en": "Hello rally drivers,<cf><cf>Check out the latest Drivers React video on the official #EASPORTSWRC channel to see what the real-world WRC drivers have to say, as they experience the 2024 Season Expansion for the first time.<cf><cf>The next chapter of #EASPORTSWRC begins on October 8th. To see the Drivers React video in full; scan the QR code.<cf><cf>See you on the stages!<cf>"
+  },
+  {
+    "id": "50",
+    "k": "cer_announcement_bindings_reset",
+    "en": "Hello drivers,<cf><cf>Our upcoming v1.4.0 patch will release on [date], and contain several bug fixes and improvements across EA SPORTS™ WRC.<cf><cf>One fix relates to steering wheel and controller input bindings not working correctly across certain device configurations.<cf><cf>In order to fix this issue, a complete wipe of all custom input bindings is required, for all players.<cf><cf>We know that many of you have spent a lot of time refining your controller, wheel and pedal setups, so in order to provide the least disruption possible, we are sending this warning ahead of time.<cf><cf>If you wish to keep any bindings after the v1.4.0 update releases, we recommend you screenshot or write down the button bindings you are currently using, and then re-apply them after the patch is released.<cf><cf>Thank you for your support and understanding.<cf><cf>"
+  },
+  {
+    "id": "51",
+    "k": "cer_announcement_tuning_reset",
+    "en": "Hello drivers,<cf><cf>Our upcoming v1.4.0 patch will release on [date], and contain several bug fixes and improvements across EA SPORTS™ WRC.<cf><cf>One fix relates to some tuning setups potentially breaking when a player tunes multiple cars.<cf><cf>In order to fix this issue, a complete wipe of all tuning setups is required, for all players.<cf><cf>We know that many of you have spent a lot of time refining your tuning setups, so in order to provide the least disruption possible, we are sending this warning ahead of time.<cf><cf>If you wish to keep any tuning setups after the v1.4.0 update releases, we recommend you screenshot or write down the tuning values for those setups now, and then re-apply them after the patch is released.<cf><cf>Thank you for your support and understanding."
+  },
+  {
+    "id": "52",
+    "k": "dlc1_announcement_body",
+    "en": "Hello Rally Drivers,<cf><cf>Celebrate an era of French rally dominance with a selection of fan-favourite cars and liveries, alongside new stages for the Rallye Monte-Carlo and Vodafone Rally de Portugal locations.<cf><cf>Take to the stages and face the challenges faced by the pros as you negotiate 16 new Moments hand-crafted using the Le Maestros DLC pack content.<cf><cf>Select 'Go to Store' in-game to purchase.<cf><cf>See you on the stages!<cf><cf>The EA Sports WRC Team"
+  },
+  {
+    "id": "53",
+    "k": "dlc1_announcement_title",
+    "en": "Le Maestros DLC Pack Out Now!<cf>"
+  },
+  {
+    "id": "54",
+    "k": "dlc2_announcement_body",
+    "en": "Hello Rally Drivers,<cf><cf>Celebrate some of the greatest champions of the sport with a selection of fan-favourite cars and liveries, alongside new stages for the EKO Acropolis Rally Greece and Rally Sweden locations.<cf><cf>Take to the stages and attempt to hold your own as you negotiate 16 new Moments hand-crafted using the Hard Chargers DLC pack content.<cf><cf>Select 'Go to Store' in-game to purchase.<cf><cf>See you on the stages!<cf><cf>The EA Sports WRC Team"
+  },
+  {
+    "id": "55",
+    "k": "dlc2_announcement_title",
+    "en": "Hard Chargers DLC Pack Out Now!<cf>"
+  },
+  {
+    "id": "56",
+    "k": "double_xp_weekend_5_12_body",
+    "en": "Hello Rally Drivers,<cf><cf>Ready to accelerate your Rally Pass progression? Now’s your chance!<cf><cf>From now until January 9, 2025, earn double XP towards the Rally Pass, allowing you to boost your progression and unlock this content for EA SPORTS WRC.<cf><cf>Select go to Rally Pass to see your current progression.<cf><cf>See you on the stages,<cf><cf>The EA SPORTS WRC team."
+  },
+  {
+    "id": "57",
+    "k": "double_xp_weekend_5_12_title",
+    "en": "Double XP Rewards Now Live"
+  },
+  {
+    "id": "58",
+    "k": "finnish_icon_title",
+    "en": "Finnish Icon"
+  },
+  {
+    "id": "59",
+    "k": "forum8_rally_japan_moments_announce_24_desc",
+    "en": "Hello Rally Drivers,<cf><cf>Head over to Moments and take on the stages of FORUM8 Rally Japan, reliving the heart-pounding action from the most recent WRC weekend. Face the same challenges the pros encountered, as you navigate the narrow and difficult Japanese stages. Compare your progression on the competitive Leaderboards, where you can compare your performance with that of your friends and the wider community.<cf><cf>See you on the stages!"
+  },
+  {
+    "id": "60",
+    "k": "forum8_rally_japan_moments_announce_24_title",
+    "en": "FORUM8 Rally Japan Moments are Now Live"
+  },
+  {
+    "id": "61",
+    "k": "lng_A_caps",
+    "en": "A"
+  },
+  {
+    "id": "62",
+    "k": "lng_B_caps",
+    "en": "B"
+  },
+  {
+    "id": "63",
+    "k": "lng_C_caps",
+    "en": "C"
+  },
+  {
+    "id": "64",
+    "k": "lng_D_caps",
+    "en": "D"
+  },
+  {
+    "id": "65",
+    "k": "lng_E_caps",
+    "en": "E"
+  },
+  {
+    "id": "66",
+    "k": "lng_F_caps",
+    "en": "F"
+  },
+  {
+    "id": "67",
+    "k": "lng_G_caps",
+    "en": "G"
+  },
+  {
+    "id": "68",
+    "k": "lng_H_caps",
+    "en": "H"
+  },
+  {
+    "id": "69",
+    "k": "lng_I_caps",
+    "en": "I"
+  },
+  {
+    "id": "70",
+    "k": "lng_J_caps",
+    "en": "J"
+  },
+  {
+    "id": "71",
+    "k": "lng_K_caps",
+    "en": "K"
+  },
+  {
+    "id": "72",
+    "k": "lng_L_caps",
+    "en": "L"
+  },
+  {
+    "id": "73",
+    "k": "lng_M_caps",
+    "en": "M"
+  },
+  {
+    "id": "74",
+    "k": "lng_N_caps",
+    "en": "N"
+  },
+  {
+    "id": "75",
+    "k": "lng_O_caps",
+    "en": "O"
+  },
+  {
+    "id": "76",
+    "k": "lng_P_caps",
+    "en": "P"
+  },
+  {
+    "id": "77",
+    "k": "lng_Q_caps",
+    "en": "Q"
+  },
+  {
+    "id": "78",
+    "k": "lng_R_caps",
+    "en": "R"
+  },
+  {
+    "id": "79",
+    "k": "lng_S_caps",
+    "en": "S"
+  },
+  {
+    "id": "80",
+    "k": "lng_T_caps",
+    "en": "T"
+  },
+  {
+    "id": "81",
+    "k": "lng_U_caps",
+    "en": "U"
+  },
+  {
+    "id": "82",
+    "k": "lng_V_caps",
+    "en": "V"
+  },
+  {
+    "id": "83",
+    "k": "lng_W_caps",
+    "en": "W"
+  },
+  {
+    "id": "84",
+    "k": "lng_X_caps",
+    "en": "X"
+  },
+  {
+    "id": "85",
+    "k": "lng_Y_caps",
+    "en": "Y"
+  },
+  {
+    "id": "86",
+    "k": "lng_Z_caps",
+    "en": "Z"
+  },
+  {
+    "id": "87",
+    "k": "lng_accessibility_screen_subtitle_size_large",
+    "en": "Large"
+  },
+  {
+    "id": "88",
+    "k": "lng_accessibility_settings_label_subtitles",
+    "en": "Subtitles"
+  },
+  {
+    "id": "89",
+    "k": "lng_accessibility_settings_menu_narration",
+    "en": "Menu Narration"
+  },
+  {
+    "id": "90",
+    "k": "lng_accessibility_settings_speech_to_text",
+    "en": "Speech to Text"
+  },
+  {
+    "id": "91",
+    "k": "lng_accessibility_settings_text_to_speech",
+    "en": "Text to Speech"
+  },
+  {
+    "id": "92",
+    "k": "lng_achivement_algarve_locked_desc",
+    "en": "Win a stage at Vodafone Rally de Portugal  that you started with heavy engine damage."
+  },
+  {
+    "id": "93",
+    "k": "lng_achivement_algarve_title",
+    "en": "Algarve it a go!"
+  },
+  {
+    "id": "94",
+    "k": "lng_achivement_algarve_unlocked_desc",
+    "en": "Won a stage at Vodafone Rally de Portugal that you started with heavy engine damage."
+  },
+  {
+    "id": "95",
+    "k": "lng_achivement_alliance_locked_desc",
+    "en": "Complete a Clubs or Esports event at any location."
+  },
+  {
+    "id": "96",
+    "k": "lng_achivement_alliance_title",
+    "en": "Driver's Alliance"
+  },
+  {
+    "id": "97",
+    "k": "lng_achivement_alliance_unlocked_desc",
+    "en": "Completed a Clubs or Esports event at any location."
+  },
+  {
+    "id": "98",
+    "k": "lng_achivement_artist_locked_desc",
+    "en": "Drive 100 Miles (160km) on Asphalt."
+  },
+  {
+    "id": "99",
+    "k": "lng_achivement_artist_title",
+    "en": "Asphalt Artist"
+  },
+  {
+    "id": "100",
+    "k": "lng_achivement_artist_unlocked_desc",
+    "en": "Drove 100 miles (160km) on Asphalt."
+  },
+  {
+    "id": "101",
+    "k": "lng_achivement_classact_locked_desc",
+    "en": "Complete at least one stage using a vehicle from the WRC, WRC2, and Junior WRC Vehicle Classes.<cf>"
+  },
+  {
+    "id": "102",
+    "k": "lng_achivement_classact_title",
+    "en": "Class Act"
+  },
+  {
+    "id": "103",
+    "k": "lng_achivement_classact_unlocked_desc",
+    "en": "Completed at least one stage using a vehicle from the WRC, WRC2, and Junior WRC Vehicle Classes.<cf>"
+  },
+  {
+    "id": "104",
+    "k": "lng_achivement_completed_locked_desc",
+    "en": "Earn Every Trophy."
+  },
+  {
+    "id": "105",
+    "k": "lng_achivement_completed_unlocked_desc",
+    "en": "Earnt Every Trophy."
+  },
+  {
+    "id": "106",
+    "k": "lng_achivement_consistency_locked_desc",
+    "en": "Finish on the podium at every event in a Championship Mode season.<cf>"
+  },
+  {
+    "id": "107",
+    "k": "lng_achivement_consistency_title",
+    "en": "Consistency is key"
+  },
+  {
+    "id": "108",
+    "k": "lng_achivement_consistency_unlocked_desc",
+    "en": "Finished on the podium at every event in a Championship Mode season.<cf>"
+  },
+  {
+    "id": "109",
+    "k": "lng_achivement_elmatador_locked_desc",
+    "en": "Win an event at Rally Iberia in the SUBARU Impreza 1995."
+  },
+  {
+    "id": "110",
+    "k": "lng_achivement_elmatador_title",
+    "en": "El Matador"
+  },
+  {
+    "id": "111",
+    "k": "lng_achivement_elmatador_unlocked_desc",
+    "en": "Won an event at Rally Iberia in the SUBARU Impreza 1995."
+  },
+  {
+    "id": "112",
+    "k": "lng_achivement_estonia_locked_desc",
+    "en": "Complete a Quick Play Online event at Rally Estonia."
+  },
+  {
+    "id": "113",
+    "k": "lng_achivement_estonia_title",
+    "en": "E-stonia"
+  },
+  {
+    "id": "114",
+    "k": "lng_achivement_estonia_unlocked_desc",
+    "en": "Completed a Quick Play Online event in Rally Estonia."
+  },
+  {
+    "id": "115",
+    "k": "lng_achivement_firsttime_locked_desc",
+    "en": "Complete a lesson in the Rally School."
+  },
+  {
+    "id": "116",
+    "k": "lng_achivement_firsttime_title",
+    "en": "Your first time?"
+  },
+  {
+    "id": "117",
+    "k": "lng_achivement_firsttime_unlocked_desc",
+    "en": "Completed your first lesson in the Rally School."
+  },
+  {
+    "id": "118",
+    "k": "lng_achivement_ghost_locked_desc",
+    "en": "Download and beat a Ghost in Time Trial."
+  },
+  {
+    "id": "119",
+    "k": "lng_achivement_ghost_title",
+    "en": "Ghost Buster"
+  },
+  {
+    "id": "120",
+    "k": "lng_achivement_ghost_unlocked_desc",
+    "en": "Downloaded and beat a Ghost in Time Trial."
+  },
+  {
+    "id": "121",
+    "k": "lng_achivement_goldrush_locked_desc",
+    "en": "Achieve 5 Gold medals in Moments."
+  },
+  {
+    "id": "122",
+    "k": "lng_achivement_goldrush_title",
+    "en": "Gold Rush"
+  },
+  {
+    "id": "123",
+    "k": "lng_achivement_goldrush_unlocked_desc",
+    "en": "Achieved 5 Gold medals in Moments."
+  },
+  {
+    "id": "124",
+    "k": "lng_achivement_guru_locked_desc",
+    "en": "Drive 100 Miles (160km) on Gravel/Dirt."
+  },
+  {
+    "id": "125",
+    "k": "lng_achivement_guru_title",
+    "en": "Gravel Guru"
+  },
+  {
+    "id": "126",
+    "k": "lng_achivement_guru_unlocked_desc",
+    "en": "Drove 100 Miles (160km) on Gravel/Dirt."
+  },
+  {
+    "id": "127",
+    "k": "lng_achivement_headlights_locked_desc",
+    "en": "Finish on the podium of an event at Rallye Monte-Carlo in a MINI Cooper S."
+  },
+  {
+    "id": "128",
+    "k": "lng_achivement_headlights_title",
+    "en": "In the Headlights"
+  },
+  {
+    "id": "129",
+    "k": "lng_achivement_headlights_unlocked_desc",
+    "en": "Finished on the podium of an event at Rallye Monte-Carlo in a MINI Cooper S."
+  },
+  {
+    "id": "130",
+    "k": "lng_achivement_keepin_locked_desc",
+    "en": "Complete 5 Moments."
+  },
+  {
+    "id": "131",
+    "k": "lng_achivement_keepin_title",
+    "en": "Keepin it real"
+  },
+  {
+    "id": "132",
+    "k": "lng_achivement_keepin_unlocked_desc",
+    "en": "Completed 5 Moments."
+  },
+  {
+    "id": "133",
+    "k": "lng_achivement_longhaul_locked_desc",
+    "en": "Drive 1000 Miles (1600km)."
+  },
+  {
+    "id": "134",
+    "k": "lng_achivement_longhaul_title",
+    "en": "Long Haul Hero"
+  },
+  {
+    "id": "135",
+    "k": "lng_achivement_longhaul_unlocked_desc",
+    "en": "Drove 1000 Miles (1600km)."
+  },
+  {
+    "id": "136",
+    "k": "lng_achivement_mastervb_locked_desc",
+    "en": "Build 5 cars in the Builder."
+  },
+  {
+    "id": "137",
+    "k": "lng_achivement_mastervb_title",
+    "en": "Master Vehicle Builder"
+  },
+  {
+    "id": "138",
+    "k": "lng_achivement_mastervb_unlocked_desc",
+    "en": "Built 5 cars in the Builder."
+  },
+  {
+    "id": "139",
+    "k": "lng_achivement_miracle_locked_desc",
+    "en": "Finish an event at Guanajuato Rally Mexico without any severe mechanical damage."
+  },
+  {
+    "id": "140",
+    "k": "lng_achivement_miracle_title",
+    "en": "Miracle in the Mountains"
+  },
+  {
+    "id": "141",
+    "k": "lng_achivement_miracle_unlocked_desc",
+    "en": "Finished an event in Guanajuato Rally Mexico without severe mechanical damage."
+  },
+  {
+    "id": "142",
+    "k": "lng_achivement_pb_title",
+    "en": "NEW PB!"
+  },
+  {
+    "id": "143",
+    "k": "lng_achivement_pb_unlocked_desc",
+    "en": "Beat a Personal Best time in Time Trial."
+  },
+  {
+    "id": "144",
+    "k": "lng_achivement_perfect_locked_desc",
+    "en": "Complete a regularity rally stage with 0 penalty points."
+  },
+  {
+    "id": "145",
+    "k": "lng_achivement_perfect_title",
+    "en": "Perfect Score"
+  },
+  {
+    "id": "146",
+    "k": "lng_achivement_perfect_unlocked_desc",
+    "en": "Completed a regularity rally stage with 0 penalty points."
+  },
+  {
+    "id": "147",
+    "k": "lng_achivement_podium_locked_desc",
+    "en": "Finish on the Podium of a Custom Championship, in a Builder car, with a custom livery."
+  },
+  {
+    "id": "148",
+    "k": "lng_achivement_podium_title",
+    "en": "Personalised Podium"
+  },
+  {
+    "id": "149",
+    "k": "lng_achivement_podium_unlocked_desc",
+    "en": "Finished on the Podium of a Custom Championship, in a Builder car, with a custom livery."
+  },
+  {
+    "id": "150",
+    "k": "lng_achivement_principal_locked_desc",
+    "en": "Create your own team in Career Mode."
+  },
+  {
+    "id": "151",
+    "k": "lng_achivement_principal_title",
+    "en": "Team Principal"
+  },
+  {
+    "id": "152",
+    "k": "lng_achivement_principal_unlocked_desc",
+    "en": "Created your own team in Career Mode."
+  },
+  {
+    "id": "153",
+    "k": "lng_achivement_regularity_locked_desc",
+    "en": "Win a Regularity Rally event in Rally Italia Sardegna in the Lancia Stratos."
+  },
+  {
+    "id": "154",
+    "k": "lng_achivement_regularity_title",
+    "en": "Regularity Renaissance"
+  },
+  {
+    "id": "155",
+    "k": "lng_achivement_regularity_unlocked_desc",
+    "en": "Won a Regularity Rally event at Rally Italia Sardegna in the Lancia Stratos."
+  },
+  {
+    "id": "156",
+    "k": "lng_achivement_rookie_locked_desc",
+    "en": "Complete your first career season."
+  },
+  {
+    "id": "157",
+    "k": "lng_achivement_rookie_title",
+    "en": "Rookie Season"
+  },
+  {
+    "id": "158",
+    "k": "lng_achivement_rookie_unlocked_desc",
+    "en": "Completed your first career season."
+  },
+  {
+    "id": "159",
+    "k": "lng_achivement_snowgloeb_locked_desc",
+    "en": "Win an event at Rally Sweden in the Citroën Xsara WRC."
+  },
+  {
+    "id": "160",
+    "k": "lng_achivement_snowgloeb_title",
+    "en": "Snowgloeb"
+  },
+  {
+    "id": "161",
+    "k": "lng_achivement_snowgloeb_unlocked_desc",
+    "en": "Won an event at Rally Sweden in the Citroën Xsara WRC."
+  },
+  {
+    "id": "162",
+    "k": "lng_achivement_specialist_locked_desc",
+    "en": "Drive 100 Miles (160km) on Snow."
+  },
+  {
+    "id": "163",
+    "k": "lng_achivement_specialist_title",
+    "en": "Snow Specialist"
+  },
+  {
+    "id": "164",
+    "k": "lng_achivement_specialist_unlocked_desc",
+    "en": "Drove 100 Miles (160km) on Snow."
+  },
+  {
+    "id": "165",
+    "k": "lng_achivement_vehiclebuilder_locked_desc",
+    "en": "Build your first Builder car."
+  },
+  {
+    "id": "166",
+    "k": "lng_achivement_vehiclebuilder_unlocked_desc",
+    "en": "Built your first Builder car."
+  },
+  {
+    "id": "167",
+    "k": "lng_achivement_wrc_locked_desc",
+    "en": "Win a WRC Championship in Career mode."
+  },
+  {
+    "id": "168",
+    "k": "lng_achivement_wrc_title",
+    "en": "World Rally Champion!"
+  },
+  {
+    "id": "169",
+    "k": "lng_achivement_wrc_unlocked_desc",
+    "en": "Won a WRC Championship in Career mode."
+  },
+  {
+    "id": "170",
+    "k": "lng_activities_gt_description",
+    "en": "Complete at least one stage at 12 different locations in-game"
+  },
+  {
+    "id": "171",
+    "k": "lng_activities_gt_title",
+    "en": "Global Traveler"
+  },
+  {
+    "id": "172",
+    "k": "lng_activities_moments_description",
+    "en": "Explore the history of the World Rally Championship and recreate some its most iconic moments"
+  },
+  {
+    "id": "173",
+    "k": "lng_activities_moments_title",
+    "en": "Moments"
+  },
+  {
+    "id": "174",
+    "k": "lng_activities_qm_description",
+    "en": "Compete against other players in online lobbies!"
+  },
+  {
+    "id": "175",
+    "k": "lng_activities_qm_title",
+    "en": "Quick Match"
+  },
+  {
+    "id": "176",
+    "k": "lng_activities_rs_description",
+    "en": "Get to know the Rally School by completing all the Basic lessons on any surface"
+  },
+  {
+    "id": "177",
+    "k": "lng_activities_rs_subtask_1",
+    "en": "Basic Familiarisation"
+  },
+  {
+    "id": "178",
+    "k": "lng_activities_rs_subtask_2",
+    "en": "Basic Driving with Co-Driver Calls"
+  },
+  {
+    "id": "179",
+    "k": "lng_activities_rs_subtask_3",
+    "en": "Manual Starts and Straight Line Braking"
+  },
+  {
+    "id": "180",
+    "k": "lng_activities_rs_subtask_4",
+    "en": "Regularity Rally"
+  },
+  {
+    "id": "181",
+    "k": "lng_activities_rs_title",
+    "en": "Getting Started: Rally School"
+  },
+  {
+    "id": "182",
+    "k": "lng_activities_vb_description",
+    "en": "Create a Vehicle in the Builder and Complete a Time Trial stage using the created vehicle"
+  },
+  {
+    "id": "183",
+    "k": "lng_activities_vb_description",
+    "en": "Create a vehicle in the Builder and complete a Time Trial stage using the created vehicle"
+  },
+  {
+    "id": "184",
+    "k": "lng_activities_vb_subtask_1",
+    "en": "Create a vehicle in the Builder"
+  },
+  {
+    "id": "185",
+    "k": "lng_activities_vb_subtask_2",
+    "en": "Complete any Time Trial stage using your created vehicle"
+  },
+  {
+    "id": "186",
+    "k": "lng_activities_vb_title",
+    "en": "Vehicle Builder"
+  },
+  {
+    "id": "187",
+    "k": "lng_add_custom_event",
+    "en": "ADD EVENT"
+  },
+  {
+    "id": "188",
+    "k": "lng_add_custom_stage",
+    "en": "ADD STAGE"
+  },
+  {
+    "id": "189",
+    "k": "lng_advanced_combinedthrottle_brake",
+    "en": "Combined Throttle/Brake Axis"
+  },
+  {
+    "id": "190",
+    "k": "lng_advanced_degreesofrotation",
+    "en": "Degrees of Rotation"
+  },
+  {
+    "id": "191",
+    "k": "lng_advanced_invertclutch",
+    "en": "Invert Clutch Axis"
+  },
+  {
+    "id": "192",
+    "k": "lng_advanced_inverthandbrake",
+    "en": "Invert Handbrake Axis"
+  },
+  {
+    "id": "193",
+    "k": "lng_advanced_invertsteering",
+    "en": "Invert Steering Axis"
+  },
+  {
+    "id": "194",
+    "k": "lng_advanced_invertthrottle",
+    "en": "Invert Throttle Axis"
+  },
+  {
+    "id": "195",
+    "k": "lng_advanced_steeringlinearity",
+    "en": "Steering Linearity"
+  },
+  {
+    "id": "196",
+    "k": "lng_advanced_steeringsensitivity",
+    "en": "Steering Sensitivity"
+  },
+  {
+    "id": "197",
+    "k": "lng_advancedgraphics_label_crowd",
+    "en": "Crowd"
+  },
+  {
+    "id": "198",
+    "k": "lng_advancedgraphics_label_mirrors",
+    "en": "Mirrors"
+  },
+  {
+    "id": "199",
+    "k": "lng_advancedgraphics_label_motion_blur",
+    "en": "Motion Blur"
+  },
+  {
+    "id": "200",
+    "k": "lng_advancedgraphics_label_objects",
+    "en": "Dynamic Objects"
+  },
+  {
+    "id": "201",
+    "k": "lng_advancedgraphics_label_post_processing_quality",
+    "en": "Post Processing Quality"
+  },
+  {
+    "id": "202",
+    "k": "lng_advancedgraphics_label_track",
+    "en": "Track"
+  },
+  {
+    "id": "203",
+    "k": "lng_advancedgraphics_label_trees",
+    "en": "Trees"
+  },
+  {
+    "id": "204",
+    "k": "lng_advancedgraphics_label_water",
+    "en": "Water"
+  },
+  {
+    "id": "205",
+    "k": "lng_age_compliance_check_failed_body",
+    "en": "You are not eligible to participate in this activity as you do not meet minimum requirements. See ea.com/unable-to-connect for additional information"
+  },
+  {
+    "id": "206",
+    "k": "lng_age_compliance_check_failed_title",
+    "en": "Age Check Failed"
+  },
+  {
+    "id": "207",
+    "k": "lng_ai_ai",
+    "en": "AI Included"
+  },
+  {
+    "id": "208",
+    "k": "lng_ai_change_warning_description",
+    "en": "AI Performance will be applied next stage"
+  },
+  {
+    "id": "209",
+    "k": "lng_ai_noai",
+    "en": "Players Only"
+  },
+  {
+    "id": "210",
+    "k": "lng_aiperformance_experienced",
+    "en": "Experienced"
+  },
+  {
+    "id": "211",
+    "k": "lng_aiperformance_experienced_description",
+    "en": "For players who have played other rally titles"
+  },
+  {
+    "id": "212",
+    "k": "lng_aiperformance_experienced_performance",
+    "en": "Normal"
+  },
+  {
+    "id": "213",
+    "k": "lng_aiperformance_ftue_assists",
+    "en": "Driving Assists:"
+  },
+  {
+    "id": "214",
+    "k": "lng_aiperformance_ftue_difficulty",
+    "en": "Damage Difficulty:"
+  },
+  {
+    "id": "215",
+    "k": "lng_aiperformance_ftue_performance",
+    "en": "AI Performance:"
+  },
+  {
+    "id": "216",
+    "k": "lng_aiperformance_master",
+    "en": "Master"
+  },
+  {
+    "id": "217",
+    "k": "lng_aiperformance_new",
+    "en": "Beginner"
+  },
+  {
+    "id": "218",
+    "k": "lng_aiperformance_new_description",
+    "en": "For players who are new to rally"
+  },
+  {
+    "id": "219",
+    "k": "lng_aiperformance_new_difficulty",
+    "en": "Visual Only in select modes"
+  },
+  {
+    "id": "220",
+    "k": "lng_aiperformance_new_performance",
+    "en": "Easy"
+  },
+  {
+    "id": "221",
+    "k": "lng_aiperformance_pro",
+    "en": "Pro"
+  },
+  {
+    "id": "222",
+    "k": "lng_aiperformance_pro_description",
+    "en": "For players who want a challenging rally experience"
+  },
+  {
+    "id": "223",
+    "k": "lng_aiperformance_pro_performance",
+    "en": "Hard"
+  },
+  {
+    "id": "224",
+    "k": "lng_aiperformance_very_easy",
+    "en": "Very Easy"
+  },
+  {
+    "id": "225",
+    "k": "lng_aiperformance_very_hard",
+    "en": "Very Hard"
+  },
+  {
+    "id": "226",
+    "k": "lng_all_driving_views_option_warning",
+    "en": "Some players may experience discomfort if the 'All Driving Views' setting is turned ON and the camera position is changed during racing."
+  },
+  {
+    "id": "227",
+    "k": "lng_announcement_update_2_3_body",
+    "en": "Hello Rally Drivers, <lf><lf>EA Sports WRC’s 2.3.0 update is now live!<lf><lf>Supporting the launch of the Hard Chargers content pack, patch 2.3.0 also brings numerous game optimisation improvements and quality of life fixes, enhancing the overall rally experience.<lf><lf>To review the full patch notes please scan the QR code or visit EA Answers HQ.<lf><lf>The EA Sports WRC Team"
+  },
+  {
+    "id": "228",
+    "k": "lng_announcement_update_2_3_title",
+    "en": "Update 2.3.0 Now Live!"
+  },
+  {
+    "id": "229",
+    "k": "lng_antialiasingoptions_cinematic",
+    "en": "Cinematic"
+  },
+  {
+    "id": "230",
+    "k": "lng_antialiasingoptions_epic",
+    "en": "Epic"
+  },
+  {
+    "id": "231",
+    "k": "lng_apply_brake_in_corner_description",
+    "en": "Apply brake in the zone"
+  },
+  {
+    "id": "232",
+    "k": "lng_are_you_sure_to_keep_graphics_changes_body",
+    "en": "Are you sure you want to keep these changes? Settings will revert in {0}"
+  },
+  {
+    "id": "233",
+    "k": "lng_are_you_sure_to_keep_graphics_changes_title",
+    "en": "CONFIRM SETTING"
+  },
+  {
+    "id": "234",
+    "k": "lng_aspectratiooptions_auto",
+    "en": "Auto"
+  },
+  {
+    "id": "235",
+    "k": "lng_assists_settings_label_abs",
+    "en": "ABS"
+  },
+  {
+    "id": "236",
+    "k": "lng_assists_settings_label_automatic_wipers",
+    "en": "Automatic Wipers"
+  },
+  {
+    "id": "237",
+    "k": "lng_assists_settings_label_clutch_control",
+    "en": "Clutch Control"
+  },
+  {
+    "id": "238",
+    "k": "lng_assists_settings_label_launch_control",
+    "en": "Start Line Assist"
+  },
+  {
+    "id": "239",
+    "k": "lng_assists_settings_label_stability_control",
+    "en": "Stability Control"
+  },
+  {
+    "id": "240",
+    "k": "lng_assists_settings_label_throttle_cut_assist_mode",
+    "en": "Throttle Cut "
+  },
+  {
+    "id": "241",
+    "k": "lng_assists_settings_label_throttlelimiter",
+    "en": "Throttle Limiter"
+  },
+  {
+    "id": "242",
+    "k": "lng_assists_settings_label_traction_control",
+    "en": "Traction Control"
+  },
+  {
+    "id": "243",
+    "k": "lng_assists_settings_label_transmission",
+    "en": "Transmission"
+  },
+  {
+    "id": "244",
+    "k": "lng_assistsetting_any",
+    "en": "No Preference"
+  },
+  {
+    "id": "245",
+    "k": "lng_axisdescription_down",
+    "en": "Down"
+  },
+  {
+    "id": "246",
+    "k": "lng_axisdescription_inverse",
+    "en": "Inverse"
+  },
+  {
+    "id": "247",
+    "k": "lng_axisdescription_left",
+    "en": "Left"
+  },
+  {
+    "id": "248",
+    "k": "lng_axisdescription_lower",
+    "en": "Lower"
+  },
+  {
+    "id": "249",
+    "k": "lng_axisdescription_right",
+    "en": "Right"
+  },
+  {
+    "id": "250",
+    "k": "lng_axisdescription_up",
+    "en": "Up"
+  },
+  {
+    "id": "251",
+    "k": "lng_axisdescription_upper",
+    "en": "Upper"
+  },
+  {
+    "id": "252",
+    "k": "lng_basic_driving_title",
+    "en": "BASIC DRIVING WITH CO-DRIVER CALLS"
+  },
+  {
+    "id": "253",
+    "k": "lng_basic_familiarisation_title",
+    "en": "BASIC FAMILIARISATION"
+  },
+  {
+    "id": "254",
+    "k": "lng_basicgraphics_label_aaquality",
+    "en": "Anti-aliasing Quality"
+  },
+  {
+    "id": "255",
+    "k": "lng_basicgraphics_label_aspect_ratio",
+    "en": "Aspect Ratio"
+  },
+  {
+    "id": "256",
+    "k": "lng_basicgraphics_label_dynamic_resolution",
+    "en": "Dynamic Resolution"
+  },
+  {
+    "id": "257",
+    "k": "lng_basicgraphics_label_dynamic_resolution_max",
+    "en": "Dynamic Resolution Max"
+  },
+  {
+    "id": "258",
+    "k": "lng_basicgraphics_label_foveation_strength",
+    "en": "Foveated Rendering Strength"
+  },
+  {
+    "id": "259",
+    "k": "lng_basicgraphics_label_mainmenu_fps_limit",
+    "en": "Main Menu Framerate"
+  },
+  {
+    "id": "260",
+    "k": "lng_basicgraphics_label_monitors",
+    "en": "Monitors"
+  },
+  {
+    "id": "261",
+    "k": "lng_beginners_guide_out_now_body",
+    "en": "Hello Rally Drivers, Whether you're new to EA SPORTS™ WRC, returning after a long break, or just looking for some handy tips; we’re here to get you from the starting line to the podium with the ultimate “Beginner’s Guide” to the wild and wonderful world of WRC. Just scan the QR code opposite… Or head to the EA SPORTS™ WRC website."
+  },
+  {
+    "id": "262",
+    "k": "lng_beginners_guide_out_now_title",
+    "en": "Beginners Guide - Out Now"
+  },
+  {
+    "id": "263",
+    "k": "lng_below_min_spec",
+    "en": "Your CPU is below minimum spec. AVX is required to play EA Sports<lf>™<lf>WRC."
+  },
+  {
+    "id": "264",
+    "k": "lng_benefactor_budget_team_mate_title",
+    "en": "Team Mate"
+  },
+  {
+    "id": "265",
+    "k": "lng_benefactor_debrief_budgets_change_panel_label",
+    "en": "BENEFACTOR BUDGET"
+  },
+  {
+    "id": "266",
+    "k": "lng_benefactor_debrief_budgets_change_panel_sublabel",
+    "en": "RELATIONSHIP CHANGE"
+  },
+  {
+    "id": "267",
+    "k": "lng_benefactor_entry_discount",
+    "en": "Entry Discount"
+  },
+  {
+    "id": "268",
+    "k": "lng_benefactor_following_bonus",
+    "en": "Following Bonus"
+  },
+  {
+    "id": "269",
+    "k": "lng_benefactor_objective_name_championship_finish",
+    "en": "Championship Finish"
+  },
+  {
+    "id": "270",
+    "k": "lng_benefactor_objective_name_championship_podium",
+    "en": "Championship Podium"
+  },
+  {
+    "id": "271",
+    "k": "lng_benefactor_objective_name_event_finish",
+    "en": "Event Finish"
+  },
+  {
+    "id": "272",
+    "k": "lng_benefactor_objective_name_event_podium",
+    "en": "Event Podium"
+  },
+  {
+    "id": "273",
+    "k": "lng_benefactor_objective_name_historic",
+    "en": "Historic"
+  },
+  {
+    "id": "274",
+    "k": "lng_benefactor_objective_name_modern",
+    "en": "Modern"
+  },
+  {
+    "id": "275",
+    "k": "lng_benefactor_objective_name_speed",
+    "en": "Speed"
+  },
+  {
+    "id": "276",
+    "k": "lng_benefactor_objective_name_vehicle",
+    "en": "Vehicle"
+  },
+  {
+    "id": "277",
+    "k": "lng_benefactor_offer_screen_title",
+    "en": "BENEFACTOR OFFER"
+  },
+  {
+    "id": "278",
+    "k": "lng_benefactor_parts _reward_screen_title",
+    "en": "PARTS REWARD"
+  },
+  {
+    "id": "279",
+    "k": "lng_benefactor_parts_discount",
+    "en": "Parts Discount"
+  },
+  {
+    "id": "280",
+    "k": "lng_benefactor_signing_bonus",
+    "en": "Signing Bonus"
+  },
+  {
+    "id": "281",
+    "k": "lng_benefactor_target_conditions_desc_beat_person_in_the_marquee_driver_championship",
+    "en": "Beat {x_value} in the Drivers competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "282",
+    "k": "lng_benefactor_target_conditions_desc_beat_person_in_the_marquee_team_championship",
+    "en": "Beat {x_value} in the {champ} Team competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "283",
+    "k": "lng_benefactor_target_conditions_desc_championship_points_scored_by_the_team_in_the_class_team_championship_in_the_champ_name_x",
+    "en": "As a team score {x_value} championship {x_value}|plural(one=point,other=points) in the {class} Team Championship ({total_events} event competition)"
+  },
+  {
+    "id": "284",
+    "k": "lng_benefactor_target_conditions_desc_championship_points_scored_by_the_team_in_the_marquee_team_championship_x",
+    "en": "As a team score {x_value} championship {x_value}|plural(one=point,other=points) in the Team competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "285",
+    "k": "lng_benefactor_target_conditions_desc_complete_championships_during_the_season_x",
+    "en": "Complete {x_value} {x_value}|plural(one=championship,other=championships) during the course of the season"
+  },
+  {
+    "id": "286",
+    "k": "lng_benefactor_target_conditions_desc_complete_class_events_during_the_season_x",
+    "en": "Complete {x_value} {class} {x_value}|plural(one=event,other=events) during the course of the season"
+  },
+  {
+    "id": "287",
+    "k": "lng_benefactor_target_conditions_desc_complete_events_during_the_season_x",
+    "en": "Complete {x_value} {x_value}|plural(one=event,other=events) during the course of the season"
+  },
+  {
+    "id": "288",
+    "k": "lng_benefactor_target_conditions_desc_complete_marquee_drivers_championship_events_x",
+    "en": "Finish {x_value} {x_value}|plural(one=event,other=events) in the Drivers competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "289",
+    "k": "lng_benefactor_target_conditions_desc_complete_x_events_in_the_class_drivers_championship_in_the_champ_name",
+    "en": "Complete {x_value} {x_value}|plural(one=event,other=events) in the {class} Drivers Championship in the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "290",
+    "k": "lng_benefactor_target_conditions_desc_earn_event_podium_finishes_during_the_season_x",
+    "en": "Earn {x_value} event podium {x_value}|plural(one=finish,other=finishes) during the course of the season"
+  },
+  {
+    "id": "291",
+    "k": "lng_benefactor_target_conditions_desc_earn_event_podium_finishes_in_the_class_drivers_championship_in_the_champ_name_x",
+    "en": "Earn {x_value} event podium {x_value}|plural(one=finish,other=finishes) in the {class} Drivers Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "292",
+    "k": "lng_benefactor_target_conditions_desc_earn_event_wins_in_the_class_drivers_championship_in_the_champ_name_x",
+    "en": "Earn {x_value} event {x_value}|plural(one=win,other=wins) in the {class} Drivers Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "293",
+    "k": "lng_benefactor_target_conditions_desc_earn_marquee_drivers_championship_event_podium_finishes_x",
+    "en": "Earn {x_value} event podium {x_value}|plural(one=finish,other=finishes) in the Drivers competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "294",
+    "k": "lng_benefactor_target_conditions_desc_earn_marquee_drivers_championship_event_wins_x",
+    "en": "Earn {x_value} event {x_value}|plural(one=win,other=wins) in the Drivers competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "295",
+    "k": "lng_benefactor_target_conditions_desc_earn_marquee_drivers_championship_point_scoring_finishes_x",
+    "en": "Earn {x_value} point scoring {x_value}|plural(one=finish,other=finishes) in the Drivers competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "296",
+    "k": "lng_benefactor_target_conditions_desc_earn_marquee_team_championship_event_wins_x",
+    "en": "Earn {x_value} event {x_value}|plural(one=win,other=wins) in the Team competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "297",
+    "k": "lng_benefactor_target_conditions_desc_earn_podium_finishes_in_class_events_during_season_x",
+    "en": "Earn {x_value} event podium {x_value}|plural(one=finish,other=finishes) in {class} events, during the course of the season"
+  },
+  {
+    "id": "298",
+    "k": "lng_benefactor_target_conditions_desc_earn_point_scoring_finishes_during_the_season_x",
+    "en": "Earn {x_value} point scoring {x_value}|plural(one=finish,other=finishes) during the course of the season"
+  },
+  {
+    "id": "299",
+    "k": "lng_benefactor_target_conditions_desc_earn_point_scoring_finishes_in_class_events_during_the_season_x",
+    "en": "Earn {x_value} point scoring {x_value}|plural(one=finish,other=finishes) in {class} events during the course of the season"
+  },
+  {
+    "id": "300",
+    "k": "lng_benefactor_target_conditions_desc_earn_x_point_scoring_finishes_in_the_class_drivers_championship_in_the_champ_name",
+    "en": "Earn {x_value} point scoring {x_value}|plural(one=finish,other=finishes) in {class} Drivers Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "301",
+    "k": "lng_benefactor_target_conditions_desc_finish_x_or_higher_in_class_drivers_championship_in_the_champ_name",
+    "en": "Finish {x_value} or higher in the {class} Drivers Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "302",
+    "k": "lng_benefactor_target_conditions_desc_finish_x_or_higher_in_class_team_championship_in_the_champ_name",
+    "en": "Finish {x_value} or higher in the {class} Team Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "303",
+    "k": "lng_benefactor_target_conditions_desc_finish_x_or_higher_in_the_marquee_drivers_championship",
+    "en": "Finish {x_value} or higher in the Drivers competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "304",
+    "k": "lng_benefactor_target_conditions_desc_finish_x_or_higher_in_the_marquee_team_championship",
+    "en": "Finish {x_value} or higher in the Team competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "305",
+    "k": "lng_benefactor_target_conditions_desc_hire_new_engineers_during_the_season_x",
+    "en": "Hire {x_value} new {x_value}|plural(one=-engineer,other=engineers) during the course of the season"
+  },
+  {
+    "id": "306",
+    "k": "lng_benefactor_target_conditions_desc_rest_the_team_for_a_week_during_the_season_x",
+    "en": "Rest the team for {x_value} {x_value}|plural(one=week,other=weeks) during the course of the season"
+  },
+  {
+    "id": "307",
+    "k": "lng_benefactor_target_conditions_desc_score_championship_points_in_the_class_drivers_championship_in_the_champ_name_x",
+    "en": "Score {x_value} championship {x_value}|plural(one=point,other=points) in the {class} Drivers Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "308",
+    "k": "lng_benefactor_target_conditions_desc_score_championship_points_in_the_class_team_championship_in_the_champ_name_x",
+    "en": "Score {x_value} championship {x_value}|plural(one=point,other=points) in the {class} Team Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "309",
+    "k": "lng_benefactor_target_conditions_desc_score_championship_points_in_the_marquee_drivers_championship",
+    "en": "Score {x_value} championship {x_value}|plural(one=point,other=points) in the Drivers competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "310",
+    "k": "lng_benefactor_target_conditions_desc_successfully_complete_charity_events_x",
+    "en": "Successfully complete {x_value} Charity {x_value}|plural(one=Event,other=Events) ({total_events} available) during the course of the season"
+  },
+  {
+    "id": "311",
+    "k": "lng_benefactor_target_conditions_desc_successfully_complete_hospitality_events_x",
+    "en": "Successfully complete {x_value} Hospitality {x_value}|plural(one=Event,other=Events) ({total_events} available) during the course of the season"
+  },
+  {
+    "id": "312",
+    "k": "lng_benefactor_target_conditions_desc_successfully_complete_invitationals_x",
+    "en": "Successfully complete {x_value} Invitational {x_value}|plural(one=Event,other=Events) ({total_events} available) during the course of the season"
+  },
+  {
+    "id": "313",
+    "k": "lng_benefactor_target_conditions_desc_successfully_complete_manufacturer_trials_x",
+    "en": "Successfully complete {x_value} Manufacturer {x_value}|plural(one=Trial,other=Trials) ({total_events} available) during the course of the season"
+  },
+  {
+    "id": "314",
+    "k": "lng_benefactor_target_conditions_desc_unlock_new_parts_for_the_vehicle_builder_by_completing_trials_x",
+    "en": "Unlock {x_value} new {x_value}|plural(one=part,other=parts) for the Builder by completing Builder Part Trials"
+  },
+  {
+    "id": "315",
+    "k": "lng_benefactor_target_conditions_desc_win_class_events_during_the_season_x",
+    "en": "Win {x_value} {class} {x_value}|plural(one=event,other=events) during the course of the season"
+  },
+  {
+    "id": "316",
+    "k": "lng_benefactor_target_conditions_desc_win_events_during_the_season_x",
+    "en": "Win {x_value} {x_value}|plural(one=event,other=events) during the course of the season"
+  },
+  {
+    "id": "317",
+    "k": "lng_benefactor_target_conditions_desc_win_the_class_drivers_championship_in_the_champ_name",
+    "en": "Win the {class} Drivers Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "318",
+    "k": "lng_benefactor_target_conditions_desc_win_the_class_team_championship_in_the_champ_name",
+    "en": "Win the {class} Team Championship of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "319",
+    "k": "lng_benefactor_target_conditions_desc_win_the_marquee_drivers_championship",
+    "en": "Win the Drivers competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "320",
+    "k": "lng_benefactor_target_conditions_desc_win_the_marquee_team_championship",
+    "en": "Win the Team competition of the {champ} ({total_events} event competition)"
+  },
+  {
+    "id": "321",
+    "k": "lng_benefactor_target_conditions_description_cash_flow",
+    "en": "Stay inside the weekly budget allocation for all accounts"
+  },
+  {
+    "id": "322",
+    "k": "lng_benefactor_target_conditions_name_cash_flow",
+    "en": "BUDGET TARGET"
+  },
+  {
+    "id": "323",
+    "k": "lng_benefactortargetcategory_bttcmajorchampionshiptarget",
+    "en": "MAJOR TARGET"
+  },
+  {
+    "id": "324",
+    "k": "lng_benefactortargetcategory_bttcmarqueetarget",
+    "en": "MARQUEE TARGET"
+  },
+  {
+    "id": "325",
+    "k": "lng_benefactortargetcategory_bttcminortarget",
+    "en": "MINOR TARGET"
+  },
+  {
+    "id": "326",
+    "k": "lng_block_confirm_body",
+    "en": "The selected EA account will be added to your Blocked Players list"
+  },
+  {
+    "id": "327",
+    "k": "lng_block_confirm_title",
+    "en": "BLOCK EA ACCOUNT"
+  },
+  {
+    "id": "328",
+    "k": "lng_bmdriverdetailsformat_dd_drivercodriver",
+    "en": "Format #03"
+  },
+  {
+    "id": "329",
+    "k": "lng_bmdriverdetailsformat_dd_drivercodriverflagnumber",
+    "en": "Format #02"
+  },
+  {
+    "id": "330",
+    "k": "lng_bmdriverdetailsformat_dd_driverflagnumber",
+    "en": "Format #01"
+  },
+  {
+    "id": "331",
+    "k": "lng_bmdriverdetailsformat_dd_driveronly",
+    "en": "Format #04"
+  },
+  {
+    "id": "332",
+    "k": "lng_bmliveryeffect_le_carbon",
+    "en": "Carbon"
+  },
+  {
+    "id": "333",
+    "k": "lng_bmliveryeffect_le_chrome",
+    "en": "Chrome"
+  },
+  {
+    "id": "334",
+    "k": "lng_bmliveryeffect_le_gloss_carbon",
+    "en": "Carbon (Gloss)"
+  },
+  {
+    "id": "335",
+    "k": "lng_bmliveryeffect_le_gloss_paint",
+    "en": "Paint (Gloss)"
+  },
+  {
+    "id": "336",
+    "k": "lng_bmliveryeffect_le_matte_carbon",
+    "en": "Carbon (Matte)"
+  },
+  {
+    "id": "337",
+    "k": "lng_bmliveryeffect_le_matte_paint",
+    "en": "Paint (Matte)"
+  },
+  {
+    "id": "338",
+    "k": "lng_bmliveryeffect_le_metallic",
+    "en": "Metallic"
+  },
+  {
+    "id": "339",
+    "k": "lng_bmliveryeffect_le_paint",
+    "en": "Paint"
+  },
+  {
+    "id": "340",
+    "k": "lng_bmliveryeffect_le_satin_carbon",
+    "en": "Carbon (Satin)"
+  },
+  {
+    "id": "341",
+    "k": "lng_bmliveryeffect_le_satin_chrome",
+    "en": "Brushed Chrome"
+  },
+  {
+    "id": "342",
+    "k": "lng_bmliveryeffect_le_satin_paint",
+    "en": "Paint (Satin)"
+  },
+  {
+    "id": "343",
+    "k": "lng_bmliveryeffect_le_vinyl",
+    "en": "Vinyl"
+  },
+  {
+    "id": "344",
+    "k": "lng_bodywork_layout_name_front_01",
+    "en": "STYLE #01"
+  },
+  {
+    "id": "345",
+    "k": "lng_bodywork_layout_name_front_03",
+    "en": "STYLE #03"
+  },
+  {
+    "id": "346",
+    "k": "lng_bodywork_layout_name_front_04",
+    "en": "STYLE #04"
+  },
+  {
+    "id": "347",
+    "k": "lng_bodywork_layout_name_rear_02",
+    "en": "STYLE #02"
+  },
+  {
+    "id": "348",
+    "k": "lng_bodywork_layout_name_rear_05",
+    "en": "STYLE #05"
+  },
+  {
+    "id": "349",
+    "k": "lng_bodyworkposition_front",
+    "en": "Front"
+  },
+  {
+    "id": "350",
+    "k": "lng_bodyworkposition_rear",
+    "en": "Rear"
+  },
+  {
+    "id": "351",
+    "k": "lng_bonuspoints_powerstage",
+    "en": "Power Stage"
+  },
+  {
+    "id": "352",
+    "k": "lng_bonuspoints_stagewins",
+    "en": "Stage Wins"
+  },
+  {
+    "id": "353",
+    "k": "lng_boot_flow_autosave",
+    "en": "This game will save data automatically at certain points. Do not exit the game when the autosave warning indicator <img id=\"{0}\"/>  is displayed or when communicating with Game Servers. <cf><cf>Autosaving will be disabled if there are any inconsistencies in the game content and the save data."
+  },
+  {
+    "id": "354",
+    "k": "lng_boot_flow_legal",
+    "en": "© 2023 Electronic Arts Inc. Powered by Wwise © 2006-2023 Audiokinetic Inc. All rights reserved. All other copyrights or trademarks are the property of their respective owners and are being used under license. EA SPORTS™ WRC uses Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere. Unreal® Engine, Copyright 1998 – 2023, Epic Games, Inc. All rights reserved."
+  },
+  {
+    "id": "355",
+    "k": "lng_br_stPos2_licensedName_Jurgenson_001",
+    "en": "Jurgenson"
+  },
+  {
+    "id": "356",
+    "k": "lng_brake_before_jump_description",
+    "en": "Brake before each jump"
+  },
+  {
+    "id": "357",
+    "k": "lng_brake_before_splash_description",
+    "en": "Brake before the water splash"
+  },
+  {
+    "id": "358",
+    "k": "lng_brightness_adjust_brightness_so_logo_barely_visible",
+    "en": "Adjust the brightness of the screen so the EA SPORTS™ WRC logo is barely visible."
+  },
+  {
+    "id": "359",
+    "k": "lng_brightness_settings_label_hdr",
+    "en": "HDR"
+  },
+  {
+    "id": "360",
+    "k": "lng_brightness_settings_label_hdrnits",
+    "en": "HDR Nits"
+  },
+  {
+    "id": "361",
+    "k": "lng_brightness_settings_label_hdrsetting",
+    "en": "HDR Setting"
+  },
+  {
+    "id": "362",
+    "k": "lng_browser_create_new_session",
+    "en": "Create New Session"
+  },
+  {
+    "id": "363",
+    "k": "lng_browser_create_session_body",
+    "en": "Unable to find a session with the current filters. Would you like to change the filters or create a new session?"
+  },
+  {
+    "id": "364",
+    "k": "lng_browser_create_session_title",
+    "en": "NO SESSIONS FOUND"
+  },
+  {
+    "id": "365",
+    "k": "lng_browser_filters_off",
+    "en": "DEFAULT"
+  },
+  {
+    "id": "366",
+    "k": "lng_browser_filters_on",
+    "en": "CUSTOM"
+  },
+  {
+    "id": "367",
+    "k": "lng_browser_no_sessions_found",
+    "en": "No sessions found"
+  },
+  {
+    "id": "368",
+    "k": "lng_browser_refresh",
+    "en": "Refresh"
+  },
+  {
+    "id": "369",
+    "k": "lng_browser_refresh_timer",
+    "en": "Refreshing In {0}"
+  },
+  {
+    "id": "370",
+    "k": "lng_browser_searching_for_sessions",
+    "en": "Searching for sessions"
+  },
+  {
+    "id": "371",
+    "k": "lng_calendar_benefactor_relationship_reward",
+    "en": "Benefactor Relationship Boost"
+  },
+  {
+    "id": "372",
+    "k": "lng_calendar_day_event_screen_title",
+    "en": "TODAY"
+  },
+  {
+    "id": "373",
+    "k": "lng_calendar_entry_bottom_info_motor_show",
+    "en": "MOTOR SHOW"
+  },
+  {
+    "id": "374",
+    "k": "lng_calendar_entry_bottom_info_place",
+    "en": "PLACE"
+  },
+  {
+    "id": "375",
+    "k": "lng_calendar_entry_bottom_info_rest_team",
+    "en": "REST"
+  },
+  {
+    "id": "376",
+    "k": "lng_calendar_entry_bottom_info_staff_room_expansion",
+    "en": "ENGINEERS"
+  },
+  {
+    "id": "377",
+    "k": "lng_calendar_entry_bottom_info_talent_scout",
+    "en": "ADD AVAILABLE ENGINEERS AND TEAMMATE CREWS"
+  },
+  {
+    "id": "378",
+    "k": "lng_calendar_entry_open",
+    "en": "ENTRY OPEN"
+  },
+  {
+    "id": "379",
+    "k": "lng_calendar_entry_week_title_format",
+    "en": "WEEK {1} - {0}"
+  },
+  {
+    "id": "380",
+    "k": "lng_calendar_event_goal_description_format",
+    "en": "Finish {0} or above."
+  },
+  {
+    "id": "381",
+    "k": "lng_calendar_event_goal_description_format_garage_expansion",
+    "en": "GARAGE CAPACITY INCREASE: +1"
+  },
+  {
+    "id": "382",
+    "k": "lng_calendar_event_goal_description_format_garage_slots",
+    "en": "PURCHASE VEHICLES"
+  },
+  {
+    "id": "383",
+    "k": "lng_calendar_event_goal_description_format_staff_expansion",
+    "en": "ENGINEERS CAPACITY INCREASE: +2"
+  },
+  {
+    "id": "384",
+    "k": "lng_calendar_event_goal_description_format_staff_recruit",
+    "en": "ADD ENGINEERS AND TEAMMATE CREWS"
+  },
+  {
+    "id": "385",
+    "k": "lng_calendar_event_goal_description_format_staff_rest",
+    "en": "REST {0} STAFF"
+  },
+  {
+    "id": "386",
+    "k": "lng_calendar_event_goal_description_format_train_crew_chief",
+    "en": "PERKS"
+  },
+  {
+    "id": "387",
+    "k": "lng_calendar_event_info_event",
+    "en": "EVENT"
+  },
+  {
+    "id": "388",
+    "k": "lng_calendar_event_info_expansions",
+    "en": "EXPANSIONS"
+  },
+  {
+    "id": "389",
+    "k": "lng_calendar_event_info_vehicles",
+    "en": "GARAGE VEHICLES"
+  },
+  {
+    "id": "390",
+    "k": "lng_calendar_event_info_week",
+    "en": "WEEK"
+  },
+  {
+    "id": "391",
+    "k": "lng_calendar_event_vehicle_supplied",
+    "en": "VEHICLE SUPPLIED"
+  },
+  {
+    "id": "392",
+    "k": "lng_calendar_month_apr",
+    "en": "APRIL"
+  },
+  {
+    "id": "393",
+    "k": "lng_calendar_month_apr_short",
+    "en": "APR"
+  },
+  {
+    "id": "394",
+    "k": "lng_calendar_month_aug",
+    "en": "AUGUST"
+  },
+  {
+    "id": "395",
+    "k": "lng_calendar_month_aug_short",
+    "en": "AUG"
+  },
+  {
+    "id": "396",
+    "k": "lng_calendar_month_dec",
+    "en": "DECEMBER"
+  },
+  {
+    "id": "397",
+    "k": "lng_calendar_month_dec_short",
+    "en": "DEC"
+  },
+  {
+    "id": "398",
+    "k": "lng_calendar_month_feb",
+    "en": "FEBRUARY"
+  },
+  {
+    "id": "399",
+    "k": "lng_calendar_month_feb_short",
+    "en": "FEB"
+  },
+  {
+    "id": "400",
+    "k": "lng_calendar_month_jan",
+    "en": "JANUARY"
+  },
+  {
+    "id": "401",
+    "k": "lng_calendar_month_jan_short",
+    "en": "JAN"
+  },
+  {
+    "id": "402",
+    "k": "lng_calendar_month_jul",
+    "en": "JULY"
+  },
+  {
+    "id": "403",
+    "k": "lng_calendar_month_jul_short",
+    "en": "JUL"
+  },
+  {
+    "id": "404",
+    "k": "lng_calendar_month_jun",
+    "en": "JUNE"
+  },
+  {
+    "id": "405",
+    "k": "lng_calendar_month_jun_short",
+    "en": "JUN"
+  },
+  {
+    "id": "406",
+    "k": "lng_calendar_month_mar",
+    "en": "MARCH"
+  },
+  {
+    "id": "407",
+    "k": "lng_calendar_month_mar_short",
+    "en": "MAR"
+  },
+  {
+    "id": "408",
+    "k": "lng_calendar_month_may",
+    "en": "MAY"
+  },
+  {
+    "id": "409",
+    "k": "lng_calendar_month_nov",
+    "en": "NOVEMBER"
+  },
+  {
+    "id": "410",
+    "k": "lng_calendar_month_nov_short",
+    "en": "NOV"
+  },
+  {
+    "id": "411",
+    "k": "lng_calendar_month_oct",
+    "en": "OCTOBER"
+  },
+  {
+    "id": "412",
+    "k": "lng_calendar_month_oct_short",
+    "en": "OCT"
+  },
+  {
+    "id": "413",
+    "k": "lng_calendar_month_sep",
+    "en": "SEPTEMBER"
+  },
+  {
+    "id": "414",
+    "k": "lng_calendar_month_sep_short",
+    "en": "SEP"
+  },
+  {
+    "id": "415",
+    "k": "lng_calendar_no_events_in_progress_title",
+    "en": "No events in progress"
+  },
+  {
+    "id": "416",
+    "k": "lng_calendar_screen_title",
+    "en": "CALENDAR - SEASON {0}"
+  },
+  {
+    "id": "417",
+    "k": "lng_calendar_season",
+    "en": "SEASON"
+  },
+  {
+    "id": "418",
+    "k": "lng_calendar_string_CM_24_long_event_10_greece",
+    "en": "5th - 8th"
+  },
+  {
+    "id": "419",
+    "k": "lng_calendar_string_CM_24_long_event_12_CER",
+    "en": "17th - 20th"
+  },
+  {
+    "id": "420",
+    "k": "lng_calendar_string_CM_24_long_event_13_japan",
+    "en": "21st - 24th"
+  },
+  {
+    "id": "421",
+    "k": "lng_calendar_string_CM_24_long_event_2_sweden",
+    "en": "15th - 18th"
+  },
+  {
+    "id": "422",
+    "k": "lng_calendar_string_CM_24_long_event_4_croatia",
+    "en": "18th - 21st"
+  },
+  {
+    "id": "423",
+    "k": "lng_calendar_string_CM_24_long_event_6_sardinia",
+    "en": "30th - 2nd"
+  },
+  {
+    "id": "424",
+    "k": "lng_calendar_string_CM_24_long_event_7_poland",
+    "en": "27th - 30th"
+  },
+  {
+    "id": "425",
+    "k": "lng_calendar_string_CM_24_short_event_3_kenya",
+    "en": "28th - 31st"
+  },
+  {
+    "id": "426",
+    "k": "lng_calendar_string_CM_24_standard_event_11_chile",
+    "en": "26th - 29th"
+  },
+  {
+    "id": "427",
+    "k": "lng_calendar_string_CM_24_standard_event_1_monte_carlo",
+    "en": "25th - 28th"
+  },
+  {
+    "id": "428",
+    "k": "lng_calendar_string_CM_24_standard_event_9_finland",
+    "en": "1st - 4th"
+  },
+  {
+    "id": "429",
+    "k": "lng_calendar_string_CM_long_event_1_monte_carlo",
+    "en": "19th - 22nd"
+  },
+  {
+    "id": "430",
+    "k": "lng_calendar_string_CM_long_event_4_croatia",
+    "en": "20th - 23rd"
+  },
+  {
+    "id": "431",
+    "k": "lng_calendar_string_CM_long_event_5_portugal",
+    "en": "11th - 14th"
+  },
+  {
+    "id": "432",
+    "k": "lng_calendar_string_CM_short_event_10_greece",
+    "en": "7th - 10th"
+  },
+  {
+    "id": "433",
+    "k": "lng_calendar_string_CM_short_event_11_chile",
+    "en": "28th - 1st"
+  },
+  {
+    "id": "434",
+    "k": "lng_calendar_string_CM_short_event_12_japan",
+    "en": "16th -19th"
+  },
+  {
+    "id": "435",
+    "k": "lng_calendar_string_CM_short_event_3_mexico",
+    "en": "16th - 19th"
+  },
+  {
+    "id": "436",
+    "k": "lng_calendar_string_CM_short_event_7_kenya",
+    "en": "21st - 25th"
+  },
+  {
+    "id": "437",
+    "k": "lng_calendar_string_CM_short_event_9_finland",
+    "en": "3rd - 6th"
+  },
+  {
+    "id": "438",
+    "k": "lng_calendar_string_CM_standard_event_2_sweden",
+    "en": "9th - 12th"
+  },
+  {
+    "id": "439",
+    "k": "lng_calendar_vehicle_required",
+    "en": "VEHICLE REQUIRED"
+  },
+  {
+    "id": "440",
+    "k": "lng_calendar_week_fri",
+    "en": "FRIDAY"
+  },
+  {
+    "id": "441",
+    "k": "lng_calendar_week_mon",
+    "en": "MONDAY"
+  },
+  {
+    "id": "442",
+    "k": "lng_calendar_week_sat",
+    "en": "SATURDAY"
+  },
+  {
+    "id": "443",
+    "k": "lng_calendar_week_sun",
+    "en": "SUNDAY"
+  },
+  {
+    "id": "444",
+    "k": "lng_calendar_week_thu",
+    "en": "THURSDAY"
+  },
+  {
+    "id": "445",
+    "k": "lng_calendar_week_tue",
+    "en": "TUESDAY"
+  },
+  {
+    "id": "446",
+    "k": "lng_calendar_week_wed",
+    "en": "WEDNESDAY"
+  },
+  {
+    "id": "447",
+    "k": "lng_calendarotheractivity_enhancedtrainstaff",
+    "en": "Enhanced Train Staff"
+  },
+  {
+    "id": "448",
+    "k": "lng_calendarotheractivity_garageexpansion",
+    "en": "Garage Expansion"
+  },
+  {
+    "id": "449",
+    "k": "lng_calendarotheractivity_motorshow",
+    "en": "Motor Show"
+  },
+  {
+    "id": "450",
+    "k": "lng_calendarotheractivity_restteam",
+    "en": "Rest Team"
+  },
+  {
+    "id": "451",
+    "k": "lng_calendarotheractivity_staffroomexpansion",
+    "en": "Engineer Roster Expansion"
+  },
+  {
+    "id": "452",
+    "k": "lng_calendarotheractivity_talentscout",
+    "en": "Talent Scout"
+  },
+  {
+    "id": "453",
+    "k": "lng_calendarotheractivity_traincrewchief",
+    "en": "Train Chief Engineer"
+  },
+  {
+    "id": "454",
+    "k": "lng_calendarotheractivity_trainstaff",
+    "en": "Train Staff"
+  },
+  {
+    "id": "455",
+    "k": "lng_calendarraceactivity_charity",
+    "en": "Charity"
+  },
+  {
+    "id": "456",
+    "k": "lng_calendarraceactivity_invitational",
+    "en": "Invitational"
+  },
+  {
+    "id": "457",
+    "k": "lng_calendarraceactivity_majorchampionship",
+    "en": "Major Championship"
+  },
+  {
+    "id": "458",
+    "k": "lng_calendarraceactivity_manufacturerhospitality",
+    "en": "Manufacturer Hospitality"
+  },
+  {
+    "id": "459",
+    "k": "lng_calendarraceactivity_manufacturertrial",
+    "en": "Builder Part Trial"
+  },
+  {
+    "id": "460",
+    "k": "lng_calendarraceactivity_wrcmarqueechampionship",
+    "en": "FIA World Rally Championship"
+  },
+  {
+    "id": "461",
+    "k": "lng_calibrate_deadzone_helptext",
+    "en": "You can adjust deadzone and saturation by accessing Edit Binding for the specified input.<cf>Caution: When operating a Direct Drive device with high torque values, the wheel can rotate without warning. Always follow device operating instructions."
+  },
+  {
+    "id": "462",
+    "k": "lng_calibrate_handbrake_description",
+    "en": "Pull your handbrake from neutral position to the maximum and press continue."
+  },
+  {
+    "id": "463",
+    "k": "lng_calibrate_handbrake_title",
+    "en": "CALIBRATE AGAIN"
+  },
+  {
+    "id": "464",
+    "k": "lng_calibrate_handbrake_title",
+    "en": "CALIBRATE HANDBRAKE"
+  },
+  {
+    "id": "465",
+    "k": "lng_calibrate_pedals_body",
+    "en": "Depress any pedals you want to calibrate to their maximum and press continue."
+  },
+  {
+    "id": "466",
+    "k": "lng_calibrate_pedals_brake",
+    "en": "Brake"
+  },
+  {
+    "id": "467",
+    "k": "lng_calibrate_pedals_description",
+    "en": "Depress any pedals you want to calibrate to their maximum and then continue."
+  },
+  {
+    "id": "468",
+    "k": "lng_calibrate_pedals_title",
+    "en": "PEDALS"
+  },
+  {
+    "id": "469",
+    "k": "lng_calibrate_steering90d_body",
+    "en": "Rotate your wheel in either clockwise or counter clockwise direction until the wheel has reached a 90 degree position from centre. Hold the wheel in the locked position then press continue."
+  },
+  {
+    "id": "470",
+    "k": "lng_calibrate_steering90d_description",
+    "en": "Rotate your wheel in a clockwise or anti-clockwise direction until the wheel has reached 90 degrees of rotation.<cf>Hold the wheel in this position and then press continue."
+  },
+  {
+    "id": "471",
+    "k": "lng_calibrate_steering90d_title",
+    "en": "CALIBRATE STEERING - 90 DEGREES"
+  },
+  {
+    "id": "472",
+    "k": "lng_calibrate_steeringfl_body",
+    "en": "Rotate your wheel in either clockwise or counter clockwise direction until the wheel has reached full lock. Hold the wheel in the locked position then press continue."
+  },
+  {
+    "id": "473",
+    "k": "lng_calibrate_steeringfl_description",
+    "en": "Rotate your wheel in a clockwise or anti-clockwise direction until the wheel has reached its full lock.<cf>Hold the wheel in the locked position and then press continue."
+  },
+  {
+    "id": "474",
+    "k": "lng_calibrate_steeringfl_title",
+    "en": "CALIBRATE STEERING - FULL LOCK"
+  },
+  {
+    "id": "475",
+    "k": "lng_calibrate_summary_again",
+    "en": "Calibrate Again"
+  },
+  {
+    "id": "476",
+    "k": "lng_calibrate_summary_body",
+    "en": "Calibration Summary"
+  },
+  {
+    "id": "477",
+    "k": "lng_calibrate_summary_description",
+    "en": "Check to see if your device is working correctly. If not you can start the calibration set up again."
+  },
+  {
+    "id": "478",
+    "k": "lng_calibrate_summary_title",
+    "en": "CALIBRATION SUMMARY"
+  },
+  {
+    "id": "479",
+    "k": "lng_camera_interioronly",
+    "en": "Interior Only"
+  }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "7820",
+    "k": "lng_input_keyboard_f14",
+    "en": "F14"
+  },
+  {
+    "id": "7821",
+    "k": "lng_input_keyboard_f15",
+    "en": "F15"
+  },
+  {
+    "id": "7822",
+    "k": "lng_input_keyboard_f16",
+    "en": "F16"
+  },
+  {
+    "id": "7823",
+    "k": "lng_input_keyboard_f17",
+    "en": "F17"
+  },
+  {
+    "id": "7824",
+    "k": "lng_input_keyboard_f18",
+    "en": "F18"
+  },
+  {
+    "id": "7825",
+    "k": "lng_input_keyboard_f19",
+    "en": "F19"
+  },
+  {
+    "id": "7826",
+    "k": "lng_input_keyboard_f2",
+    "en": "F2"
+  },
+  {
+    "id": "7827",
+    "k": "lng_input_keyboard_f20",
+    "en": "F20"
+  },
+  {
+    "id": "7828",
+    "k": "lng_input_keyboard_f21",
+    "en": "F21"
+  },
+  {
+    "id": "7829",
+    "k": "lng_input_keyboard_f22",
+    "en": "F22"
+  },
+  {
+    "id": "7830",
+    "k": "lng_input_keyboard_f23",
+    "en": "F23"
+  },
+  {
+    "id": "7831",
+    "k": "lng_input_keyboard_f24",
+    "en": "F24"
+  },
+  {
+    "id": "7832",
+    "k": "lng_input_keyboard_f3",
+    "en": "F3"
+  },
+  {
+    "id": "7833",
+    "k": "lng_input_keyboard_f4",
+    "en": "F4"
+  },
+  {
+    "id": "7834",
+    "k": "lng_input_keyboard_f5",
+    "en": "F5"
+  },
+  {
+    "id": "7835",
+    "k": "lng_input_keyboard_f6",
+    "en": "F6"
+  },
+  {
+    "id": "7836",
+    "k": "lng_input_keyboard_f7",
+    "en": "F7"
+  },
+  {
+    "id": "7837",
+    "k": "lng_input_keyboard_f8",
+    "en": "F8"
+  },
+  {
+    "id": "7838",
+    "k": "lng_input_keyboard_f9",
+    "en": "F9"
+  },
+  {
+    "id": "7839",
+    "k": "lng_input_keyboard_find",
+    "en": "Find"
+  },
+  {
+    "id": "7840",
+    "k": "lng_input_keyboard_help",
+    "en": "Help"
+  },
+  {
+    "id": "7841",
+    "k": "lng_input_keyboard_home",
+    "en": "Home"
+  },
+  {
+    "id": "7842",
+    "k": "lng_input_keyboard_ime_accept",
+    "en": "IME Accept"
+  },
+  {
+    "id": "7843",
+    "k": "lng_input_keyboard_ime_convert",
+    "en": "IME Convert"
+  },
+  {
+    "id": "7844",
+    "k": "lng_input_keyboard_ime_final",
+    "en": "IME Final"
+  },
+  {
+    "id": "7845",
+    "k": "lng_input_keyboard_ime_junja",
+    "en": "IME Junja"
+  },
+  {
+    "id": "7846",
+    "k": "lng_input_keyboard_ime_kana",
+    "en": "IME Kana"
+  },
+  {
+    "id": "7847",
+    "k": "lng_input_keyboard_ime_kanji",
+    "en": "IME Kanji"
+  },
+  {
+    "id": "7848",
+    "k": "lng_input_keyboard_ime_mode",
+    "en": "IME Mode"
+  },
+  {
+    "id": "7849",
+    "k": "lng_input_keyboard_ime_nonconvert",
+    "en": "IME No Convert"
+  },
+  {
+    "id": "7850",
+    "k": "lng_input_keyboard_ime_off",
+    "en": "IME Off"
+  },
+  {
+    "id": "7851",
+    "k": "lng_input_keyboard_ime_on",
+    "en": "IME On"
+  },
+  {
+    "id": "7852",
+    "k": "lng_input_keyboard_insert",
+    "en": "Insert"
+  },
+  {
+    "id": "7853",
+    "k": "lng_input_keyboard_kaypad_exclamation_mark",
+    "en": "Keypad !"
+  },
+  {
+    "id": "7854",
+    "k": "lng_input_keyboard_keypad_00",
+    "en": "Keypad 00"
+  },
+  {
+    "id": "7855",
+    "k": "lng_input_keyboard_keypad_000",
+    "en": "Keypad 000"
+  },
+  {
+    "id": "7856",
+    "k": "lng_input_keyboard_keypad_a",
+    "en": "Keypad A"
+  },
+  {
+    "id": "7857",
+    "k": "lng_input_keyboard_keypad_and",
+    "en": "Keypad &"
+  },
+  {
+    "id": "7858",
+    "k": "lng_input_keyboard_keypad_at",
+    "en": "Keypad @"
+  },
+  {
+    "id": "7859",
+    "k": "lng_input_keyboard_keypad_b",
+    "en": "Keypad B"
+  },
+  {
+    "id": "7860",
+    "k": "lng_input_keyboard_keypad_backspace",
+    "en": "Keypad BackSpace"
+  },
+  {
+    "id": "7861",
+    "k": "lng_input_keyboard_keypad_binary",
+    "en": "Keypad Binary"
+  },
+  {
+    "id": "7862",
+    "k": "lng_input_keyboard_keypad_c",
+    "en": "Keypad C"
+  },
+  {
+    "id": "7863",
+    "k": "lng_input_keyboard_keypad_clear",
+    "en": "Keypad Clear"
+  },
+  {
+    "id": "7864",
+    "k": "lng_input_keyboard_keypad_clear_entry",
+    "en": "Keypad Clear Entry"
+  },
+  {
+    "id": "7865",
+    "k": "lng_input_keyboard_keypad_close_brace",
+    "en": "Keypad }"
+  },
+  {
+    "id": "7866",
+    "k": "lng_input_keyboard_keypad_close_chevron",
+    "en": "Keypad >"
+  },
+  {
+    "id": "7867",
+    "k": "lng_input_keyboard_keypad_close_parenthese",
+    "en": "Keypad )"
+  },
+  {
+    "id": "7868",
+    "k": "lng_input_keyboard_keypad_colon",
+    "en": "Keypad :"
+  },
+  {
+    "id": "7869",
+    "k": "lng_input_keyboard_keypad_comma",
+    "en": "Keypad ,"
+  },
+  {
+    "id": "7870",
+    "k": "lng_input_keyboard_keypad_d",
+    "en": "Keypad D"
+  },
+  {
+    "id": "7871",
+    "k": "lng_input_keyboard_keypad_decimal",
+    "en": "Keypad Decimal"
+  },
+  {
+    "id": "7872",
+    "k": "lng_input_keyboard_keypad_double_and",
+    "en": "Keypad &&"
+  },
+  {
+    "id": "7873",
+    "k": "lng_input_keyboard_keypad_double_or",
+    "en": "Keypad ||"
+  },
+  {
+    "id": "7874",
+    "k": "lng_input_keyboard_keypad_e",
+    "en": "Keypad E"
+  },
+  {
+    "id": "7875",
+    "k": "lng_input_keyboard_keypad_equal",
+    "en": "Keypad ="
+  },
+  {
+    "id": "7876",
+    "k": "lng_input_keyboard_keypad_f",
+    "en": "Keypad F"
+  },
+  {
+    "id": "7877",
+    "k": "lng_input_keyboard_keypad_hash",
+    "en": "Keypad #"
+  },
+  {
+    "id": "7878",
+    "k": "lng_input_keyboard_keypad_hat",
+    "en": "Keypad ^"
+  },
+  {
+    "id": "7879",
+    "k": "lng_input_keyboard_keypad_hexadecimal",
+    "en": "Keypad Hexadecimal"
+  },
+  {
+    "id": "7880",
+    "k": "lng_input_keyboard_keypad_memory_add",
+    "en": "Keypad Memory +"
+  },
+  {
+    "id": "7881",
+    "k": "lng_input_keyboard_keypad_memory_clear",
+    "en": "Keypad Memory Clear"
+  },
+  {
+    "id": "7882",
+    "k": "lng_input_keyboard_keypad_memory_divide",
+    "en": "Keypad Memory /"
+  },
+  {
+    "id": "7883",
+    "k": "lng_input_keyboard_keypad_memory_multiply",
+    "en": "Keypad Memory *"
+  },
+  {
+    "id": "7884",
+    "k": "lng_input_keyboard_keypad_memory_recall",
+    "en": "Keypad Memory Recall"
+  },
+  {
+    "id": "7885",
+    "k": "lng_input_keyboard_keypad_memory_store",
+    "en": "Keypad Memory Store"
+  },
+  {
+    "id": "7886",
+    "k": "lng_input_keyboard_keypad_memory_subtract",
+    "en": "Keypad Memory -"
+  },
+  {
+    "id": "7887",
+    "k": "lng_input_keyboard_keypad_octal",
+    "en": "Keypad Octal"
+  },
+  {
+    "id": "7888",
+    "k": "lng_input_keyboard_keypad_open_brace",
+    "en": "Keypad {"
+  },
+  {
+    "id": "7889",
+    "k": "lng_input_keyboard_keypad_open_chevron",
+    "en": "Keypad <"
+  },
+  {
+    "id": "7890",
+    "k": "lng_input_keyboard_keypad_open_parenthese",
+    "en": "Keypad ("
+  },
+  {
+    "id": "7891",
+    "k": "lng_input_keyboard_keypad_or",
+    "en": "Keypad |"
+  },
+  {
+    "id": "7892",
+    "k": "lng_input_keyboard_keypad_percent",
+    "en": "Keypad %"
+  },
+  {
+    "id": "7893",
+    "k": "lng_input_keyboard_keypad_plus_negitive",
+    "en": "Keypad +/-"
+  },
+  {
+    "id": "7894",
+    "k": "lng_input_keyboard_keypad_space",
+    "en": "Keypad Space"
+  },
+  {
+    "id": "7895",
+    "k": "lng_input_keyboard_keypad_tab",
+    "en": "Keypad Tab"
+  },
+  {
+    "id": "7896",
+    "k": "lng_input_keyboard_keypad_xor",
+    "en": "Keypad XOR"
+  },
+  {
+    "id": "7897",
+    "k": "lng_input_keyboard_launch_app_1",
+    "en": "App 1"
+  },
+  {
+    "id": "7898",
+    "k": "lng_input_keyboard_launch_app_2",
+    "en": "App 2"
+  },
+  {
+    "id": "7899",
+    "k": "lng_input_keyboard_left_alt",
+    "en": "Left Alt"
+  },
+  {
+    "id": "7900",
+    "k": "lng_input_keyboard_left_ctrl",
+    "en": "Left Ctrl"
+  },
+  {
+    "id": "7901",
+    "k": "lng_input_keyboard_left_gui",
+    "en": "Left Gui"
+  },
+  {
+    "id": "7902",
+    "k": "lng_input_keyboard_left_shift",
+    "en": "Left Shift"
+  },
+  {
+    "id": "7903",
+    "k": "lng_input_keyboard_locking_caps_lock",
+    "en": "Locking Caps Lock"
+  },
+  {
+    "id": "7904",
+    "k": "lng_input_keyboard_locking_num_lock",
+    "en": "Locking Num Lock"
+  },
+  {
+    "id": "7905",
+    "k": "lng_input_keyboard_locking_scroll_lock",
+    "en": "Locking Scroll Lock"
+  },
+  {
+    "id": "7906",
+    "k": "lng_input_keyboard_mail",
+    "en": "Mail"
+  },
+  {
+    "id": "7907",
+    "k": "lng_input_keyboard_media_next_track",
+    "en": "Next Track"
+  },
+  {
+    "id": "7908",
+    "k": "lng_input_keyboard_media_play_pause",
+    "en": "Play/Pause"
+  },
+  {
+    "id": "7909",
+    "k": "lng_input_keyboard_media_previous_track",
+    "en": "Previous Track"
+  },
+  {
+    "id": "7910",
+    "k": "lng_input_keyboard_media_select",
+    "en": "Media Select"
+  },
+  {
+    "id": "7911",
+    "k": "lng_input_keyboard_media_stop",
+    "en": "Stop"
+  },
+  {
+    "id": "7912",
+    "k": "lng_input_keyboard_menu",
+    "en": "Menu"
+  },
+  {
+    "id": "7913",
+    "k": "lng_input_keyboard_num_lock",
+    "en": "Num Lock"
+  },
+  {
+    "id": "7914",
+    "k": "lng_input_keyboard_numpad_0",
+    "en": "Numpad 0"
+  },
+  {
+    "id": "7915",
+    "k": "lng_input_keyboard_numpad_1",
+    "en": "Numpad 1"
+  },
+  {
+    "id": "7916",
+    "k": "lng_input_keyboard_numpad_2",
+    "en": "Numpad 2"
+  },
+  {
+    "id": "7917",
+    "k": "lng_input_keyboard_numpad_3",
+    "en": "Numpad 3"
+  },
+  {
+    "id": "7918",
+    "k": "lng_input_keyboard_numpad_4",
+    "en": "Numpad 4"
+  },
+  {
+    "id": "7919",
+    "k": "lng_input_keyboard_numpad_5",
+    "en": "Numpad 5"
+  },
+  {
+    "id": "7920",
+    "k": "lng_input_keyboard_numpad_6",
+    "en": "Numpad 6"
+  },
+  {
+    "id": "7921",
+    "k": "lng_input_keyboard_numpad_7",
+    "en": "Numpad 7"
+  },
+  {
+    "id": "7922",
+    "k": "lng_input_keyboard_numpad_8",
+    "en": "Numpad 8"
+  },
+  {
+    "id": "7923",
+    "k": "lng_input_keyboard_numpad_9",
+    "en": "Numpad 9"
+  },
+  {
+    "id": "7924",
+    "k": "lng_input_keyboard_numpad_add",
+    "en": "Numpad +"
+  },
+  {
+    "id": "7925",
+    "k": "lng_input_keyboard_numpad_decimal",
+    "en": "Numpad ."
+  },
+  {
+    "id": "7926",
+    "k": "lng_input_keyboard_numpad_devide",
+    "en": "Numpad /"
+  },
+  {
+    "id": "7927",
+    "k": "lng_input_keyboard_numpad_enter",
+    "en": "Enter"
+  },
+  {
+    "id": "7928",
+    "k": "lng_input_keyboard_numpad_multiply",
+    "en": "Numpad *"
+  },
+  {
+    "id": "7929",
+    "k": "lng_input_keyboard_numpad_separator",
+    "en": "Num Pad ,"
+  },
+  {
+    "id": "7930",
+    "k": "lng_input_keyboard_numpad_subtract",
+    "en": "Numpad -"
+  },
+  {
+    "id": "7931",
+    "k": "lng_input_keyboard_oper",
+    "en": "Oper"
+  },
+  {
+    "id": "7932",
+    "k": "lng_input_keyboard_page_down",
+    "en": "Page Down"
+  },
+  {
+    "id": "7933",
+    "k": "lng_input_keyboard_page_up",
+    "en": "Page Up"
+  },
+  {
+    "id": "7934",
+    "k": "lng_input_keyboard_paste",
+    "en": "Paste"
+  },
+  {
+    "id": "7935",
+    "k": "lng_input_keyboard_print",
+    "en": "Print"
+  },
+  {
+    "id": "7936",
+    "k": "lng_input_keyboard_print_screen",
+    "en": "Print Screen"
+  },
+  {
+    "id": "7937",
+    "k": "lng_input_keyboard_prior",
+    "en": "Prior"
+  },
+  {
+    "id": "7938",
+    "k": "lng_input_keyboard_return",
+    "en": "Return"
+  },
+  {
+    "id": "7939",
+    "k": "lng_input_keyboard_right_control",
+    "en": "Right Ctrl"
+  },
+  {
+    "id": "7940",
+    "k": "lng_input_keyboard_right_gui",
+    "en": "Right Gui"
+  },
+  {
+    "id": "7941",
+    "k": "lng_input_keyboard_right_menu",
+    "en": "Right Alt"
+  },
+  {
+    "id": "7942",
+    "k": "lng_input_keyboard_right_shift",
+    "en": "Right Shift"
+  },
+  {
+    "id": "7943",
+    "k": "lng_input_keyboard_scroll_lock",
+    "en": "Scroll Lock"
+  },
+  {
+    "id": "7944",
+    "k": "lng_input_keyboard_separator",
+    "en": "Separator"
+  },
+  {
+    "id": "7945",
+    "k": "lng_input_keyboard_shift",
+    "en": "Shift"
+  },
+  {
+    "id": "7946",
+    "k": "lng_input_keyboard_sleep",
+    "en": "Sleep"
+  },
+  {
+    "id": "7947",
+    "k": "lng_input_keyboard_sys_req",
+    "en": "SysReq"
+  },
+  {
+    "id": "7948",
+    "k": "lng_input_keyboard_tab",
+    "en": "Tab"
+  },
+  {
+    "id": "7949",
+    "k": "lng_input_keyboard_thousands_separator",
+    "en": "Thousands Separator"
+  },
+  {
+    "id": "7950",
+    "k": "lng_input_keyboard_undo",
+    "en": "Undo"
+  },
+  {
+    "id": "7951",
+    "k": "lng_input_keyboard_volume_down",
+    "en": "Volume Down"
+  },
+  {
+    "id": "7952",
+    "k": "lng_input_keyboard_volume_mute",
+    "en": "Mute"
+  },
+  {
+    "id": "7953",
+    "k": "lng_input_keyboard_volume_up",
+    "en": "Volume Up"
+  },
+  {
+    "id": "7954",
+    "k": "lng_input_keyboard_windows_left",
+    "en": "Left Windows Key"
+  },
+  {
+    "id": "7955",
+    "k": "lng_input_keyboard_windows_right",
+    "en": "Right Windows Key"
+  },
+  {
+    "id": "7956",
+    "k": "lng_input_livery_editor_decal_depth_in",
+    "en": "Livery Editor: Decal Depth In"
+  },
+  {
+    "id": "7957",
+    "k": "lng_input_livery_editor_decal_depth_out",
+    "en": "Livery Editor: Decal Depth Out"
+  },
+  {
+    "id": "7958",
+    "k": "lng_input_livery_editor_decal_height_decrease",
+    "en": "Livery Editor: Decrease Decal Height"
+  },
+  {
+    "id": "7959",
+    "k": "lng_input_livery_editor_decal_height_increase",
+    "en": "Livery Editor: Increase Decal Height"
+  },
+  {
+    "id": "7960",
+    "k": "lng_input_livery_editor_decal_move_down",
+    "en": "Livery Editor: Move Decal Down"
+  },
+  {
+    "id": "7961",
+    "k": "lng_input_livery_editor_decal_move_left",
+    "en": "Livery Editor: Move Decal Left"
+  },
+  {
+    "id": "7962",
+    "k": "lng_input_livery_editor_decal_move_right",
+    "en": "Livery Editor: Move Decal Right"
+  },
+  {
+    "id": "7963",
+    "k": "lng_input_livery_editor_decal_move_up",
+    "en": "Livery Editor: Move Decal Up"
+  },
+  {
+    "id": "7964",
+    "k": "lng_input_livery_editor_decal_roll_left",
+    "en": "Livery Editor: Rotate Decal Left"
+  },
+  {
+    "id": "7965",
+    "k": "lng_input_livery_editor_decal_roll_right",
+    "en": "Livery Editor: Rotate Decal Right"
+  },
+  {
+    "id": "7966",
+    "k": "lng_input_livery_editor_decal_scale_down",
+    "en": "Livery Editor: Scale Decal Down"
+  },
+  {
+    "id": "7967",
+    "k": "lng_input_livery_editor_decal_scale_up",
+    "en": "Livery Editor: Scale Decal Up"
+  },
+  {
+    "id": "7968",
+    "k": "lng_input_livery_editor_decal_tilt_left",
+    "en": "Livery Editor: Tilt Decal Left"
+  },
+  {
+    "id": "7969",
+    "k": "lng_input_livery_editor_decal_tilt_right",
+    "en": "Livery Editor: Tilt Decal Right"
+  },
+  {
+    "id": "7970",
+    "k": "lng_input_livery_editor_decal_width_decrease",
+    "en": "Livery Editor: Decrease Decal Width"
+  },
+  {
+    "id": "7971",
+    "k": "lng_input_livery_editor_decal_width_increase",
+    "en": "Livery Editor: Increase Decal Width"
+  },
+  {
+    "id": "7972",
+    "k": "lng_input_menu_context_1",
+    "en": "Context 1"
+  },
+  {
+    "id": "7973",
+    "k": "lng_input_menu_context_2",
+    "en": "Context 2"
+  },
+  {
+    "id": "7974",
+    "k": "lng_input_menu_context_3",
+    "en": "Context 3"
+  },
+  {
+    "id": "7975",
+    "k": "lng_input_menu_context_4",
+    "en": "Context 4"
+  },
+  {
+    "id": "7976",
+    "k": "lng_input_menu_cursor_button_4",
+    "en": "Mouse Button 4"
+  },
+  {
+    "id": "7977",
+    "k": "lng_input_menu_cursor_button_5",
+    "en": "Mouse Button 5"
+  },
+  {
+    "id": "7978",
+    "k": "lng_input_menu_cursor_button_double_click_4",
+    "en": "Mouse Double Click Button 4"
+  },
+  {
+    "id": "7979",
+    "k": "lng_input_menu_cursor_button_double_click_5",
+    "en": "Mouse Double Click Button 5"
+  },
+  {
+    "id": "7980",
+    "k": "lng_input_menu_cursor_button_double_click_left",
+    "en": "Mouse Double Click Button Left"
+  },
+  {
+    "id": "7981",
+    "k": "lng_input_menu_cursor_button_double_click_middle",
+    "en": "Mouse Double Click Scroll Wheel"
+  },
+  {
+    "id": "7982",
+    "k": "lng_input_menu_cursor_button_double_click_right",
+    "en": "Mouse Double Click Right"
+  },
+  {
+    "id": "7983",
+    "k": "lng_input_menu_cursor_button_left",
+    "en": "Mouse Button Left"
+  },
+  {
+    "id": "7984",
+    "k": "lng_input_menu_cursor_button_middle",
+    "en": "Mouse Scroll Wheel"
+  },
+  {
+    "id": "7985",
+    "k": "lng_input_menu_cursor_button_right",
+    "en": "Mouse Button Right"
+  },
+  {
+    "id": "7986",
+    "k": "lng_input_menu_cursor_wheel_down",
+    "en": "Mouse Scroll Wheel Down"
+  },
+  {
+    "id": "7987",
+    "k": "lng_input_menu_cursor_wheel_up",
+    "en": "Mouse Scroll Wheel Up"
+  },
+  {
+    "id": "7988",
+    "k": "lng_input_menu_navigate_back",
+    "en": "Menu Navigation Back"
+  },
+  {
+    "id": "7989",
+    "k": "lng_input_menu_navigate_begin",
+    "en": "Menu Navigation Begin"
+  },
+  {
+    "id": "7990",
+    "k": "lng_input_menu_navigate_down",
+    "en": "Menu Navigation Down"
+  },
+  {
+    "id": "7991",
+    "k": "lng_input_menu_navigate_end",
+    "en": "Menu Navigation End"
+  },
+  {
+    "id": "7992",
+    "k": "lng_input_menu_navigate_left",
+    "en": "Menu Navigation Left"
+  },
+  {
+    "id": "7993",
+    "k": "lng_input_menu_navigate_right",
+    "en": "Menu Navigation Right"
+  },
+  {
+    "id": "7994",
+    "k": "lng_input_menu_navigate_scroll_down",
+    "en": "Menu Navigation Scroll Down"
+  },
+  {
+    "id": "7995",
+    "k": "lng_input_menu_navigate_scroll_left",
+    "en": "Menu Navigation Scroll Left"
+  },
+  {
+    "id": "7996",
+    "k": "lng_input_menu_navigate_scroll_right",
+    "en": "Menu Navigation Scroll Right"
+  },
+  {
+    "id": "7997",
+    "k": "lng_input_menu_navigate_scroll_up",
+    "en": "Menu Navigation Scroll Up"
+  },
+  {
+    "id": "7998",
+    "k": "lng_input_menu_navigate_select",
+    "en": "Menu Navigation Select"
+  },
+  {
+    "id": "7999",
+    "k": "lng_input_menu_navigate_tab_primary_left",
+    "en": "Menu Navigation Tab Left"
+  },
+  {
+    "id": "8000",
+    "k": "lng_input_menu_navigate_tab_primary_right",
+    "en": "Menu Navigation Tab Right"
+  },
+  {
+    "id": "8001",
+    "k": "lng_input_menu_navigate_up",
+    "en": "Menu Navigation Up"
+  },
+  {
+    "id": "8002",
+    "k": "lng_input_menu_option",
+    "en": "Menu Option"
+  },
+  {
+    "id": "8003",
+    "k": "lng_input_menu_shortcut_profile",
+    "en": "Shortcut Profile"
+  },
+  {
+    "id": "8004",
+    "k": "lng_input_menu_text_entry_autocomplete",
+    "en": "Autocomplete"
+  },
+  {
+    "id": "8005",
+    "k": "lng_input_menu_text_entry_backspace",
+    "en": "Backspace"
+  },
+  {
+    "id": "8006",
+    "k": "lng_input_menu_text_entry_control_copy",
+    "en": "Control Copy"
+  },
+  {
+    "id": "8007",
+    "k": "lng_input_menu_text_entry_control_cut",
+    "en": "Control Cut"
+  },
+  {
+    "id": "8008",
+    "k": "lng_input_menu_text_entry_control_modifier",
+    "en": "Control Modifier"
+  },
+  {
+    "id": "8009",
+    "k": "lng_input_menu_text_entry_control_paste",
+    "en": "Control Paste"
+  },
+  {
+    "id": "8010",
+    "k": "lng_input_menu_text_entry_shift_modifier",
+    "en": "Shift Modifier"
+  },
+  {
+    "id": "8011",
+    "k": "lng_input_menu_view_down",
+    "en": "View Down"
+  },
+  {
+    "id": "8012",
+    "k": "lng_input_menu_view_in",
+    "en": "View In"
+  },
+  {
+    "id": "8013",
+    "k": "lng_input_menu_view_left",
+    "en": "View Left"
+  },
+  {
+    "id": "8014",
+    "k": "lng_input_menu_view_out",
+    "en": "View Out"
+  },
+  {
+    "id": "8015",
+    "k": "lng_input_menu_view_right",
+    "en": "View Right"
+  },
+  {
+    "id": "8016",
+    "k": "lng_input_menu_view_up",
+    "en": "View Up"
+  },
+  {
+    "id": "8017",
+    "k": "lng_input_moza_handbrake",
+    "en": "Moza Handbrake"
+  },
+  {
+    "id": "8018",
+    "k": "lng_input_moza_pedals",
+    "en": "Moza Pedals"
+  },
+  {
+    "id": "8019",
+    "k": "lng_input_moza_rim",
+    "en": "Moza Rim"
+  },
+  {
+    "id": "8020",
+    "k": "lng_input_moza_shifter",
+    "en": "Moza Shifter"
+  },
+  {
+    "id": "8021",
+    "k": "lng_input_network_toggle_voice",
+    "en": "Toggle Voice"
+  },
+  {
+    "id": "8022",
+    "k": "lng_input_photomode_camera_move_backward",
+    "en": "Photomode: Move Back"
+  },
+  {
+    "id": "8023",
+    "k": "lng_input_photomode_camera_move_down",
+    "en": "Photomode: Move Down"
+  },
+  {
+    "id": "8024",
+    "k": "lng_input_photomode_camera_move_forward",
+    "en": "Photomode: Move Forward"
+  },
+  {
+    "id": "8025",
+    "k": "lng_input_photomode_camera_move_left",
+    "en": "Photomode: Move Left"
+  },
+  {
+    "id": "8026",
+    "k": "lng_input_photomode_camera_move_right",
+    "en": "Photomode: Move Right"
+  },
+  {
+    "id": "8027",
+    "k": "lng_input_photomode_camera_move_up",
+    "en": "Photomode: Move Up"
+  },
+  {
+    "id": "8028",
+    "k": "lng_input_photomode_camera_roll_left",
+    "en": "Photomode: Roll Left"
+  },
+  {
+    "id": "8029",
+    "k": "lng_input_photomode_camera_roll_right",
+    "en": "Photomode: Roll Right"
+  },
+  {
+    "id": "8030",
+    "k": "lng_input_photomode_camera_turn_down",
+    "en": "Photomode: Look Down"
+  },
+  {
+    "id": "8031",
+    "k": "lng_input_photomode_camera_turn_left",
+    "en": "Photomode: Look Left"
+  },
+  {
+    "id": "8032",
+    "k": "lng_input_photomode_camera_turn_right",
+    "en": "Photomode: Look Right"
+  },
+  {
+    "id": "8033",
+    "k": "lng_input_photomode_camera_turn_up",
+    "en": "Photomode: Look Up"
+  },
+  {
+    "id": "8034",
+    "k": "lng_input_photomode_exit",
+    "en": "Photomode: Exit"
+  },
+  {
+    "id": "8035",
+    "k": "lng_input_photomode_replay_switcher",
+    "en": "Photomode: Replay Switcher"
+  },
+  {
+    "id": "8036",
+    "k": "lng_input_photomode_reset_camera",
+    "en": "Photomode: Reset Camera"
+  },
+  {
+    "id": "8037",
+    "k": "lng_input_photomode_toggle_camera_mode",
+    "en": "Photomode: Toggle Camera Mode"
+  },
+  {
+    "id": "8038",
+    "k": "lng_input_photomode_toggle_menu",
+    "en": "Photomode: Toggle Menu"
+  },
+  {
+    "id": "8039",
+    "k": "lng_input_photomode_toggle_ui",
+    "en": "Photomode: Toggle UI"
+  },
+  {
+    "id": "8040",
+    "k": "lng_input_spectator_camera_next",
+    "en": "Spectate: Next Camera"
+  },
+  {
+    "id": "8041",
+    "k": "lng_input_spectator_camera_previous",
+    "en": "Spectate: Previous Camera"
+  },
+  {
+    "id": "8042",
+    "k": "lng_input_spectator_driver_next",
+    "en": "Spectate: Next Driver"
+  },
+  {
+    "id": "8043",
+    "k": "lng_input_spectator_driver_previous",
+    "en": "Spectate: Previous Driver"
+  },
+  {
+    "id": "8044",
+    "k": "lng_input_spectator_exit",
+    "en": "Spectate: Exit"
+  },
+  {
+    "id": "8045",
+    "k": "lng_input_spectator_player_profile",
+    "en": "Spectate: View Profile"
+  },
+  {
+    "id": "8046",
+    "k": "lng_input_spectator_replay_forward",
+    "en": "Replay: Forward"
+  },
+  {
+    "id": "8047",
+    "k": "lng_input_spectator_replay_pause",
+    "en": "Replay: Pause"
+  },
+  {
+    "id": "8048",
+    "k": "lng_input_spectator_replay_photomode_switcher",
+    "en": "Replay: Access Photomode"
+  },
+  {
+    "id": "8049",
+    "k": "lng_input_spectator_replay_rewind",
+    "en": "Replay: Rewind"
+  },
+  {
+    "id": "8050",
+    "k": "lng_input_spectator_replay_speed_down",
+    "en": "Replay: Speed Down"
+  },
+  {
+    "id": "8051",
+    "k": "lng_input_spectator_replay_speed_up",
+    "en": "Replay: Speed Up"
+  },
+  {
+    "id": "8052",
+    "k": "lng_input_spectator_toggle_controls",
+    "en": "Spectate: Toggle Controls"
+  },
+  {
+    "id": "8053",
+    "k": "lng_input_spectator_toggle_list",
+    "en": "Spectate: Toggle Player List"
+  },
+  {
+    "id": "8054",
+    "k": "lng_input_spectator_toggle_menu",
+    "en": "Spectate: Menu"
+  },
+  {
+    "id": "8055",
+    "k": "lng_input_spectator_toggle_standings",
+    "en": "Spectate: Toggle Standings"
+  },
+  {
+    "id": "8056",
+    "k": "lng_input_spectator_toggle_ui",
+    "en": "Spectate: Toggle UI"
+  },
+  {
+    "id": "8057",
+    "k": "lng_input_steering_device_changed_body",
+    "en": "The steering input device has been changed."
+  },
+  {
+    "id": "8058",
+    "k": "lng_input_tm_pedals",
+    "en": "Thrustmaster Pedals"
+  },
+  {
+    "id": "8059",
+    "k": "lng_input_tm_rim",
+    "en": "Thrustmaster Wheel"
+  },
+  {
+    "id": "8060",
+    "k": "lng_input_unbound",
+    "en": "Unbound"
+  },
+  {
+    "id": "8061",
+    "k": "lng_input_vr_view_reset",
+    "en": "VR: Reset View"
+  },
+  {
+    "id": "8062",
+    "k": "lng_championship_continue_event_lable",
+    "en": "Event"
+  },
+  {
+    "id": "8063",
+    "k": "lng_championship_continue_season_lable",
+    "en": "Year"
+  },
+  {
+    "id": "8064",
+    "k": "lng_championship_end_timer",
+    "en": "Championship Ends In"
+  },
+  {
+    "id": "8065",
+    "k": "lng_championship_mode_select_junior_wrc_desc",
+    "en": "An excellent launch pad for an aspiring rally career. Junior WRC gives young drivers an opportunity to compete at some of the toughest rallies, in the Ford Fiesta Rally3."
+  },
+  {
+    "id": "8066",
+    "k": "lng_championship_mode_select_wrc_one_desc",
+    "en": "The top flight of rally featuring high powered hybrid Rally1 cars. Manufacturers and crews compete in a fierce competition at outstanding locations across the globe."
+  },
+  {
+    "id": "8067",
+    "k": "lng_championship_mode_select_wrc_two_desc",
+    "en": "The leading support series for the WRC. WRC2 is the home for a variety of powerful Rally2 cars and a host of talented crews all vying to take the top step on the podium."
+  },
+  {
+    "id": "8068",
+    "k": "lng_championship_mode_team_select_title",
+    "en": "SELECT TEAM"
+  },
+  {
+    "id": "8069",
+    "k": "lng_championship_overview",
+    "en": "EVENT OVERVIEW"
+  },
+  {
+    "id": "8070",
+    "k": "lng_championship_panel_position_title",
+    "en": "Position"
+  },
+  {
+    "id": "8071",
+    "k": "lng_championship_panel_settings_title",
+    "en": "Settings"
+  },
+  {
+    "id": "8072",
+    "k": "lng_championship_podium_constructors_champ_label",
+    "en": "{0} CONSTRUCTORS CHAMPIONS"
+  },
+  {
+    "id": "8073",
+    "k": "lng_championship_save_title",
+    "en": "EMPTY SLOT"
+  },
+  {
+    "id": "8074",
+    "k": "lng_championship_season_23_select_label",
+    "en": "2023 Season"
+  },
+  {
+    "id": "8075",
+    "k": "lng_championship_season_23_select_sub_label",
+    "en": "Start a Championship in the 2023 WRC Season"
+  },
+  {
+    "id": "8076",
+    "k": "lng_championship_season_24_select_label",
+    "en": "2024 Season"
+  },
+  {
+    "id": "8077",
+    "k": "lng_championship_season_24_select_sub_label",
+    "en": "Start a Championship in the 2024 WRC Season"
+  },
+  {
+    "id": "8078",
+    "k": "lng_championship_season_continue_missing_entitlements_title",
+    "en": "WRC 2024 SEASON EXPANSION REQUIRED"
+  },
+  {
+    "id": "8079",
+    "k": "lng_championship_season_select_champ_title",
+    "en": "SEASON SELECT"
+  },
+  {
+    "id": "8080",
+    "k": "lng_championship_season_select_missing_entitlements_body_format",
+    "en": "This feature requires the following downloadable content: {Entitlements}. However, the entitlement to that content is currently missing.{Purchase}{Alternative}{Landing}"
+  },
+  {
+    "id": "8081",
+    "k": "lng_championship_settings_ai_performance_off",
+    "en": "OFF"
+  },
+  {
+    "id": "8082",
+    "k": "lng_championship_start_timer",
+    "en": "Championship Starts In"
+  },
+  {
+    "id": "8083",
+    "k": "lng_competition_championship_name_charity_event_90s_asphalt_season_one_2024",
+    "en": "90's Asphalt Charity"
+  },
+  {
+    "id": "8084",
+    "k": "lng_competition_championship_name_forum_8_invitational_event_eng_very_high_season_one",
+    "en": "Forum8 Invitational"
+  },
+  {
+    "id": "8085",
+    "k": "lng_competition_championship_name_hospitality_event_two_season_one",
+    "en": "Toyota Hospitality"
+  },
+  {
+    "id": "8086",
+    "k": "lng_competition_championship_name_invitational_event_eng_high_season_one",
+    "en": "Impex Invitational"
+  },
+  {
+    "id": "8087",
+    "k": "lng_competition_championship_name_invitational_event_engineers_medium_2024",
+    "en": "Atlantic Invitational"
+  },
+  {
+    "id": "8088",
+    "k": "lng_competition_championship_name_invitational_event_repairs_medium_season_one",
+    "en": "Kassandre Invitational"
+  },
+  {
+    "id": "8089",
+    "k": "lng_competition_championship_name_invitational_event_teammate_high_season_one",
+    "en": "Tata Comms Invitational"
+  },
+  {
+    "id": "8090",
+    "k": "lng_competition_championship_name_invitational_event_vehicles_low_2024",
+    "en": "Qu'est Invitational"
+  },
+  {
+    "id": "8091",
+    "k": "lng_competition_championship_name_invitational_event_vehicles_medium_season_one",
+    "en": "Highland Invitational"
+  },
+  {
+    "id": "8092",
+    "k": "lng_competition_championship_name_invitational_event_vehicles_very_high_2024",
+    "en": "Clean Fuels For All Invitational"
+  },
+  {
+    "id": "8093",
+    "k": "lng_competition_championship_name_james_vs_invitational_event_teammate_medium_season_one",
+    "en": "James V.S. Invitational"
+  },
+  {
+    "id": "8094",
+    "k": "lng_competition_championship_name_jwrc_parts_trial_clutch_event_one_season_one",
+    "en": "Distort Clutch Trial"
+  },
+  {
+    "id": "8095",
+    "k": "lng_competition_championship_name_jwrc_parts_trial_exhaust_event_one_season_one",
+    "en": "Lupo Industries Exhaust Trial"
+  },
+  {
+    "id": "8096",
+    "k": "lng_competition_championship_name_jwrc_parts_trial_radiator_event_one_season_one",
+    "en": "Zanzare Radiator Trial"
+  },
+  {
+    "id": "8097",
+    "k": "lng_competition_championship_name_lancia_hospitality_event_one_season_one",
+    "en": "Lancia Hospitality"
+  },
+  {
+    "id": "8098",
+    "k": "lng_competition_championship_name_major_championship_4wd_global_asphalt_series_season_five",
+    "en": "4WD Global Asphalt Series"
+  },
+  {
+    "id": "8099",
+    "k": "lng_competition_championship_name_major_championship_fwd_classics_global_tour_season_one_2024",
+    "en": "FWD Classics Global Tour"
+  },
+  {
+    "id": "8100",
+    "k": "lng_competition_championship_name_major_championship_fwd_extreme_trophy_season_one_cer",
+    "en": "FWD Extreme Trophy"
+  },
+  {
+    "id": "8101",
+    "k": "lng_competition_championship_name_major_championship_fwd_masters_trophy_season_one_2024",
+    "en": "FWD Masters Trophy"
+  },
+  {
+    "id": "8102",
+    "k": "lng_competition_championship_name_major_championship_global_asphalt_super_series_season_one_2024",
+    "en": "Global Asphalt Super Series"
+  },
+  {
+    "id": "8103",
+    "k": "lng_competition_championship_name_major_championship_group_b_legends_championship_season_one",
+    "en": "Group B Legends Championship"
+  },
+  {
+    "id": "8104",
+    "k": "lng_competition_championship_name_major_championship_group_b_reg_rally_cup_season_one",
+    "en": "Group B Regularity Rally Cup"
+  },
+  {
+    "id": "8105",
+    "k": "lng_competition_championship_name_major_championship_historic_fwd_global_tour_season_one",
+    "en": "Historic FWD Global Tour"
+  },
+  {
+    "id": "8106",
+    "k": "lng_competition_championship_name_major_championship_historic_rwd_european_tour_season_one_cer",
+    "en": "Historic RWD European Tour"
+  },
+  {
+    "id": "8107",
+    "k": "lng_competition_championship_name_major_championship_modern_classics_global_tour_season_one_2024",
+    "en": "Modern Classics Global Tour"
+  },
+  {
+    "id": "8108",
+    "k": "lng_competition_championship_name_major_championship_modern_classics_summer_tour_season_one",
+    "en": "Modern Classics Summer Tour"
+  },
+  {
+    "id": "8109",
+    "k": "lng_competition_championship_name_major_championship_rally_icons_global_series_season_one_2024",
+    "en": "Rally Icons Global Series"
+  },
+  {
+    "id": "8110",
+    "k": "lng_competition_championship_name_major_championship_reg_fwd_rally_trophy_season_one",
+    "en": "FWD Regularity Rally Trophy "
+  },
+  {
+    "id": "8111",
+    "k": "lng_competition_championship_name_major_championship_regularity_icons_tour_season_one_2024",
+    "en": "Regularity Icons Tour"
+  },
+  {
+    "id": "8112",
+    "k": "lng_competition_championship_name_major_championship_regularity_rally_trophy_season_one_2024",
+    "en": "Regularity Rally Trophy"
+  },
+  {
+    "id": "8113",
+    "k": "lng_competition_championship_name_major_championship_rwd_international_showdown_season_one_2024",
+    "en": "RWD International Showdown"
+  },
+  {
+    "id": "8114",
+    "k": "lng_competition_championship_name_major_championship_rwd_reg_rally_championship_season_one",
+    "en": "RWD Regularity Rally Championship"
+  },
+  {
+    "id": "8115",
+    "k": "lng_competition_championship_name_manufacturer_hospitality_event_audi_season_one_2024",
+    "en": "Audi Hospitality"
+  },
+  {
+    "id": "8116",
+    "k": "lng_competition_championship_name_manufacturer_hospitality_event_mitsubishi_season_one_2024",
+    "en": "Mitsubishi Hospitality"
+  },
+  {
+    "id": "8117",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_jwrc_achevee_vhq_engine_1000",
+    "en": "Achevee 1000cc Turbo Engine Trial\t"
+  },
+  {
+    "id": "8118",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_jwrc_avax_vhq_gearbox",
+    "en": "Avax Gearbox Trial\t"
+  },
+  {
+    "id": "8119",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_jwrc_euturpe_vhq_differential",
+    "en": "Euturpe Differential Trial\t"
+  },
+  {
+    "id": "8120",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_jwrc_shark_vhq_clutch",
+    "en": "Shark Clutch Trial\t<cf>"
+  },
+  {
+    "id": "8121",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_jwrc_tri_star_vhq_engine_1500",
+    "en": "Tri-Star 1500cc Turbo Engine Trial\t"
+  },
+  {
+    "id": "8122",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_jwrc_tri_star_vhq_radiator",
+    "en": "Tri-Star Radiator Trial\t<cf>"
+  },
+  {
+    "id": "8123",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_wrc1_avax_vhq_gearbox",
+    "en": "Avax Advanced Gearbox Trial\t"
+  },
+  {
+    "id": "8124",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_wrc1_lupo_industries_vhq_exhaust",
+    "en": "Lupo Industries Advanced Exhaust Trial\t"
+  },
+  {
+    "id": "8125",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_wrc2_achievee_vhq_engine_1600",
+    "en": "Achevée 1600cc Engine Trial"
+  },
+  {
+    "id": "8126",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_wrc2_jpb_vqh_suspension",
+    "en": "JPB Improved Suspension Trial\t"
+  },
+  {
+    "id": "8127",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_wrc2_lupo_industries_vhq_exhaust",
+    "en": "Lupo Industries Improved Exhaust Trial\t"
+  },
+  {
+    "id": "8128",
+    "k": "lng_competition_championship_name_manufacturer_parts_trial_wrc2_painite_vhq_brakes",
+    "en": "Painite Improved Brakes Trial\t"
+  },
+  {
+    "id": "8129",
+    "k": "lng_competition_championship_name_p1_fuels_invitational_event_vehicles_high_season_one",
+    "en": "P1 Fuels Invitational"
+  },
+  {
+    "id": "8130",
+    "k": "lng_competition_championship_name_pacifico_invitational_event_eng_low_season_one",
+    "en": "Pacifico Invitational"
+  },
+  {
+    "id": "8131",
+    "k": "lng_competition_championship_name_parts_trial_jwrc_1_engine_event_one_season_one",
+    "en": "Achevée 1000cc Turbo Engine Trial"
+  },
+  {
+    "id": "8132",
+    "k": "lng_competition_championship_name_parts_trial_jwrc_4_engine_event_one_season_one",
+    "en": "RGB 2000cc Engine Trial"
+  },
+  {
+    "id": "8133",
+    "k": "lng_competition_championship_name_parts_trial_jwrc_brakes_event_one_season_one",
+    "en": "Painite Brakes Trial"
+  },
+  {
+    "id": "8134",
+    "k": "lng_competition_championship_name_parts_trial_jwrc_exhaust_event_one_season_one",
+    "en": "Lupo Ind Exhaust Trial"
+  },
+  {
+    "id": "8135",
+    "k": "lng_competition_championship_name_parts_trial_jwrc_gearbox_event_one_season_one",
+    "en": "Avax Gearbox Trial"
+  },
+  {
+    "id": "8136",
+    "k": "lng_competition_championship_name_parts_trial_jwrc_radiator_event_one_season_one",
+    "en": "Tri-Star Radiator Trial"
+  },
+  {
+    "id": "8137",
+    "k": "lng_competition_championship_name_parts_trial_wrc2_differential_event_one_season_one",
+    "en": "Avolo Improved Differential Trial"
+  },
+  {
+    "id": "8138",
+    "k": "lng_competition_championship_name_parts_trial_wrc2_engine_event_one_season_one",
+    "en": "Achevée 1600cc Turbo Engine Trial"
+  },
+  {
+    "id": "8139",
+    "k": "lng_competition_championship_name_parts_trial_wrc2_radiator_event_one_season_one",
+    "en": "Tri-Star Improved Radiator Trial"
+  },
+  {
+    "id": "8140",
+    "k": "lng_competition_championship_name_parts_trial_wrc2_suspension_event_one_season_one",
+    "en": "JPB Improved Suspension Trial"
+  },
+  {
+    "id": "8141",
+    "k": "lng_competition_championship_name_parts_trial_wrc_brakes_event_one_season_one",
+    "en": "Painite Advanced Brakes Trial"
+  },
+  {
+    "id": "8142",
+    "k": "lng_competition_championship_name_parts_trial_wrc_clutch_event_one_season_one",
+    "en": "Shark Advanced Clutch Trial"
+  },
+  {
+    "id": "8143",
+    "k": "lng_competition_championship_name_parts_trial_wrc_suspension_event_one_season_one",
+    "en": "JPB Advanced Suspension Trial"
+  },
+  {
+    "id": "8144",
+    "k": "lng_competition_championship_name_seren_invitational_event_repairs_low_season_one",
+    "en": "Seren Invitational"
+  },
+  {
+    "id": "8145",
+    "k": "lng_competition_championship_name_vw_hospitality_event_one_season_one",
+    "en": "VW Hospitality"
+  },
+  {
+    "id": "8146",
+    "k": "lng_competition_championship_name_winter_racing_charity_event_two_season_one",
+    "en": "Winter Racing Charity"
+  },
+  {
+    "id": "8147",
+    "k": "lng_competition_championship_name_wrc1_parts_trial_clutch_event_one_season_one",
+    "en": "Distort Advanced Clutch Trial"
+  },
+  {
+    "id": "8148",
+    "k": "lng_competition_championship_name_wrc1_parts_trial_differential_event_one_season_one",
+    "en": "Duotone Advanced Differential Trial"
+  },
+  {
+    "id": "8149",
+    "k": "lng_competition_championship_name_wrc1_parts_trial_radiator_event_one_season_one",
+    "en": "Zanzare Advanced Radiator Trial"
+  },
+  {
+    "id": "8150",
+    "k": "lng_competition_championship_name_wrc2_parts_trial_brakes_event_one_season_one",
+    "en": "Painite Improved Brakes Trial"
+  },
+  {
+    "id": "8151",
+    "k": "lng_competition_championship_name_wrc2_parts_trial_clutch_event_one_season_one",
+    "en": "Distort Improved Clutch Trial"
+  },
+  {
+    "id": "8152",
+    "k": "lng_competition_championship_name_wrc2_parts_trial_exhaust_event_one_season_one",
+    "en": "Lupo Industries Improved Exhaust Trial"
+  },
+  {
+    "id": "8153",
+    "k": "lng_competition_championship_name_wrc2_parts_trial_radiator_event_one_season_one",
+    "en": "Zanzare Improved Radiator Trial"
+  },
+  {
+    "id": "8154",
+    "k": "lng_competition_championship_name_wsa_invitational_event_repairs_high_season_one",
+    "en": "We Send Anything Invitational"
+  },
+  {
+    "id": "8155",
+    "k": "lng_competition_event_name_aquaplane_charity_event_three_season_one",
+    "en": "Aquaplane Charity"
+  },
+  {
+    "id": "8156",
+    "k": "lng_competition_event_name_charity_event_wilderness_run_season_one_2024_rd1",
+    "en": "Wilderness Run Charity"
+  },
+  {
+    "id": "8157",
+    "k": "lng_competition_event_name_forum_8_invitational_event_eng_very_high_season_one",
+    "en": "FORUM8 Invitational"
+  },
+  {
+    "id": "8158",
+    "k": "lng_competition_event_name_invitational_event_repairs_very_high_2024",
+    "en": "TW Steel Invitational"
+  },
+  {
+    "id": "8159",
+    "k": "lng_competition_event_name_invitational_event_teammate_high_2024",
+    "en": "Tata Communications Invitational"
+  },
+  {
+    "id": "8160",
+    "k": "lng_competition_event_name_invitational_event_teammate_low_2024",
+    "en": "Shark Invitational"
+  },
+  {
+    "id": "8161",
+    "k": "lng_competition_event_name_invitational_event_teammate_very_high_2024_rd_4",
+    "en": "Asahi Kasei Invitational"
+  },
+  {
+    "id": "8162",
+    "k": "lng_competition_event_name_major_championship_4wd_global_asphalt_series_season_five_event_five",
+    "en": "4WD Global Asphalt Series Round 5"
+  },
+  {
+    "id": "8163",
+    "k": "lng_competition_event_name_major_championship_4wd_global_asphalt_series_season_four_event_one",
+    "en": "4WD Global Asphalt Series Round 1"
+  },
+  {
+    "id": "8164",
+    "k": "lng_competition_event_name_major_championship_4wd_global_asphalt_series_season_four_event_two",
+    "en": "4WD Global Asphalt Series Round 2"
+  },
+  {
+    "id": "8165",
+    "k": "lng_competition_event_name_major_championship_4wd_global_asphalt_series_season_one_event_four",
+    "en": "4WD Global Asphalt Series Round 4"
+  },
+  {
+    "id": "8166",
+    "k": "lng_competition_event_name_major_championship_4wd_global_asphalt_series_season_one_event_six",
+    "en": "4WD Global Asphalt Series Round 6"
+  },
+  {
+    "id": "8167",
+    "k": "lng_competition_event_name_major_championship_4wd_global_asphalt_series_season_one_event_three",
+    "en": "4WD Global Asphalt Series Round 3"
+  },
+  {
+    "id": "8168",
+    "k": "lng_competition_event_name_major_championship_fwd_classics_global_tour_season_one_2024_rd_1",
+    "en": "FWD Classics Global Tour Round 1"
+  },
+  {
+    "id": "8169",
+    "k": "lng_competition_event_name_major_championship_fwd_classics_global_tour_season_one_2024_rd_2",
+    "en": "FWD Classics Global Tour Round 2"
+  },
+  {
+    "id": "8170",
+    "k": "lng_competition_event_name_major_championship_fwd_classics_global_tour_season_one_2024_rd_3",
+    "en": "FWD Classics Global Tour Round 3"
+  },
+  {
+    "id": "8171",
+    "k": "lng_competition_event_name_major_championship_fwd_classics_global_tour_season_one_2024_rd_4",
+    "en": "FWD Classics Global Tour Round 4"
+  },
+  {
+    "id": "8172",
+    "k": "lng_competition_event_name_major_championship_fwd_classics_global_tour_season_one_2024_rd_5",
+    "en": "FWD Classics Global Tour Round 5"
+  },
+  {
+    "id": "8173",
+    "k": "lng_competition_event_name_major_championship_fwd_extreme_trophy_season_one_event_five",
+    "en": "FWD Extreme Trophy Round 5"
+  },
+  {
+    "id": "8174",
+    "k": "lng_competition_event_name_major_championship_fwd_extreme_trophy_season_one_event_four",
+    "en": "FWD Extreme Trophy Round 4"
+  },
+  {
+    "id": "8175",
+    "k": "lng_competition_event_name_major_championship_fwd_extreme_trophy_season_one_event_one",
+    "en": "FWD Extreme Trophy Round 1"
+  },
+  {
+    "id": "8176",
+    "k": "lng_competition_event_name_major_championship_fwd_extreme_trophy_season_one_event_three",
+    "en": "FWD Extreme Trophy Round 3"
+  },
+  {
+    "id": "8177",
+    "k": "lng_competition_event_name_major_championship_fwd_extreme_trophy_season_one_event_two",
+    "en": "FWD Extreme Trophy Round 2"
+  },
+  {
+    "id": "8178",
+    "k": "lng_competition_event_name_major_championship_fwd_masters_trophy_season_one_2024_rd_1",
+    "en": "FWD Masters Trophy Round 1"
+  },
+  {
+    "id": "8179",
+    "k": "lng_competition_event_name_major_championship_fwd_masters_trophy_season_one_2024_rd_2",
+    "en": "FWD Masters Trophy Round 2"
+  },
+  {
+    "id": "8180",
+    "k": "lng_competition_event_name_major_championship_fwd_masters_trophy_season_one_2024_rd_3",
+    "en": "FWD Masters Trophy Round 3"
+  },
+  {
+    "id": "8181",
+    "k": "lng_competition_event_name_major_championship_fwd_masters_trophy_season_one_2024_rd_4",
+    "en": "FWD Masters Trophy Round 4"
+  },
+  {
+    "id": "8182",
+    "k": "lng_competition_event_name_major_championship_fwd_masters_trophy_season_one_2024_rd_5",
+    "en": "FWD Masters Trophy Round 5"
+  },
+  {
+    "id": "8183",
+    "k": "lng_competition_event_name_major_championship_global_asphalt_super_series_season_one_2024_rd_1",
+    "en": "Global Asphalt Super Series Round 1 "
+  },
+  {
+    "id": "8184",
+    "k": "lng_competition_event_name_major_championship_global_asphalt_super_series_season_one_2024_rd_2",
+    "en": "Global Asphalt Super Series Round 2"
+  },
+  {
+    "id": "8185",
+    "k": "lng_competition_event_name_major_championship_global_asphalt_super_series_season_one_2024_rd_3",
+    "en": "Global Asphalt Super Series Round 3"
+  },
+  {
+    "id": "8186",
+    "k": "lng_competition_event_name_major_championship_global_asphalt_super_series_season_one_2024_rd_4",
+    "en": "Global Asphalt Super Series Round 4"
+  },
+  {
+    "id": "8187",
+    "k": "lng_competition_event_name_major_championship_global_asphalt_super_series_season_one_2024_rd_5",
+    "en": "Global Asphalt Super Series Round 5"
+  },
+  {
+    "id": "8188",
+    "k": "lng_competition_event_name_major_championship_global_asphalt_super_series_season_one_2024_rd_6",
+    "en": "Global Asphalt Super Series Round 6"
+  },
+  {
+    "id": "8189",
+    "k": "lng_competition_event_name_major_championship_group_b_legends_championship_season_one_event_five",
+    "en": "Group B Legends Championship Round 5"
+  },
+  {
+    "id": "8190",
+    "k": "lng_competition_event_name_major_championship_group_b_legends_championship_season_one_event_four",
+    "en": "Group B Legends Championship Round 4"
+  },
+  {
+    "id": "8191",
+    "k": "lng_competition_event_name_major_championship_group_b_legends_championship_season_one_event_one",
+    "en": "Group B Legends Championship Round 1"
+  },
+  {
+    "id": "8192",
+    "k": "lng_competition_event_name_major_championship_group_b_legends_championship_season_one_event_three",
+    "en": "Group B Legends Championship Round 3"
+  },
+  {
+    "id": "8193",
+    "k": "lng_competition_event_name_major_championship_group_b_legends_championship_season_one_event_two",
+    "en": "Group B Legends Championship Round 2"
+  },
+  {
+    "id": "8194",
+    "k": "lng_competition_event_name_major_championship_group_b_reg_rally_cup_season_one_event_five",
+    "en": "Group B Regularity Rally Cup Round 5"
+  },
+  {
+    "id": "8195",
+    "k": "lng_competition_event_name_major_championship_group_b_reg_rally_cup_season_one_event_four",
+    "en": "Group B Regularity Rally Cup Round 4"
+  },
+  {
+    "id": "8196",
+    "k": "lng_competition_event_name_major_championship_group_b_reg_rally_cup_season_one_event_one",
+    "en": "Group B Regularity Rally Cup Round 1"
+  },
+  {
+    "id": "8197",
+    "k": "lng_competition_event_name_major_championship_group_b_reg_rally_cup_season_one_event_three",
+    "en": "Group B Regularity Rally Cup Round 3"
+  },
+  {
+    "id": "8198",
+    "k": "lng_competition_event_name_major_championship_group_b_reg_rally_cup_season_one_event_two",
+    "en": "Group B Regularity Rally Cup Round 2"
+  },
+  {
+    "id": "8199",
+    "k": "lng_competition_event_name_major_championship_historic_fwd_global_tour_season_one_cer_event_one",
+    "en": "Historic FWD Global Tour Round 1"
+  },
+  {
+    "id": "8200",
+    "k": "lng_competition_event_name_major_championship_historic_fwd_global_tour_season_one_event_four",
+    "en": "Historic FWD Global Tour Round 4"
+  },
+  {
+    "id": "8201",
+    "k": "lng_competition_event_name_major_championship_historic_fwd_global_tour_season_one_event_three",
+    "en": "Historic FWD Global Tour Round 3"
+  },
+  {
+    "id": "8202",
+    "k": "lng_competition_event_name_major_championship_historic_fwd_global_tour_season_one_event_two",
+    "en": "Historic FWD Global Tour Round 2"
+  },
+  {
+    "id": "8203",
+    "k": "lng_competition_event_name_major_championship_historic_rwd_european_tour_season_one_2024_rd_1",
+    "en": "Historic RWD European Tour Round 1"
+  },
+  {
+    "id": "8204",
+    "k": "lng_competition_event_name_major_championship_historic_rwd_european_tour_season_one_2024_rd_3",
+    "en": "Historic RWD European Tour Round 3"
+  },
+  {
+    "id": "8205",
+    "k": "lng_competition_event_name_major_championship_historic_rwd_european_tour_season_one_event_five",
+    "en": "Historic RWD European Tour Round 5"
+  },
+  {
+    "id": "8206",
+    "k": "lng_competition_event_name_major_championship_historic_rwd_european_tour_season_one_event_four",
+    "en": "Historic RWD European Tour Round 4"
+  },
+  {
+    "id": "8207",
+    "k": "lng_competition_event_name_major_championship_historic_rwd_european_tour_season_one_event_two",
+    "en": "Historic RWD European Tour Round 2"
+  },
+  {
+    "id": "8208",
+    "k": "lng_competition_event_name_major_championship_modern_classics_global_tour_season_one_2024_rd_1",
+    "en": "Modern Classics Global Tour Round 1"
+  },
+  {
+    "id": "8209",
+    "k": "lng_competition_event_name_major_championship_modern_classics_global_tour_season_one_2024_rd_2",
+    "en": "Modern Classics Global Tour Round 2"
+  },
+  {
+    "id": "8210",
+    "k": "lng_competition_event_name_major_championship_modern_classics_global_tour_season_one_2024_rd_3",
+    "en": "Modern Classics Global Tour Round 3"
+  },
+  {
+    "id": "8211",
+    "k": "lng_competition_event_name_major_championship_modern_classics_global_tour_season_one_2024_rd_4",
+    "en": "Modern Classics Global Tour Round 4"
+  },
+  {
+    "id": "8212",
+    "k": "lng_competition_event_name_major_championship_modern_classics_global_tour_season_one_2024_rd_5",
+    "en": "Modern Classics Global Tour Round 5"
+  },
+  {
+    "id": "8213",
+    "k": "lng_competition_event_name_major_championship_modern_classics_global_tour_season_one_2024_rd_6",
+    "en": "Modern Classics Global Tour Round 6"
+  },
+  {
+    "id": "8214",
+    "k": "lng_competition_event_name_major_championship_modern_classics_summer_tour_season_one_event_five",
+    "en": "Modern Classics Summer Tour Round 5"
+  },
+  {
+    "id": "8215",
+    "k": "lng_competition_event_name_major_championship_modern_classics_summer_tour_season_one_event_four",
+    "en": "Modern Classics Summer Tour Round 4"
+  },
+  {
+    "id": "8216",
+    "k": "lng_competition_event_name_major_championship_modern_classics_summer_tour_season_one_event_one",
+    "en": "Modern Classics Summer Tour Round 1"
+  },
+  {
+    "id": "8217",
+    "k": "lng_competition_event_name_major_championship_modern_classics_summer_tour_season_one_event_six",
+    "en": "Modern Classics Summer Tour Round 6"
+  },
+  {
+    "id": "8218",
+    "k": "lng_competition_event_name_major_championship_modern_classics_summer_tour_season_one_event_six",
+    "en": "Modern Classics Summer Tour Round 6 "
+  },
+  {
+    "id": "8219",
+    "k": "lng_competition_event_name_major_championship_modern_classics_summer_tour_season_one_event_three",
+    "en": "Modern Classics Summer Tour Round 3"
+  },
+  {
+    "id": "8220",
+    "k": "lng_competition_event_name_major_championship_modern_classics_summer_tour_season_one_event_two",
+    "en": "Modern Classics Summer Tour Round 2"
+  },
+  {
+    "id": "8221",
+    "k": "lng_competition_event_name_major_championship_rally_icons_global_series_season_one_2024_rd_1",
+    "en": "Rally Icons Global Series Round 1"
+  },
+  {
+    "id": "8222",
+    "k": "lng_competition_event_name_major_championship_rally_icons_global_series_season_one_2024_rd_2",
+    "en": "Rally Icons Global Series Round 2"
+  },
+  {
+    "id": "8223",
+    "k": "lng_competition_event_name_major_championship_rally_icons_global_series_season_one_2024_rd_3",
+    "en": "Rally Icons Global Series Round 3"
+  },
+  {
+    "id": "8224",
+    "k": "lng_competition_event_name_major_championship_rally_icons_global_series_season_one_2024_rd_4",
+    "en": "Rally Icons Global Series Round 4"
+  },
+  {
+    "id": "8225",
+    "k": "lng_competition_event_name_major_championship_rally_icons_global_series_season_one_2024_rd_5",
+    "en": "Rally Icons Global Series Round 5"
+  },
+  {
+    "id": "8226",
+    "k": "lng_competition_event_name_major_championship_reg_fwd_rally_trophy_season_one_event_five",
+    "en": "Regularity FWD Rally Trophy Round 5"
+  },
+  {
+    "id": "8227",
+    "k": "lng_competition_event_name_major_championship_reg_fwd_rally_trophy_season_one_event_four",
+    "en": "Regularity FWD Rally Trophy Round 4"
+  },
+  {
+    "id": "8228",
+    "k": "lng_competition_event_name_major_championship_reg_fwd_rally_trophy_season_one_event_one",
+    "en": "Regularity FWD Rally Trophy Round 1"
+  },
+  {
+    "id": "8229",
+    "k": "lng_competition_event_name_major_championship_reg_fwd_rally_trophy_season_one_event_three",
+    "en": "Regularity FWD Rally Trophy Round 3"
+  },
+  {
+    "id": "8230",
+    "k": "lng_competition_event_name_major_championship_reg_fwd_rally_trophy_season_one_event_two",
+    "en": "Regularity FWD Rally Trophy Round 2"
+  },
+  {
+    "id": "8231",
+    "k": "lng_competition_event_name_major_championship_regularity_icons_tour_season_one_2024_rd_1",
+    "en": "Regularity Icons Tour Round 1"
+  },
+  {
+    "id": "8232",
+    "k": "lng_competition_event_name_major_championship_regularity_icons_tour_season_one_2024_rd_2",
+    "en": "Regularity Icons Tour Round 2"
+  },
+  {
+    "id": "8233",
+    "k": "lng_competition_event_name_major_championship_regularity_icons_tour_season_one_2024_rd_3",
+    "en": "Regularity Icons Tour Round 3"
+  },
+  {
+    "id": "8234",
+    "k": "lng_competition_event_name_major_championship_regularity_icons_tour_season_one_2024_rd_4",
+    "en": "Regularity Icons Tour Round 4"
+  },
+  {
+    "id": "8235",
+    "k": "lng_competition_event_name_major_championship_regularity_icons_tour_season_one_2024_rd_5",
+    "en": "Regularity Icons Tour Round 5"
+  },
+  {
+    "id": "8236",
+    "k": "lng_competition_event_name_major_championship_regularity_rally_trophy_season_one_2024_rd_1",
+    "en": "Regularity Rally Trophy Round 1"
+  },
+  {
+    "id": "8237",
+    "k": "lng_competition_event_name_major_championship_regularity_rally_trophy_season_one_2024_rd_2",
+    "en": "Regularity Rally Trophy Round 2"
+  },
+  {
+    "id": "8238",
+    "k": "lng_competition_event_name_major_championship_regularity_rally_trophy_season_one_2024_rd_3",
+    "en": "Regularity Rally Trophy Round 3"
+  },
+  {
+    "id": "8239",
+    "k": "lng_competition_event_name_major_championship_regularity_rally_trophy_season_one_2024_rd_4",
+    "en": "Regularity Rally Trophy Round 4"
+  },
+  {
+    "id": "8240",
+    "k": "lng_competition_event_name_major_championship_regularity_rally_trophy_season_one_2024_rd_5",
+    "en": "Regularity Rally Trophy Round 5"
+  },
+  {
+    "id": "8241",
+    "k": "lng_competition_event_name_major_championship_rwd_international_showdown_season_one_2024_rd_1",
+    "en": "RWD International Showdown Round 1"
+  },
+  {
+    "id": "8242",
+    "k": "lng_competition_event_name_major_championship_rwd_international_showdown_season_one_2024_rd_2",
+    "en": "RWD International Showdown Round 2"
+  },
+  {
+    "id": "8243",
+    "k": "lng_competition_event_name_major_championship_rwd_international_showdown_season_one_2024_rd_3",
+    "en": "RWD International Showdown Round 3"
+  },
+  {
+    "id": "8244",
+    "k": "lng_competition_event_name_major_championship_rwd_international_showdown_season_one_2024_rd_4",
+    "en": "RWD International Showdown Round 4"
+  },
+  {
+    "id": "8245",
+    "k": "lng_competition_event_name_major_championship_rwd_international_showdown_season_one_2024_rd_5",
+    "en": "RWD International Showdown Round 5"
+  },
+  {
+    "id": "8246",
+    "k": "lng_competition_event_name_major_championship_rwd_reg_rally_championship_season_one_event_five",
+    "en": "RWD Regularity Championship Round 5"
+  },
+  {
+    "id": "8247",
+    "k": "lng_competition_event_name_major_championship_rwd_reg_rally_championship_season_one_event_four",
+    "en": "RWD Regularity Championship Round 4"
+  },
+  {
+    "id": "8248",
+    "k": "lng_competition_event_name_major_championship_rwd_reg_rally_championship_season_one_event_one",
+    "en": "RWD Regularity Championship Round 1"
+  },
+  {
+    "id": "8249",
+    "k": "lng_competition_event_name_major_championship_rwd_reg_rally_championship_season_one_event_three",
+    "en": "RWD Regularity Championship Round 3"
+  },
+  {
+    "id": "8250",
+    "k": "lng_competition_event_name_major_championship_rwd_reg_rally_championship_season_one_event_two",
+    "en": "RWD Regularity Championship Round 2"
+  },
+  {
+    "id": "8251",
+    "k": "lng_competition_event_name_manufacturer_hospitality_event_ford_season_one_2024_rd1",
+    "en": "Ford Hospitality"
+  },
+  {
+    "id": "8252",
+    "k": "lng_competition_event_name_manufacturer_hospitality_event_mini_season_one_2024_rd1",
+    "en": "MINI Hospitality"
+  },
+  {
+    "id": "8253",
+    "k": "lng_competition_event_name_manufacturer_hospitality_event_peugeot_season_one_2024_rd1",
+    "en": "Peugeot Hospitality"
+  },
+  {
+    "id": "8254",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_jwrc_echo_vhq_engine_1600_rd1",
+    "en": "Echo 1600cc Engine Trial\t"
+  },
+  {
+    "id": "8255",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_jwrc_jpb_vhq_suspension_rd1",
+    "en": "JPB Suspension Trial\t"
+  },
+  {
+    "id": "8256",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_jwrc_lupo_industries_vhq_exhaust_rd1",
+    "en": "Lupo Ind Exhaust Trial\t"
+  },
+  {
+    "id": "8257",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_jwrc_painite_vhq_brakes_rd1",
+    "en": "Painite Brakes Trial\t"
+  },
+  {
+    "id": "8258",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_jwrc_rgb_vhq_engine_2000_rd1",
+    "en": "RGB 2000cc Engine Trial\t"
+  },
+  {
+    "id": "8259",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc1_asiatic_dynamics_hq_engine_1600_rd1",
+    "en": "Asiatic Dynamic 1600cc Turbo Engine Trial\t"
+  },
+  {
+    "id": "8260",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc1_duotone_vhq_differential_rd1",
+    "en": "Duotone Advanced Differential Trial\t"
+  },
+  {
+    "id": "8261",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc1_jpb_vhq_suspension_rd1",
+    "en": "JPB Advanced Suspension Trial\t"
+  },
+  {
+    "id": "8262",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc1_painite_vqh_brakes_rd1",
+    "en": "Painite Advanced Brakes Trial\t"
+  },
+  {
+    "id": "8263",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc1_shark_vhq_clutch_rd1",
+    "en": "Shark Advanced Clutch Trial\t"
+  },
+  {
+    "id": "8264",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc1_tri_star_vhq_radiator_rd1",
+    "en": "Tri-Star Advanced Radiator Trial\t"
+  },
+  {
+    "id": "8265",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc2_achievee_vhq_engine_1600_rd1",
+    "en": "Achevee 1600cc Turbo Engine Trial\t"
+  },
+  {
+    "id": "8266",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc2_avax_vhq_gearbox_rd1",
+    "en": "Avax Improved Gearbox Trial\t"
+  },
+  {
+    "id": "8267",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc2_avolo_vhq_differential_rd1",
+    "en": "Avolo Improved Differential Trial\t"
+  },
+  {
+    "id": "8268",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc2_shark_vhq_clutch_rd1",
+    "en": "Shark Improved Clutch Trial\t"
+  },
+  {
+    "id": "8269",
+    "k": "lng_competition_event_name_manufacturer_parts_trial_wrc2_tri_star_vhq_radiator_rd1",
+    "en": "Tri-Star Improved Radiator Trial\t"
+  },
+  {
+    "id": "8270",
+    "k": "lng_competition_event_name_night_racing_charity_event_season_four",
+    "en": "Night Racing Charity"
+  },
+  {
+    "id": "8271",
+    "k": "lng_competition_event_name_parts_trial_jwrc_2_engine_event_one_season_one",
+    "en": "Tri-Star 1500cc Turbo Engine Trial"
+  },
+  {
+    "id": "8272",
+    "k": "lng_competition_event_name_parts_trial_jwrc_3_engine_event_one_season_one",
+    "en": "Echo 1600cc Engine Trial"
+  },
+  {
+    "id": "8273",
+    "k": "lng_competition_event_name_parts_trial_jwrc_clutch_event_one_season_one",
+    "en": "Shark Clutch Trial"
+  },
+  {
+    "id": "8274",
+    "k": "lng_competition_event_name_parts_trial_jwrc_differential_event_one_season_one",
+    "en": "Euterpe Differential Trial"
+  },
+  {
+    "id": "8275",
+    "k": "lng_competition_event_name_parts_trial_jwrc_suspension_event_one_season_one",
+    "en": "JPB Suspension Trial"
+  },
+  {
+    "id": "8276",
+    "k": "lng_competition_event_name_parts_trial_wrc2_clutch_event_one_season_one",
+    "en": "Shark Improved Clutch Trial"
+  },
+  {
+    "id": "8277",
+    "k": "lng_competition_event_name_parts_trial_wrc2_gearbox_event_one_season_one",
+    "en": "Avax Improved Gearbox Trial"
+  },
+  {
+    "id": "8278",
+    "k": "lng_competition_event_name_parts_trial_wrc_engine_event_one_season_one",
+    "en": "Asiatic Dynamic 1600cc Turbo Engine Trial"
+  },
+  {
+    "id": "8279",
+    "k": "lng_competition_event_name_parts_trial_wrc_exhaust_event_one_season_one",
+    "en": "Lupo Industries Advanced Exhaust Trial"
+  },
+  {
+    "id": "8280",
+    "k": "lng_competition_event_name_parts_trial_wrc_gearbox_event_one_season_one_cer",
+    "en": "Avax Advanced Gearbox Trial"
+  },
+  {
+    "id": "8281",
+    "k": "lng_competition_event_name_parts_trial_wrc_radiator_event_one_season_one",
+    "en": "Tri-Star Advanced Radiator Trial"
+  },
+  {
+    "id": "8282",
+    "k": "lng_competition_event_name_wrc_championship_event_eight_version_one",
+    "en": "WRC Rally Estonia"
+  },
+  {
+    "id": "8283",
+    "k": "lng_competition_event_name_wrc_championship_event_eleven_version_one",
+    "en": "WRC Rally Chile Bio Bío"
+  },
+  {
+    "id": "8284",
+    "k": "lng_competition_event_name_wrc_championship_event_five_version_one",
+    "en": "WRC Vodafone Rally de Portugal"
+  },
+  {
+    "id": "8285",
+    "k": "lng_competition_event_name_wrc_championship_event_four_version_one",
+    "en": "WRC Croatia Rally"
+  },
+  {
+    "id": "8286",
+    "k": "lng_competition_event_name_wrc_championship_event_nine_version_one",
+    "en": "WRC Secto Rally Finland"
+  },
+  {
+    "id": "8287",
+    "k": "lng_competition_event_name_wrc_championship_event_one_version_one",
+    "en": "WRC Rallye Monte-Carlo"
+  },
+  {
+    "id": "8288",
+    "k": "lng_competition_event_name_wrc_championship_event_seven_version_one",
+    "en": "WRC Safari Rally Kenya"
+  },
+  {
+    "id": "8289",
+    "k": "lng_competition_event_name_wrc_championship_event_six_version_one",
+    "en": "WRC Rally Italia Sardegna"
+  },
+  {
+    "id": "8290",
+    "k": "lng_competition_event_name_wrc_championship_event_ten_version_one",
+    "en": "WRC EKO Acropolis Rally Greece"
+  },
+  {
+    "id": "8291",
+    "k": "lng_competition_event_name_wrc_championship_event_three_version_one",
+    "en": "WRC Guanajuato Rally México"
+  },
+  {
+    "id": "8292",
+    "k": "lng_competition_event_name_wrc_championship_event_twelve_thirteen_version_one",
+    "en": "Central Europe Rally"
+  },
+  {
+    "id": "8293",
+    "k": "lng_competition_event_name_wrc_championship_event_twelve_version_one",
+    "en": "FORUM8 Rally Japan"
+  },
+  {
+    "id": "8294",
+    "k": "lng_competition_event_name_wrc_championship_event_twelve_version_one",
+    "en": "WRC FORUM8 Rally Japan"
+  },
+  {
+    "id": "8295",
+    "k": "lng_competition_event_name_wrc_championship_event_two_version_one",
+    "en": "WRC Rally Sweden"
+  },
+  {
+    "id": "8296",
+    "k": "lng_competition_event_name_wrc_championship_season_one_2024_chile_rd11",
+    "en": "Rally Chile Bio Bío"
+  },
+  {
+    "id": "8297",
+    "k": "lng_competition_event_name_wrc_championship_season_one_2024_croatia_rd4",
+    "en": "Croatia Rally"
+  },
+  {
+    "id": "8298",
+    "k": "lng_competition_event_name_wrc_championship_season_one_2024_finland_rd9",
+    "en": "Secto Rally Finland"
+  },
+  {
+    "id": "8299",
+    "k": "lng_competition_event_name_wrc_championship_season_one_2024_greece_rd10",
+    "en": "EKO Acropolis Rally Greece"
+  }
+]
